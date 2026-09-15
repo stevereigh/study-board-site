@@ -1599,6 +1599,188 @@
         "section": "Complete final Chapter 10 example and analysis; stop at the chapter end before Chapter 11 on PDF 129",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "flores-caro-kann-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Caro-Kann formation: plans and freeing breaks; pp. 51-52; PDF 52-53",
+      "title": "Caro-Kann formation: plans and freeing breaks",
+      "locator": {
+        "pdfPageStart": 52,
+        "pdfPageEnd": 53,
+        "printedPages": "51-52",
+        "section": "Chapter 3 formation diagram and complete plan overview; the first annotated game begins on PDF 53",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-caro-kann-akopian-shimanov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Akopian-Shimanov: attack before the freeing break; pp. 52-54; PDF 53-55",
+      "title": "Akopian-Shimanov: attack before the freeing break",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 55,
+        "printedPages": "52-54",
+        "section": "Complete first Chapter 3 game and concluding remarks; stop before Macieja-Nogueiras",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-caro-kann-macieja-nogueiras",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Macieja-Nogueiras: improve behind the space advantage; pp. 54-57; PDF 55-58",
+      "title": "Macieja-Nogueiras: improve behind the space advantage",
+      "locator": {
+        "pdfPageStart": 55,
+        "pdfPageEnd": 58,
+        "printedPages": "54-57",
+        "section": "Complete second Chapter 3 game and concluding remarks; stop before Ivanisevic-Asic",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-caro-kann-ivanisevic-asic",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Ivanisevic-Asic: c4-c5 and the d6 outpost; pp. 57-60; PDF 58-61",
+      "title": "Ivanisevic-Asic: c4-c5 and the d6 outpost",
+      "locator": {
+        "pdfPageStart": 58,
+        "pdfPageEnd": 61,
+        "printedPages": "57-60",
+        "section": "Complete third Chapter 3 game and concluding remarks; stop before Holt-Kamsky",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-caro-kann-holt-kamsky",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Holt-Kamsky: successful ...c5 and active counterplay; pp. 61-62; PDF 62-63",
+      "title": "Holt-Kamsky: successful ...c5 and active counterplay",
+      "locator": {
+        "pdfPageStart": 62,
+        "pdfPageEnd": 63,
+        "printedPages": "61-62",
+        "section": "Complete fourth Chapter 3 game and concluding remarks; stop before Schlosser-van Wely",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-caro-kann-schlosser-van-wely",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Schlosser-van Wely: pressure after ...c5; pp. 63-65; PDF 64-66",
+      "title": "Schlosser-van Wely: pressure after ...c5",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 66,
+        "printedPages": "63-65",
+        "section": "Complete fifth Chapter 3 game and concluding remarks; stop before Zvjaginsev-Evdokimov",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-caro-kann-zvjaginsev-evdokimov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Zvjaginsev-Evdokimov: answer ...b5 with a lasting target; pp. 65-68; PDF 66-69",
+      "title": "Zvjaginsev-Evdokimov: answer ...b5 with a lasting target",
+      "locator": {
+        "pdfPageStart": 66,
+        "pdfPageEnd": 69,
+        "printedPages": "65-68",
+        "section": "Complete final Chapter 3 game and concluding remarks; stop at Chapter 4 on PDF 70",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-slav-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Slav formation: retained e-pawn and multiple plans; pp. 69-70; PDF 70-71",
+      "title": "Slav formation: retained e-pawn and multiple plans",
+      "locator": {
+        "pdfPageStart": 70,
+        "pdfPageEnd": 71,
+        "printedPages": "69-70",
+        "section": "Chapter 4 formation diagram and complete plan overview; the first annotated game begins on PDF 71",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-slav-aronian-zhao",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Aronian-Zhao: the h-pawn attack; pp. 70-72; PDF 71-73",
+      "title": "Aronian-Zhao: the h-pawn attack",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 73,
+        "printedPages": "70-72",
+        "section": "Complete first Chapter 4 game and concluding remarks; stop before Morozevich-Mamedyarov",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-slav-morozevich-mamedyarov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Morozevich-Mamedyarov: the cost of passive solidity; pp. 73-75; PDF 74-76",
+      "title": "Morozevich-Mamedyarov: the cost of passive solidity",
+      "locator": {
+        "pdfPageStart": 74,
+        "pdfPageEnd": 76,
+        "printedPages": "73-75",
+        "section": "Complete second Chapter 4 game and concluding remarks; stop before Hammer-Carlsen",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-slav-hammer-carlsen",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Hammer-Carlsen: ...c5, b4, and queenside play; pp. 76-79; PDF 77-80",
+      "title": "Hammer-Carlsen: ...c5, b4, and queenside play",
+      "locator": {
+        "pdfPageStart": 77,
+        "pdfPageEnd": 80,
+        "printedPages": "76-79",
+        "section": "Complete third Chapter 4 game and concluding remarks; stop before Aronian-Navara",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-slav-aronian-navara",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Aronian-Navara: the ...e5 transformation; pp. 79-81; PDF 80-82",
+      "title": "Aronian-Navara: the ...e5 transformation",
+      "locator": {
+        "pdfPageStart": 80,
+        "pdfPageEnd": 82,
+        "printedPages": "79-81",
+        "section": "Complete fourth Chapter 4 game and concluding remarks; stop before Wang Yue-Carlsen",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-slav-wang-yue-carlsen",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Wang Yue-Carlsen: pressure on d4 and ...f5; pp. 82-84; PDF 83-85",
+      "title": "Wang Yue-Carlsen: pressure on d4 and ...f5",
+      "locator": {
+        "pdfPageStart": 83,
+        "pdfPageEnd": 85,
+        "printedPages": "82-84",
+        "section": "Complete fifth Chapter 4 game and concluding remarks; stop before the Andreikin-Kramnik fragment",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-slav-andreikin-kramnik",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Andreikin-Kramnik: e4-e5 fixes the center; pp. 85; PDF 86-86",
+      "title": "Andreikin-Kramnik: e4-e5 fixes the center",
+      "locator": {
+        "pdfPageStart": 86,
+        "pdfPageEnd": 86,
+        "printedPages": "85",
+        "section": "Complete final Chapter 4 fragment and comparison; stop before Chapter 5 on PDF 87",
+        "ebookLocation": null
+      }
     }
   ]
 }

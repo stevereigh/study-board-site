@@ -978,6 +978,66 @@
         "isolated-pawns--flores-isolani-primer",
         "isolated-pawns--shereshevsky-iqp-averbakh-keres"
       ]
+    },
+    {
+      "id": "study-pawn-breaks-caro-formation-card",
+      "crossrefIds": [
+        "pawn-breaks--flores-caro-kann-overview"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-caro-attack-or-break",
+      "crossrefIds": [
+        "pawn-breaks--flores-caro-kann-akopian-shimanov",
+        "pawn-breaks--flores-caro-kann-holt-kamsky"
+      ]
+    },
+    {
+      "id": "study-outposts-caro-d6",
+      "crossrefIds": [
+        "outposts--flores-caro-kann-ivanisevic-asic"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-caro-queenside-breaks",
+      "crossrefIds": [
+        "pawn-breaks--flores-caro-kann-schlosser-van-wely",
+        "pawn-breaks--flores-caro-kann-zvjaginsev-evdokimov"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-slav-formation-card",
+      "crossrefIds": [
+        "pawn-breaks--flores-slav-overview"
+      ]
+    },
+    {
+      "id": "study-counterplay-slav-wing-versus-center",
+      "crossrefIds": [
+        "counterplay--flores-slav-aronian-zhao",
+        "counterplay--flores-slav-morozevich-mamedyarov"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-slav-two-freeing-breaks",
+      "crossrefIds": [
+        "pawn-breaks--flores-slav-hammer-carlsen",
+        "pawn-breaks--flores-slav-aronian-navara"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-slav-center-comparison",
+      "crossrefIds": [
+        "pawn-breaks--flores-slav-wang-yue-carlsen",
+        "pawn-breaks--flores-slav-andreikin-kramnik"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-caro-slav-compare",
+      "crossrefIds": [
+        "pawn-breaks--flores-caro-kann-overview",
+        "pawn-breaks--flores-slav-overview"
+      ]
     }
   ]
 }

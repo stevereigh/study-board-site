@@ -2959,6 +2959,369 @@
         "section": "Complete final Chapter 10 example and analysis; stop at the chapter end before Chapter 11 on PDF 129",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "pawn-breaks--flores-caro-kann-overview",
+      "chapterId": "flores-caro-kann-overview",
+      "locator": {
+        "pdfPageStart": 52,
+        "pdfPageEnd": 53,
+        "printedPages": "51-52",
+        "section": "Chapter 3 formation diagram and complete plan overview; the first annotated game begins on PDF 53",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-caro-kann-overview",
+      "chapterId": "flores-caro-kann-overview",
+      "locator": {
+        "pdfPageStart": 52,
+        "pdfPageEnd": 53,
+        "printedPages": "51-52",
+        "section": "Chapter 3 formation diagram and complete plan overview; the first annotated game begins on PDF 53",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-caro-kann-overview",
+      "chapterId": "flores-caro-kann-overview",
+      "locator": {
+        "pdfPageStart": 52,
+        "pdfPageEnd": 53,
+        "printedPages": "51-52",
+        "section": "Chapter 3 formation diagram and complete plan overview; the first annotated game begins on PDF 53",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-caro-kann-akopian-shimanov",
+      "chapterId": "flores-caro-kann-akopian-shimanov",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 55,
+        "printedPages": "52-54",
+        "section": "Complete first Chapter 3 game and concluding remarks; stop before Macieja-Nogueiras",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "development--flores-caro-kann-akopian-shimanov",
+      "chapterId": "flores-caro-kann-akopian-shimanov",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 55,
+        "printedPages": "52-54",
+        "section": "Complete first Chapter 3 game and concluding remarks; stop before Macieja-Nogueiras",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-caro-kann-akopian-shimanov",
+      "chapterId": "flores-caro-kann-akopian-shimanov",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 55,
+        "printedPages": "52-54",
+        "section": "Complete first Chapter 3 game and concluding remarks; stop before Macieja-Nogueiras",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-caro-kann-macieja-nogueiras",
+      "chapterId": "flores-caro-kann-macieja-nogueiras",
+      "locator": {
+        "pdfPageStart": 55,
+        "pdfPageEnd": 58,
+        "printedPages": "54-57",
+        "section": "Complete second Chapter 3 game and concluding remarks; stop before Ivanisevic-Asic",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-caro-kann-macieja-nogueiras",
+      "chapterId": "flores-caro-kann-macieja-nogueiras",
+      "locator": {
+        "pdfPageStart": 55,
+        "pdfPageEnd": 58,
+        "printedPages": "54-57",
+        "section": "Complete second Chapter 3 game and concluding remarks; stop before Ivanisevic-Asic",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-caro-kann-ivanisevic-asic",
+      "chapterId": "flores-caro-kann-ivanisevic-asic",
+      "locator": {
+        "pdfPageStart": 58,
+        "pdfPageEnd": 61,
+        "printedPages": "57-60",
+        "section": "Complete third Chapter 3 game and concluding remarks; stop before Holt-Kamsky",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-caro-kann-holt-kamsky",
+      "chapterId": "flores-caro-kann-holt-kamsky",
+      "locator": {
+        "pdfPageStart": 62,
+        "pdfPageEnd": 63,
+        "printedPages": "61-62",
+        "section": "Complete fourth Chapter 3 game and concluding remarks; stop before Schlosser-van Wely",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-caro-kann-holt-kamsky",
+      "chapterId": "flores-caro-kann-holt-kamsky",
+      "locator": {
+        "pdfPageStart": 62,
+        "pdfPageEnd": 63,
+        "printedPages": "61-62",
+        "section": "Complete fourth Chapter 3 game and concluding remarks; stop before Schlosser-van Wely",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-caro-kann-schlosser-van-wely",
+      "chapterId": "flores-caro-kann-schlosser-van-wely",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 66,
+        "printedPages": "63-65",
+        "section": "Complete fifth Chapter 3 game and concluding remarks; stop before Zvjaginsev-Evdokimov",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-caro-kann-schlosser-van-wely",
+      "chapterId": "flores-caro-kann-schlosser-van-wely",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 66,
+        "printedPages": "63-65",
+        "section": "Complete fifth Chapter 3 game and concluding remarks; stop before Zvjaginsev-Evdokimov",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-caro-kann-zvjaginsev-evdokimov",
+      "chapterId": "flores-caro-kann-zvjaginsev-evdokimov",
+      "locator": {
+        "pdfPageStart": 66,
+        "pdfPageEnd": 69,
+        "printedPages": "65-68",
+        "section": "Complete final Chapter 3 game and concluding remarks; stop at Chapter 4 on PDF 70",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-caro-kann-zvjaginsev-evdokimov",
+      "chapterId": "flores-caro-kann-zvjaginsev-evdokimov",
+      "locator": {
+        "pdfPageStart": 66,
+        "pdfPageEnd": 69,
+        "printedPages": "65-68",
+        "section": "Complete final Chapter 3 game and concluding remarks; stop at Chapter 4 on PDF 70",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-slav-overview",
+      "chapterId": "flores-slav-overview",
+      "locator": {
+        "pdfPageStart": 70,
+        "pdfPageEnd": 71,
+        "printedPages": "69-70",
+        "section": "Chapter 4 formation diagram and complete plan overview; the first annotated game begins on PDF 71",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minority-attack--flores-slav-overview",
+      "chapterId": "flores-slav-overview",
+      "locator": {
+        "pdfPageStart": 70,
+        "pdfPageEnd": 71,
+        "printedPages": "69-70",
+        "section": "Chapter 4 formation diagram and complete plan overview; the first annotated game begins on PDF 71",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-slav-overview",
+      "chapterId": "flores-slav-overview",
+      "locator": {
+        "pdfPageStart": 70,
+        "pdfPageEnd": 71,
+        "printedPages": "69-70",
+        "section": "Chapter 4 formation diagram and complete plan overview; the first annotated game begins on PDF 71",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-slav-aronian-zhao",
+      "chapterId": "flores-slav-aronian-zhao",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 73,
+        "printedPages": "70-72",
+        "section": "Complete first Chapter 4 game and concluding remarks; stop before Morozevich-Mamedyarov",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-slav-aronian-zhao",
+      "chapterId": "flores-slav-aronian-zhao",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 73,
+        "printedPages": "70-72",
+        "section": "Complete first Chapter 4 game and concluding remarks; stop before Morozevich-Mamedyarov",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-slav-morozevich-mamedyarov",
+      "chapterId": "flores-slav-morozevich-mamedyarov",
+      "locator": {
+        "pdfPageStart": 74,
+        "pdfPageEnd": 76,
+        "printedPages": "73-75",
+        "section": "Complete second Chapter 4 game and concluding remarks; stop before Hammer-Carlsen",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-slav-morozevich-mamedyarov",
+      "chapterId": "flores-slav-morozevich-mamedyarov",
+      "locator": {
+        "pdfPageStart": 74,
+        "pdfPageEnd": 76,
+        "printedPages": "73-75",
+        "section": "Complete second Chapter 4 game and concluding remarks; stop before Hammer-Carlsen",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-slav-morozevich-mamedyarov",
+      "chapterId": "flores-slav-morozevich-mamedyarov",
+      "locator": {
+        "pdfPageStart": 74,
+        "pdfPageEnd": 76,
+        "printedPages": "73-75",
+        "section": "Complete second Chapter 4 game and concluding remarks; stop before Hammer-Carlsen",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-slav-hammer-carlsen",
+      "chapterId": "flores-slav-hammer-carlsen",
+      "locator": {
+        "pdfPageStart": 77,
+        "pdfPageEnd": 80,
+        "printedPages": "76-79",
+        "section": "Complete third Chapter 4 game and concluding remarks; stop before Aronian-Navara",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-slav-hammer-carlsen",
+      "chapterId": "flores-slav-hammer-carlsen",
+      "locator": {
+        "pdfPageStart": 77,
+        "pdfPageEnd": 80,
+        "printedPages": "76-79",
+        "section": "Complete third Chapter 4 game and concluding remarks; stop before Aronian-Navara",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-slav-aronian-navara",
+      "chapterId": "flores-slav-aronian-navara",
+      "locator": {
+        "pdfPageStart": 80,
+        "pdfPageEnd": 82,
+        "printedPages": "79-81",
+        "section": "Complete fourth Chapter 4 game and concluding remarks; stop before Wang Yue-Carlsen",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "development--flores-slav-aronian-navara",
+      "chapterId": "flores-slav-aronian-navara",
+      "locator": {
+        "pdfPageStart": 80,
+        "pdfPageEnd": 82,
+        "printedPages": "79-81",
+        "section": "Complete fourth Chapter 4 game and concluding remarks; stop before Wang Yue-Carlsen",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-slav-wang-yue-carlsen",
+      "chapterId": "flores-slav-wang-yue-carlsen",
+      "locator": {
+        "pdfPageStart": 83,
+        "pdfPageEnd": 85,
+        "printedPages": "82-84",
+        "section": "Complete fifth Chapter 4 game and concluding remarks; stop before the Andreikin-Kramnik fragment",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-slav-wang-yue-carlsen",
+      "chapterId": "flores-slav-wang-yue-carlsen",
+      "locator": {
+        "pdfPageStart": 83,
+        "pdfPageEnd": 85,
+        "printedPages": "82-84",
+        "section": "Complete fifth Chapter 4 game and concluding remarks; stop before the Andreikin-Kramnik fragment",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "backward-pawns--flores-slav-wang-yue-carlsen",
+      "chapterId": "flores-slav-wang-yue-carlsen",
+      "locator": {
+        "pdfPageStart": 83,
+        "pdfPageEnd": 85,
+        "printedPages": "82-84",
+        "section": "Complete fifth Chapter 4 game and concluding remarks; stop before the Andreikin-Kramnik fragment",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-slav-andreikin-kramnik",
+      "chapterId": "flores-slav-andreikin-kramnik",
+      "locator": {
+        "pdfPageStart": 86,
+        "pdfPageEnd": 86,
+        "printedPages": "85",
+        "section": "Complete final Chapter 4 fragment and comparison; stop before Chapter 5 on PDF 87",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "backward-pawns--flores-slav-andreikin-kramnik",
+      "chapterId": "flores-slav-andreikin-kramnik",
+      "locator": {
+        "pdfPageStart": 86,
+        "pdfPageEnd": 86,
+        "printedPages": "85",
+        "section": "Complete final Chapter 4 fragment and comparison; stop before Chapter 5 on PDF 87",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-slav-andreikin-kramnik",
+      "chapterId": "flores-slav-andreikin-kramnik",
+      "locator": {
+        "pdfPageStart": 86,
+        "pdfPageEnd": 86,
+        "printedPages": "85",
+        "section": "Complete final Chapter 4 fragment and comparison; stop before Chapter 5 on PDF 87",
+        "ebookLocation": null
+      }
     }
   ]
 }

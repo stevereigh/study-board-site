@@ -1575,6 +1575,550 @@
     ]
   },
   {
+    "chapterId": "flores-caro-kann-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Caro-Kann formation: plans and freeing breaks; pp. 51-52; PDF 52-53",
+    "title": "Caro-Kann formation: plans and freeing breaks",
+    "tags": [
+      "caro-kann-formation",
+      "space",
+      "pawn-breaks",
+      "outposts"
+    ],
+    "note": "This structure commonly arises after White establishes a pawn on d4 and Black exchanges a central pawn on e4. White normally has more central space and easier piece placement, while Black&#x27;s position is solid but can become cramped. White may build a direct kingside attack, use a knight on e5, expand with c3-c4, or play c4-c5 to deny Black&#x27;s freeing move and gain the d6 outpost.\n\nBlack&#x27;s central task is to challenge White&#x27;s space before it becomes permanent. The thematic ...c6-c5 break is the main equalizing operation; ...e6-e5 is another transformation when it can be prepared safely. If White has played c3-c4, Black may seek a knight post on c4 or use ...b7-b5 to contest control of d5. These plans depend on piece readiness and tactics, not the pawn skeleton alone.\n\nThe formation card should therefore be read as a race. White tries to preserve space, improve attacking pieces, and restrict the breaks. Black tries to complete development and execute a freeing break without creating a lasting target. After any exchange, reassess the new pawn majorities, open lines, and outposts rather than continuing the old plan automatically.",
+    "keyIdeas": [
+      "White uses space, e5 and d6 while restricting Black&#x27;s freeing moves.",
+      "Black normally seeks ...c6-c5 or, in suitable positions, ...e6-e5.",
+      "After c3-c4, ...Nc4 and ...b5 can challenge White&#x27;s setup."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-caro-formation-card",
+        "concept": "Pawn breaks",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Read the Caro-Kann overview on PDF 52-53. Make two columns for White and Black. Record the desired outposts, the purpose of c4-c5, the conditions for ...c5 and ...e5, and the risk of ...b5.",
+        "successCheck": "Explain the formation from both sides and give one position-dependent reason to delay each thematic pawn move.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      },
+      {
+        "id": "study-pawn-breaks-caro-slav-compare",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Build a two-formation comparison from the private book: Caro-Kann overview PDF 52-53 and Slav overview PDF 70-71. Include White&#x27;s e-pawn, best outposts, wing expansion, Black&#x27;s freeing breaks, and one structural risk for each side.",
+        "successCheck": "Identify an unlabeled formation from its pawn skeleton and justify the first three candidate plans without using the opening name.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-caro-kann-akopian-shimanov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Akopian-Shimanov: attack before the freeing break; pp. 52-54; PDF 53-55",
+    "title": "Akopian-Shimanov: attack before the freeing break",
+    "tags": [
+      "caro-kann-formation",
+      "king-attack",
+      "development",
+      "pawn-breaks"
+    ],
+    "note": "Black loses time in development and never obtains a useful central break. White places pieces toward the king, uses the e5 outpost, and makes the recurring Bxh6 sacrifice concrete because the defenders cannot coordinate. The example shows the danger of treating a solid pawn skeleton as sufficient protection.\n\nThe lesson is move order: Black must recognize the attack early and seek activity before White&#x27;s pieces arrive. White should not attack by rule, but when the queen, bishop and knight already point at the king and Black&#x27;s center cannot counter in time, opening lines has a concrete basis.",
+    "keyIdeas": [
+      "A stable structure does not compensate for lost development.",
+      "Bxh6 is a recurring attacking candidate only when the follow-up is concrete.",
+      "A freeing break played too late may no longer solve the position."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-caro-attack-or-break",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Akopian-Shimanov (PDF 53-55) with Holt-Kamsky (PDF 62-63). In the first game locate the moment Black falls behind the attack; in the second identify what ...c5 changes. Track king safety, open lines, and the most active piece.",
+        "successCheck": "Explain why White&#x27;s attack dominates one game while Black&#x27;s counterplay dominates the other.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-caro-kann-macieja-nogueiras",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Macieja-Nogueiras: improve behind the space advantage; pp. 54-57; PDF 55-58",
+    "title": "Macieja-Nogueiras: improve behind the space advantage",
+    "tags": [
+      "caro-kann-formation",
+      "space",
+      "restriction",
+      "piece-activity"
+    ],
+    "note": "When Black cannot arrange ...c5 or ...e5, White has time to improve without committing the center. The bishops, kingside pieces, and extra space gradually increase the strain, while c6 becomes a target. White keeps several plans available and only opens the position when the pieces are ready.\n\nThis is a model of flexible restriction. The advantage is not a forced attack; it is the ability to improve while Black must solve the same break problem. Black&#x27;s queenside expansion arrives too slowly because it does not address the central bind.",
+    "keyIdeas": [
+      "Space is valuable when it gives several useful improving moves.",
+      "If both central breaks fail, c6 can become a fixed target.",
+      "Do not release the bind before the pieces are ready."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-caro-kann-ivanisevic-asic",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Ivanisevic-Asic: c4-c5 and the d6 outpost; pp. 57-60; PDF 58-61",
+    "title": "Ivanisevic-Asic: c4-c5 and the d6 outpost",
+    "tags": [
+      "caro-kann-formation",
+      "outposts",
+      "restriction",
+      "space"
+    ],
+    "note": "White advances c4-c5 to stop ...c6-c5, secure d5, and make d6 available to a knight. Black&#x27;s light-squared bishop remains restricted and the later ...e5 attempt concedes the key outpost. The game shows that gaining space has value when it removes the opponent&#x27;s active plan and supplies a usable square.\n\nThe advance also fixes the structure, so White must know which pieces benefit. The d-pawn is not a useful target for Black because White&#x27;s pieces control the relevant squares and Black lacks a convincing break.",
+    "keyIdeas": [
+      "c4-c5 can prevent ...c6-c5 and establish d6.",
+      "An outpost matters when a piece can occupy it and cannot be challenged.",
+      "A cramped bishop is a concrete cost of a failed break."
+    ],
+    "activities": [
+      {
+        "id": "study-outposts-caro-d6",
+        "concept": "Outposts",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Study Ivanisevic-Asic on PDF 58-61. Before reading the continuation, explain what c4-c5 prevents, how a knight can reach d6, and which black bishop remains restricted.",
+        "successCheck": "Connect the pawn advance to a usable outpost, a restricted break, and a specific inferior piece.",
+        "playReminders": [
+          "Check stability, access and useful targets."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-caro-kann-holt-kamsky",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Holt-Kamsky: successful ...c5 and active counterplay; pp. 61-62; PDF 62-63",
+    "title": "Holt-Kamsky: successful ...c5 and active counterplay",
+    "tags": [
+      "caro-kann-formation",
+      "pawn-breaks",
+      "counterplay",
+      "passed-pawns"
+    ],
+    "note": "Black achieves ...c6-c5 and changes the character of the position. White obtains a passed c-pawn, but it is not immediately dangerous; Black&#x27;s active pieces and kingside pawn majority create the more urgent play. The example corrects a static reading of the structure: accepting an isolated or passed pawn can be favorable when the resulting activity is stronger.\n\nAfter the break, the original Caro-Kann plan card no longer decides the position. Both sides must evaluate the new majorities, king safety, and the speed of their operations.",
+    "keyIdeas": [
+      "The ...c5 break can exchange space for active play.",
+      "A passed pawn is not automatically the most important feature.",
+      "Reclassify the position after the structural transformation."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-caro-attack-or-break",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Akopian-Shimanov (PDF 53-55) with Holt-Kamsky (PDF 62-63). In the first game locate the moment Black falls behind the attack; in the second identify what ...c5 changes. Track king safety, open lines, and the most active piece.",
+        "successCheck": "Explain why White&#x27;s attack dominates one game while Black&#x27;s counterplay dominates the other.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-caro-kann-schlosser-van-wely",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Schlosser-van Wely: pressure after ...c5; pp. 63-65; PDF 64-66",
+    "title": "Schlosser-van Wely: pressure after ...c5",
+    "tags": [
+      "caro-kann-formation",
+      "pawn-breaks",
+      "favorable-exchanges",
+      "backward-pawns"
+    ],
+    "note": "Black&#x27;s ...c5 break creates lasting pressure against White&#x27;s d-pawn. White&#x27;s early queenside setup does not prevent the break, and later simplification leaves Black with easier targets and the more active rook. The loss develops through accumulating structural pressure rather than one spectacular tactical error.\n\nBefore exchanging pieces, White needed to compare the resulting endgame activity. A nominal space advantage can disappear once the break opens lines and turns the former center into a target.",
+    "keyIdeas": [
+      "Preventing ...c5 requires concrete control, not a cosmetic pawn move.",
+      "The break can turn White&#x27;s d-pawn into the main target.",
+      "Simplification favors the side whose pieces can attack the new weakness."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-caro-queenside-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Schlosser-van Wely (PDF 64-66) with Zvjaginsev-Evdokimov (PDF 66-69). For ...c5 and ...b5, write the resulting weak pawn, open line, and best knight route.",
+        "successCheck": "Explain why one black break creates durable activity while the other can leave c6 as a lasting weakness.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-caro-kann-zvjaginsev-evdokimov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Zvjaginsev-Evdokimov: answer ...b5 with a lasting target; pp. 65-68; PDF 66-69",
+    "title": "Zvjaginsev-Evdokimov: answer ...b5 with a lasting target",
+    "tags": [
+      "caro-kann-formation",
+      "pawn-breaks",
+      "weak-pawns",
+      "outposts"
+    ],
+    "note": "Black uses ...b7-b5 to challenge White&#x27;s control of d5, but White times the exchange so that c6 becomes permanently weak. A knight maneuver toward c4 attacks the queenside while White retains access to d6. Black&#x27;s intended activity has therefore traded one problem for another without obtaining the central break.\n\nThe lesson is to evaluate ...b5 by the recapture and resulting square control. If White can answer so that the c-pawn is fixed and ...c5 remains impossible, the flank break may only create a durable target.",
+    "keyIdeas": [
+      "...b5 must be judged by the resulting c6 pawn and d5 control.",
+      "A knight route to c4 can exploit the fixed queenside.",
+      "A flank break that does not free the center may create a new weakness."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-caro-queenside-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Schlosser-van Wely (PDF 64-66) with Zvjaginsev-Evdokimov (PDF 66-69). For ...c5 and ...b5, write the resulting weak pawn, open line, and best knight route.",
+        "successCheck": "Explain why one black break creates durable activity while the other can leave c6 as a lasting weakness.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-slav-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Slav formation: retained e-pawn and multiple plans; pp. 69-70; PDF 70-71",
+    "title": "Slav formation: retained e-pawn and multiple plans",
+    "tags": [
+      "slav-formation",
+      "pawn-breaks",
+      "space",
+      "minority-attack"
+    ],
+    "note": "The Slav formation resembles the Caro-Kann structure, but White still has the e-pawn because Black exchanged on c4. That difference creates additional plans. White may attack with the h-pawn, place knights on e5 and c5, play e4-e5 to fix the center and control d6, or use a2-a4 and b2-b4-b5 as a minority operation against c6.\n\nBlack again seeks a freeing transformation, usually ...c6-c5 or ...e6-e5. Black may pressure d4 after White builds c3 and e4, or use ...f7-f5 to challenge White&#x27;s center. Moves such as ...f6 and ...b6 can dislodge an outpost but may leave serious weaknesses, so the cure must be compared with its positional cost.\n\nWhite&#x27;s retained e-pawn makes the formation more flexible than the Caro-Kann version. The practical comparison is not based on opening names: locate the e-pawn, identify the available break, and then decide which wing can support expansion.",
+    "keyIdeas": [
+      "White&#x27;s retained e-pawn enables e4-e5 and stronger kingside expansion.",
+      "White can combine central control with a queenside minority operation.",
+      "Black seeks ...c5 or ...e5 and may pressure d4 after c3/e4."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-slav-formation-card",
+        "concept": "Pawn breaks",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Read the Slav overview on PDF 70-71. Locate White&#x27;s e-pawn, then list White&#x27;s e4-e5, h-pawn, and minority plans beside Black&#x27;s ...c5, ...e5, and ...f5 plans.",
+        "successCheck": "Explain at least three plan differences from the Caro-Kann formation and tie each to the retained e-pawn or a changed piece square.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      },
+      {
+        "id": "study-pawn-breaks-caro-slav-compare",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Build a two-formation comparison from the private book: Caro-Kann overview PDF 52-53 and Slav overview PDF 70-71. Include White&#x27;s e-pawn, best outposts, wing expansion, Black&#x27;s freeing breaks, and one structural risk for each side.",
+        "successCheck": "Identify an unlabeled formation from its pawn skeleton and justify the first three candidate plans without using the opening name.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-slav-aronian-zhao",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Aronian-Zhao: the h-pawn attack; pp. 70-72; PDF 71-73",
+    "title": "Aronian-Zhao: the h-pawn attack",
+    "tags": [
+      "slav-formation",
+      "king-attack",
+      "pawn-breaks",
+      "counterplay"
+    ],
+    "note": "White uses h4-h5 to gain space and open attacking lines while Black&#x27;s center remains passive. Black misses the chance to seek timely central activity with ...e5 and is left defending a difficult king position. The tactical finish depends on White&#x27;s piece placement, but the strategic cause is that the flank attack meets no central counterstroke.\n\nFor study, pair the attacking plan with Black&#x27;s defensive question: can the center be opened before the h-pawn advance becomes dangerous? A thematic attack without that comparison would miss the formation&#x27;s central tension.",
+    "keyIdeas": [
+      "A wing attack gains force when the opponent lacks a central counterbreak.",
+      "...e5 is a critical defensive candidate against slow kingside expansion.",
+      "The h-pawn advance needs supporting pieces and open lines."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-slav-wing-versus-center",
+        "concept": "Counterplay",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Compare Aronian-Zhao (PDF 71-73) with Morozevich-Mamedyarov (PDF 74-76). Track White&#x27;s expansion and identify the central break Black needed before the bind became permanent.",
+        "successCheck": "Explain why a central counterbreak is the first defensive question against both a wing attack and patient space play.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-slav-morozevich-mamedyarov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Morozevich-Mamedyarov: the cost of passive solidity; pp. 73-75; PDF 74-76",
+    "title": "Morozevich-Mamedyarov: the cost of passive solidity",
+    "tags": [
+      "slav-formation",
+      "space",
+      "restriction",
+      "counterplay"
+    ],
+    "note": "Black fails to obtain either ...c5 or ...e5 and must defend a cramped position. White uses the extra space to restrict the queenside and improve the pieces until the burden of passive defense produces errors. The example demonstrates why solidity is temporary unless Black can alter the center.\n\nWhite&#x27;s method is patient rather than forcing. Keep the bind, deny the freeing operation, and improve the least active piece. Black should search for the break before White&#x27;s coordination makes it tactically impossible.",
+    "keyIdeas": [
+      "Without ...c5 or ...e5, Black&#x27;s solid structure can become passive.",
+      "The space advantage permits patient improvement and restriction.",
+      "The defender must prepare activity before every break is tactically stopped."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-slav-wing-versus-center",
+        "concept": "Counterplay",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Compare Aronian-Zhao (PDF 71-73) with Morozevich-Mamedyarov (PDF 74-76). Track White&#x27;s expansion and identify the central break Black needed before the bind became permanent.",
+        "successCheck": "Explain why a central counterbreak is the first defensive question against both a wing attack and patient space play.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-slav-hammer-carlsen",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Hammer-Carlsen: ...c5, b4, and queenside play; pp. 76-79; PDF 77-80",
+    "title": "Hammer-Carlsen: ...c5, b4, and queenside play",
+    "tags": [
+      "slav-formation",
+      "pawn-breaks",
+      "outposts",
+      "queenside-play"
+    ],
+    "note": "Black achieves ...c6-c5 and then gradually takes over the queenside. White&#x27;s a-pawn advance helps restrain ...b5, but it also gives Black a useful b4 outpost and reduces White&#x27;s own expansion. Exchanges relieve the cramped side, after which the knight and queenside majority become active.\n\nThe game shows the full consequence of failing to prevent the break. Once Black has transformed the center, White must reassess the weak b-pawns and the knight&#x27;s route rather than rely on the earlier space advantage.",
+    "keyIdeas": [
+      "After ...c5, Black may exchange pieces and play for more than equality.",
+      "a2-a4 can restrain ...b5 while conceding b4.",
+      "A useful outpost can turn a defensive break into sustained queenside play."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-slav-two-freeing-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Hammer-Carlsen (PDF 77-80) with Aronian-Navara (PDF 80-82). For ...c5 and ...e5, record the pieces exchanged, the outpost gained, and the queenside target that follows.",
+        "successCheck": "Explain how each central break solves Black&#x27;s space problem and why b4 becomes important in both examples.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-slav-aronian-navara",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Aronian-Navara: the ...e5 transformation; pp. 79-81; PDF 80-82",
+    "title": "Aronian-Navara: the ...e5 transformation",
+    "tags": [
+      "slav-formation",
+      "pawn-breaks",
+      "outposts",
+      "development"
+    ],
+    "note": "Black uses ...e6-e5 to solve the central space problem and accelerate development. White&#x27;s queen operation permits a black knight to reach b4, after which pressure on b2 and the queenside gives Black the initiative. The central break and the outpost work together: the break frees the position, while the knight supplies a durable target.\n\nThe example warns against accepting an enemy outpost merely to win or exchange a pawn. Evaluate the active piece that arrives and the lines opened by the break.",
+    "keyIdeas": [
+      "...e5 can free Black and compensate for delayed development.",
+      "The b4 outpost becomes dangerous when it attacks concrete queenside targets.",
+      "Material operations must include the activity granted to the opponent."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-slav-two-freeing-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Hammer-Carlsen (PDF 77-80) with Aronian-Navara (PDF 80-82). For ...c5 and ...e5, record the pieces exchanged, the outpost gained, and the queenside target that follows.",
+        "successCheck": "Explain how each central break solves Black&#x27;s space problem and why b4 becomes important in both examples.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-slav-wang-yue-carlsen",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Wang Yue-Carlsen: pressure on d4 and ...f5; pp. 82-84; PDF 83-85",
+    "title": "Wang Yue-Carlsen: pressure on d4 and ...f5",
+    "tags": [
+      "slav-formation",
+      "pawn-breaks",
+      "backward-pawns",
+      "favorable-exchanges"
+    ],
+    "note": "Black exchanges minor pieces and queens to reduce the effect of White&#x27;s space, then attacks d4 after White advances e3-e4. White&#x27;s pieces are poorly arranged to defend the center. The thematic ...f7-f5 operation helps undermine e4 and prepares a further central challenge.\n\nThis is the positional counterpart to the direct freeing breaks. Black can first reduce attacking material, identify the fixed central target, and then use a flank pawn to challenge its support. White should ask whether e4 creates an active center or merely adds a second pawn to defend.",
+    "keyIdeas": [
+      "Exchanges can reduce the cramped side&#x27;s space problem.",
+      "After e3-e4, d4 may become the main target.",
+      "...f5 can undermine e4 and prepare a central transformation."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-slav-center-comparison",
+        "concept": "Pawn breaks",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Study Wang Yue-Carlsen and the Andreikin-Kramnik fragment on PDF 83-86. Compare Black&#x27;s ...f5 pressure against e4 with White&#x27;s e4-e5 space gain. Decide when d4 is a real target and when it is only a label.",
+        "successCheck": "Explain how piece placement makes the same d4 pawn vulnerable in one example and tolerable in the other.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-slav-andreikin-kramnik",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Andreikin-Kramnik: e4-e5 fixes the center; pp. 85; PDF 86-86",
+    "title": "Andreikin-Kramnik: e4-e5 fixes the center",
+    "tags": [
+      "slav-formation",
+      "pawn-breaks",
+      "outposts",
+      "backward-pawns"
+    ],
+    "note": "White plays e4-e5 to fix the center, control d6, and support direct kingside play. Flores Rios uses the fragment to contrast the Slav formation with the Caro-Kann version: the e5 pawn controls f6 and gives White more attacking potential, while Black may have a more active light-squared bishop and more chances to answer with ...c5 or ...f6.\n\nThe backward d4-pawn can remain only a symbolic weakness when Black has no effective way to attack it. The relevant question is whether the fixed center gives White usable squares and an initiative before Black&#x27;s counterbreak arrives.",
+    "keyIdeas": [
+      "e4-e5 gains d6 and supports kingside play.",
+      "A backward pawn is harmless when it cannot be attacked effectively.",
+      "The retained e-pawn changes both the attacking chances and Black&#x27;s counterbreaks."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-slav-center-comparison",
+        "concept": "Pawn breaks",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Study Wang Yue-Carlsen and the Andreikin-Kramnik fragment on PDF 83-86. Compare Black&#x27;s ...f5 pressure against e4 with White&#x27;s e4-e5 space gain. Decide when d4 is a real target and when it is only a label.",
+        "successCheck": "Explain how piece placement makes the same d4 pawn vulnerable in one example and tolerable in the other.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
