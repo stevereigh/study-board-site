@@ -13,6 +13,8 @@ function textElement(tag, text, className) {
 }
 
 async function loadStudyContext(live) {
+  STUDY = null;
+  WEEK_GAMES = [];
   const values = await Promise.all([
     loadJSON('./data/player/profile.json'), loadJSON('./data/player/ratings.json'),
     ...['concepts', 'recommendations', 'crossrefs', 'chapters', 'books'].map(name => loadJSON(`./data/knowledge/${name}.json`))
@@ -38,6 +40,10 @@ async function loadStudyContext(live) {
       WEEK_GAMES = games?.items || [];
     }
   }
+  if (live?.activity && /^\d{4}-W\d{2}$/.test(live.activity.weekId)) {
+    const games = await loadJSON(`./data/games/${live.activity.weekId}.json`);
+    WEEK_GAMES = games?.items || [];
+  }
 }
 
 function renderCurrentRatings() {
@@ -56,8 +62,8 @@ function renderCurrentRatings() {
 function renderStudyPlan() {
   if (!STUDY || document.getElementById('demo-toggle').checked) return false;
   const box = document.getElementById('assignment');
-  box.replaceChildren(textElement('p', 'Study plan · ' + STUDY.status.replaceAll('-', ' '), 'kicker'),
-                      textElement('p', STUDY.summary, 'why'));
+  box.replaceChildren(textElement('p', 'Monday study plan · based on the previous completed week', 'kicker'),
+                      textElement('p', STUDY.summary.replace('No games this week.', 'No games in that completed week.'), 'why'));
   for (const [index, focus] of STUDY.focus.entries()) {
     const section = textElement('section', '', 'study-focus');
     section.append(textElement('h4', `${index + 1}. ${CATALOG.concepts[focus.conceptId]?.name || focus.conceptId} · ${focus.minutes} min`));
@@ -81,7 +87,7 @@ function renderStudyPlan() {
   }
   const reviews = WEEK_GAMES.flatMap(game => game.evidence.map(evidence => ({game, evidence}))).slice(0, 8);
   if (reviews.length) {
-    box.append(textElement('h4', 'Positions to review'));
+    box.append(textElement('h4', DATA.activity ? 'Current-week positions to review' : 'Positions to review'));
     for (const {game, evidence} of reviews) {
       const link = textElement('a', `${game.opponent} · move ${Math.ceil(evidence.ply / 2)} · ${evidence.signal.replaceAll('-', ' ')}`);
       link.href = `https://lichess.org/${encodeURIComponent(game.id)}/${game.color}#${evidence.ply - 1}`;

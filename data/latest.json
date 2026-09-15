@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T12:03:42.691101Z",
+  "generated": "2026-09-15T12:06:49.751502Z",
   "player": "DeputyBob",
   "week": {
     "id": "2026-W38",
@@ -32,12 +32,12 @@
   },
   "perf": {
     "overview": {
-      "games": 0,
-      "w": 0,
-      "l": 0,
+      "games": 4,
+      "w": 2,
+      "l": 2,
       "d": 0,
-      "collapseMove": null,
-      "secsOnBlunder": null,
+      "collapseMove": 16,
+      "secsOnBlunder": 8.655000000000001,
       "phase": null,
       "phasePct": null,
       "confidence": "low"
@@ -54,12 +54,12 @@
       "confidence": "low"
     },
     "rapid": {
-      "games": 0,
-      "w": 0,
-      "l": 0,
+      "games": 4,
+      "w": 2,
+      "l": 2,
       "d": 0,
-      "collapseMove": null,
-      "secsOnBlunder": null,
+      "collapseMove": 16,
+      "secsOnBlunder": 8.655000000000001,
       "phase": null,
       "phasePct": null,
       "confidence": "low"
@@ -88,11 +88,73 @@
     }
   },
   "needsAnalysis": [],
-  "games": [],
+  "games": [
+    {
+      "id": "FH9CU38C",
+      "when": "2026-09-14",
+      "perf": "rapid",
+      "tc": "10+5",
+      "color": "Black",
+      "opp": "babak_fahham51",
+      "oppRating": 1160,
+      "result": "w",
+      "opening": "Queen&#x27;s Pawn Game: Accelerated London System",
+      "collapseMove": 29,
+      "secs": 6.86,
+      "analysed": true
+    },
+    {
+      "id": "zSppk2Cz",
+      "when": "2026-09-14",
+      "perf": "rapid",
+      "tc": "10+5",
+      "color": "White",
+      "opp": "alanicheck",
+      "oppRating": 1386,
+      "result": "l",
+      "opening": "Caro-Kann Defense: Breyer Variation",
+      "collapseMove": 18,
+      "secs": 9.24,
+      "analysed": true
+    },
+    {
+      "id": "196u3xen",
+      "when": "2026-09-14",
+      "perf": "rapid",
+      "tc": "10+5",
+      "color": "White",
+      "opp": "OMARsharaf",
+      "oppRating": 1294,
+      "result": "w",
+      "opening": "Caro-Kann Defense",
+      "collapseMove": 14,
+      "secs": 8.07,
+      "analysed": true
+    },
+    {
+      "id": "1CJvKKlk",
+      "when": "2026-09-14",
+      "perf": "rapid",
+      "tc": "10+5",
+      "color": "Black",
+      "opp": "sdj2020",
+      "oppRating": 1254,
+      "result": "l",
+      "opening": "King&#x27;s Pawn Game: Damiano Defense",
+      "collapseMove": 8,
+      "secs": 31.48,
+      "analysed": true
+    }
+  ],
   "archive": [
     {
       "id": "2026-W38",
       "label": "2026-W38"
     }
-  ]
+  ],
+  "activity": {
+    "weekId": "2026-W38",
+    "from": "2026-09-14T04:00:00Z",
+    "untilExclusive": "2026-09-15T12:06:49.751502Z"
+  }
 }

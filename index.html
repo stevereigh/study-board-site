@@ -343,10 +343,12 @@
         <span class="tally" id="analyze-count">0</span>
         <span id="analyze-label">games need analysis</span>
       </a>
-      <a class="btn" id="btn-repull" href="#">Repull this week</a>
+      <a class="btn" id="btn-repull" href="#">Sync recent games</a>
       <div class="spacer"></div>
       <div class="weeklabel" id="week-label">No week loaded</div>
     </div>
+
+    <p class="hint">Sync recent games opens GitHub. Choose <b>Run workflow → refresh</b>, then reload this page after it finishes publishing.</p>
 
     <!-- rating chart -->
     <section>
@@ -654,7 +656,7 @@ function renderActionBar() {
   repull.rel = "noopener";
 
   document.getElementById("week-label").textContent =
-    DATA.week ? DATA.week.label : "No week loaded";
+    DATA.activity ? `Games since ${DATA.activity.from.slice(0, 10)}` : DATA.week ? DATA.week.label : "No week loaded";
 }
 
 function renderGate() {
@@ -744,7 +746,7 @@ function renderGames() {
   const all = DATA.games || [];
   const rows = VIEW === "overview" ? all : all.filter(g => g.perf === VIEW);
   document.getElementById("games-hint").textContent =
-    rows.length ? `${rows.length} this week` : "";
+    DATA.activity ? `${rows.length} this week · through ${new Date(DATA.activity.untilExclusive).toLocaleString()}` : rows.length ? `${rows.length} in the completed report week` : "";
 
   if (!rows.length) {
     card.innerHTML = `<div class="empty">
