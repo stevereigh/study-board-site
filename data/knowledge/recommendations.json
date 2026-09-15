@@ -404,6 +404,43 @@
         "piece-activity--nimzovich-open-file-definition",
         "piece-activity--amateurs-imbalances"
       ]
+    },
+    {
+      "id": "study-open-files-obstacle-checklist",
+      "crossrefIds": [
+        "open-files--nimzovich-file-obstacles"
+      ]
+    },
+    {
+      "id": "study-removing-the-defender-file-interference",
+      "crossrefIds": [
+        "removing-the-defender--nimzovich-file-obstacles"
+      ]
+    },
+    {
+      "id": "study-opening-lines-rook-breakthrough",
+      "crossrefIds": [
+        "opening-lines--nimzovich-file-breakthrough"
+      ]
+    },
+    {
+      "id": "study-open-files-lateral-route",
+      "crossrefIds": [
+        "open-files--nimzovich-restricted-rook-advance"
+      ]
+    },
+    {
+      "id": "study-outposts-rook-post-comparison",
+      "crossrefIds": [
+        "outposts--nimzovich-flank-rook-outpost"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-file-to-pawn",
+      "crossrefIds": [
+        "converting-advantages--nimzovich-flank-rook-outpost",
+        "converting-advantages--shereshevsky-basic-principles"
+      ]
     }
   ]
 }

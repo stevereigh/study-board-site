@@ -1056,6 +1056,105 @@
         "section": "Chapter 2 section 3, The ideal of every operation in a file, from PDF 50 through its concluding paragraph on PDF 51; stop before section 4, Obstacles",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "open-files--nimzovich-file-obstacles",
+      "chapterId": "nimzovich-file-obstacles",
+      "locator": {
+        "pdfPageStart": 51,
+        "pdfPageEnd": 53,
+        "printedPages": "26-28",
+        "section": "Chapter 2 section 4 from its heading on PDF 51 through the converging-attack explanation on PDF 53; stop before the contrasting breakthrough discussion and diagram 21",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--nimzovich-file-breakthrough",
+      "chapterId": "nimzovich-file-breakthrough",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 55,
+        "printedPages": "28-30",
+        "section": "Chapter 2 section 4 contrasting breakthrough discussion, beginning before diagram 21 on PDF 53 and ending before section 5 on PDF 55; diagram 22 is the complete checked example",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--nimzovich-restricted-rook-advance",
+      "chapterId": "nimzovich-restricted-rook-advance",
+      "locator": {
+        "pdfPageStart": 54,
+        "pdfPageEnd": 56,
+        "printedPages": "29-31",
+        "section": "Chapter 2 section 5 on PDF 55, with its diagram 23 on PDF 54 and diagram 24 at the top of PDF 56; exclude the section 6 discussion beneath the diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--nimzovich-flank-rook-outpost",
+      "chapterId": "nimzovich-flank-rook-outpost",
+      "locator": {
+        "pdfPageStart": 57,
+        "pdfPageEnd": 58,
+        "printedPages": "34-35",
+        "section": "Intact Chapter 2 section 6 flank discussion from In a flank file on PDF 57 through the role-exchange paragraph on PDF 58; exclude the opening continuation fragment on PDF 57 and stop before the closing diagram 28 example",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "removing-the-defender--nimzovich-file-obstacles",
+      "chapterId": "nimzovich-file-obstacles",
+      "locator": {
+        "pdfPageStart": 51,
+        "pdfPageEnd": 53,
+        "printedPages": "26-28",
+        "section": "Chapter 2 section 4 from its heading on PDF 51 through the converging-attack explanation on PDF 53; stop before the contrasting breakthrough discussion and diagram 21",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--nimzovich-file-breakthrough",
+      "chapterId": "nimzovich-file-breakthrough",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 55,
+        "printedPages": "28-30",
+        "section": "Chapter 2 section 4 contrasting breakthrough discussion, beginning before diagram 21 on PDF 53 and ending before section 5 on PDF 55; diagram 22 is the complete checked example",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--nimzovich-restricted-rook-advance",
+      "chapterId": "nimzovich-restricted-rook-advance",
+      "locator": {
+        "pdfPageStart": 54,
+        "pdfPageEnd": 56,
+        "printedPages": "29-31",
+        "section": "Chapter 2 section 5 on PDF 55, with its diagram 23 on PDF 54 and diagram 24 at the top of PDF 56; exclude the section 6 discussion beneath the diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--nimzovich-flank-rook-outpost",
+      "chapterId": "nimzovich-flank-rook-outpost",
+      "locator": {
+        "pdfPageStart": 57,
+        "pdfPageEnd": 58,
+        "printedPages": "34-35",
+        "section": "Intact Chapter 2 section 6 flank discussion from In a flank file on PDF 57 through the role-exchange paragraph on PDF 58; exclude the opening continuation fragment on PDF 57 and stop before the closing diagram 28 example",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--nimzovich-flank-rook-outpost",
+      "chapterId": "nimzovich-flank-rook-outpost",
+      "locator": {
+        "pdfPageStart": 57,
+        "pdfPageEnd": 58,
+        "printedPages": "34-35",
+        "section": "Intact Chapter 2 section 6 flank discussion from In a flank file on PDF 57 through the role-exchange paragraph on PDF 58; exclude the opening continuation fragment on PDF 57 and stop before the closing diagram 28 example",
+        "ebookLocation": null
+      }
     }
   ]
 }

@@ -1511,6 +1511,177 @@
     ]
   },
   {
+    "chapterId": "nimzovich-file-obstacles",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "File obstacles: undermine support and interrupt defenders; pp. 26-28; PDF 51-53",
+    "title": "File obstacles: undermine support and interrupt defenders",
+    "tags": [
+      "open-files",
+      "defenders",
+      "interference",
+      "pawn-support"
+    ],
+    "note": "An enemy pawn can block entry even when a file is available to a rook. Nimzowitsch distinguishes a pawn supported by another pawn from one relying on pieces. The distinction suggests different tasks: undermine a stable pawn connection first, or increase pressure while interfering with the defending pieces. It does not mean that a pawn supported only by pieces can simply be captured.\n\nDiagram 19 is a schematic comparison of these obstacles. Diagram 20 supplies a complete position: White doubles rooks on the h-file and adds the knight&#x27;s pressure against h6. Black reinforces the defense with a rook along the sixth rank. The move d6 interrupts that rook&#x27;s line to h6, changing the balance of attackers and usable defenders. The source then illustrates why taking that pawn with the bishop permits a strong rook entry and a mating sequence.\n\nBefore adding another attacker, identify the target and every actual defender. Ask whether an exchange, a pawn challenge or an interposition can disable one of them. This connects the positional file problem with the defender-removal tactics already studied. The source line was legally replayed; independent analysis prefers another initial rook plan, so the historical sequence demonstrates a mechanism rather than a claim of best play at every move.",
+    "keyIdeas": [
+      "Distinguish pawn support from movable piece defenders.",
+      "Undermine a stable pawn connection before piling up pressure.",
+      "An interposition can disable a defender without capturing it."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-obstacle-checklist",
+        "concept": "Open files",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Read My System Chapter 2 section 4, printed 26-28 / PDF 51-53, ending before the breakthrough discussion. Compare the schematic in diagram 19 with diagram 20: name the obstructing pawn and whether pawn support or piece defense holds it.",
+        "successCheck": "Choose between undermining pawn support and disrupting a piece defender, with a concrete reason.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and what will I threaten?"
+        ]
+      },
+      {
+        "id": "study-removing-the-defender-file-interference",
+        "concept": "Removing the defender",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Set up diagram 20, printed 27 / PDF 52. Replay Rh2 Kh7 Reh1 Bf8 Nf5 Rb6. Find White’s next move before reading on; explain how d6 changes the defense of h6. The line is an illustration, not best play throughout.",
+        "successCheck": "Identify the interrupted defending line and follow the source’s Bxd6 branch without assuming Black must accept.",
+        "playReminders": [
+          "Which defender prevents the tactic, and can I disrupt its job?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-file-breakthrough",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "File breakthroughs: sacrifice for entry, not a pawn; pp. 28-30; PDF 53-55",
+    "title": "File breakthroughs: sacrifice for entry, not a pawn",
+    "tags": [
+      "open-files",
+      "opening-lines",
+      "sacrifice",
+      "mate"
+    ],
+    "note": "Sometimes the purpose of removing a pawn is to open an entry route immediately, even at a material cost. Nimzowitsch contrasts concentrating forces until the pawn can be won with sacrificing a rook to clear the way for its partner. The first approach seeks a favorable balance of attackers and defenders; the second depends on a concrete forcing continuation.\n\nDiagram 22 lets the reader compare both methods in one complete position. Quiet pressure can be increased along the h-file, with an exchange offered to a defender. The sharper Rxh7 gives up a rook if the king accepts, but Rh1+ and Rh8 follow with mate. The accepting branch is not Black&#x27;s only response: independent analysis also considers refusing the capture with a knight move. That distinction keeps the attractive illustration from becoming an assumed forced recapture.\n\nFor practice, state the compensation before sacrificing: which square opens, which rook will use it and how the king&#x27;s escapes are covered. Then calculate acceptance and refusal separately. The source recommends looking first for useful concentration of force and then for a breakthrough that exploits the defender&#x27;s awkward arrangement. Diagram 21 is a schematic with incomplete material and no White king, so it is not used as a complete legal-position exercise.",
+    "keyIdeas": [
+      "Identify the entry square purchased by the sacrifice.",
+      "Calculate acceptance and refusal separately.",
+      "Pressure can prepare a breakthrough by restricting the defense."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-lines-rook-breakthrough",
+        "concept": "Opening lines",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Read the contrasting breakthrough discussion, printed 28-30 / PDF 53-55. In diagram 22 (PDF 54), compare quiet pressure with Rxh7. Check Rxh7 Kxh7 Rh1+ Kg8 Rh8# and consider refusing the rook with Ng7 as independent analysis.",
+        "successCheck": "Explain why the sacrifice is for entry rather than a pawn, and distinguish acceptance from refusal.",
+        "playReminders": [
+          "Which line will this exchange open, and who can use it first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-restricted-rook-advance",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Restricted rook advances: use one file to reach another; pp. 29-31; PDF 54-56",
+    "title": "Restricted rook advances: use one file to reach another",
+    "tags": [
+      "open-files",
+      "rook-maneuver",
+      "restricted-advance",
+      "piece-activity"
+    ],
+    "note": "A rook can use a file without penetrating all the way along it. When direct entry is unavailable, a shorter advance may provide a rank from which the rook can switch to another target. Nimzowitsch calls this indirect exploitation: the first file supplies the route, while the actual gain is made elsewhere.\n\nDiagram 23 contrasts direct pressure against the f-pawn with Rf5, followed in the source&#x27;s plan by a capture on b5 and possible entry on b7. The book omits intervening defensive moves in that sketch. Treat it as a route to investigate, not an uninterrupted move sequence or proof that the ending is won. Diagram 24 offers a positional comparison in which a rook can look for lateral access from the c-file. The complete game it references is not included in this batch.\n\nChoose a blocked file in one of your own games. Identify a safe stopping square before the obstacle, a sideways destination and the target reached from there. Check whether the defender can contest the rank, create a stronger threat or prevent the transfer. This exercise develops a flexible rook plan while preserving the earlier principle that activity needs a concrete purpose.",
+    "keyIdeas": [
+      "A partial advance can make a lateral transfer possible.",
+      "Separate the access file from the eventual target.",
+      "Check the defender’s replies between the steps of a plan."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-lateral-route",
+        "concept": "Open files",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Read section 5, printed 30 / PDF 55, using diagrams 23 (PDF 54) and 24 (PDF 56). In diagram 23 trace the source’s Rf5, Rxb5, Rb7 plan; do not skip over the need to examine Black’s intervening replies. Find a possible lateral target in diagram 24.",
+        "successCheck": "Name the original file, the stopping rank and a new target; explain why this is indirect use of the file.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and what will I threaten?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-flank-rook-outpost",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Flank rook outposts: turn file pressure into a passed pawn; pp. 34-35; PDF 57-58",
+    "title": "Flank rook outposts: turn file pressure into a passed pawn",
+    "tags": [
+      "outposts",
+      "open-files",
+      "conversion",
+      "passed-pawn"
+    ],
+    "note": "An advanced post is useful when the occupying piece can influence important targets. In the intact flank discussion, Nimzowitsch chooses a rook rather than a knight for the g-file. The rook&#x27;s range and the possibility of doubling matter more here than simply placing a knight far forward. This complements Silman&#x27;s earlier discussion of knight support points without replacing it with a universal rule about every flank square.\n\nDiagram 27 compares three rook destinations. Lower posts allow Black to exchange and retain effective file control. Rg6 changes the resulting pawn structure: if Black exchanges, hxg6 creates an advanced passed pawn, and the remaining rook can support it. The advantage has changed form. Keeping the file physically open is no longer the only measure of success.\n\nThe following paragraph makes the relationship reciprocal: the h-pawn first supports the advanced rook, then the remaining rook supports that pawn after the exchange. Calculate the recapture before choosing the post, and compare the resulting pawn&#x27;s support and mobility with the alternatives. This reading covers only the intact flank example. The scan skips printed pages 32-33 in the preceding central-outpost discussion; neither that missing passage nor the closing example with unresolved notation is synthesized here.",
+    "keyIdeas": [
+      "Choose the piece whose range serves the flank target.",
+      "Compare the pawn structure produced by each possible exchange.",
+      "A file advantage can become an advanced passed pawn."
+    ],
+    "activities": [
+      {
+        "id": "study-outposts-rook-post-comparison",
+        "concept": "Outposts",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Open files",
+          "Outposts"
+        ],
+        "instructions": "Read the intact flank discussion, printed 34-35 / PDF 57-58, starting at In a flank file and stopping before diagram 28. Compare Rg2, Rg4 and Rg6 in diagram 27, including each rook exchange and recapture. Printed 32-33 are missing from the preceding chapter sequence.",
+        "successCheck": "Explain why the g6 recapture produces a stronger pawn than the lower rook-post alternatives.",
+        "playReminders": [
+          "Check stability, access and useful targets."
+        ]
+      },
+      {
+        "id": "study-converting-advantages-file-to-pawn",
+        "concept": "Converting advantages",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Converting advantages"
+        ],
+        "instructions": "Revisit diagram 27 and the first paragraph of printed 35 / PDF 58. Follow Rg6 Rxg6 hxg6 Rg8 Rdg1. Explain the pawn’s job before the exchange and the remaining rook’s job afterward. Compare with the preparation idea in Shereshevsky Chapter 1.",
+        "successCheck": "Describe the advantage before and after the exchange, including how the passed pawn is supported.",
+        "playReminders": [
+          "What preparation makes the winning operation work, and what counterplay is available?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nunn-mate-recognition",
     "book": "1001 Deadly Checkmates",
     "author": "John Nunn",
@@ -1733,6 +1904,21 @@
         "successCheck": "Explain how a piece’s job changes between the middlegame example and the practical ending.",
         "playReminders": [
           "What useful job will this piece perform, and what job will it leave behind?"
+        ]
+      },
+      {
+        "id": "study-converting-advantages-file-to-pawn",
+        "concept": "Converting advantages",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Converting advantages"
+        ],
+        "instructions": "Revisit diagram 27 and the first paragraph of printed 35 / PDF 58. Follow Rg6 Rxg6 hxg6 Rg8 Rdg1. Explain the pawn’s job before the exchange and the remaining rook’s job afterward. Compare with the preparation idea in Shereshevsky Chapter 1.",
+        "successCheck": "Describe the advantage before and after the exchange, including how the passed pawn is supported.",
+        "playReminders": [
+          "What preparation makes the winning operation work, and what counterplay is available?"
         ]
       }
     ]
