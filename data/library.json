@@ -2119,6 +2119,294 @@
     ]
   },
   {
+    "chapterId": "flores-stonewall-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Stonewall: strengths, weaknesses, and competing plans; pp. 103-104; PDF 104-105",
+    "title": "Stonewall: strengths, weaknesses, and competing plans",
+    "tags": [
+      "stonewall",
+      "weak-squares",
+      "pawn-chains",
+      "pawn-breaks",
+      "bishops"
+    ],
+    "note": "The Stonewall fixes Black pawns on d5, e6 and f5 against White&#x27;s d4 and e3 setup. The e5 square is a permanent structural concern, and Black&#x27;s light-squared bishop begins behind its own chain. Flores Rios rejects the shortcut that these facts make the system positionally unsound. They are problems only when White can exploit them before Black creates active play.\n\nWhite&#x27;s three main operations are to control e5 and install a knight, exchange the dark-squared bishops so Black&#x27;s dark squares become harder to defend, and expand on the queenside or open the c-file for invasion. Black can attack the king while retaining central control, improve the light-squared bishop through ...Bd7-e8-h5 or ...b6/...Ba6, or prepare ...b6 and ...c5 to challenge the center.\n\nThe plans have constraints. A kingside attack fails if Black abandons e5; the bishop need not always leave d7; and ...c5 opens the position, so it may conflict with a pawn storm that has already weakened Black&#x27;s king. Evaluate which operation the pieces already support. A weak square, bad bishop, or closed chain is a planning clue rather than a verdict.",
+    "keyIdeas": [
+      "White tries to occupy e5, trade dark-squared bishops, and use the c-file or queenside expansion.",
+      "Black chooses among a controlled kingside attack, a light-bishop route, and a prepared ...c5 break.",
+      "Structural weaknesses matter only when the opponent can reach and exploit them.",
+      "Do not combine incompatible plans without checking the opened center and king safety."
+    ],
+    "activities": [
+      {
+        "id": "study-weak-squares-stonewall-e5-card",
+        "concept": "Weak squares",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Read the Stonewall overview on PDF 104-105. Draw the pawn skeleton, mark e5, and list the pawn defender that is missing, White&#x27;s knight route, Black&#x27;s useful exchange, and the break that can change the square.",
+        "successCheck": "Explain when e5 is a usable outpost and give two ways Black can stop it from deciding the position.",
+        "playReminders": [
+          "Can I actually occupy this weak square and keep a useful piece there?",
+          "What break or exchange would remove the outpost?"
+        ]
+      },
+      {
+        "id": "study-pawn-chains-stonewall-two-sides",
+        "concept": "Pawn chains",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Pawn breaks"
+        ],
+        "instructions": "Use the plan lists on PDF 104-105 to make a two-column formation card. Include White&#x27;s e5, bishop trade, and c-file plans; include Black&#x27;s attack, bishop route, and ...b6/...c5 plan. Mark which black plans may conflict.",
+        "successCheck": "Describe the chain&#x27;s strength, its restricted piece, and one condition required for each side&#x27;s main plan.",
+        "playReminders": [
+          "Which piece is restricted by this chain, and what route or break releases it?",
+          "Which square beside the chain can the opponent occupy?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-stonewall-mareco-aravind",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Mareco-Aravind: White&#x27;s ideal Stonewall setup; pp. 104-105; PDF 105-106",
+    "title": "Mareco-Aravind: White&#x27;s ideal Stonewall setup",
+    "tags": [
+      "stonewall",
+      "weak-squares",
+      "good-and-bad-bishops",
+      "open-files",
+      "queenside-play"
+    ],
+    "note": "White obtains nearly every desirable feature: complete control of e5, a knight that cannot be removed without concessions, exchange of the dark-squared bishops, a locked black light-squared bishop, better coordinated pieces, a queenside break, and prospects of opening the c-file. Black&#x27;s kingside pawns cannot advance freely because each move creates new weaknesses or counterplay.\n\nThe example is deliberately extreme. Flores Rios also identifies defensive chances Black missed, including more active rook placement and queenside resistance. The lesson is to diagnose how several advantages reinforce one another, not to assume the pawn skeleton alone produces the winning attack. White wins because the square, bishop, files, and breaks all work together.",
+    "keyIdeas": [
+      "An uncontested e5 knight becomes powerful when Black lacks a useful exchange.",
+      "Trading dark-squared bishops magnifies Black&#x27;s dark-square problems.",
+      "The c-file and a queenside break convert static control into entry points.",
+      "Even a model position should be checked for active defensive resources."
+    ],
+    "activities": [
+      {
+        "id": "study-weak-squares-stonewall-ideal-and-resistance",
+        "concept": "Weak squares",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Study Mareco-Aravind on PDF 105-106. Inventory White&#x27;s e5 control, bishop exchange, c-file access, queenside break, and king attack. Then locate the active defensive alternatives mentioned by the author.",
+        "successCheck": "Explain why the model position is powerful through interacting advantages rather than the e5 label alone.",
+        "playReminders": [
+          "Can I actually occupy this weak square and keep a useful piece there?",
+          "What break or exchange would remove the outpost?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-stonewall-hammer-djurhuus",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Hammer-Djurhuus: c-file invasion and e5 control; pp. 106-108; PDF 107-109",
+    "title": "Hammer-Djurhuus: c-file invasion and e5 control",
+    "tags": [
+      "stonewall",
+      "open-files",
+      "weak-squares",
+      "good-and-bad-bishops",
+      "restriction"
+    ],
+    "note": "White combines three thematic operations: open the c-file, trade dark-squared bishops, and occupy e5. Black&#x27;s early ...a5 restrains b4-b5 but leaves b5 weak and does not solve the central problem. Once White&#x27;s rook reaches the c-file and the bishops are exchanged, Black has too few active resources to contest the invasion.\n\nThe game also shows that a thematic move can be strategically mistimed. Trading dark-squared bishops helps White when it removes an important defender of e5. A queenside pawn advance that stops one break may fix a target for later. Black needed a setup that challenged the c-file and preserved the dark-square defense rather than merely blocking White&#x27;s most visible pawn move.",
+    "keyIdeas": [
+      "Open the c-file only when a rook can use the entry squares.",
+      "The dark-squared bishop exchange can make e5 permanently accessible.",
+      "A restraining pawn move may create a fixed queenside target.",
+      "Defend the whole plan, not only the immediate b-pawn advance."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-stonewall-c-file",
+        "concept": "Open files",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Study Hammer-Djurhuus on PDF 107-109. Track the c-file, the c7 entry square, the dark-squared bishop trade, and the consequence of ...a5. Compare the actual defense with the suggested ...Qd7 setup.",
+        "successCheck": "Connect the open file to a usable entry square and explain why stopping b4-b5 did not solve Black&#x27;s position.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-stonewall-cvitan-doric",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Cvitan-Doric: prepare c4-c5, then open the king; pp. 108-112; PDF 109-113",
+    "title": "Cvitan-Doric: prepare c4-c5, then open the king",
+    "tags": [
+      "stonewall",
+      "pawn-breaks",
+      "space",
+      "open-files",
+      "two-weaknesses"
+    ],
+    "note": "White prepares c4-c5 with b3 and rook support, gains lasting space, and prevents Black from obtaining the freeing ...c5 break on favorable terms. Black&#x27;s ...a5 expansion does not stop the operation and instead leaves the queenside fixed. Several passive queen moves waste the moment when Black could have challenged White&#x27;s setup.\n\nWhite does not rush to open the position. The pieces first take useful squares, the dark-squared bishops are exchanged, and Black&#x27;s knight is removed. Only then does White open the g-file and convert the space advantage into a kingside attack. The two-stage method matters: first close Black&#x27;s counterplay and arrange the pieces; then open the line that the remaining forces can use.\n\nThe source points out defensive alternatives and notes that resistance was possible, but Black&#x27;s opening inaccuracies allowed White to make the plan nearly risk-free. The game teaches preparation and sequencing rather than a forced recipe.",
+    "keyIdeas": [
+      "Prepare c4-c5 with pieces and supporting pawns before fixing the queenside.",
+      "Deny Black&#x27;s ...c5 break before opening a second front.",
+      "Exchange the defenders needed for the final file invasion.",
+      "Use the space advantage to improve first, then open the favorable wing."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-stonewall-two-stage",
+        "concept": "Pawn breaks",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Study Cvitan-Doric on PDF 109-113. Divide White&#x27;s plan into preparation of c4-c5, restriction of Black&#x27;s counterplay, exchanges of defenders, and the later opening of the g-file.",
+        "successCheck": "Explain the order of the two-front plan and identify the earlier moment when Black could have challenged it.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-stonewall-cordova-naumkin",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Cordova-Naumkin: Black&#x27;s direct kingside attack; pp. 113-116; PDF 114-117",
+    "title": "Cordova-Naumkin: Black&#x27;s direct kingside attack",
+    "tags": [
+      "stonewall",
+      "king-attack",
+      "attacking-prerequisites",
+      "outposts",
+      "good-and-bad-bishops"
+    ],
+    "note": "White heads in the wrong direction with a knight retreat and later weakens the king with f2-f3. Black already has a knight on e4, and the nominally bad light-squared bishop can become an attacker after ...dxc4 opens the long diagonal. White refuses a chance to admit the weakening move and instead grabs material, allowing Black to sacrifice on c4 and bring the queen and knight toward the king.\n\nBlack&#x27;s attack succeeds because it has central support. The e4 knight interferes with White&#x27;s defensive pawn play, the bishop gains a diagonal when the center changes, and Black&#x27;s pieces arrive with threats. This illustrates the chapter&#x27;s condition for a kingside attack: maintain control of key central squares while shifting forces toward the king.\n\nThe result is not evidence that every Stonewall attack works. If White had stabilized the center or challenged the e4 knight, Black&#x27;s wing play would have been less dangerous. The attacking plan depends on the outpost, diagonal, and the defender&#x27;s weakened pawn cover.",
+    "keyIdeas": [
+      "A knight on e4 can anchor a kingside attack and restrict defensive pawn moves.",
+      "The bad bishop can become active when a central capture opens its diagonal.",
+      "A pawn grab is dangerous when it accelerates every attacking piece.",
+      "A wing attack needs central control and coordinated routes."
+    ],
+    "activities": [
+      {
+        "id": "study-attacking-prerequisites-stonewall-black-attack",
+        "concept": "Attacking prerequisites",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study Cordova-Naumkin on PDF 114-117. Before following the attack, list the e4 knight&#x27;s jobs, the light bishop&#x27;s route after ...dxc4, and White&#x27;s king-pawn weaknesses. Compare material gain with defensive time.",
+        "successCheck": "Show how the central outpost and opened diagonal make Black&#x27;s kingside operation concrete.",
+        "playReminders": [
+          "What in the position makes this attack work?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-stonewall-aronian-tomashevsky",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Aronian-Tomashevsky: activate the light-squared bishop; pp. 116-119; PDF 117-120",
+    "title": "Aronian-Tomashevsky: activate the light-squared bishop",
+    "tags": [
+      "stonewall",
+      "good-and-bad-bishops",
+      "weak-squares",
+      "favorable-exchanges",
+      "open-files"
+    ],
+    "note": "Black uses the standard ...Bd7-e8-h5 route to turn the restricted light-squared bishop into an active piece. White exchanges in the center and later trades on e5, but the transformation removes the e5 outpost and leaves White&#x27;s own e-pawn vulnerable. Black gains pressure on the f-file while the bishop participates rather than remaining buried behind the chain.\n\nThe example reverses the usual Stonewall inventory. After the pawn exchanges, e5 is no longer a permanent hole, Black&#x27;s bishop is no longer bad, and White&#x27;s c-pawn and e-pawn can become targets. Continuing to evaluate the position by its original structure would miss the shift.\n\nThe bishop maneuver is useful because the center and kingside permit it; it is not a required ritual in every Stonewall. Black still needs to compare the route with immediate play elsewhere. Here the transformation and file pressure justify the time spent.",
+    "keyIdeas": [
+      "The ...Bd7-e8-h5 route can activate the light-squared bishop.",
+      "A central exchange may remove e5 as an outpost and create a new target.",
+      "Reassess every structural label after the pawn skeleton changes.",
+      "Bishop improvement is valuable when it supports a concrete file or target."
+    ],
+    "activities": [
+      {
+        "id": "study-good-and-bad-bishops-stonewall-bishop-route",
+        "concept": "Good and bad bishops",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Study Aronian-Tomashevsky on PDF 117-120. Trace ...Bd7-e8-h5, then record how the central exchanges change e5, Black&#x27;s bishop, White&#x27;s e-pawn, and the f-file.",
+        "successCheck": "Explain why the original &#x27;bad bishop&#x27; and &#x27;weak e5&#x27; labels no longer describe the transformed position.",
+        "playReminders": [
+          "Separate pawn-color classification from actual activity."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-stonewall-harika-adams",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Harika-Adams: prepare ...b6 and ...c5; pp. 119-121; PDF 120-122",
+    "title": "Harika-Adams: prepare ...b6 and ...c5",
+    "tags": [
+      "stonewall",
+      "pawn-breaks",
+      "piece-activity",
+      "opening-to-middlegame-transition",
+      "pawn-majorities"
+    ],
+    "note": "Black reaches a favorable version of the Stonewall because the pieces already support ...c5: the light-squared bishop is on b7, a rook can use the c-file, and the remaining pieces keep watch over e5. Black first rearranges the rooks and knight, waiting until the central break cannot be answered by a strong e5 occupation.\n\nA premature ...c5 would leave e5 vulnerable, so preparation is the core lesson. When the break finally comes, White cannot carry out the normal queenside expansion or exchange the dark-squared bishops on favorable terms. Later, White&#x27;s central capture creates fresh weaknesses, and Black improves the position before converting the queenside majority.\n\nFlores Rios notes that Black chose to enter this structure only because the position already favored its plans. This is a useful opening-to-middlegame lesson: a structure is sound when the pieces and move order make its operations accessible. Do not choose it by reputation alone, favorable or unfavorable.",
+    "keyIdeas": [
+      "Prepare ...c5 with the bishop, rook, and control of e5.",
+      "A premature break can concede the exact weak square White wants.",
+      "Transform into the Stonewall when the resulting plans fit the pieces.",
+      "After the break, improve the position before converting the queenside majority."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-stonewall-prepared-c5",
+        "concept": "Pawn breaks",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Study Harika-Adams on PDF 120-122. Compare the premature ...c5 variation with the prepared game break. List the bishop, rook, knight, and e5-control improvements Black completes first.",
+        "successCheck": "Give a readiness checklist for ...c5 and explain why Black could choose the Stonewall structure confidently in this move order.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Can the opponent answer a wing operation with a stronger central break?",
+          "Is this the Caro-Kann formation or the Slav formation, and where is White&#x27;s e-pawn?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",

@@ -1781,6 +1781,97 @@
         "section": "Complete final Chapter 4 fragment and comparison; stop before Chapter 5 on PDF 87",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "flores-stonewall-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Stonewall: strengths, weaknesses, and competing plans; pp. 103-104; PDF 104-105",
+      "title": "Stonewall: strengths, weaknesses, and competing plans",
+      "locator": {
+        "pdfPageStart": 104,
+        "pdfPageEnd": 105,
+        "printedPages": "103-104",
+        "section": "Chapter 6 introduction, formation diagram and complete plan lists; stop at the first annotated position on PDF 105",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-stonewall-mareco-aravind",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Mareco-Aravind: White's ideal Stonewall setup; pp. 104-105; PDF 105-106",
+      "title": "Mareco-Aravind: White's ideal Stonewall setup",
+      "locator": {
+        "pdfPageStart": 105,
+        "pdfPageEnd": 106,
+        "printedPages": "104-105",
+        "section": "Complete Sandro Mareco-Chithambaram Aravind fragment and concluding note; stop before Hammer-Djurhuus on PDF 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-stonewall-hammer-djurhuus",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Hammer-Djurhuus: c-file invasion and e5 control; pp. 106-108; PDF 107-109",
+      "title": "Hammer-Djurhuus: c-file invasion and e5 control",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 109,
+        "printedPages": "106-108",
+        "section": "Complete Jon Ludvig Hammer-Rune Djurhuus game and final remarks; the Cvitan-Doric game begins on PDF 109",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-stonewall-cvitan-doric",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Cvitan-Doric: prepare c4-c5, then open the king; pp. 108-112; PDF 109-113",
+      "title": "Cvitan-Doric: prepare c4-c5, then open the king",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 113,
+        "printedPages": "108-112",
+        "section": "Complete Ognjen Cvitan-Darko Doric game and final remarks; stop before Cordova-Naumkin on PDF 114",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-stonewall-cordova-naumkin",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Cordova-Naumkin: Black's direct kingside attack; pp. 113-116; PDF 114-117",
+      "title": "Cordova-Naumkin: Black's direct kingside attack",
+      "locator": {
+        "pdfPageStart": 114,
+        "pdfPageEnd": 117,
+        "printedPages": "113-116",
+        "section": "Complete Emilio Cordova-Igor Naumkin game and final remarks; the Aronian-Tomashevsky game begins on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-stonewall-aronian-tomashevsky",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Aronian-Tomashevsky: activate the light-squared bishop; pp. 116-119; PDF 117-120",
+      "title": "Aronian-Tomashevsky: activate the light-squared bishop",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 120,
+        "printedPages": "116-119",
+        "section": "Complete Levon Aronian-Evgeny Tomashevsky game and final remarks; the Harika-Adams game begins on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-stonewall-harika-adams",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Harika-Adams: prepare ...b6 and ...c5; pp. 119-121; PDF 120-122",
+      "title": "Harika-Adams: prepare ...b6 and ...c5",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "119-121",
+        "section": "Complete Dronavalli Harika-Michael Adams game and Chapter 6 final remarks; stop before Chapter 7 on PDF 123",
+        "ebookLocation": null
+      }
     }
   ]
 }

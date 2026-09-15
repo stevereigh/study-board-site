@@ -1038,6 +1038,54 @@
         "pawn-breaks--flores-caro-kann-overview",
         "pawn-breaks--flores-slav-overview"
       ]
+    },
+    {
+      "id": "study-weak-squares-stonewall-e5-card",
+      "crossrefIds": [
+        "weak-squares--flores-stonewall-overview"
+      ]
+    },
+    {
+      "id": "study-pawn-chains-stonewall-two-sides",
+      "crossrefIds": [
+        "pawn-chains--flores-stonewall-overview"
+      ]
+    },
+    {
+      "id": "study-weak-squares-stonewall-ideal-and-resistance",
+      "crossrefIds": [
+        "weak-squares--flores-stonewall-mareco-aravind"
+      ]
+    },
+    {
+      "id": "study-open-files-stonewall-c-file",
+      "crossrefIds": [
+        "open-files--flores-stonewall-hammer-djurhuus"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-stonewall-two-stage",
+      "crossrefIds": [
+        "pawn-breaks--flores-stonewall-cvitan-doric"
+      ]
+    },
+    {
+      "id": "study-attacking-prerequisites-stonewall-black-attack",
+      "crossrefIds": [
+        "attacking-prerequisites--flores-stonewall-cordova-naumkin"
+      ]
+    },
+    {
+      "id": "study-good-and-bad-bishops-stonewall-bishop-route",
+      "crossrefIds": [
+        "good-and-bad-bishops--flores-stonewall-aronian-tomashevsky"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-stonewall-prepared-c5",
+      "crossrefIds": [
+        "pawn-breaks--flores-stonewall-harika-adams"
+      ]
     }
   ]
 }

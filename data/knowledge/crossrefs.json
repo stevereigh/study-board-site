@@ -3322,6 +3322,314 @@
         "section": "Complete final Chapter 4 fragment and comparison; stop before Chapter 5 on PDF 87",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "weak-squares--flores-stonewall-overview",
+      "chapterId": "flores-stonewall-overview",
+      "locator": {
+        "pdfPageStart": 104,
+        "pdfPageEnd": 105,
+        "printedPages": "103-104",
+        "section": "Chapter 6 introduction, formation diagram and complete plan lists; stop at the first annotated position on PDF 105",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-stonewall-overview",
+      "chapterId": "flores-stonewall-overview",
+      "locator": {
+        "pdfPageStart": 104,
+        "pdfPageEnd": 105,
+        "printedPages": "103-104",
+        "section": "Chapter 6 introduction, formation diagram and complete plan lists; stop at the first annotated position on PDF 105",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-stonewall-overview",
+      "chapterId": "flores-stonewall-overview",
+      "locator": {
+        "pdfPageStart": 104,
+        "pdfPageEnd": 105,
+        "printedPages": "103-104",
+        "section": "Chapter 6 introduction, formation diagram and complete plan lists; stop at the first annotated position on PDF 105",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-stonewall-overview",
+      "chapterId": "flores-stonewall-overview",
+      "locator": {
+        "pdfPageStart": 104,
+        "pdfPageEnd": 105,
+        "printedPages": "103-104",
+        "section": "Chapter 6 introduction, formation diagram and complete plan lists; stop at the first annotated position on PDF 105",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-stonewall-mareco-aravind",
+      "chapterId": "flores-stonewall-mareco-aravind",
+      "locator": {
+        "pdfPageStart": 105,
+        "pdfPageEnd": 106,
+        "printedPages": "104-105",
+        "section": "Complete Sandro Mareco-Chithambaram Aravind fragment and concluding note; stop before Hammer-Djurhuus on PDF 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-stonewall-mareco-aravind",
+      "chapterId": "flores-stonewall-mareco-aravind",
+      "locator": {
+        "pdfPageStart": 105,
+        "pdfPageEnd": 106,
+        "printedPages": "104-105",
+        "section": "Complete Sandro Mareco-Chithambaram Aravind fragment and concluding note; stop before Hammer-Djurhuus on PDF 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-stonewall-mareco-aravind",
+      "chapterId": "flores-stonewall-mareco-aravind",
+      "locator": {
+        "pdfPageStart": 105,
+        "pdfPageEnd": 106,
+        "printedPages": "104-105",
+        "section": "Complete Sandro Mareco-Chithambaram Aravind fragment and concluding note; stop before Hammer-Djurhuus on PDF 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-stonewall-hammer-djurhuus",
+      "chapterId": "flores-stonewall-hammer-djurhuus",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 109,
+        "printedPages": "106-108",
+        "section": "Complete Jon Ludvig Hammer-Rune Djurhuus game and final remarks; the Cvitan-Doric game begins on PDF 109",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-stonewall-hammer-djurhuus",
+      "chapterId": "flores-stonewall-hammer-djurhuus",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 109,
+        "printedPages": "106-108",
+        "section": "Complete Jon Ludvig Hammer-Rune Djurhuus game and final remarks; the Cvitan-Doric game begins on PDF 109",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-stonewall-hammer-djurhuus",
+      "chapterId": "flores-stonewall-hammer-djurhuus",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 109,
+        "printedPages": "106-108",
+        "section": "Complete Jon Ludvig Hammer-Rune Djurhuus game and final remarks; the Cvitan-Doric game begins on PDF 109",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-stonewall-hammer-djurhuus",
+      "chapterId": "flores-stonewall-hammer-djurhuus",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 109,
+        "printedPages": "106-108",
+        "section": "Complete Jon Ludvig Hammer-Rune Djurhuus game and final remarks; the Cvitan-Doric game begins on PDF 109",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-stonewall-cvitan-doric",
+      "chapterId": "flores-stonewall-cvitan-doric",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 113,
+        "printedPages": "108-112",
+        "section": "Complete Ognjen Cvitan-Darko Doric game and final remarks; stop before Cordova-Naumkin on PDF 114",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-stonewall-cvitan-doric",
+      "chapterId": "flores-stonewall-cvitan-doric",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 113,
+        "printedPages": "108-112",
+        "section": "Complete Ognjen Cvitan-Darko Doric game and final remarks; stop before Cordova-Naumkin on PDF 114",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-stonewall-cvitan-doric",
+      "chapterId": "flores-stonewall-cvitan-doric",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 113,
+        "printedPages": "108-112",
+        "section": "Complete Ognjen Cvitan-Darko Doric game and final remarks; stop before Cordova-Naumkin on PDF 114",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--flores-stonewall-cvitan-doric",
+      "chapterId": "flores-stonewall-cvitan-doric",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 113,
+        "printedPages": "108-112",
+        "section": "Complete Ognjen Cvitan-Darko Doric game and final remarks; stop before Cordova-Naumkin on PDF 114",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-stonewall-cordova-naumkin",
+      "chapterId": "flores-stonewall-cordova-naumkin",
+      "locator": {
+        "pdfPageStart": 114,
+        "pdfPageEnd": 117,
+        "printedPages": "113-116",
+        "section": "Complete Emilio Cordova-Igor Naumkin game and final remarks; the Aronian-Tomashevsky game begins on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-stonewall-cordova-naumkin",
+      "chapterId": "flores-stonewall-cordova-naumkin",
+      "locator": {
+        "pdfPageStart": 114,
+        "pdfPageEnd": 117,
+        "printedPages": "113-116",
+        "section": "Complete Emilio Cordova-Igor Naumkin game and final remarks; the Aronian-Tomashevsky game begins on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-stonewall-cordova-naumkin",
+      "chapterId": "flores-stonewall-cordova-naumkin",
+      "locator": {
+        "pdfPageStart": 114,
+        "pdfPageEnd": 117,
+        "printedPages": "113-116",
+        "section": "Complete Emilio Cordova-Igor Naumkin game and final remarks; the Aronian-Tomashevsky game begins on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--flores-stonewall-cordova-naumkin",
+      "chapterId": "flores-stonewall-cordova-naumkin",
+      "locator": {
+        "pdfPageStart": 114,
+        "pdfPageEnd": 117,
+        "printedPages": "113-116",
+        "section": "Complete Emilio Cordova-Igor Naumkin game and final remarks; the Aronian-Tomashevsky game begins on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-stonewall-aronian-tomashevsky",
+      "chapterId": "flores-stonewall-aronian-tomashevsky",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 120,
+        "printedPages": "116-119",
+        "section": "Complete Levon Aronian-Evgeny Tomashevsky game and final remarks; the Harika-Adams game begins on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-stonewall-aronian-tomashevsky",
+      "chapterId": "flores-stonewall-aronian-tomashevsky",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 120,
+        "printedPages": "116-119",
+        "section": "Complete Levon Aronian-Evgeny Tomashevsky game and final remarks; the Harika-Adams game begins on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-stonewall-aronian-tomashevsky",
+      "chapterId": "flores-stonewall-aronian-tomashevsky",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 120,
+        "printedPages": "116-119",
+        "section": "Complete Levon Aronian-Evgeny Tomashevsky game and final remarks; the Harika-Adams game begins on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-stonewall-aronian-tomashevsky",
+      "chapterId": "flores-stonewall-aronian-tomashevsky",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 120,
+        "printedPages": "116-119",
+        "section": "Complete Levon Aronian-Evgeny Tomashevsky game and final remarks; the Harika-Adams game begins on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-stonewall-harika-adams",
+      "chapterId": "flores-stonewall-harika-adams",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "119-121",
+        "section": "Complete Dronavalli Harika-Michael Adams game and Chapter 6 final remarks; stop before Chapter 7 on PDF 123",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-stonewall-harika-adams",
+      "chapterId": "flores-stonewall-harika-adams",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "119-121",
+        "section": "Complete Dronavalli Harika-Michael Adams game and Chapter 6 final remarks; stop before Chapter 7 on PDF 123",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--flores-stonewall-harika-adams",
+      "chapterId": "flores-stonewall-harika-adams",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "119-121",
+        "section": "Complete Dronavalli Harika-Michael Adams game and Chapter 6 final remarks; stop before Chapter 7 on PDF 123",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-stonewall-harika-adams",
+      "chapterId": "flores-stonewall-harika-adams",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "119-121",
+        "section": "Complete Dronavalli Harika-Michael Adams game and Chapter 6 final remarks; stop before Chapter 7 on PDF 123",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-majorities--flores-stonewall-harika-adams",
+      "chapterId": "flores-stonewall-harika-adams",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "119-121",
+        "section": "Complete Dronavalli Harika-Michael Adams game and Chapter 6 final remarks; stop before Chapter 7 on PDF 123",
+        "ebookLocation": null
+      }
     }
   ]
 }
