@@ -441,6 +441,67 @@
         "converting-advantages--nimzovich-flank-rook-outpost",
         "converting-advantages--shereshevsky-basic-principles"
       ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-target",
+      "crossrefIds": [
+        "seventh-rank-rooks--nimzovich-seventh-rank-targets"
+      ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-checks",
+      "crossrefIds": [
+        "seventh-rank-rooks--nimzovich-seventh-rank-checks"
+      ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-barrier",
+      "crossrefIds": [
+        "seventh-rank-rooks--nimzovich-seventh-rank-passed-pawns"
+      ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-sentinel",
+      "crossrefIds": [
+        "seventh-rank-rooks--nimzovich-seventh-rank-perpetual"
+      ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-knight-draw",
+      "crossrefIds": [
+        "seventh-rank-rooks--nimzovich-seventh-rank-perpetual"
+      ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-support",
+      "crossrefIds": [
+        "seventh-rank-rooks--nimzovich-seventh-eighth-coordination"
+      ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-tempo-raid",
+      "crossrefIds": [
+        "seventh-rank-rooks--nimzovich-seventh-rank-tempo"
+      ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-conversion",
+      "crossrefIds": [
+        "seventh-rank-rooks--nimzovich-seventh-rank-conversion"
+      ]
+    },
+    {
+      "id": "study-tempo-seventh-rank",
+      "crossrefIds": [
+        "tempo--nimzovich-seventh-rank-tempo",
+        "tempo--nimzovich-exchange-tempo"
+      ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-own-game",
+      "crossrefIds": [
+        "seventh-rank-rooks--nimzovich-seventh-rank-targets"
+      ]
     }
   ]
 }

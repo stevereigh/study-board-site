@@ -689,6 +689,97 @@
         "section": "Intact Chapter 2 section 6 flank discussion from In a flank file on PDF 57 through the role-exchange paragraph on PDF 58; exclude the opening continuation fragment on PDF 57 and stop before the closing diagram 28 example",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "nimzovich-seventh-rank-targets",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Seventh-rank entry: choose the target before attacking; pp. 37-41; PDF 60-64",
+      "title": "Seventh-rank entry: choose the target before attacking",
+      "locator": {
+        "pdfPageStart": 60,
+        "pdfPageEnd": 64,
+        "printedPages": "37-41",
+        "section": "Chapter 3 section 1 and section 2 through the diagram 32 discussion at the top of PDF 64; stop before the subsequent queen-checking technique",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-seventh-rank-checks",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Use checks to reach the target without losing time; pp. 41-42; PDF 64-65",
+      "title": "Use checks to reach the target without losing time",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 65,
+        "printedPages": "41-42",
+        "section": "Chapter 3 section 2 from the queen-checking discussion after diagram 32 through the diagram 33 conclusion; stop before section 3 on PDF 65",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-seventh-rank-passed-pawns",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Confine the king and support an advanced passed pawn; pp. 41-43; PDF 64-66",
+      "title": "Confine the king and support an advanced passed pawn",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 66,
+        "printedPages": "41-43",
+        "section": "Diagram 34 on PDF 64; Chapter 3 section 3 definition and first special case on PDF 65 with diagram 35 on PDF 66; exclude the second special case beginning at the foot of PDF 65",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-seventh-rank-perpetual",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Save the draw: keep the piece that blocks the king’s escape; pp. 42-44; PDF 65-67",
+      "title": "Save the draw: keep the piece that blocks the king’s escape",
+      "locator": {
+        "pdfPageStart": 65,
+        "pdfPageEnd": 67,
+        "printedPages": "42-44",
+        "section": "Chapter 3 section 3 second special case from the final paragraph of PDF 65 through the rook-and-knight third case at the top of PDF 67; diagram 36 on PDF 66",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-seventh-eighth-coordination",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Coordinate two rooks across the seventh and eighth ranks; pp. 44-46; PDF 67-69",
+      "title": "Coordinate two rooks across the seventh and eighth ranks",
+      "locator": {
+        "pdfPageStart": 67,
+        "pdfPageEnd": 69,
+        "printedPages": "44-46",
+        "section": "Chapter 3 section 3 fourth case and fifth case introduction through subsection (b), including diagram 38; stop before subsection (c) after the diagram 38 explanation on PDF 69",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-seventh-rank-tempo",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Use renewed mating threats to win time for captures; pp. 46-47; PDF 69-70",
+      "title": "Use renewed mating threats to win time for captures",
+      "locator": {
+        "pdfPageStart": 69,
+        "pdfPageEnd": 70,
+        "printedPages": "46-47",
+        "section": "Chapter 3 section 3 subsection (c), diagram 39 and concluding explanation of the five cases; stop before the introduction to the closing diagram 40 game on PDF 70",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-seventh-rank-conversion",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Convert an active rook into a barrier for a passed pawn; pp. 47-48; PDF 70-71",
+      "title": "Convert an active rook into a barrier for a passed pawn",
+      "locator": {
+        "pdfPageStart": 70,
+        "pdfPageEnd": 71,
+        "printedPages": "47-48",
+        "section": "Chapter 3 closing diagram 40, Nimzovich-Bernstein, Vilna 1912: from its introduction on PDF 70 through the resignation on PDF 71; stop before diagram 41 and its separate game",
+        "ebookLocation": null
+      }
     }
   ]
 }

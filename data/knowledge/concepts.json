@@ -236,6 +236,10 @@
     {
       "id": "unpinning",
       "name": "Unpinning"
+    },
+    {
+      "id": "seventh-rank-rooks",
+      "name": "Rooks on the seventh and eighth ranks"
     }
   ]
 }

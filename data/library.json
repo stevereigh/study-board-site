@@ -1187,6 +1187,20 @@
         "playReminders": [
           "Who benefits from the pieces that will remain?"
         ]
+      },
+      {
+        "id": "study-tempo-seventh-rank",
+        "concept": "Tempo",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Development"
+        ],
+        "instructions": "Compare the diagram 39 rook raid with the earlier opening exchange-tempo lesson. For each, name useful work accomplished and the reply actually required from the opponent.",
+        "successCheck": "Give one opening example and one endgame example where a threat gains useful time, without treating every check as a tempo gain.",
+        "playReminders": [
+          "Does this threat improve my position while making the opponent respond?"
+        ]
       }
     ]
   },
@@ -1677,6 +1691,302 @@
         "successCheck": "Describe the advantage before and after the exchange, including how the passed pawn is supported.",
         "playReminders": [
           "What preparation makes the winning operation work, and what counterplay is available?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-seventh-rank-targets",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Seventh-rank entry: choose the target before attacking; pp. 37-41; PDF 60-64",
+    "title": "Seventh-rank entry: choose the target before attacking",
+    "tags": [
+      "seventh-rank",
+      "rooks",
+      "targets",
+      "opening-lines"
+    ],
+    "note": "Entering the seventh rank gives a rook access to pawns and squares that are difficult to reach from the front. Nimzowitsch presents this as a natural continuation of open-file play, including ordinary endings where the benefit is persistent activity rather than an immediate mating attack. Entry still needs a purpose: name a pawn to attack or a square whose occupation would change the position.\n\nThe chapter contrasts adding pressure against that objective with forcing a blocking pawn out of the way. The latter may require a sacrifice. In diagram 32, the g7-pawn prevents the attacking pieces from reaching h7 effectively. Rxg7+ removes that obstruction; after acceptance, the second rook enters with check and the queen can join the attack. The short branch ending with Kh8 permits immediate mate, while the king&#x27;s alternative escape requires further calculation.\n\nThe discussion also warns against abandoning the seventh rank merely to chase a pawn sideways on a lower rank. Retaining the rank may allow a rook to attack an advancing pawn from behind and preserve other threats. Treat that preference as a planning question, not an exceptionless rule. In your own review, compare the target, the time needed to reach it and the opponent&#x27;s strongest counterplay before deciding that an advanced rook is useful.",
+    "keyIdeas": [
+      "Choose a specific pawn or entry square.",
+      "Compare reinforcement with a forcing clearance.",
+      "Check both king escapes and counterplay before claiming a win."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-rooks-target",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Read sections 1-2 through diagram 32. At diagram 32, name the target before calculating Rxg7+. Compare the two king replies after the second rook enters.",
+        "successCheck": "Identify h7 as the objective and show why Kh8 allows immediate mate while Kf8 requires another continuation.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      },
+      {
+        "id": "study-seventh-rank-rooks-own-game",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Review one completed game in which a rook entered, or could enter, the opponent’s second rank. Identify a target, the king’s escape route and the opponent’s strongest counterplay. Compare with the source’s seventh-rank principles.",
+        "successCheck": "Write a short plan tied to an actual position; if the position offers no sound entry, explain the obstacle rather than forcing the pattern.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-seventh-rank-checks",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Use checks to reach the target without losing time; pp. 41-42; PDF 64-65",
+    "title": "Use checks to reach the target without losing time",
+    "tags": [
+      "seventh-rank",
+      "tempo",
+      "forcing-moves",
+      "queen-coordination"
+    ],
+    "note": "An attack can fail even when its final arrangement would be decisive, because the defender gets a move to create a stronger threat. Nimzowitsch therefore examines queen routes that retain contact with a target while checking the king. The check is useful because it limits the defender&#x27;s immediate choices during the transfer, not because every check improves a position.\n\nDiagram 33 combines a target on the seventh rank with a dangerous enemy counterthreat. A careless route lets Black push the e-pawn with check and activate a rook against White&#x27;s king. The successful mechanism steers the black king while arranging to capture the c5-pawn with check, then finishes on e7. The audit legally replays a mating route and independently finds another; the abbreviated descriptive notation is not treated as a uniqueness claim.\n\nFor practice, cover the printed continuation and name Black&#x27;s threat before calculating White&#x27;s move. Follow the queen&#x27;s relation to both the king and the target at each step. Then compare a tempting route that drops the checking sequence. This exercise connects rook penetration with the earlier tempo and forcing-move lessons: useful threats can earn time for a plan, but only when the opponent&#x27;s strongest legal responses have been considered.",
+    "keyIdeas": [
+      "Keep contact with the target while directing the king.",
+      "Identify the defender’s counterthreat before beginning.",
+      "A check earns time only when it serves the plan."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-rooks-checks",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Read the queen-checking explanation and diagram 33. Identify Black’s e-pawn countercheck, then find a queen route that captures c5 with check and finishes on e7.",
+        "successCheck": "Replay a legal mating route and explain why dropping the checking sequence can allow counterplay; do not assume a unique first move.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-seventh-rank-passed-pawns",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Confine the king and support an advanced passed pawn; pp. 41-43; PDF 64-66",
+    "title": "Confine the king and support an advanced passed pawn",
+    "tags": [
+      "seventh-rank",
+      "passed-pawns",
+      "king-restriction",
+      "conversion"
+    ],
+    "note": "A rook on the seventh rank is especially effective when the enemy king cannot cross that rank. Nimzowitsch distinguishes mere occupation from a barrier that actually confines the king. The location of a defending pawn matters: a square made available by a different pawn placement can let the king escape, changing the value of the entire arrangement.\n\nAn advanced passed pawn can exploit this confinement because the defending king cannot approach it directly. Diagram 34 shows the stronger side changing the material balance to obtain that relationship. The queen captures the bishop with check, then gives itself up for a rook after the interposition. The resulting b-pawn advance works with the rook on a7 while Black&#x27;s king remains behind the barrier. Judge the resulting position instead of rejecting the sequence because White relinquishes the queen.\n\nThe adjacent example further emphasizes the defending king&#x27;s route: a king that can escape the confinement may change a win into a draw. For study, mark the controlled squares and the promotion route separately, then connect them. This is a bounded lesson in rook-and-pawn cooperation, not a general rook-ending method or proof of the source&#x27;s broad numerical claims about how often such positions win.",
+    "keyIdeas": [
+      "Occupation and actual king confinement are different.",
+      "A passed pawn becomes stronger when the king cannot approach.",
+      "Evaluate a sacrifice by the resulting coordination."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-rooks-barrier",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Study the definition of complete seventh-rank control and diagram 34. Replay the queen sacrifice and mark the king’s unavailable escape squares after b6.",
+        "successCheck": "Explain how the rook and passed pawn cooperate, and why a change in the king’s access would matter.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-seventh-rank-perpetual",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Save the draw: keep the piece that blocks the king’s escape; pp. 42-44; PDF 65-67",
+    "title": "Save the draw: keep the piece that blocks the king’s escape",
+    "tags": [
+      "seventh-rank",
+      "perpetual-check",
+      "rook-coordination",
+      "defense"
+    ],
+    "note": "When the opponent has decisive threats, repeated checks may be the practical result to seek. Nimzowitsch&#x27;s doubled-rook example makes the division of labor precise: one rook gives the checks while the other prevents the king from escaping in the opposite direction. Changing the checking rook for variety can destroy the arrangement and let the king reach safety.\n\nIn diagram 36, Rfe7+ preserves the rook on d7 as the barrier. The checked continuation keeps the black king on the constrained side and returns to the same position. Rde7+ instead releases the escape route through d8 and c8 toward b8. The study task is to explain the role of the rook that stays still, not merely to memorize a sequence of checks.\n\nThe following complete prose position replaces the checking rook with a knight. Immediate knight checks let the king escape; first moving the rook to d7 restores the necessary confinement. The book then considers an altered position with an extra enemy rook, showing that the opponent&#x27;s own material may obstruct an escape square. That variant is explanatory context only. The two assigned complete positions are independently checked; the exercise focuses on preserving the drawing mechanism rather than assuming every repeated check automatically guarantees a draw.",
+    "keyIdeas": [
+      "Identify the piece that restricts the king before checking.",
+      "Do not move the barrier piece without recalculating escapes.",
+      "Prepare coordination before beginning a checking sequence."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-rooks-sentinel",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "In diagram 36, compare Rfe7+ with Rde7+. Follow the defender’s king route in each case, then repeat the working checking arrangement.",
+        "successCheck": "Name the rook that must stay on d7 and show the escape toward b8 after the wrong rook moves.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      },
+      {
+        "id": "study-seventh-rank-rooks-knight-draw",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Set up the complete rook-knight prose position listed in the reading notes. Compare immediate Nh7+ with first playing Rd7; test the latter after ...e1=Q.",
+        "successCheck": "Explain why the rook must stop the d-file escape and legally replay the knight checking cycle. The extended cycle is independent practice guidance.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-seventh-eighth-coordination",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Coordinate two rooks across the seventh and eighth ranks; pp. 44-46; PDF 67-69",
+    "title": "Coordinate two rooks across the seventh and eighth ranks",
+    "tags": [
+      "seventh-rank",
+      "eighth-rank",
+      "rook-coordination",
+      "mating-patterns"
+    ],
+    "note": "Two rooks can combine checks along the seventh rank with an attack on the eighth. The chapter first explains how to drive the king away from a corner and collect material with check. It then examines a limiting detail: the king may remain close enough to attack the nearer rook, preventing the other rook from making its intended mating move.\n\nThe attacker needs to change that relationship. Protecting the exposed rook, driving the king away with another piece or advancing a pawn with check can make the transfer to the eighth rank work. Diagram 38 supplies a complete position in which the rooks establish their attacking arrangement before the knight and pawn join. The source&#x27;s two branches show different ways that support can arrive. A claim that a later pawn move threatens mate is retained as a threat to calculate, not rewritten as a fully specified forced line.\n\nStudy the position from both sides. For the attacker, explain which rook needs protection and what piece can provide it. For the defender, identify the king&#x27;s contact with that rook and the available escape squares. Diagram 37 and several short prose examples omit a king and are useful schematic explanations, but they are not legal-position puzzles. The checked diagram 38 branches demonstrate coordination without claiming every historical move is best play.",
+    "keyIdeas": [
+      "Check whether the nearer rook can be captured.",
+      "Use another piece or pawn to change the king-rook relationship.",
+      "Separate a mating threat from a forced mating sequence."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-rooks-support",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "At diagram 38, establish the source rook arrangement, then compare the two printed replies to Ng5. Identify how a pawn or another piece will support the attack.",
+        "successCheck": "Distinguish protection of the nearer rook from driving the king away, and state a mating threat without inventing omitted replies.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-seventh-rank-tempo",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Use renewed mating threats to win time for captures; pp. 46-47; PDF 69-70",
+    "title": "Use renewed mating threats to win time for captures",
+    "tags": [
+      "seventh-rank",
+      "tempo",
+      "counterplay",
+      "passed-pawns"
+    ],
+    "note": "A capture normally allows the opponent a turn to pursue counterplay. Diagram 39 shows how renewed mating threats can change that rhythm. Black has a pawn very near promotion, so simply collecting material on the seventh rank is not enough. White must arrange each raid so that Black spends the reply meeting the threat against the king.\n\nAfter the rook pair reaches its characteristic attacking arrangement, one rook captures a pawn and threatens mate. The king moves, White restores the rook arrangement with check, and another capture becomes possible. Repeating the mechanism allows the rooks to work across the rank while the dangerous passed pawn is held back by the urgency of king defense. The final move order matters: taking the knight too early would release that pawn&#x27;s promotion.\n\nFor practice, annotate each move with its job: checking the king, rebuilding the threat, taking material or dealing with the passer. At each quiet capture, state the exact mating threat that makes the opponent&#x27;s reply necessary. This turns a long sequence into a recognizable decision process while still requiring calculation. The printed line and an independent engine continuation are checked separately; the lesson is how threats create time, not permission to ignore a passed pawn whenever rooks look active.",
+    "keyIdeas": [
+      "A capture can retain the initiative by renewing a mating threat.",
+      "Restore the attacking arrangement before collecting the next target.",
+      "Recheck promotion threats at every change in move order."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-rooks-tempo-raid",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Replay diagram 39 slowly. Label every rook move as check, capture or restoration of a mating threat. Pause before taking the a7-knight.",
+        "successCheck": "Explain why the extra checking move is needed before the knight capture and why the a-pawn cannot simply promote during the printed sequence.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      },
+      {
+        "id": "study-tempo-seventh-rank",
+        "concept": "Tempo",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Development"
+        ],
+        "instructions": "Compare the diagram 39 rook raid with the earlier opening exchange-tempo lesson. For each, name useful work accomplished and the reply actually required from the opponent.",
+        "successCheck": "Give one opening example and one endgame example where a threat gains useful time, without treating every check as a tempo gain.",
+        "playReminders": [
+          "Does this threat improve my position while making the opponent respond?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-seventh-rank-conversion",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Convert an active rook into a barrier for a passed pawn; pp. 47-48; PDF 70-71",
+    "title": "Convert an active rook into a barrier for a passed pawn",
+    "tags": [
+      "seventh-rank",
+      "conversion",
+      "king-activity",
+      "passed-pawns"
+    ],
+    "note": "The closing conversion example links the chapter&#x27;s patterns to an actual ending. Nimzowitsch describes deliberately building a position with a passed pawn and a rook that confines the enemy king. The important question is how the position changes through exchanges, rather than whether the attacker retains every piece throughout the sequence.\n\nIn diagram 40, the source begins with Black&#x27;s rook transfer to f8. White takes the b-pawn, then responds to Black&#x27;s central challenge by arranging a passed f-pawn. The rook later reaches the seventh rank and the king advances to help. Black&#x27;s extra bishop does not settle the evaluation because its available jobs and the king&#x27;s restricted movement matter more than the piece count alone. The selected source continuation and one defensive alternative replay legally. Independent analysis finds a different continuation at one point, so the historical score is presented as an instructive route rather than the only winning method.\n\nIn your own game review, look for the moment an activity advantage can become a stable pawn-and-rook arrangement. Name the intended passer, the king barrier and the supporting king route. Then test the opponent&#x27;s most forcing reply. This section stops before the separate diagram 41 saving combination; that game remains outside the assigned material even though the chapter boundary was visually checked.",
+    "keyIdeas": [
+      "Describe the arrangement you want after the exchanges.",
+      "Combine the passer, the rook barrier and king support.",
+      "Material count alone does not explain piece effectiveness."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-rooks-conversion",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Read the diagram 40 ending. Stop after White’s rook reaches b7, identify the passer and the king barrier, then predict the supporting king route.",
+        "successCheck": "Describe the intended final arrangement and one concrete defensive resource; distinguish the printed route from a unique solution.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
         ]
       }
     ]

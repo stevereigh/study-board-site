@@ -1155,6 +1155,182 @@
         "section": "Intact Chapter 2 section 6 flank discussion from In a flank file on PDF 57 through the role-exchange paragraph on PDF 58; exclude the opening continuation fragment on PDF 57 and stop before the closing diagram 28 example",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "seventh-rank-rooks--nimzovich-seventh-rank-targets",
+      "chapterId": "nimzovich-seventh-rank-targets",
+      "locator": {
+        "pdfPageStart": 60,
+        "pdfPageEnd": 64,
+        "printedPages": "37-41",
+        "section": "Chapter 3 section 1 and section 2 through the diagram 32 discussion at the top of PDF 64; stop before the subsequent queen-checking technique",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--nimzovich-seventh-rank-checks",
+      "chapterId": "nimzovich-seventh-rank-checks",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 65,
+        "printedPages": "41-42",
+        "section": "Chapter 3 section 2 from the queen-checking discussion after diagram 32 through the diagram 33 conclusion; stop before section 3 on PDF 65",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--nimzovich-seventh-rank-passed-pawns",
+      "chapterId": "nimzovich-seventh-rank-passed-pawns",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 66,
+        "printedPages": "41-43",
+        "section": "Diagram 34 on PDF 64; Chapter 3 section 3 definition and first special case on PDF 65 with diagram 35 on PDF 66; exclude the second special case beginning at the foot of PDF 65",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--nimzovich-seventh-rank-perpetual",
+      "chapterId": "nimzovich-seventh-rank-perpetual",
+      "locator": {
+        "pdfPageStart": 65,
+        "pdfPageEnd": 67,
+        "printedPages": "42-44",
+        "section": "Chapter 3 section 3 second special case from the final paragraph of PDF 65 through the rook-and-knight third case at the top of PDF 67; diagram 36 on PDF 66",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--nimzovich-seventh-eighth-coordination",
+      "chapterId": "nimzovich-seventh-eighth-coordination",
+      "locator": {
+        "pdfPageStart": 67,
+        "pdfPageEnd": 69,
+        "printedPages": "44-46",
+        "section": "Chapter 3 section 3 fourth case and fifth case introduction through subsection (b), including diagram 38; stop before subsection (c) after the diagram 38 explanation on PDF 69",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--nimzovich-seventh-rank-tempo",
+      "chapterId": "nimzovich-seventh-rank-tempo",
+      "locator": {
+        "pdfPageStart": 69,
+        "pdfPageEnd": 70,
+        "printedPages": "46-47",
+        "section": "Chapter 3 section 3 subsection (c), diagram 39 and concluding explanation of the five cases; stop before the introduction to the closing diagram 40 game on PDF 70",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--nimzovich-seventh-rank-conversion",
+      "chapterId": "nimzovich-seventh-rank-conversion",
+      "locator": {
+        "pdfPageStart": 70,
+        "pdfPageEnd": 71,
+        "printedPages": "47-48",
+        "section": "Chapter 3 closing diagram 40, Nimzovich-Bernstein, Vilna 1912: from its introduction on PDF 70 through the resignation on PDF 71; stop before diagram 41 and its separate game",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--nimzovich-seventh-rank-targets",
+      "chapterId": "nimzovich-seventh-rank-targets",
+      "locator": {
+        "pdfPageStart": 60,
+        "pdfPageEnd": 64,
+        "printedPages": "37-41",
+        "section": "Chapter 3 section 1 and section 2 through the diagram 32 discussion at the top of PDF 64; stop before the subsequent queen-checking technique",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--nimzovich-seventh-rank-targets",
+      "chapterId": "nimzovich-seventh-rank-targets",
+      "locator": {
+        "pdfPageStart": 60,
+        "pdfPageEnd": 64,
+        "printedPages": "37-41",
+        "section": "Chapter 3 section 1 and section 2 through the diagram 32 discussion at the top of PDF 64; stop before the subsequent queen-checking technique",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--nimzovich-seventh-rank-checks",
+      "chapterId": "nimzovich-seventh-rank-checks",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 65,
+        "printedPages": "41-42",
+        "section": "Chapter 3 section 2 from the queen-checking discussion after diagram 32 through the diagram 33 conclusion; stop before section 3 on PDF 65",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--nimzovich-seventh-rank-tempo",
+      "chapterId": "nimzovich-seventh-rank-tempo",
+      "locator": {
+        "pdfPageStart": 69,
+        "pdfPageEnd": 70,
+        "printedPages": "46-47",
+        "section": "Chapter 3 section 3 subsection (c), diagram 39 and concluding explanation of the five cases; stop before the introduction to the closing diagram 40 game on PDF 70",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "mating-patterns--nimzovich-seventh-eighth-coordination",
+      "chapterId": "nimzovich-seventh-eighth-coordination",
+      "locator": {
+        "pdfPageStart": 67,
+        "pdfPageEnd": 69,
+        "printedPages": "44-46",
+        "section": "Chapter 3 section 3 fourth case and fifth case introduction through subsection (b), including diagram 38; stop before subsection (c) after the diagram 38 explanation on PDF 69",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--nimzovich-seventh-rank-passed-pawns",
+      "chapterId": "nimzovich-seventh-rank-passed-pawns",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 66,
+        "printedPages": "41-43",
+        "section": "Diagram 34 on PDF 64; Chapter 3 section 3 definition and first special case on PDF 65 with diagram 35 on PDF 66; exclude the second special case beginning at the foot of PDF 65",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--nimzovich-seventh-rank-perpetual",
+      "chapterId": "nimzovich-seventh-rank-perpetual",
+      "locator": {
+        "pdfPageStart": 65,
+        "pdfPageEnd": 67,
+        "printedPages": "42-44",
+        "section": "Chapter 3 section 3 second special case from the final paragraph of PDF 65 through the rook-and-knight third case at the top of PDF 67; diagram 36 on PDF 66",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--nimzovich-seventh-rank-conversion",
+      "chapterId": "nimzovich-seventh-rank-conversion",
+      "locator": {
+        "pdfPageStart": 70,
+        "pdfPageEnd": 71,
+        "printedPages": "47-48",
+        "section": "Chapter 3 closing diagram 40, Nimzovich-Bernstein, Vilna 1912: from its introduction on PDF 70 through the resignation on PDF 71; stop before diagram 41 and its separate game",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--nimzovich-seventh-rank-conversion",
+      "chapterId": "nimzovich-seventh-rank-conversion",
+      "locator": {
+        "pdfPageStart": 70,
+        "pdfPageEnd": 71,
+        "printedPages": "47-48",
+        "section": "Chapter 3 closing diagram 40, Nimzovich-Bernstein, Vilna 1912: from its introduction on PDF 70 through the resignation on PDF 71; stop before diagram 41 and its separate game",
+        "ebookLocation": null
+      }
     }
   ]
 }
