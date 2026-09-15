@@ -288,6 +288,36 @@
       "crossrefIds": [
         "discovered-attacks--erwich-discovered-follow-through"
       ]
+    },
+    {
+      "id": "study-skewers-recognition",
+      "crossrefIds": [
+        "skewers--erwich-skewer-move-order"
+      ]
+    },
+    {
+      "id": "study-skewers-move-order",
+      "crossrefIds": [
+        "skewers--erwich-skewer-move-order"
+      ]
+    },
+    {
+      "id": "study-skewers-practice-242",
+      "crossrefIds": [
+        "skewers--erwich-skewer-practice-242"
+      ]
+    },
+    {
+      "id": "study-skewers-practice-243",
+      "crossrefIds": [
+        "skewers--erwich-skewer-practice-243"
+      ]
+    },
+    {
+      "id": "study-skewers-practice-245",
+      "crossrefIds": [
+        "skewers--erwich-skewer-practice-245"
+      ]
     }
   ]
 }

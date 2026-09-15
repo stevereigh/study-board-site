@@ -770,6 +770,72 @@
         "section": "Only diagram 217 on PDF 131 left; exclude diagram 218 on the right and all intervening exercises",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "skewers--erwich-skewer-move-order",
+      "chapterId": "erwich-skewer-move-order",
+      "locator": {
+        "pdfPageStart": 144,
+        "pdfPageEnd": 145,
+        "printedPages": null,
+        "section": "Complete Chapter 4 explanation and Willemze-Erwich worked example through PDF 145 left; stop before exercise 242 on the right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "skewers--erwich-skewer-practice-242",
+      "chapterId": "erwich-skewer-practice-242",
+      "locator": {
+        "pdfPageStart": 145,
+        "pdfPageEnd": 145,
+        "printedPages": null,
+        "section": "Only diagram 242 on PDF 145 right; the hyperlink beneath it points to exercise 243",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "skewers--erwich-skewer-practice-243",
+      "chapterId": "erwich-skewer-practice-243",
+      "locator": {
+        "pdfPageStart": 146,
+        "pdfPageEnd": 146,
+        "printedPages": null,
+        "section": "Only diagram 243 on PDF 146 left; exclude diagram 244 on the right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "skewers--erwich-skewer-practice-245",
+      "chapterId": "erwich-skewer-practice-245",
+      "locator": {
+        "pdfPageStart": 147,
+        "pdfPageEnd": 147,
+        "printedPages": null,
+        "section": "Only diagram 245 on PDF 147 left; exclude diagram 246 on the right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "double-attacks--erwich-skewer-move-order",
+      "chapterId": "erwich-skewer-move-order",
+      "locator": {
+        "pdfPageStart": 144,
+        "pdfPageEnd": 145,
+        "printedPages": null,
+        "section": "Complete Chapter 4 explanation and Willemze-Erwich worked example through PDF 145 left; stop before exercise 242 on the right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "removing-the-defender--erwich-skewer-move-order",
+      "chapterId": "erwich-skewer-move-order",
+      "locator": {
+        "pdfPageStart": 144,
+        "pdfPageEnd": 145,
+        "printedPages": null,
+        "section": "Complete Chapter 4 explanation and Willemze-Erwich worked example through PDF 145 left; stop before exercise 242 on the right",
+        "ebookLocation": null
+      }
     }
   ]
 }

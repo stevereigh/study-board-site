@@ -493,6 +493,154 @@
     ]
   },
   {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Skewers: alignment, defenders and move order; PDF 144-145",
+    "title": "Skewers: alignment, defenders and move order",
+    "tags": [
+      "skewers",
+      "double-attacks",
+      "move-order",
+      "removing-the-defender"
+    ],
+    "note": "A skewer attacks along a rank, file or diagonal through an enemy piece toward a second target. Erwich includes arrangements where the front target is more valuable or the two targets have equal value. When the front target is the king in check, he calls the skewer absolute; otherwise it is relative. In practical calculation, the essential question is what happens after the front piece moves, blocks the line or creates a stronger threat.\n\nWillemze-Erwich shows why an attractive alignment is only the beginning. Black&#x27;s king and queen share the seventh rank. Starting with Rh7+ allows the rook to block on f7, and the subsequent exchanges do not produce the intended gain. Starting with Qg7+ changes the result. After the rook blocks, Qxf7+ removes that defender and draws the king farther from its queen. Rh7+ then wins the queen behind the king.\n\nCompare the two move orders before learning the successful line. Name the defender, the king&#x27;s destination after each capture and the distance to the rear target. Do not assume that a checking skewer forces the king to move immediately: an interposition may be legal and decisive. This section covers the complete chapter introduction and its one worked example; it does not mark the exercise collection as solved.",
+    "keyIdeas": [
+      "Find two enemy targets on the same line.",
+      "Check blocks and defensive coverage before counting the rear target.",
+      "Reverse the move order when the defender survives the first attempt."
+    ],
+    "activities": [
+      {
+        "id": "study-skewers-recognition",
+        "concept": "Skewers",
+        "minutes": 10,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Double attacks"
+        ],
+        "instructions": "Read the Chapter 4 definition on PDF 144 and identify both targets in Willemze-Erwich. Explain absolute and relative skewers, then distinguish a skewer from a pin.",
+        "successCheck": "Name the line, front target and rear target, and explain why a block must still be checked.",
+        "playReminders": [
+          "What is behind the attacked piece, and can the defender save both?"
+        ]
+      },
+      {
+        "id": "study-skewers-move-order",
+        "concept": "Skewers",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Double attacks"
+        ],
+        "instructions": "Study PDF 144-145 left. Compare Rh7+ first with Qg7+ first. Follow the rook block and captures; explain which squares the king can protect at the end.",
+        "successCheck": "Show why Qg7+ Rf7 Qxf7+ Kxf7 Rh7+ wins the queen, while the rook-first attempt permits defense.",
+        "playReminders": [
+          "What is behind the attacked piece, and can the defender save both?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Skewer practice: exercise 242 and the quiet approach; PDF 145-145",
+    "title": "Skewer practice: exercise 242 and the quiet approach",
+    "tags": [
+      "skewers",
+      "practice",
+      "preparation"
+    ],
+    "note": "A relative skewer can begin with a quiet preparation. In exercise 242, White&#x27;s bishop can approach the a5-square, where it attacks the queen on b6 with a rook behind it on c7. The first move Bc3 prepares that diagonal rather than delivering a check. Before calculating, identify the intended bishop route and both targets.\n\nThe supplied PDF has no solution chapter. Independent analysis supports Bc3; one checked continuation is Rdc8, Ba5, Qd6, Bxc7 and Qxc7. White trades the bishop for a rook. The queen&#x27;s move is not forced by a check, so the defense can change the arrangement before the skewer appears. Against an earlier Qe6, Ba5 can attack the rook directly, with a different recapture.\n\nSpend five minutes finding the approach, then compare these two defensive ideas. An accurate answer should explain both the intended skewer and why preparation still has value when the queen leaves early. Do not label every later capture a skewer simply because the exercise comes from this chapter. The exercise develops recognition of the geometry and the habit of following the actual response. Only this numbered diagram is assigned here; the engine checks do not certify a unique solution or every possible defense.",
+    "keyIdeas": [
+      "Bc3 prepares Ba5 against queen and rook on one diagonal.",
+      "A relative skewer allows non-check responses.",
+      "If the queen moves early, reassess the remaining rook target."
+    ],
+    "activities": [
+      {
+        "id": "study-skewers-practice-242",
+        "concept": "Skewers",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Double attacks"
+        ],
+        "instructions": "Attempt diagram 242, PDF 145 right, before viewing guidance. Independent checks: Bc3 Rdc8 Ba5 Qd6 Bxc7 Qxc7; compare the early queen retreat Bc3 Qe6 Ba5 Rdc8 Bxc7 Rxc7.",
+        "successCheck": "Explain the quiet approach, both intended targets and the change when the queen moves early.",
+        "playReminders": [
+          "What is behind the attacked piece, and can the defender save both?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Skewer practice: exercise 243 and the king lure; PDF 146-146",
+    "title": "Skewer practice: exercise 243 and the king lure",
+    "tags": [
+      "skewers",
+      "practice",
+      "decoy"
+    ],
+    "note": "Exercise 243 asks you to work backward from a checking diagonal. Black&#x27;s rook on g8 is the rear target, but the king must first occupy a square that lets White&#x27;s bishop attack both. White can begin with Rxe6+, removing the bishop and offering the rook to the king.\n\nAfter Kxe6, Bc4+ checks the king along c4-d5-e6-f7-g8. When the king leaves that line, Bxg8 takes the rook behind it. The important feature is not just the sacrifice: the capture changes which square the king occupies, making the later bishop move forcing. Count the material after both stages to see what White has gained.\n\nThe king can decline the offered rook. Independent analysis also checks Kf8 followed by Bg4, retaining White&#x27;s advantage through a different continuation. Do not present the acceptance line as the only legal defense. Attempt the diagram first, then draw the diagonal and explain the purpose of each capture in your own words. The guidance is independent analysis of the visually reviewed position because the supplied book file lacks its answers. This is one selected practice position, not a completed endgame course or an exhaustive solution tree.",
+    "keyIdeas": [
+      "The capture on e6 draws the king onto the bishop diagonal.",
+      "After Bc4+, the rook on g8 is the rear target.",
+      "Check the king retreat that declines the sacrifice."
+    ],
+    "activities": [
+      {
+        "id": "study-skewers-practice-243",
+        "concept": "Skewers",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Double attacks"
+        ],
+        "instructions": "Attempt diagram 243, PDF 146 left. Independent check: Rxe6+ Kxe6 Bc4+ Ke7 Bxg8. Also consider refusal Rxe6+ Kf8 Bg4. The book answer key is absent.",
+        "successCheck": "Draw the c4-g8 diagonal, explain the king lure and recount the final material.",
+        "playReminders": [
+          "What is behind the attacked piece, and can the defender save both?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Skewer practice: exercise 245 from Black&#x27;s side; PDF 147-147",
+    "title": "Skewer practice: exercise 245 from Black&#x27;s side",
+    "tags": [
+      "skewers",
+      "practice",
+      "decoy",
+      "black-to-move"
+    ],
+    "note": "Exercise 245 presents the same preparation problem from Black&#x27;s side. The white queen and rook can become targets on the d-file, but the queen must first be drawn onto the useful square. Black begins with Rxd5, capturing the bishop and offering the rook. After Qxd5, the other rook moves to d8 and attacks the queen with White&#x27;s rook behind it on d2.\n\nThis is a relative skewer, so White can choose how to concede material. In a checked continuation, White gives up the queen with Qxd8+ and Black recaptures with Bxd8. The intended rear-rook capture therefore need not appear in the final line for the tactic to work. Evaluate the resulting imbalance instead of demanding a picturesque finish.\n\nWhite can also decline the first rook capture. Against Qe4, independent analysis supports Rxd2. The lesson is to connect a forcing material threat with the lure, then check whether a refusal changes your next move. Cover the guidance, calculate for Black for five minutes and compare acceptance with refusal. These continuations were independently analyzed because the supplied PDF lacks its solution chapter. They support this bounded exercise; they do not prove that every alternative loses in the same way or that a single answer is uniquely best.",
+    "keyIdeas": [
+      "Rxd5 draws the queen onto the d-file.",
+      "After Qxd5, Rd8 attacks queen and rear rook.",
+      "A defender may sacrifice the queen rather than move it off the line."
+    ],
+    "activities": [
+      {
+        "id": "study-skewers-practice-245",
+        "concept": "Skewers",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Double attacks"
+        ],
+        "instructions": "Play Black in diagram 245, PDF 147 left. Independent checks: Rxd5 Qxd5 Rd8 Qxd8+ Bxd8; compare refusal Rxd5 Qe4 Rxd2. Cover the guidance while calculating.",
+        "successCheck": "Explain the queen lure and relative skewer, including why the rear rook need not be captured in the accepting line.",
+        "playReminders": [
+          "What is behind the attacked piece, and can the defender save both?"
+        ]
+      }
+    ]
+  },
+  {
     "book": "Chess Structures: A Grandmaster Guide",
     "author": "Mauricio Flores Rios",
     "ref": "Studying pawn structures across openings; pp. 9-11; PDF 10-12",
