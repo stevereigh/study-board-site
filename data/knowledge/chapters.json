@@ -585,6 +585,58 @@
         "section": "Only exercise 280 on PDF 171 left; exclude exercise 281 on the right",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "nimzovich-open-file-definition",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Open files: clear a route and name the entry square; pp. 21-22; PDF 46-47",
+      "title": "Open files: clear a route and name the entry square",
+      "locator": {
+        "pdfPageStart": 46,
+        "pdfPageEnd": 47,
+        "printedPages": "21-22",
+        "section": "Chapter 2 section 1, Introductory; from PDF 46 through the paragraph before section 2 on PDF 47",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-files-by-exchange",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Opening files through exchanges and recaptures; pp. 22-23; PDF 47-48",
+      "title": "Opening files through exchanges and recaptures",
+      "locator": {
+        "pdfPageStart": 47,
+        "pdfPageEnd": 48,
+        "printedPages": "22-23",
+        "section": "Chapter 2 section 2: opening discussion through diagrams 15-16 and the central-posting conclusion on PDF 48; stop before the imagined continuation beginning from diagram 15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-files-by-assault",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Opening a file by attacking a pawn target; pp. 23-24; PDF 48-49",
+      "title": "Opening a file by attacking a pawn target",
+      "locator": {
+        "pdfPageStart": 48,
+        "pdfPageEnd": 49,
+        "printedPages": "23-24",
+        "section": "Chapter 2 section 2 from the imagined continuation of diagram 15 and diagram 17 at the foot of PDF 48 through the section conclusion on PDF 49",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-file-entry-goal",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Using a file to enter and create a second threat; pp. 25-26; PDF 50-51",
+      "title": "Using a file to enter and create a second threat",
+      "locator": {
+        "pdfPageStart": 50,
+        "pdfPageEnd": 51,
+        "printedPages": "25-26",
+        "section": "Chapter 2 section 3, The ideal of every operation in a file, from PDF 50 through its concluding paragraph on PDF 51; stop before section 4, Obstacles",
+        "ebookLocation": null
+      }
     }
   ]
 }

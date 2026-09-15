@@ -957,6 +957,105 @@
         "section": "Cross-pin introduction and complete Godart-Beukema example, PDF 168-169, including the closing chapter guidance before exercise 278",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "open-files--nimzovich-open-file-definition",
+      "chapterId": "nimzovich-open-file-definition",
+      "locator": {
+        "pdfPageStart": 46,
+        "pdfPageEnd": 47,
+        "printedPages": "21-22",
+        "section": "Chapter 2 section 1, Introductory; from PDF 46 through the paragraph before section 2 on PDF 47",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--nimzovich-files-by-exchange",
+      "chapterId": "nimzovich-files-by-exchange",
+      "locator": {
+        "pdfPageStart": 47,
+        "pdfPageEnd": 48,
+        "printedPages": "22-23",
+        "section": "Chapter 2 section 2: opening discussion through diagrams 15-16 and the central-posting conclusion on PDF 48; stop before the imagined continuation beginning from diagram 15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--nimzovich-files-by-assault",
+      "chapterId": "nimzovich-files-by-assault",
+      "locator": {
+        "pdfPageStart": 48,
+        "pdfPageEnd": 49,
+        "printedPages": "23-24",
+        "section": "Chapter 2 section 2 from the imagined continuation of diagram 15 and diagram 17 at the foot of PDF 48 through the section conclusion on PDF 49",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--nimzovich-file-entry-goal",
+      "chapterId": "nimzovich-file-entry-goal",
+      "locator": {
+        "pdfPageStart": 50,
+        "pdfPageEnd": 51,
+        "printedPages": "25-26",
+        "section": "Chapter 2 section 3, The ideal of every operation in a file, from PDF 50 through its concluding paragraph on PDF 51; stop before section 4, Obstacles",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--nimzovich-files-by-exchange",
+      "chapterId": "nimzovich-files-by-exchange",
+      "locator": {
+        "pdfPageStart": 47,
+        "pdfPageEnd": 48,
+        "printedPages": "22-23",
+        "section": "Chapter 2 section 2: opening discussion through diagrams 15-16 and the central-posting conclusion on PDF 48; stop before the imagined continuation beginning from diagram 15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--nimzovich-files-by-assault",
+      "chapterId": "nimzovich-files-by-assault",
+      "locator": {
+        "pdfPageStart": 48,
+        "pdfPageEnd": 49,
+        "printedPages": "23-24",
+        "section": "Chapter 2 section 2 from the imagined continuation of diagram 15 and diagram 17 at the foot of PDF 48 through the section conclusion on PDF 49",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--nimzovich-files-by-exchange",
+      "chapterId": "nimzovich-files-by-exchange",
+      "locator": {
+        "pdfPageStart": 47,
+        "pdfPageEnd": 48,
+        "printedPages": "22-23",
+        "section": "Chapter 2 section 2: opening discussion through diagrams 15-16 and the central-posting conclusion on PDF 48; stop before the imagined continuation beginning from diagram 15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--nimzovich-open-file-definition",
+      "chapterId": "nimzovich-open-file-definition",
+      "locator": {
+        "pdfPageStart": 46,
+        "pdfPageEnd": 47,
+        "printedPages": "21-22",
+        "section": "Chapter 2 section 1, Introductory; from PDF 46 through the paragraph before section 2 on PDF 47",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "double-attacks--nimzovich-file-entry-goal",
+      "chapterId": "nimzovich-file-entry-goal",
+      "locator": {
+        "pdfPageStart": 50,
+        "pdfPageEnd": 51,
+        "printedPages": "25-26",
+        "section": "Chapter 2 section 3, The ideal of every operation in a file, from PDF 50 through its concluding paragraph on PDF 51; stop before section 4, Obstacles",
+        "ebookLocation": null
+      }
     }
   ]
 }

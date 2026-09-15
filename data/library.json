@@ -1357,6 +1357,160 @@
     ]
   },
   {
+    "chapterId": "nimzovich-open-file-definition",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Open files: clear a route and name the entry square; pp. 21-22; PDF 46-47",
+    "title": "Open files: clear a route and name the entry square",
+    "tags": [
+      "open-files",
+      "rook-activity",
+      "entry-squares"
+    ],
+    "note": "Nimzowitsch asks us to evaluate a file from the rook&#x27;s point of view. His definition includes a file with enemy pawns still on it, provided no friendly pawn blocks the rook&#x27;s forward route. Diagram 14 even places a rook ahead of its own pawn: the useful route begins at the rook, not necessarily at the first rank. This terminology is relative to the attacking side; do not assume that an &#x27;open&#x27; file in this passage is empty of both sides&#x27; pawns.\n\nA route matters because it gives access to something. The introduction connects file play with entering the opponent&#x27;s seventh or eighth rank, while treating an outpost as preparation toward that aim. Its next example compares pressure against a pawn with pressure against the square that pawn would leave. In either case, the attacker needs enough support to occupy the desired point.\n\nFor study, classify the b-, d-, f- and h-files in diagram 14 and explain the rook&#x27;s actual starting point. Then distinguish an unobstructed route from a safe entry square: defenders can still prevent occupation. Diagram 14 is a schematic without kings, so it supports this geometry exercise but cannot establish legal moves or a winning evaluation. The later methods for overcoming resistance are outside this section.",
+    "keyIdeas": [
+      "Name which rook and which side the file is open for.",
+      "A friendly pawn blocks differently from an enemy target.",
+      "Choose an entry square and inspect its defenders."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-classify-routes",
+        "concept": "Open files",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Read My System Chapter 2 section 1, printed 21-22 / PDF 46-47, stopping before section 2. In diagram 14, classify the b-, d-, f- and h-files for White. Explain why Rh3 can work ahead of its own h-pawn. This is a schematic, not a legal-position puzzle.",
+        "successCheck": "Name the usable routes, the blocked file and a reason an available route alone does not guarantee entry.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and what will I threaten?"
+        ]
+      },
+      {
+        "id": "study-piece-activity-rook-job-comparison",
+        "concept": "Piece activity",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Open files"
+        ],
+        "instructions": "Compare the rook-route discussion in My System Chapter 2 section 1 (PDF 46-47) with The Amateur’s Mind, The Imbalances (PDF 9-15). In a completed game of your own, choose a rook, identify its current job and propose a useful entry square. Check what defenders prevent entry.",
+        "successCheck": "State a concrete rook destination and threat, plus one defensive duty or opposing resource that constrains the route.",
+        "playReminders": [
+          "What useful job will this piece perform, and what job will it leave behind?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-files-by-exchange",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Opening files through exchanges and recaptures; pp. 22-23; PDF 47-48",
+    "title": "Opening files through exchanges and recaptures",
+    "tags": [
+      "open-files",
+      "opening-lines",
+      "exchanges",
+      "en-passant"
+    ],
+    "note": "An exchange can improve one side&#x27;s pawn structure for rook activity even when its immediate purpose is to remove a central piece. In diagram 15, Black can exchange the bishop on c5 for White&#x27;s bishop on e3. The recapture fxe3 removes White&#x27;s f-pawn from the f-file, creating a route for a rook. The practical question before exchanging is therefore what lines the opponent&#x27;s recapture will open.\n\nThomas-Alekhine, diagram 16, develops the idea over several exchanges. White&#x27;s knight capture and Black&#x27;s c-pawn recapture clear the c-file of Black&#x27;s own pawn. Later, White advances c4 and Black captures en passant; this removes Black&#x27;s pawn on d4 from the d-file as well. White&#x27;s following recapture is bxc3. Black can then plan rook play on the two files. These are changes in access, not proof that every exchange was forced or optimal.\n\nThe source connects this mechanism with safely centralized pieces: an opponent may want to exchange an effective central piece, enabling the desired pawn recapture. Centralization still needs a tactical and pawn-advance check. Pause after each exchange in the reviewed examples, redraw the pawns and name the newly available file. The complete historical game referenced later in the book is not part of this reading.",
+    "keyIdeas": [
+      "Evaluate the file created by the opponent’s recapture.",
+      "Track the departing pawn, not just the captured pieces.",
+      "En passant can open a second file."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-lines-recapture-map",
+        "concept": "Opening lines",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files"
+        ],
+        "instructions": "Read Chapter 2 section 2 from its heading through the central-posting conclusion, printed 22-23 / PDF 47-48. Replay Bxe3 fxe3 in diagram 15, then the Thomas-Alekhine exchanges in diagram 16. Pause after each pawn recapture and mark the files newly available to the recapturing side.",
+        "successCheck": "Explain how Black obtains c-file access and then d-file access, including the en passant capture and White’s bxc3.",
+        "playReminders": [
+          "Which line will this exchange open, and who can use it first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-files-by-assault",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Opening a file by attacking a pawn target; pp. 23-24; PDF 48-49",
+    "title": "Opening a file by attacking a pawn target",
+    "tags": [
+      "opening-lines",
+      "open-files",
+      "pawn-contact",
+      "attack"
+    ],
+    "note": "A pawn advance near the king can give the opponent a contact point for opening a file. In the imagined continuation leading to diagram 17, Black has castled and played h6. White can consider h3, g4 and g5 to make contact with that pawn. If an exchange removes White&#x27;s g-pawn, a rook may gain access to the g-file. A piece on the file may be able to move away more flexibly than a pawn that cannot retreat.\n\nThe source&#x27;s modified practice position changes the target to g6 and proposes an f-pawn advance. It also identifies the knight on f6 as an obstacle that may need to be challenged before continuing. This is a planning sketch: opposing moves between the pawn advances are not fully specified, so the sequence must not be treated as a forced combination.\n\nThe defender&#x27;s possibility of advancing the target pawn matters. If the pawn can avoid contact safely, the intended exchange and file opening may never happen. Use the example to state the target, the pawn that must leave its file, the piece that will use the route and a defensive resource. Independent analysis of diagram 17 does not establish an immediate forced win or justify treating every h6 move near a castled king as a mistake.",
+    "keyIdeas": [
+      "Choose the enemy pawn that permits contact.",
+      "Identify which friendly pawn must leave the intended file.",
+      "Check whether the defender can avoid the exchange or counterattack."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-lines-contact-and-refusal",
+        "concept": "Opening lines",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files"
+        ],
+        "instructions": "Read the rest of section 2, from the imagined diagram-15 continuation on PDF 48 through PDF 49 (printed 23-24). Identify the h6 target in diagram 17 and the intended g-file. Compare the modified g6-target exercise. Write the plan as goals; do not insert imaginary forced replies.",
+        "successCheck": "Name the necessary pawn exchange, the knight obstacle in the modified setup, and a way the defender might avoid contact.",
+        "playReminders": [
+          "Which line will this exchange open, and who can use it first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-file-entry-goal",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Using a file to enter and create a second threat; pp. 25-26; PDF 50-51",
+    "title": "Using a file to enter and create a second threat",
+    "tags": [
+      "open-files",
+      "entry-squares",
+      "double-attacks",
+      "move-order"
+    ],
+    "note": "Occupying a file is an intermediate achievement. Nimzowitsch makes entry into the opponent&#x27;s position the goal and distinguishes direct penetration along a file from a rook lift that reaches the seventh rank by another route. Both may be useful, but the route should be described accurately. An entry square is valuable because of what the piece can do from it.\n\nDiagram 18 uses a queen to make that purpose concrete. Qh1+ gains access to the h-file. After Kg8, Qh7+ is the accurate next step: jumping straight to h8 would allow capture. Following Kf8, Qh8+ combines check with an attack along the eighth rank against Black&#x27;s queen. This connects the positional route with the double-attack material already studied.\n\nThe source also moves Black&#x27;s queen from b8 to d7 and gives a different continuation. White captures the g7-pawn with check, exchanges queens on d7 and advances the g-pawn. The variation shows how entry can change the form of the gain; it is an explicitly altered position, not a second line from the unchanged diagram. Reconstruct both setups separately and name the purpose of each check. These simplified examples do not replace the following, still-unread treatment of defended obstacles.",
+    "keyIdeas": [
+      "Ask what the piece will threaten after entering.",
+      "Check the order of the seventh- and eighth-rank moves.",
+      "Keep a modified diagram separate from the original position."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-entry-move-order",
+        "concept": "Open files",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Open files",
+          "Double attacks"
+        ],
+        "instructions": "Read section 3, printed 25-26 / PDF 50-51, stopping before section 4. Set up diagram 18. Compare Qh1+ Kg8 Qh7+ with the premature Qh8. Then use the explicitly modified queen-on-d7 position for the second line.",
+        "successCheck": "Explain why the order of entry squares matters, identify the double attack, and keep the queen-on-d7 variation on its own board.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and what will I threaten?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nunn-mate-recognition",
     "book": "1001 Deadly Checkmates",
     "author": "John Nunn",
@@ -1693,6 +1847,20 @@
         "successCheck": "Describe the benefit in the position after each trade without relying only on equal material values.",
         "playReminders": [
           "Who benefits from the pieces that will remain?"
+        ]
+      },
+      {
+        "id": "study-piece-activity-rook-job-comparison",
+        "concept": "Piece activity",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Open files"
+        ],
+        "instructions": "Compare the rook-route discussion in My System Chapter 2 section 1 (PDF 46-47) with The Amateur’s Mind, The Imbalances (PDF 9-15). In a completed game of your own, choose a rook, identify its current job and propose a useful entry square. Check what defenders prevent entry.",
+        "successCheck": "State a concrete rook destination and threat, plus one defensive duty or opposing resource that constrains the route.",
+        "playReminders": [
+          "What useful job will this piece perform, and what job will it leave behind?"
         ]
       }
     ]

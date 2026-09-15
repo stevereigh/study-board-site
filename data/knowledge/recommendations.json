@@ -373,6 +373,37 @@
         "unpinning--nimzovich-unpinning-options",
         "unpinning--erwich-pin-accuracy-defense"
       ]
+    },
+    {
+      "id": "study-open-files-classify-routes",
+      "crossrefIds": [
+        "open-files--nimzovich-open-file-definition"
+      ]
+    },
+    {
+      "id": "study-opening-lines-recapture-map",
+      "crossrefIds": [
+        "opening-lines--nimzovich-files-by-exchange"
+      ]
+    },
+    {
+      "id": "study-opening-lines-contact-and-refusal",
+      "crossrefIds": [
+        "opening-lines--nimzovich-files-by-assault"
+      ]
+    },
+    {
+      "id": "study-open-files-entry-move-order",
+      "crossrefIds": [
+        "open-files--nimzovich-file-entry-goal"
+      ]
+    },
+    {
+      "id": "study-piece-activity-rook-job-comparison",
+      "crossrefIds": [
+        "piece-activity--nimzovich-open-file-definition",
+        "piece-activity--amateurs-imbalances"
+      ]
     }
   ]
 }
