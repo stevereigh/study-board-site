@@ -4138,6 +4138,1515 @@
     ]
   },
   {
+    "chapterId": "flores-asymmetric-benoni-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Asymmetric Benoni: central space against a queenside majority; pp. 226; PDF 227-227",
+    "title": "Asymmetric Benoni: central space against a queenside majority",
+    "tags": [
+      "asymmetric-benoni",
+      "pawn-majorities",
+      "space",
+      "pawn-breaks",
+      "counterplay"
+    ],
+    "note": "White&#x27;s e4-d5 center gives more space and supports e4-e5, f4-f5, or the two breaks in sequence. Black&#x27;s queenside majority supplies ...b5, ...c4 and ...b4, while e-file pressure restrains White&#x27;s center. Exchanges usually help Black because the remote queenside passer becomes more important and White&#x27;s attacking space loses force.\n\nThe position is a race with prerequisites. White may stop the queenside pawns with b2-b4, preserve attacking pieces and exploit ...h5 as a kingside hook. Black may add ...h5-h4 when a white knight sits on g3 or answer an early f3-f4 with ...f5 because d5 has lost support. The light-squared bishop is often Black&#x27;s least useful piece until the queenside opens.",
+    "keyIdeas": [
+      "White uses e5 and f5; Black advances the queenside majority.",
+      "Exchanges usually favor Black&#x27;s remote passer.",
+      "b4 can restrain ...b5-b4.",
+      "...f5 becomes stronger after White weakens d5."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-majorities-asymmetric-card",
+        "concept": "Pawn majorities",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn chains",
+          "Passed pawns",
+          "Pawn breaks"
+        ],
+        "instructions": "Read PDF 227 and build a two-column formation card. For White list e5, f5 and b4; for Black list ...b5/...c4/...b4, ...f5, ...h4 and exchanges. Add the prerequisite and target for every operation.",
+        "successCheck": "Identify the structure from its pawn skeleton and explain which side benefits from exchanges.",
+        "playReminders": [
+          "Which majority can advance with tempo?",
+          "Who benefits if pieces are exchanged?",
+          "Can I block the majority without surrendering central activity?"
+        ]
+      },
+      {
+        "id": "study-pawn-majorities-benoni-compare",
+        "concept": "Pawn majorities",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn chains",
+          "Passed pawns",
+          "Pawn breaks"
+        ],
+        "instructions": "Place the Asymmetric and Symmetric Benoni cards side by side (PDF 227 and 243). Compare the pawn chains, wing races, value of exchanges, central targets and Black&#x27;s ...f5/...b5 resources.",
+        "successCheck": "Identify either structure from the pawn skeleton and explain why the same break or exchange changes value.",
+        "playReminders": [
+          "Which majority can advance with tempo?",
+          "Who benefits if pieces are exchanged?",
+          "Can I block the majority without surrendering central activity?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-asymmetric-benoni-akopian-pantsulaia",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Akopian-Pantsulaia: prepare e4-e5 and keep the attackers; pp. 227-229; PDF 228-230",
+    "title": "Akopian-Pantsulaia: prepare e4-e5 and keep the attackers",
+    "tags": [
+      "asymmetric-benoni",
+      "e5-break",
+      "attacking-prerequisites",
+      "favorable-exchanges"
+    ],
+    "note": "White prevents ...b5 with a5, keeps the dark-squared bishop and arranges every piece behind e4-e5. The central break opens attacking lines and Black cannot coordinate a defense. Black&#x27;s best practical idea was to trade pieces and defenders before White&#x27;s center became mobile.\n\nThe example connects the structural plan to exchange policy: White needs pieces for the attack, whereas Black needs simplification. A bishop move that provokes an awkward black placement is useful only because it improves the later break.",
+    "keyIdeas": [
+      "Stop ...b5 before preparing e5.",
+      "Keep the dark-squared bishop for the attack.",
+      "Black should trade attackers and defenders.",
+      "Coordinate the pieces before opening the center."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-asymmetric-white-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Akopian-Pantsulaia, Gabriel-Kekelidze and Vitiugov-Ding on PDF 228-234. Track e5, f5, g6 and Black&#x27;s best ...Ne5/...f5 response.",
+        "successCheck": "Choose e5, f5 or the sequence at a critical point and name the piece arrangement that justifies it.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-asymmetric-benoni-gabriel-kekelidze",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Gabriel-Kekelidze: e5 followed by f5; pp. 229-231; PDF 230-232",
+    "title": "Gabriel-Kekelidze: e5 followed by f5",
+    "tags": [
+      "asymmetric-benoni",
+      "e5-break",
+      "f5-break",
+      "king-safety",
+      "sacrifices"
+    ],
+    "note": "White sacrifices a pawn to open the bishop diagonal, then combines e5 with f5 and an attack on the f-file. Black&#x27;s ...h5 gives White a hook on g6, while a badly placed knight cannot support the queenside majority. Exact move order between ...h4 and ...b5 is critical.\n\nBlack again benefits from exchanges, but the position remains closed long enough for White to keep attackers. The game shows why two related breaks are stronger than one: e5 fixes and distracts the center; f5 opens the king.",
+    "keyIdeas": [
+      "Use e5 to prepare the f5 attack.",
+      "Treat ...h5 as a possible hook on g6.",
+      "A misplaced piece can stop the queenside majority.",
+      "Calculate ...h4 and ...b5 in the right order."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-asymmetric-white-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Akopian-Pantsulaia, Gabriel-Kekelidze and Vitiugov-Ding on PDF 228-234. Track e5, f5, g6 and Black&#x27;s best ...Ne5/...f5 response.",
+        "successCheck": "Choose e5, f5 or the sequence at a critical point and name the piece arrangement that justifies it.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-asymmetric-benoni-vitiugov-ding",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Vitiugov-Ding: f4-f5 and Black&#x27;s ...Ne5/...f5 defense; pp. 232-233; PDF 233-234",
+    "title": "Vitiugov-Ding: f4-f5 and Black&#x27;s ...Ne5/...f5 defense",
+    "tags": [
+      "asymmetric-benoni",
+      "f5-break",
+      "weak-squares",
+      "counterplay"
+    ],
+    "note": "White attacks with f4-f5 and uses the weakened g6 square left by ...h5. Black&#x27;s knight detour to d4 fails to create queenside play and leaves too few defenders. The thematic defense is ...Ne5 followed by ...f5, challenging White&#x27;s chain before the attack is fixed.\n\nThe source again stresses that exchanges favor Black. White succeeds because Black loses time and has already weakened the kingside, not because f5 is automatic in every asymmetric Benoni.",
+    "keyIdeas": [
+      "Exploit the g6 weakness after ...h5.",
+      "Black should prefer queenside activity to a decorative outpost.",
+      "...Ne5 and ...f5 challenge White&#x27;s chain.",
+      "Judge f5 from piece placement and king weaknesses."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-asymmetric-white-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Akopian-Pantsulaia, Gabriel-Kekelidze and Vitiugov-Ding on PDF 228-234. Track e5, f5, g6 and Black&#x27;s best ...Ne5/...f5 response.",
+        "successCheck": "Choose e5, f5 or the sequence at a critical point and name the piece arrangement that justifies it.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-asymmetric-benoni-mikhalevski-guseinov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Mikhalevski-Guseinov: piece placement and b2-b4; pp. 234; PDF 235-235",
+    "title": "Mikhalevski-Guseinov: piece placement and b2-b4",
+    "tags": [
+      "asymmetric-benoni",
+      "b4-break",
+      "restriction",
+      "bishop-pair"
+    ],
+    "note": "Black&#x27;s pieces ideally support the queenside pawns, but the light-squared bishop has no natural square before the structure opens. White uses b2-b4 to challenge b5 and prevent the majority from gaining space. Precise play yields only a small edge based on the bishop pair.\n\nThe fragment is a formation lesson: the same pawn majority is harmless when its supporting pieces lack useful routes. White should evaluate b4 by the squares and files it creates rather than by a rule against moving flank pawns.",
+    "keyIdeas": [
+      "Arrange Black&#x27;s pieces behind the queenside majority.",
+      "Use b4 to stop or challenge ...b5.",
+      "Track the light-squared bishop&#x27;s route.",
+      "A blocked majority may leave only a small bishop-pair edge."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-asymmetric-benoni-eljanov-radjabov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Eljanov-Radjabov: ...f5 undermines White&#x27;s center; pp. 235-237; PDF 236-238",
+    "title": "Eljanov-Radjabov: ...f5 undermines White&#x27;s center",
+    "tags": [
+      "asymmetric-benoni",
+      "f5-break",
+      "pawn-chains",
+      "passed-pawns",
+      "piece-activity"
+    ],
+    "note": "Black activates the light-squared bishop with ...Ba6/...Bc4 while advancing the queenside. White&#x27;s premature f-pawn move removes support from e4 and d5; ...f7-f5 then wins the central anchor. Queen and rook coordination plus connected passers decide the game.\n\nThe defensive lesson is concrete: a space advantage can collapse after its base is loosened. Black&#x27;s kingside break works because it attacks d5 at the moment White&#x27;s pieces cannot restore the chain.",
+    "keyIdeas": [
+      "Use ...Ba6 or ...Bc4 to activate the bad bishop.",
+      "Meet a premature f4 with ...f5.",
+      "Attack the base of White&#x27;s center before racing on the flank.",
+      "Connected passers become decisive after the center falls."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-asymmetric-black-play",
+        "concept": "Counterplay",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Eljanov-Radjabov and Hellsten-Cordova on PDF 236-242. Record how ...f5, ...h4 and the queenside majority distract and reinforce one another.",
+        "successCheck": "Explain one active black plan and one white response that prevents passivity.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-asymmetric-benoni-hellsten-cordova",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Hellsten-Cordova: combine ...h4, ...f5 and the queenside majority; pp. 238-241; PDF 239-242",
+    "title": "Hellsten-Cordova: combine ...h4, ...f5 and the queenside majority",
+    "tags": [
+      "asymmetric-benoni",
+      "counterplay",
+      "pawn-majorities",
+      "defensive-exchanges",
+      "king-safety"
+    ],
+    "note": "Black creates threats on both wings: ...h5-h4 fixes the knight, ...f5 challenges the center, and ...c4/...b5 advance the queenside majority. White fails to create a target and becomes passive. The source suggests meeting ...h4 actively with Bxh4 rather than preserving every pawn.\n\nAgainst ...f5, White often needs exf5 and a knight route toward f4 or e6. If White merely holds the structure, Black can improve on both wings. The game closes the chapter by showing that the majority is most dangerous when central and kingside play distract White from it.",
+    "keyIdeas": [
+      "Challenge ...h4 before the kingside is fixed.",
+      "Consider exf5 and a knight route to f4/e6.",
+      "Use threats on one wing to advance the majority on the other.",
+      "Passivity lets Black improve without risk."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-asymmetric-black-play",
+        "concept": "Counterplay",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Eljanov-Radjabov and Hellsten-Cordova on PDF 236-242. Record how ...f5, ...h4 and the queenside majority distract and reinforce one another.",
+        "successCheck": "Explain one active black plan and one white response that prevents passivity.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-symmetric-benoni-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Symmetric Benoni: a small space edge and the fight for e4; pp. 242; PDF 243-243",
+    "title": "Symmetric Benoni: a small space edge and the fight for e4",
+    "tags": [
+      "symmetric-benoni",
+      "space",
+      "pawn-chains",
+      "f5-break",
+      "defensive-exchanges"
+    ],
+    "note": "White&#x27;s c4-d5 chain faces Black&#x27;s c5-d6 chain, producing a modest space edge. White&#x27;s main plan is f2-f4 followed by g2-g4, while pressure on d6 can use the h2-b8 diagonal and a knight on e4. A queenside b2-b4 break is possible but often gives Black counterplay.\n\nBlack fights for e4, trades minor pieces and uses ...b5 against d5. The essential defensive resource is ...f7-f5, which stops g4 and challenges White&#x27;s expansion. Black must act before White&#x27;s kingside pawns and pieces become harmoniously placed.",
+    "keyIdeas": [
+      "White expands with f4 and g4 or attacks d6.",
+      "Black controls e4 and seeks ...f5.",
+      "...b5 can attack d5 but may create counterplay for both sides.",
+      "Minor-piece trades reduce White&#x27;s space advantage."
+    ],
+    "activities": [
+      {
+        "id": "study-space-symmetric-card",
+        "concept": "Space",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Pawn breaks"
+        ],
+        "instructions": "Read PDF 243 and build a formation card for f4-g4, pressure on d6, ...f5, ...b5, e4 control and exchanges.",
+        "successCheck": "Identify the structure and give both sides&#x27; first strategic question.",
+        "playReminders": [
+          "Which pieces can actually use my extra room?",
+          "What freeing break can erase this space advantage?",
+          "Will this exchange strengthen the bind or help the cramped side?"
+        ]
+      },
+      {
+        "id": "study-pawn-majorities-benoni-compare",
+        "concept": "Pawn majorities",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn chains",
+          "Passed pawns",
+          "Pawn breaks"
+        ],
+        "instructions": "Place the Asymmetric and Symmetric Benoni cards side by side (PDF 227 and 243). Compare the pawn chains, wing races, value of exchanges, central targets and Black&#x27;s ...f5/...b5 resources.",
+        "successCheck": "Identify either structure from the pawn skeleton and explain why the same break or exchange changes value.",
+        "playReminders": [
+          "Which majority can advance with tempo?",
+          "Who benefits if pieces are exchanged?",
+          "Can I block the majority without surrendering central activity?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-symmetric-benoni-spassky-fischer",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Spassky-Fischer: f4-g4-h4 and the long squeeze; pp. 243-246; PDF 244-247",
+    "title": "Spassky-Fischer: f4-g4-h4 and the long squeeze",
+    "tags": [
+      "symmetric-benoni",
+      "space",
+      "restriction",
+      "king-safety",
+      "schematic-thinking"
+    ],
+    "note": "White avoids exchanges and advances f4, g4 and h4. Black fails to prevent g4 and cannot make ...b5 effective. The kingside expansion ties the pieces down; White later converts through the h-file, the long diagonal and an ending squeeze.\n\nThe structure itself was uncomfortable because Black entered it without the piece activity needed to contest e4 or the kingside. The example explains why g4 is the critical threshold: once it is established safely, White gains useful moves while Black runs out of counterplay.",
+    "keyIdeas": [
+      "Keep pieces when they use the extra space.",
+      "Prevent g4 before White&#x27;s pawn chain rolls.",
+      "Do not rely on ...b5 without coordinated pieces.",
+      "A kingside bind can persist into the ending."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-symmetric-kingside",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Spassky-Fischer and Malakhov-Grischuk on PDF 244-251. Track the moment g4 becomes safe and Black&#x27;s timing for ...f5.",
+        "successCheck": "Explain why White&#x27;s expansion succeeds in one game while Black retains practical chances in the other.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-symmetric-benoni-malakhov-grischuk",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Malakhov-Grischuk: ...f5 is the modern defense; pp. 247-250; PDF 248-251",
+    "title": "Malakhov-Grischuk: ...f5 is the modern defense",
+    "tags": [
+      "symmetric-benoni",
+      "f5-break",
+      "center-control",
+      "prophylaxis"
+    ],
+    "note": "Black uses ...f5 to claim space, contest e4 and prevent White&#x27;s g4 expansion. White blocks the queenside breaks, reroutes the knight toward g3 and still prepares g4-g5. Releasing the central tension at the wrong moment worsens Black&#x27;s position.\n\nThe final remarks distinguish this defense from passive play: ...f5 keeps practical chances, but White retains a small advantage when the kingside expansion remains available. Black must coordinate the response rather than treat ...f5 as a one-move solution.",
+    "keyIdeas": [
+      "Use ...f5 to contest e4 and restrain g4.",
+      "White reroutes pieces before expanding.",
+      "Do not release central tension without a follow-up.",
+      "The break improves Black&#x27;s chances without guaranteeing equality."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-symmetric-kingside",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Spassky-Fischer and Malakhov-Grischuk on PDF 244-251. Track the moment g4 becomes safe and Black&#x27;s timing for ...f5.",
+        "successCheck": "Explain why White&#x27;s expansion succeeds in one game while Black retains practical chances in the other.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-symmetric-benoni-motylev-lodhi",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Motylev-Lodhi: pressure the d6 pawn; pp. 251-253; PDF 252-254",
+    "title": "Motylev-Lodhi: pressure the d6 pawn",
+    "tags": [
+      "symmetric-benoni",
+      "backward-pawns",
+      "outposts",
+      "open-files",
+      "piece-activity"
+    ],
+    "note": "White abandons the usual kingside expansion and concentrates on d6. A knight route to e4 and coordinated heavy pieces force Black to give up the dark-squared bishop and collapse on the file. Black&#x27;s ...b5 does not compensate because White&#x27;s pieces already control the invasion squares.\n\nThe game demonstrates that White&#x27;s plan depends on piece placement. When the kingside route is awkward, d6 is a concrete target. Black must preserve e4 control and avoid exchanges that leave the pawn without active defense.",
+    "keyIdeas": [
+      "Attack d6 when kingside expansion is poorly placed.",
+      "Use Ne4 and heavy pieces to increase the pressure.",
+      "Preserve e4 control as Black.",
+      "Queenside activity must create real counterplay, not only a pawn move."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-symmetric-choices",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Motylev-Lodhi, Kacheishvili-Fernandez, Zherebukh-Flores and Carlsen-Van Wely on PDF 252-261. Classify each plan as pressure on d6, ...b5 against d5, a ...b5 sacrifice, or pressure on b2 and the center.",
+        "successCheck": "Choose the correct plan from e4 control, piece placement and the d5/d6 targets rather than from the opening name.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-symmetric-benoni-kacheishvili-fernandez",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Kacheishvili-Fernandez: control e4 and counter with ...b5; pp. 253-254; PDF 254-255",
+    "title": "Kacheishvili-Fernandez: control e4 and counter with ...b5",
+    "tags": [
+      "symmetric-benoni",
+      "center-control",
+      "b5-break",
+      "passed-pawns",
+      "favorable-exchanges"
+    ],
+    "note": "Black keeps control of e4, trades rooks and uses ...b5 to undermine d5. White&#x27;s misplaced knight and premature attack leave no useful plan; Black gains the initiative and a dangerous passed pawn.\n\nThe source&#x27;s alternatives show that White needed to retain e4 control and coordinate before expanding. For Black, the queenside break succeeds because it attacks the chain while the kingside is stable.",
+    "keyIdeas": [
+      "Keep control of e4 before starting a wing plan.",
+      "Use ...b5 to attack the d5 chain.",
+      "Rook trades can favor Black after counterplay is established.",
+      "A misplaced knight can make White&#x27;s space irrelevant."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-symmetric-choices",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Motylev-Lodhi, Kacheishvili-Fernandez, Zherebukh-Flores and Carlsen-Van Wely on PDF 252-261. Classify each plan as pressure on d6, ...b5 against d5, a ...b5 sacrifice, or pressure on b2 and the center.",
+        "successCheck": "Choose the correct plan from e4 control, piece placement and the d5/d6 targets rather than from the opening name.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-symmetric-benoni-zherebukh-flores",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Zherebukh-Flores Rios: the thematic ...b7-b5 sacrifice; pp. 255-258; PDF 256-259",
+    "title": "Zherebukh-Flores Rios: the thematic ...b7-b5 sacrifice",
+    "tags": [
+      "symmetric-benoni",
+      "b5-break",
+      "sacrifices",
+      "opening-lines",
+      "king-safety"
+    ],
+    "note": "Black sacrifices with ...b7-b5 to destroy the d5 pawn and divert White from a kingside plan. The break also opens the a8-h1 diagonal, and White&#x27;s king becomes the tactical target. Once White fails to coordinate, Black uses ...e4 and the opened lines for a crushing attack.\n\nThe sacrifice is justified by immediate activity, not by the pawn structure alone. Black&#x27;s pieces are ready for the diagonal and central squares; if those conditions are absent, the same pawn offer may simply lose material.",
+    "keyIdeas": [
+      "Use ...b5 to remove d5 and divert White&#x27;s attention.",
+      "Open the a8-h1 diagonal only when the pieces can use it.",
+      "Follow the queenside sacrifice with central and kingside threats.",
+      "Verify compensation before offering the pawn."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-symmetric-choices",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Motylev-Lodhi, Kacheishvili-Fernandez, Zherebukh-Flores and Carlsen-Van Wely on PDF 252-261. Classify each plan as pressure on d6, ...b5 against d5, a ...b5 sacrifice, or pressure on b2 and the center.",
+        "successCheck": "Choose the correct plan from e4 control, piece placement and the d5/d6 targets rather than from the opening name.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-symmetric-benoni-carlsen-van-wely",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Carlsen-Van Wely: capture b2 and target the central pawns; pp. 259-260; PDF 260-261",
+    "title": "Carlsen-Van Wely: capture b2 and target the central pawns",
+    "tags": [
+      "symmetric-benoni",
+      "counterplay",
+      "pawn-chains",
+      "opening-to-middlegame-transition",
+      "conversion"
+    ],
+    "note": "Black coordinates ...Qb6, ...Bf5 and ...Ne4 to pressure the long diagonal, then captures b2. The sequence works because d6 and b7 are less important than the well-advanced d5 pawn and Black&#x27;s activity. A King&#x27;s Indian specialist may find the route familiar: the queen invasion is a recurring form of counterplay.\n\nAfter the b-pawn falls, Black attacks the remaining central pawns and converts the ending. The final message is to evaluate the entire pawn chain and piece activity before defending one nominal weakness.",
+    "keyIdeas": [
+      "Coordinate the queen, bishop and knight before taking b2.",
+      "Target the advanced d5 pawn after winning the flank pawn.",
+      "Do not defend d6 or b7 at the cost of all activity.",
+      "Recurring structures transfer plans across opening families."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-symmetric-choices",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Motylev-Lodhi, Kacheishvili-Fernandez, Zherebukh-Flores and Carlsen-Van Wely on PDF 252-261. Classify each plan as pressure on d6, ...b5 against d5, a ...b5 sacrifice, or pressure on b2 and the center.",
+        "successCheck": "Choose the correct plan from e4 control, piece placement and the d5/d6 targets rather than from the opening name.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid1-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "KID Type I: the open c-file and the choice of counterplay; pp. 261-262; PDF 262-263",
+    "title": "KID Type I: the open c-file and the choice of counterplay",
+    "tags": [
+      "kid-type-i",
+      "open-files",
+      "space",
+      "counterplay",
+      "pawn-race"
+    ],
+    "note": "White&#x27;s c4-d5/e4 chain gives space and an open c-file. White covers c2, invades on c7, expands with a2-a4-a5 and may win b7. Black must decide between fighting for the c-file and attacking the king with ...f7-f5-e4, ...g7-g6-g5-g4 or ...h5-h4-h3. Slow kingside play lets White&#x27;s queenside arrive first.\n\nIf Black contests the c-file, entry squares and rook trades matter more than ownership in name. The dark-squared bishop may transfer from g7 through f8 to e7/d8. The structure rewards a clear race calculation: White&#x27;s queenside plan is easier and Black&#x27;s kingside plan must create concrete threats.",
+    "keyIdeas": [
+      "White uses the c-file and a4-a5.",
+      "Black chooses c-file resistance or a fast kingside attack.",
+      "Slow kingside preparation loses the race.",
+      "The g7 bishop may reroute through f8."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-kid1-card",
+        "concept": "Open files",
+        "minutes": 35,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Build the KID Type I card from PDF 262-263. Add White&#x27;s c-file and a5 plan, Black&#x27;s c-file defense, ...f5 and bishop transfer, plus the entry squares each side needs.",
+        "successCheck": "Identify Type I and explain whether Black should contest the file or attack the king.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid1-carlsen-mcshane",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Carlsen-McShane: queenside space before kingside play; pp. 262-266; PDF 263-267",
+    "title": "Carlsen-McShane: queenside space before kingside play",
+    "tags": [
+      "kid-type-i",
+      "open-files",
+      "prophylaxis",
+      "queenside-expansion"
+    ],
+    "note": "Black initially controls the c-file but has no entry square, so White improves slowly, covers c2 and prepares a4-a5. Black&#x27;s ...f5-f4 plan arrives too late; White fixes a queenside weakness and the passive defense eventually collapses.\n\nThe source highlights h3 as useful prophylaxis against ...f5-f4 and ...g6-g5-g4. Control of an open file is valuable only when it produces penetration or forces a weakness.",
+    "keyIdeas": [
+      "Deny the c-file entry squares before expanding.",
+      "Use h3 to slow ...f4 and ...g4.",
+      "Create a queenside weakness with a4-a5.",
+      "File control without penetration may be temporary."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-kid1-wojtaszek-swiercz",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Wojtaszek-Swiercz: White owns the c-file despite exchanges; pp. 267-269; PDF 268-270",
+    "title": "Wojtaszek-Swiercz: White owns the c-file despite exchanges",
+    "tags": [
+      "kid-type-i",
+      "space",
+      "restriction",
+      "piece-activity"
+    ],
+    "note": "White modifies the structure, covers the queenside entry points and prevents Black&#x27;s kingside play with h3. Black&#x27;s pieces lack targets; nominal c-file activity becomes a facade and White eventually invades.\n\nThe game shows a recurring feature of a space edge: the cramped side cannot create counterplay simply by occupying an open file. White keeps enough pieces to exploit the extra room and reroutes more efficiently.",
+    "keyIdeas": [
+      "Cover entry squares before conceding a file.",
+      "Use h3 to remove Black&#x27;s easiest kingside break.",
+      "A space advantage allows faster rerouting.",
+      "Demand a target from every claim of activity."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-kid1-counterplay-and-endgames",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "KID Type I: endgame squeeze and Black&#x27;s practical counterplay; pp. 270-280; PDF 271-281",
+    "title": "KID Type I: endgame squeeze and Black&#x27;s practical counterplay",
+    "tags": [
+      "kid-type-i",
+      "f5-break",
+      "good-and-bad-bishops",
+      "favorable-exchanges",
+      "counterplay"
+    ],
+    "note": "The endgame example shows White trading heavy pieces, expanding on both wings and winning b7 after Black cannot create a release. The contrasting black fragment transfers a bishop to b6, supports ...f5 and produces serious kingside threats before White can consolidate. Ponomariov-Radjabov reinforces the speed of ...f7-f5, while Stojanovic-Ding shows effective queenside play and the recurring ...Bf8-b6 maneuver.\n\nThese examples set the decision rule for the structure: White converts if Black&#x27;s c-file and kingside ideas create no target; Black is fully viable when a fast break or bishop transfer forces White to react. The bad bishop label is conditional on whether it can reach b6 or join the attack.",
+    "keyIdeas": [
+      "Trade into an ending only after Black&#x27;s counterplay is contained.",
+      "Use ...f5 before White&#x27;s queenside expansion is fixed.",
+      "The dark-squared bishop often belongs on b6.",
+      "A queenside target or kingside threat must force a response."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-kid1-race",
+        "concept": "Counterplay",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare the endgame squeeze and Black&#x27;s active examples on PDF 271-281. Track the moment Black either creates a forced response or loses all useful play.",
+        "successCheck": "State the concrete threat that makes Black&#x27;s plan viable, or why the ending is lost.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid2-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "KID Type II: closed center and two-wing race; pp. 281-282; PDF 282-283",
+    "title": "KID Type II: closed center and two-wing race",
+    "tags": [
+      "kid-type-ii",
+      "pawn-chains",
+      "structure-transformation",
+      "king-safety",
+      "pawn-race"
+    ],
+    "note": "White has a c4 pawn and more queenside space; Black can slow that wing and attack with ...f7-f5-f4, ...g6-g5-g4 and ...h7-h5-h4. White counters with b2-b4, f2-f4, g2-g4 or a light-squared bishop trade. The tightly closed center makes both attacks possible and demands exact calculation.\n\nAfter ...f5 White must choose the recapture structure. Recapturing with a pawn keeps e4 under control; recapturing with a piece may leave a powerful knight on e4 but also changes the g-file and kingside weaknesses. The chapter repeatedly asks which arrangement supports f4 or g4.",
+    "keyIdeas": [
+      "White expands on the queenside or challenges with f4/g4.",
+      "Black attacks with ...f5-f4 and g/h-pawns.",
+      "The recapture on f5 transforms piece routes and king safety.",
+      "Closed centers still require concrete calculation."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-chains-kid2-card",
+        "concept": "Pawn chains",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Pawn breaks",
+          "Opening to middlegame transition"
+        ],
+        "instructions": "Build the KID Type II card from PDF 282-283. Include b4, f4, g4, bishop trades, ...f5-f4 and both recapture structures on f5.",
+        "successCheck": "Choose the f5 recapture from piece placement and give both sides&#x27; next plan.",
+        "playReminders": [
+          "Where is the base of each chain?",
+          "Which pawn break attacks it?",
+          "What square or file appears after the exchange?",
+          "Did the structure change enough that my plan must change?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid2-wojtaszek-fedorov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Wojtaszek-Fedorov: the g3-g4 break after ...gxf5; pp. 283-285; PDF 284-286",
+    "title": "Wojtaszek-Fedorov: the g3-g4 break after ...gxf5",
+    "tags": [
+      "kid-type-ii",
+      "g4-break",
+      "attacking-prerequisites",
+      "king-safety"
+    ],
+    "note": "Black recaptures on f5 with the g-pawn and tries to attack g3 with queen and rook. White&#x27;s pieces are better arranged for g3-g4; once that break lands, the open lines and exposed king decide the game. Black needed the precise ...h5 to restrain the break.\n\nThe lesson is about move order rather than a universal recapture verdict. White&#x27;s coordinated pieces and Black&#x27;s offside knight make g4 effective; a different arrangement changes the result.",
+    "keyIdeas": [
+      "Prepare g4 with the pieces before opening the king.",
+      "Black may need ...h5 to restrain g4.",
+      "An offside knight can decide the pawn race.",
+      "Judge the f5 recapture from the resulting piece arrangement."
+    ],
+    "activities": [
+      {
+        "id": "study-king-safety-kid2-attacks",
+        "concept": "King safety",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Threat recognition",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Compare Wojtaszek-Fedorov and Piorun-Hillarp on PDF 284-289. Record the useful knight, bishop and pawn routes before either attack opens lines.",
+        "successCheck": "Explain why White&#x27;s attack wins in one setup and Black&#x27;s in the other.",
+        "playReminders": [
+          "Which attacking piece is still missing?",
+          "Can I close the wing or trade the key bishop?",
+          "What central break opens lines first?",
+          "Does this pawn move create an entry square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid2-piorun-hillarp",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Piorun-Hillarp Persson: force exf5 and attack; pp. 286-288; PDF 287-289",
+    "title": "Piorun-Hillarp Persson: force exf5 and attack",
+    "tags": [
+      "kid-type-ii",
+      "knight-outposts",
+      "tempo",
+      "counterplay"
+    ],
+    "note": "Black forces White to capture with exf5, then transfers a knight to h5-f4 while White wastes tempi with queen moves and fails to create queenside targets. The kingside attack becomes decisive because White cannot challenge the knight or coordinate a defense.\n\nBlack is winning because of the piece transfer and White&#x27;s poor organization, not because the closed structure guarantees an attack. White needed active queenside play before Black&#x27;s pieces reached ideal squares.",
+    "keyIdeas": [
+      "Force the recapture that gives the desired attacking squares.",
+      "Transfer the knight through h5 to f4.",
+      "Create queenside targets before defending passively.",
+      "Do not spend tempi on queen moves without a plan."
+    ],
+    "activities": [
+      {
+        "id": "study-king-safety-kid2-attacks",
+        "concept": "King safety",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Threat recognition",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Compare Wojtaszek-Fedorov and Piorun-Hillarp on PDF 284-289. Record the useful knight, bishop and pawn routes before either attack opens lines.",
+        "successCheck": "Explain why White&#x27;s attack wins in one setup and Black&#x27;s in the other.",
+        "playReminders": [
+          "Which attacking piece is still missing?",
+          "Can I close the wing or trade the key bishop?",
+          "What central break opens lines first?",
+          "Does this pawn move create an entry square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid2-transformations",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "KID Type II: bishop trades, b2-b4, f2-f4 and central breaks; pp. 289-296; PDF 290-297",
+    "title": "KID Type II: bishop trades, b2-b4, f2-f4 and central breaks",
+    "tags": [
+      "kid-type-ii",
+      "bishop-pair",
+      "b4-break",
+      "f4-break",
+      "weak-squares"
+    ],
+    "note": "Mareco-Bachmann shows that after the light-squared bishops are traded, White can dominate e4 and exploit Black&#x27;s trapped dark-squared bishop. Mareco-Cori adds the b2-b4 queenside break and illustrates how a weakened b6 square supports invasion. Sasikiran-Satyapragyan uses f2-f4 to open lines and turn d6 into a fixed target.\n\nTogether the games show three white answers to Black&#x27;s kingside setup: improve the favorable minor-piece balance, open the queenside, or strike the center. Black must preserve light-square control and organize ...f5-f4 before White&#x27;s break changes the structure.",
+    "keyIdeas": [
+      "Trade light-squared bishops when it strengthens e4 control.",
+      "Use b4 to create a queenside file and b6 target.",
+      "Use f4 when it opens lines against an unready king.",
+      "Black must keep the dark-squared bishop from becoming trapped."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-kid3-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "KID Type III: chain attacks and structural transformations; pp. 297-298; PDF 298-299",
+    "title": "KID Type III: chain attacks and structural transformations",
+    "tags": [
+      "kid-type-iii",
+      "pawn-chains",
+      "pawn-breaks",
+      "opposite-wing-attacks",
+      "structure-transformation"
+    ],
+    "note": "White attacks the base of Black&#x27;s chain with c4-c5/cxd6, expands with c4-c5-c6 and b-pawns, or first closes the kingside with g2-g4. Black attacks White&#x27;s e4 base with ...f7-f5-f4 and ...g6-g5-g4, or uses ...f7-f5xc4, ...c7-c6 and sometimes ...h7-h5-h4.\n\nCaptures on f5 transform the structure and determine whether White should use f3 or f4. Black&#x27;s light-squared bishop is central to the attack because it protects light squares and joins sacrifices. White often wants to trade it. Opposite-wing plans are connected: a slow or blocked attack on one side gives the other side time to break through.",
+    "keyIdeas": [
+      "Attack the base of the opponent&#x27;s chain.",
+      "Use c5/c6 for White and ...f5-f4 for Black.",
+      "The f5 recapture changes the g-file and e4 control.",
+      "Black&#x27;s light-squared bishop is a key attacking piece."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-chains-kid3-card",
+        "concept": "Pawn chains",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Pawn breaks",
+          "Opening to middlegame transition"
+        ],
+        "instructions": "Build the KID Type III card from PDF 298-299. Map c5/c6, g4, ...f5-f4, ...g5-g4 and the f5 recapture transformations.",
+        "successCheck": "Identify Type III and select a break from the bishops and chain bases.",
+        "playReminders": [
+          "Where is the base of each chain?",
+          "Which pawn break attacks it?",
+          "What square or file appears after the exchange?",
+          "Did the structure change enough that my plan must change?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid3-vulnerable-kingside",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "KID Type III: when White should answer ...gxf5 with f2-f3; pp. 299-300; PDF 300-301",
+    "title": "KID Type III: when White should answer ...gxf5 with f2-f3",
+    "tags": [
+      "kid-type-iii",
+      "g4-break",
+      "piece-activity",
+      "king-safety"
+    ],
+    "note": "With White&#x27;s bishop still on c2, f2-f3 supports g3-g4 without blocking the bishop. Black&#x27;s kingside pawns become targets and White opens the g-file first. The source contrasts this arrangement with positions where f4 is more useful.\n\nThe practical rule is to inspect the bishops, knight routes and g-file before selecting f3 or f4. A familiar pawn skeleton does not settle the move.",
+    "keyIdeas": [
+      "Use f3 when the c2 bishop remains useful.",
+      "Prepare g4 against Black&#x27;s advanced kingside pawns.",
+      "Choose f3 or f4 from the pieces, not a slogan.",
+      "The g-file can reverse the intended attack."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-kid3-bercys-flores",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Bercys-Flores Rios: ...h6-h5 and the ideal transformed attack; pp. 301-303; PDF 302-304",
+    "title": "Bercys-Flores Rios: ...h6-h5 and the ideal transformed attack",
+    "tags": [
+      "kid-type-iii",
+      "attacking-prerequisites",
+      "outposts",
+      "open-files",
+      "restriction"
+    ],
+    "note": "Black activates the dark-squared bishop with ...h6-h5, then closes the center and installs a knight on g3. The transformed position is ideal: Black controls the a-file, the knight is supported by h4, White&#x27;s f-pawn is isolated, and White has no useful queenside reaction.\n\nWhite&#x27;s slow play permits Black to double rooks and coordinate every piece. The example makes the attack&#x27;s prerequisites explicit: outpost, open line, fixed target and absence of counterplay.",
+    "keyIdeas": [
+      "Use ...h6-h5 to activate the dark-squared bishop.",
+      "Install the knight on g3 only with support.",
+      "Open the a-file as a second route.",
+      "The attack works when White has no queenside break."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-kid3-renet-giri",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Renet-Giri: fight for e4 before White secures c4-c5; pp. 304-308; PDF 305-309",
+    "title": "Renet-Giri: fight for e4 before White secures c4-c5",
+    "tags": [
+      "kid-type-iii",
+      "center-control",
+      "counterplay",
+      "pawn-race"
+    ],
+    "note": "Black prevents White from consolidating e4, expands with ...h6-h5 and ...g5-g4, and uses the f-file while White&#x27;s queenside play remains slow. White&#x27;s a-pawn move removes all useful queenside breaks and lets Black&#x27;s attack proceed without distraction.\n\nThe final remarks stress e4 control and timing. As long as White cannot establish c4-c5, Black has fighting chances; once White has both e4 and the queenside break, Black&#x27;s attack becomes much harder to justify.",
+    "keyIdeas": [
+      "Contest e4 before the queenside closes.",
+      "Use the f-file with ...g5-g4.",
+      "Do not remove your own queenside breaks.",
+      "Compare the speed of c5 with the kingside attack."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-kid3-andersen-szabo",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Andersen-Szabo: classic ...g6-g5-g4-g3 attack; pp. 309-313; PDF 310-314",
+    "title": "Andersen-Szabo: classic ...g6-g5-g4-g3 attack",
+    "tags": [
+      "kid-type-iii",
+      "king-safety",
+      "sacrifices",
+      "tempo",
+      "pawn-storm"
+    ],
+    "note": "Black arranges the familiar attacking pieces, keeps the c4 break under control and advances ...g5-g4-g3. White responds too slowly and misplaces the knight; Black sacrifices to open the h-file and delivers a direct attack.\n\nThe source corrects a common defensive idea: a rook lift and h-pawn shield may only help Black open lines. White needed immediate queenside action or a timely capture of the shield pawn. Black&#x27;s h5-h4 and bishop entry work because the attack is already coordinated.",
+    "keyIdeas": [
+      "Control c4 before committing to the pawn storm.",
+      "Use ...g5-g4-g3 to force open files.",
+      "A defensive rook lift may waste tempi.",
+      "Calculate whether the h-pawn shield can be captured."
+    ],
+    "activities": [
+      {
+        "id": "study-king-safety-kid3-race",
+        "concept": "King safety",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Threat recognition",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Compare Andersen-Szabo, Azarov-Volke, Van Wely-Krylov and Aronian-Carlsen on PDF 310-323. For each, decide whether White should race, trade the bishop, close the kingside or preserve central tension.",
+        "successCheck": "Choose the correct defensive method from the actual attacking pieces and available counterbreaks.",
+        "playReminders": [
+          "Which attacking piece is still missing?",
+          "Can I close the wing or trade the key bishop?",
+          "What central break opens lines first?",
+          "Does this pawn move create an entry square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid3-azarov-volke",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Azarov-Volke: without the light-squared bishop Black cannot attack; pp. 314-315; PDF 315-316",
+    "title": "Azarov-Volke: without the light-squared bishop Black cannot attack",
+    "tags": [
+      "kid-type-iii",
+      "defensive-exchanges",
+      "passed-pawns",
+      "attacking-prerequisites"
+    ],
+    "note": "White trades the light-squared bishops, secures c4-c5 and converts the c-pawn into a passer. Black&#x27;s schematic kingside setup lacks the bishop needed to support ...g5-g4, so White&#x27;s queenside play wins without a serious race.\n\nThe source calls attention to the missing attacking piece. A thematic pawn storm is ineffective when the piece that controls its key squares has disappeared.",
+    "keyIdeas": [
+      "Trade Black&#x27;s light-squared bishop to reduce the attack.",
+      "Use c5/c6 to create a protected passer.",
+      "Do not launch ...g5-g4 without the supporting bishop.",
+      "Turn the failed attack into queenside gains."
+    ],
+    "activities": [
+      {
+        "id": "study-king-safety-kid3-race",
+        "concept": "King safety",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Threat recognition",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Compare Andersen-Szabo, Azarov-Volke, Van Wely-Krylov and Aronian-Carlsen on PDF 310-323. For each, decide whether White should race, trade the bishop, close the kingside or preserve central tension.",
+        "successCheck": "Choose the correct defensive method from the actual attacking pieces and available counterbreaks.",
+        "playReminders": [
+          "Which attacking piece is still missing?",
+          "Can I close the wing or trade the key bishop?",
+          "What central break opens lines first?",
+          "Does this pawn move create an entry square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid3-van-wely-krylov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Van Wely-Krylov: close the kingside and expand on the queenside; pp. 316-319; PDF 317-320",
+    "title": "Van Wely-Krylov: close the kingside and expand on the queenside",
+    "tags": [
+      "kid-type-iii",
+      "restriction",
+      "space",
+      "queenside-expansion",
+      "king-safety"
+    ],
+    "note": "White blocks the kingside with g2-g4 and immediately advances a2-a4, b-pawns and c5-c6. Black&#x27;s pawn storm is too slow and a piece sacrifice cannot generate sufficient counterplay. White gains a decisive spatial advantage across the board.\n\nThe game supplies a warning flag: if Black&#x27;s advance requires many tempi while White&#x27;s forces are already arriving on the queenside, Black should change plans. Closing the attacked wing can be the strongest form of king defense.",
+    "keyIdeas": [
+      "Use g4 to close the kingside when it is structurally safe.",
+      "Start queenside expansion immediately afterward.",
+      "Reject a pawn storm that needs too many tempi.",
+      "A blocked attack may leave a full-board space disadvantage."
+    ],
+    "activities": [
+      {
+        "id": "study-king-safety-kid3-race",
+        "concept": "King safety",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Threat recognition",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Compare Andersen-Szabo, Azarov-Volke, Van Wely-Krylov and Aronian-Carlsen on PDF 310-323. For each, decide whether White should race, trade the bishop, close the kingside or preserve central tension.",
+        "successCheck": "Choose the correct defensive method from the actual attacking pieces and available counterbreaks.",
+        "playReminders": [
+          "Which attacking piece is still missing?",
+          "Can I close the wing or trade the key bishop?",
+          "What central break opens lines first?",
+          "Does this pawn move create an entry square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid3-aronian-carlsen",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Aronian-Carlsen: central tension before the wing race; pp. 320-322; PDF 321-323",
+    "title": "Aronian-Carlsen: central tension before the wing race",
+    "tags": [
+      "kid-type-iii",
+      "center-control",
+      "b5-break",
+      "sacrifices",
+      "counterplay"
+    ],
+    "note": "Black answers White&#x27;s early g2-g4 by keeping central tension, playing ...c6 and ...b5 and preventing a stable queenside attack. A central piece sacrifice opens lines against the king; White&#x27;s pieces are not coordinated to exploit the extra material.\n\nUnlike the previous game, White starts the kingside plan before Black has committed to ...f5-f4. Black therefore retains central and queenside breaks. The example shows why a wing lock is effective only when it removes the opponent&#x27;s real plan.",
+    "keyIdeas": [
+      "Keep central tension when White commits early on the wing.",
+      "Use ...c6 and ...b5 to challenge the queenside.",
+      "A central sacrifice can exploit an exposed king.",
+      "A wing lock must close the opponent&#x27;s actual attack."
+    ],
+    "activities": [
+      {
+        "id": "study-king-safety-kid3-race",
+        "concept": "King safety",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Threat recognition",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Compare Andersen-Szabo, Azarov-Volke, Van Wely-Krylov and Aronian-Carlsen on PDF 310-323. For each, decide whether White should race, trade the bishop, close the kingside or preserve central tension.",
+        "successCheck": "Choose the correct defensive method from the actual attacking pieces and available counterbreaks.",
+        "playReminders": [
+          "Which attacking piece is still missing?",
+          "Can I close the wing or trade the key bishop?",
+          "What central break opens lines first?",
+          "Does this pawn move create an entry square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-open-kid-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Open KID: d6 pressure against active defense; pp. 323; PDF 324-324",
+    "title": "Open KID: d6 pressure against active defense",
+    "tags": [
+      "open-kid",
+      "backward-pawns",
+      "space",
+      "counterplay",
+      "defensive-exchanges"
+    ],
+    "note": "After Black captures with ...exd4, White gains space and can pressure d6, expand with f2-f4/g2-g4, break with e4-e5 or f4-f5, keep pieces, and add a2-a3/b2-b4. Black trades pieces, uses ...Qb6 and ...a5-a4, strikes with ...d6-d5 or ...f7-f5, attacks c4 with ...a7-a6/...c7-c6/...b7-b5, and may attack the king with a knight on f4 and ...g6-g5.\n\nWhite&#x27;s advantage is easier to play, but Black accepts the structure for tactical and dynamic chances. Black must remain active or trade before White consolidates; White must keep coordination while preventing the freeing breaks.",
+    "keyIdeas": [
+      "White pressures d6 and expands on both wings.",
+      "Black seeks trades, ...d5, ...f5 or queenside pressure.",
+      "Keeping pieces favors White only with coordination.",
+      "Dynamic chances justify the structure for Black."
+    ],
+    "activities": [
+      {
+        "id": "study-backward-pawns-open-kid-card",
+        "concept": "Backward pawns",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Build the Open KID card from PDF 324. Include d6 pressure, f4/g4, e5/f5, ...d5, ...f5, queenside pressure and exchanges.",
+        "successCheck": "Identify the structure and explain how White coordinates pressure before attacking.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-open-kid-meier-feller",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Meier-Feller: ideal coordination and pressure on d6; pp. 324-327; PDF 325-328",
+    "title": "Meier-Feller: ideal coordination and pressure on d6",
+    "tags": [
+      "open-kid",
+      "backward-pawns",
+      "attacking-prerequisites",
+      "piece-activity"
+    ],
+    "note": "White coordinates every piece against d6, then expands with f4 and attacks the king after Black&#x27;s knight leaves the defense. Black&#x27;s passive play allows the d6 weakness to dictate the game.\n\nThe example is intentionally a model for White: the kingside attack works because control of the center and d6 prevents Black from organizing a freeing break. A tactical finish grows from positional coordination.",
+    "keyIdeas": [
+      "Coordinate pressure on d6 before attacking.",
+      "Use f4 when Black&#x27;s pieces have left the kingside.",
+      "Keep central control while adding threats.",
+      "A fixed weakness can distract the whole defense."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-open-kid-queenside-and-breaks",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Open KID: weak b4 square, ...f5 and ...g5 resources; pp. 327-329; PDF 328-330",
+    "title": "Open KID: weak b4 square, ...f5 and ...g5 resources",
+    "tags": [
+      "open-kid",
+      "weak-squares",
+      "f5-break",
+      "g5-break",
+      "sacrifices"
+    ],
+    "note": "Malakhov-Jobava shows that a weakened b4 square is not useful if Black has no active follow-up; White sacrifices a queenside pawn to open a kingside attack and traps the queen. The short break examples show ...f5 disputing the center and ...g5 preventing White&#x27;s f3-f4 setup.\n\nBlack&#x27;s flank operations must connect to central control or king pressure. A square, pawn or file is only a resource when a piece can use it before White&#x27;s space and coordination take over.",
+    "keyIdeas": [
+      "Demand an active use for a weak square.",
+      "Use ...f5 to dispute the center.",
+      "Use ...g5 to restrain f4 and gain time.",
+      "White may invest a flank pawn to open the king."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-open-kid-arutinian-efimenko",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Arutinian-Efimenko: ...g6-g5-g4 counterplay; pp. 330-333; PDF 331-334",
+    "title": "Arutinian-Efimenko: ...g6-g5-g4 counterplay",
+    "tags": [
+      "open-kid",
+      "prophylaxis",
+      "king-safety",
+      "counterplay"
+    ],
+    "note": "Black prevents f2-f4, manages the c-file and plays ...g5-g4 while White&#x27;s queen is awkwardly placed. White&#x27;s bishop leaves the kingside defense and Black&#x27;s attack becomes decisive.\n\nThe final remarks stress Black&#x27;s post-opening sequence: secure the threats in the center, prevent White&#x27;s main break and only then attack. The pawn advance works because Black can afford one concession and White cannot exploit the structural weaknesses in time.",
+    "keyIdeas": [
+      "Prevent f4 before launching ...g5-g4.",
+      "Keep the defensive bishop near the king.",
+      "Coordinate central and c-file play first.",
+      "Structural concessions are acceptable when activity is forcing."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-open-kid-black",
+        "concept": "Counterplay",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare the ...f5, ...g5 and central-tension examples on PDF 329-338. Record what each black operation prevents and the weakness it accepts.",
+        "successCheck": "Choose Black&#x27;s active resource and name the white plan it interrupts.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-open-kid-ehlvest-flores",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Ehlvest-Flores Rios: maintain central tension; pp. 334-337; PDF 335-338",
+    "title": "Ehlvest-Flores Rios: maintain central tension",
+    "tags": [
+      "open-kid",
+      "center-control",
+      "open-files",
+      "counterplay"
+    ],
+    "note": "Black releases the center too early and later opens the a-file, giving White a stable advantage and simple queenside play. Black recovers only after White misses accurate consolidation; ...g5 becomes the active resource that creates counterplay.\n\nThe source uses its own imperfect game to show why central tension matters. If Black accepts an open KID without a concrete ...d5, ...f5 or ...g5 operation, White&#x27;s space and d6 pressure become easy to use.",
+    "keyIdeas": [
+      "Maintain central tension until a useful break is ready.",
+      "Do not open a file that only White can use.",
+      "Use ...g5 to create concrete activity when passive defense fails.",
+      "Consolidate before collecting structural gains."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-open-kid-black",
+        "concept": "Counterplay",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare the ...f5, ...g5 and central-tension examples on PDF 329-338. Record what each black operation prevents and the weakness it accepts.",
+        "successCheck": "Choose Black&#x27;s active resource and name the white plan it interrupts.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid-complex-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "KID Complex: choose the transformation; pp. 338-339; PDF 339-340",
+    "title": "KID Complex: choose the transformation",
+    "tags": [
+      "kid-complex",
+      "structure-transformation",
+      "center-control",
+      "pawn-breaks",
+      "decision-making"
+    ],
+    "note": "The four-pawn center can transform into KID Types I-III, the Open KID, a Najdorf-like structure, an independent ...dxe5 structure, or a favorable 4-2 versus 3-3 center after c4-c5. When White takes dxe5 and Black replies ...dxe5, White uses c4-c5, controls d4, and expands on the queenside; Black occupies d4, controls dark squares and seeks kingside play with ...f7-f5.\n\nThe complex is a decision point rather than a stable endpoint. Each pawn exchange selects a different plan, so both sides must evaluate the resulting structure before playing a remembered continuation.",
+    "keyIdeas": [
+      "Treat the complex as a menu of structural transformations.",
+      "White uses c5 and queenside space in the independent structure.",
+      "Black controls d4 and seeks ...f5.",
+      "Reclassify the position after every central exchange."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-to-middlegame-transition-kid-complex-card",
+        "concept": "Opening to middlegame transition",
+        "minutes": 40,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Development",
+          "Center control"
+        ],
+        "instructions": "From PDF 339-340, draw a seven-branch map from the KID Complex to Types I-III, Open KID, Najdorf-like, independent ...dxe5, and c5 center-break structures.",
+        "successCheck": "Given a central exchange, name the resulting structure and abandon plans that belonged to the old skeleton.",
+        "playReminders": [
+          "Did the pawn structure change enough that my plan should change?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid-complex-danailov-kasparov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Danailov-Kasparov: dark-square control after dxe5; pp. 340-342; PDF 341-343",
+    "title": "Danailov-Kasparov: dark-square control after dxe5",
+    "tags": [
+      "kid-complex",
+      "dark-squares",
+      "outposts",
+      "good-and-bad-bishops"
+    ],
+    "note": "White exchanges on e5 and then gives up control of the dark squares. Black installs a knight on c5, attacks d4 and reroutes the bishop through d8/b6 or a5. White has no target and Black&#x27;s pieces penetrate.\n\nThe source calls this Black&#x27;s dream setup. The central exchange is acceptable for White only if c4-c5 or another active plan compensates for the dark-square concession.",
+    "keyIdeas": [
+      "After dxe5, preserve control of d4.",
+      "Use the knight on c5 and bishop reroute to dominate dark squares.",
+      "White needs c5 or an active target.",
+      "Do not confuse a symmetrical-looking center with equality."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-kid-complex-shishkin-nyzhnyk",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Shishkin-Nyzhnyk: prevent c4-c5 or suffer the queenside bind; pp. 342-345; PDF 343-346",
+    "title": "Shishkin-Nyzhnyk: prevent c4-c5 or suffer the queenside bind",
+    "tags": [
+      "kid-complex",
+      "c5-break",
+      "outposts",
+      "backward-pawns",
+      "open-files"
+    ],
+    "note": "Black allows White to prepare c4-c5 and cannot create ...a5-a4 or ...b7-b6 counterplay in time. White opens the c-file, creates an outpost on d6 and fixes b7 as a target. Black&#x27;s queenside pawns become permanent weaknesses.\n\nBlack needed a concrete challenge to c5, a dark-square strategy or a timely central response. Once White&#x27;s pieces and pawns support c5, passive play is strategically lost.",
+    "keyIdeas": [
+      "Prevent c5 before White fully supports it.",
+      "Use c5 to create d6 and b7 targets.",
+      "Open the c-file only with pieces ready to invade.",
+      "Black needs an active dark-square or queenside response."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-kid-complex-c5",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Shishkin-Nyzhnyk, Pantsulaia-Erdogdu, Ulbin-Rashkovsky and Iturrizaga-Berbatov on PDF 343-353. Track when c5 creates an outpost, opens the center, or is met by ...f5.",
+        "successCheck": "Choose a response to c5 from the resulting lines and king safety rather than from a memorized move.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid-complex-pantsulaia-erdogdu",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Pantsulaia-Erdogdu: c4-c5 creates a favorable KID transformation; pp. 345-346; PDF 346-347",
+    "title": "Pantsulaia-Erdogdu: c4-c5 creates a favorable KID transformation",
+    "tags": [
+      "kid-complex",
+      "c5-break",
+      "space",
+      "restriction"
+    ],
+    "note": "White uses c4-c5 to gain space, creates an outpost on d6 and leaves Black without a useful knight. Black&#x27;s attempt to attack the chain cannot compensate for the weak queenside and poor piece placement.\n\nThe break is powerful because White has already prepared the invasion. Black&#x27;s practical choices are to prevent c5, challenge its support, or transform into a structure where the queenside is less vulnerable.",
+    "keyIdeas": [
+      "Use c5 to gain d6 and queenside space.",
+      "Remove or misplace the knight that could blockade.",
+      "Prepare the invasion before fixing the chain.",
+      "Black must challenge c5 with a concrete operation."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-kid-complex-c5",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Shishkin-Nyzhnyk, Pantsulaia-Erdogdu, Ulbin-Rashkovsky and Iturrizaga-Berbatov on PDF 343-353. Track when c5 creates an outpost, opens the center, or is met by ...f5.",
+        "successCheck": "Choose a response to c5 from the resulting lines and king safety rather than from a memorized move.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid-complex-ulbin-rashkovsky",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Ulbin-Rashkovsky: answer c5 with kingside counterplay; pp. 347-350; PDF 348-351",
+    "title": "Ulbin-Rashkovsky: answer c5 with kingside counterplay",
+    "tags": [
+      "kid-complex",
+      "f5-break",
+      "counterplay",
+      "king-safety",
+      "good-and-bad-bishops"
+    ],
+    "note": "After White gains c5, Black immediately plays ...f7-f5 and attacks the king. White&#x27;s queenside plan stops halfway while Black reroutes the dark-squared bishop, uses the h-pawn and coordinates every piece. Black wins despite the structural concession.\n\nThis is the counterexample to passive defense. When c5 cannot be prevented, Black must create a forcing plan on the other wing. A safe-looking white move that ignores ...f5 gives Black the initiative.",
+    "keyIdeas": [
+      "Answer c5 with ...f5 when prevention is impossible.",
+      "Reroute the dark-squared bishop into the attack.",
+      "Use the h-pawn to fix dark-square weaknesses.",
+      "Do not let queenside progress substitute for king safety."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-kid-complex-c5",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Shishkin-Nyzhnyk, Pantsulaia-Erdogdu, Ulbin-Rashkovsky and Iturrizaga-Berbatov on PDF 343-353. Track when c5 creates an outpost, opens the center, or is met by ...f5.",
+        "successCheck": "Choose a response to c5 from the resulting lines and king safety rather than from a memorized move.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-kid-complex-iturrizaga-berbatov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Iturrizaga-Berbatov: c4-c5 breaks the center; pp. 350-352; PDF 351-353",
+    "title": "Iturrizaga-Berbatov: c4-c5 breaks the center",
+    "tags": [
+      "kid-complex",
+      "c5-break",
+      "defensive-exchanges",
+      "opening-lines",
+      "king-safety"
+    ],
+    "note": "Black trades dark-squared bishops before the center is defined. White then plays c4-c5, undermines the center, opens lines against the king and wins material. The same break remains effective even after ...b7-b5 because the c6 pawn becomes vulnerable.\n\nThe chapter closes with a transformation rule: exchanges that are sensible in one resulting structure can be wrong before the pawn skeleton is settled. Both sides must calculate whether c5 opens the center or merely fixes it.",
+    "keyIdeas": [
+      "Do not trade the key bishop before the center is defined.",
+      "Use c5 to undermine e5 and open attacking lines.",
+      "After ...b5, target the c6 pawn.",
+      "Evaluate the resulting structure before simplifying."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-kid-complex-c5",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare Shishkin-Nyzhnyk, Pantsulaia-Erdogdu, Ulbin-Rashkovsky and Iturrizaga-Berbatov on PDF 343-353. Track when c5 creates an outpost, opens the center, or is met by ...f5.",
+        "successCheck": "Choose a response to c5 from the resulting lines and king safety rather than from a memorized move.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",

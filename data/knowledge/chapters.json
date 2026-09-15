@@ -2405,6 +2405,539 @@
         "section": "Complete Davorin Kuljasevic-Boris Golubovic game and Chapter 11 final remarks; stop before Chapter 12 on PDF 227",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "flores-kid1-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "KID Type I: the open c-file and the choice of counterplay; pp. 261-262; PDF 262-263",
+      "title": "KID Type I: the open c-file and the choice of counterplay",
+      "locator": {
+        "pdfPageStart": 262,
+        "pdfPageEnd": 263,
+        "printedPages": "261-262",
+        "section": "Complete Chapter 14 formation diagram, plans and chapter map; Carlsen-McShane begins on PDF 263",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid1-carlsen-mcshane",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Carlsen-McShane: queenside space before kingside play; pp. 262-266; PDF 263-267",
+      "title": "Carlsen-McShane: queenside space before kingside play",
+      "locator": {
+        "pdfPageStart": 263,
+        "pdfPageEnd": 267,
+        "printedPages": "262-266",
+        "section": "Complete game and final remarks; Wojtaszek-Swiercz begins on PDF 268",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid1-wojtaszek-swiercz",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Wojtaszek-Swiercz: White owns the c-file despite exchanges; pp. 267-269; PDF 268-270",
+      "title": "Wojtaszek-Swiercz: White owns the c-file despite exchanges",
+      "locator": {
+        "pdfPageStart": 268,
+        "pdfPageEnd": 270,
+        "printedPages": "267-269",
+        "section": "Complete game and final remarks; White's endgame prospects begin on PDF 271",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid1-counterplay-and-endgames",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "KID Type I: endgame squeeze and Black's practical counterplay; pp. 270-280; PDF 271-281",
+      "title": "KID Type I: endgame squeeze and Black's practical counterplay",
+      "locator": {
+        "pdfPageStart": 271,
+        "pdfPageEnd": 281,
+        "printedPages": "270-280",
+        "section": "Complete Beljavsky-Carlhammar endgame, Bu Xiangzhi-Beliavsky fragment, Ponomariov-Radjabov and Stojanovic-Ding; all final remarks; stop before Chapter 15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid2-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "KID Type II: closed center and two-wing race; pp. 281-282; PDF 282-283",
+      "title": "KID Type II: closed center and two-wing race",
+      "locator": {
+        "pdfPageStart": 282,
+        "pdfPageEnd": 283,
+        "printedPages": "281-282",
+        "section": "Complete Chapter 15 formation diagram, plans and transformation map; Wojtaszek-Fedorov begins on PDF 284",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid2-wojtaszek-fedorov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Wojtaszek-Fedorov: the g3-g4 break after ...gxf5; pp. 283-285; PDF 284-286",
+      "title": "Wojtaszek-Fedorov: the g3-g4 break after ...gxf5",
+      "locator": {
+        "pdfPageStart": 284,
+        "pdfPageEnd": 286,
+        "printedPages": "283-285",
+        "section": "Complete game and final remarks; Piorun-Hillarp Persson begins on PDF 287",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid2-piorun-hillarp",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Piorun-Hillarp Persson: force exf5 and attack; pp. 286-288; PDF 287-289",
+      "title": "Piorun-Hillarp Persson: force exf5 and attack",
+      "locator": {
+        "pdfPageStart": 287,
+        "pdfPageEnd": 289,
+        "printedPages": "286-288",
+        "section": "Complete game and final remarks; Transformation B begins on PDF 290",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid2-transformations",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "KID Type II: bishop trades, b2-b4, f2-f4 and central breaks; pp. 289-296; PDF 290-297",
+      "title": "KID Type II: bishop trades, b2-b4, f2-f4 and central breaks",
+      "locator": {
+        "pdfPageStart": 290,
+        "pdfPageEnd": 297,
+        "printedPages": "289-296",
+        "section": "Complete Mareco-Bachmann, Mareco-Cori and Sasikiran-Satyapragyan, with transformation B discussion and all final remarks; stop before Chapter 16",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid3-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "KID Type III: chain attacks and structural transformations; pp. 297-298; PDF 298-299",
+      "title": "KID Type III: chain attacks and structural transformations",
+      "locator": {
+        "pdfPageStart": 298,
+        "pdfPageEnd": 299,
+        "printedPages": "297-298",
+        "section": "Complete Chapter 16 formation diagram, plans and transformation map; Black's vulnerable kingside begins on PDF 300",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid3-vulnerable-kingside",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "KID Type III: when White should answer ...gxf5 with f2-f3; pp. 299-300; PDF 300-301",
+      "title": "KID Type III: when White should answer ...gxf5 with f2-f3",
+      "locator": {
+        "pdfPageStart": 300,
+        "pdfPageEnd": 301,
+        "printedPages": "299-300",
+        "section": "Complete vulnerable-kingside example and final remarks; Bercys-Flores Rios begins on PDF 302",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid3-bercys-flores",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Bercys-Flores Rios: ...h6-h5 and the ideal transformed attack; pp. 301-303; PDF 302-304",
+      "title": "Bercys-Flores Rios: ...h6-h5 and the ideal transformed attack",
+      "locator": {
+        "pdfPageStart": 302,
+        "pdfPageEnd": 304,
+        "printedPages": "301-303",
+        "section": "Complete game and final remarks; Transformation B discussion continues on PDF 304",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid3-renet-giri",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Renet-Giri: fight for e4 before White secures c4-c5; pp. 304-308; PDF 305-309",
+      "title": "Renet-Giri: fight for e4 before White secures c4-c5",
+      "locator": {
+        "pdfPageStart": 305,
+        "pdfPageEnd": 309,
+        "printedPages": "304-308",
+        "section": "Complete game and final remarks; piece-arrangement section begins on PDF 310",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid3-andersen-szabo",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Andersen-Szabo: classic ...g6-g5-g4-g3 attack; pp. 309-313; PDF 310-314",
+      "title": "Andersen-Szabo: classic ...g6-g5-g4-g3 attack",
+      "locator": {
+        "pdfPageStart": 310,
+        "pdfPageEnd": 314,
+        "printedPages": "309-313",
+        "section": "Complete piece-arrangement primer and game, including final remarks; Azarov-Volke begins on PDF 315",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid3-azarov-volke",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Azarov-Volke: without the light-squared bishop Black cannot attack; pp. 314-315; PDF 315-316",
+      "title": "Azarov-Volke: without the light-squared bishop Black cannot attack",
+      "locator": {
+        "pdfPageStart": 315,
+        "pdfPageEnd": 316,
+        "printedPages": "314-315",
+        "section": "Complete game and final remarks; Van Wely-Krylov begins on PDF 317",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid3-van-wely-krylov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Van Wely-Krylov: close the kingside and expand on the queenside; pp. 316-319; PDF 317-320",
+      "title": "Van Wely-Krylov: close the kingside and expand on the queenside",
+      "locator": {
+        "pdfPageStart": 317,
+        "pdfPageEnd": 320,
+        "printedPages": "316-319",
+        "section": "Complete game and final remarks; Aronian-Carlsen begins on PDF 321",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid3-aronian-carlsen",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Aronian-Carlsen: central tension before the wing race; pp. 320-322; PDF 321-323",
+      "title": "Aronian-Carlsen: central tension before the wing race",
+      "locator": {
+        "pdfPageStart": 321,
+        "pdfPageEnd": 323,
+        "printedPages": "320-322",
+        "section": "Complete game and Chapter 16 final remarks; stop before Chapter 17",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-open-kid-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Open KID: d6 pressure against active defense; pp. 323; PDF 324-324",
+      "title": "Open KID: d6 pressure against active defense",
+      "locator": {
+        "pdfPageStart": 324,
+        "pdfPageEnd": 324,
+        "printedPages": "323",
+        "section": "Complete Chapter 17 formation diagram and plans; Meier-Feller begins on PDF 325",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-open-kid-meier-feller",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Meier-Feller: ideal coordination and pressure on d6; pp. 324-327; PDF 325-328",
+      "title": "Meier-Feller: ideal coordination and pressure on d6",
+      "locator": {
+        "pdfPageStart": 325,
+        "pdfPageEnd": 328,
+        "printedPages": "324-327",
+        "section": "Complete game and final remarks; Malakhov-Jobava begins on PDF 328",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-open-kid-queenside-and-breaks",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Open KID: weak b4 square, ...f5 and ...g5 resources; pp. 327-329; PDF 328-330",
+      "title": "Open KID: weak b4 square, ...f5 and ...g5 resources",
+      "locator": {
+        "pdfPageStart": 328,
+        "pdfPageEnd": 330,
+        "printedPages": "327-329",
+        "section": "Complete Malakhov-Jobava fragment and the ...f7-f5 / ...g6-g5 examples; Arutinian-Efimenko begins on PDF 331",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-open-kid-arutinian-efimenko",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Arutinian-Efimenko: ...g6-g5-g4 counterplay; pp. 330-333; PDF 331-334",
+      "title": "Arutinian-Efimenko: ...g6-g5-g4 counterplay",
+      "locator": {
+        "pdfPageStart": 331,
+        "pdfPageEnd": 334,
+        "printedPages": "330-333",
+        "section": "Complete game and final remarks; Ehlvest-Flores Rios begins on PDF 335",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-open-kid-ehlvest-flores",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Ehlvest-Flores Rios: maintain central tension; pp. 334-337; PDF 335-338",
+      "title": "Ehlvest-Flores Rios: maintain central tension",
+      "locator": {
+        "pdfPageStart": 335,
+        "pdfPageEnd": 338,
+        "printedPages": "334-337",
+        "section": "Complete game and Chapter 17 final remarks; stop before Chapter 18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid-complex-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "KID Complex: choose the transformation; pp. 338-339; PDF 339-340",
+      "title": "KID Complex: choose the transformation",
+      "locator": {
+        "pdfPageStart": 339,
+        "pdfPageEnd": 340,
+        "printedPages": "338-339",
+        "section": "Complete Chapter 18 formation diagram, seven transformations and plans; Danailov-Kasparov begins on PDF 341",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid-complex-danailov-kasparov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Danailov-Kasparov: dark-square control after dxe5; pp. 340-342; PDF 341-343",
+      "title": "Danailov-Kasparov: dark-square control after dxe5",
+      "locator": {
+        "pdfPageStart": 341,
+        "pdfPageEnd": 343,
+        "printedPages": "340-342",
+        "section": "Complete game and final remarks; Shishkin-Nyzhnyk begins on PDF 343",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid-complex-shishkin-nyzhnyk",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Shishkin-Nyzhnyk: prevent c4-c5 or suffer the queenside bind; pp. 342-345; PDF 343-346",
+      "title": "Shishkin-Nyzhnyk: prevent c4-c5 or suffer the queenside bind",
+      "locator": {
+        "pdfPageStart": 343,
+        "pdfPageEnd": 346,
+        "printedPages": "342-345",
+        "section": "Complete game and final remarks; Pantsulaia-Erdogdu begins on PDF 346",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid-complex-pantsulaia-erdogdu",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Pantsulaia-Erdogdu: c4-c5 creates a favorable KID transformation; pp. 345-346; PDF 346-347",
+      "title": "Pantsulaia-Erdogdu: c4-c5 creates a favorable KID transformation",
+      "locator": {
+        "pdfPageStart": 346,
+        "pdfPageEnd": 347,
+        "printedPages": "345-346",
+        "section": "Complete game and final remarks; Ulbin-Rashkovsky begins on PDF 348",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid-complex-ulbin-rashkovsky",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Ulbin-Rashkovsky: answer c5 with kingside counterplay; pp. 347-350; PDF 348-351",
+      "title": "Ulbin-Rashkovsky: answer c5 with kingside counterplay",
+      "locator": {
+        "pdfPageStart": 348,
+        "pdfPageEnd": 351,
+        "printedPages": "347-350",
+        "section": "Complete game and final remarks; Iturrizaga-Berbatov begins on PDF 351",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-kid-complex-iturrizaga-berbatov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Iturrizaga-Berbatov: c4-c5 breaks the center; pp. 350-352; PDF 351-353",
+      "title": "Iturrizaga-Berbatov: c4-c5 breaks the center",
+      "locator": {
+        "pdfPageStart": 351,
+        "pdfPageEnd": 353,
+        "printedPages": "350-352",
+        "section": "Complete game and Chapter 18 final remarks; stop before Chapter 19 on PDF 354",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-asymmetric-benoni-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Asymmetric Benoni: central space against a queenside majority; pp. 226; PDF 227-227",
+      "title": "Asymmetric Benoni: central space against a queenside majority",
+      "locator": {
+        "pdfPageStart": 227,
+        "pdfPageEnd": 227,
+        "printedPages": "226",
+        "section": "Complete Chapter 12 formation diagram and plan overview; Akopian-Pantsulaia begins on PDF 228",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-asymmetric-benoni-akopian-pantsulaia",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Akopian-Pantsulaia: prepare e4-e5 and keep the attackers; pp. 227-229; PDF 228-230",
+      "title": "Akopian-Pantsulaia: prepare e4-e5 and keep the attackers",
+      "locator": {
+        "pdfPageStart": 228,
+        "pdfPageEnd": 230,
+        "printedPages": "227-229",
+        "section": "Complete game and final remarks; Christian Gabriel-Kekelidze begins on PDF 230",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-asymmetric-benoni-gabriel-kekelidze",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Gabriel-Kekelidze: e5 followed by f5; pp. 229-231; PDF 230-232",
+      "title": "Gabriel-Kekelidze: e5 followed by f5",
+      "locator": {
+        "pdfPageStart": 230,
+        "pdfPageEnd": 232,
+        "printedPages": "229-231",
+        "section": "Complete game and final remarks; Vitiugov-Ding begins on PDF 233",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-asymmetric-benoni-vitiugov-ding",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Vitiugov-Ding: f4-f5 and Black's ...Ne5/...f5 defense; pp. 232-233; PDF 233-234",
+      "title": "Vitiugov-Ding: f4-f5 and Black's ...Ne5/...f5 defense",
+      "locator": {
+        "pdfPageStart": 233,
+        "pdfPageEnd": 234,
+        "printedPages": "232-233",
+        "section": "Complete game and final remarks; Mikhalevski-Guseinov fragment begins on PDF 235",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-asymmetric-benoni-mikhalevski-guseinov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Mikhalevski-Guseinov: piece placement and b2-b4; pp. 234; PDF 235-235",
+      "title": "Mikhalevski-Guseinov: piece placement and b2-b4",
+      "locator": {
+        "pdfPageStart": 235,
+        "pdfPageEnd": 235,
+        "printedPages": "234",
+        "section": "Complete illustrative fragment; Eljanov-Radjabov begins on PDF 236",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-asymmetric-benoni-eljanov-radjabov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Eljanov-Radjabov: ...f5 undermines White's center; pp. 235-237; PDF 236-238",
+      "title": "Eljanov-Radjabov: ...f5 undermines White's center",
+      "locator": {
+        "pdfPageStart": 236,
+        "pdfPageEnd": 238,
+        "printedPages": "235-237",
+        "section": "Complete game and final remarks; Hellsten-Cordova begins on PDF 239",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-asymmetric-benoni-hellsten-cordova",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Hellsten-Cordova: combine ...h4, ...f5 and the queenside majority; pp. 238-241; PDF 239-242",
+      "title": "Hellsten-Cordova: combine ...h4, ...f5 and the queenside majority",
+      "locator": {
+        "pdfPageStart": 239,
+        "pdfPageEnd": 242,
+        "printedPages": "238-241",
+        "section": "Complete game and Chapter 12 final remarks; stop before Chapter 13 on PDF 243",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-symmetric-benoni-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Symmetric Benoni: a small space edge and the fight for e4; pp. 242; PDF 243-243",
+      "title": "Symmetric Benoni: a small space edge and the fight for e4",
+      "locator": {
+        "pdfPageStart": 243,
+        "pdfPageEnd": 243,
+        "printedPages": "242",
+        "section": "Complete Chapter 13 formation diagram and plan overview; Spassky-Fischer begins on PDF 244",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-symmetric-benoni-spassky-fischer",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Spassky-Fischer: f4-g4-h4 and the long squeeze; pp. 243-246; PDF 244-247",
+      "title": "Spassky-Fischer: f4-g4-h4 and the long squeeze",
+      "locator": {
+        "pdfPageStart": 244,
+        "pdfPageEnd": 247,
+        "printedPages": "243-246",
+        "section": "Complete game and final remarks; Malakhov-Grischuk begins on PDF 248",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-symmetric-benoni-malakhov-grischuk",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Malakhov-Grischuk: ...f5 is the modern defense; pp. 247-250; PDF 248-251",
+      "title": "Malakhov-Grischuk: ...f5 is the modern defense",
+      "locator": {
+        "pdfPageStart": 248,
+        "pdfPageEnd": 251,
+        "printedPages": "247-250",
+        "section": "Complete game and final remarks; Motylev-Lodhi begins on PDF 252",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-symmetric-benoni-motylev-lodhi",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Motylev-Lodhi: pressure the d6 pawn; pp. 251-253; PDF 252-254",
+      "title": "Motylev-Lodhi: pressure the d6 pawn",
+      "locator": {
+        "pdfPageStart": 252,
+        "pdfPageEnd": 254,
+        "printedPages": "251-253",
+        "section": "Complete game and final remarks; Kacheishvili-Fernandez begins on PDF 254",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-symmetric-benoni-kacheishvili-fernandez",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Kacheishvili-Fernandez: control e4 and counter with ...b5; pp. 253-254; PDF 254-255",
+      "title": "Kacheishvili-Fernandez: control e4 and counter with ...b5",
+      "locator": {
+        "pdfPageStart": 254,
+        "pdfPageEnd": 255,
+        "printedPages": "253-254",
+        "section": "Complete game and final remarks; Zherebukh-Flores Rios begins on PDF 256",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-symmetric-benoni-zherebukh-flores",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Zherebukh-Flores Rios: the thematic ...b7-b5 sacrifice; pp. 255-258; PDF 256-259",
+      "title": "Zherebukh-Flores Rios: the thematic ...b7-b5 sacrifice",
+      "locator": {
+        "pdfPageStart": 256,
+        "pdfPageEnd": 259,
+        "printedPages": "255-258",
+        "section": "Complete game and final remarks; Carlsen-Van Wely begins on PDF 260",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-symmetric-benoni-carlsen-van-wely",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Carlsen-Van Wely: capture b2 and target the central pawns; pp. 259-260; PDF 260-261",
+      "title": "Carlsen-Van Wely: capture b2 and target the central pawns",
+      "locator": {
+        "pdfPageStart": 260,
+        "pdfPageEnd": 261,
+        "printedPages": "259-260",
+        "section": "Complete game and Chapter 13 final remarks; stop before Chapter 14 on PDF 262",
+        "ebookLocation": null
+      }
     }
   ]
 }

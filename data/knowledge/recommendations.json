@@ -1306,6 +1306,124 @@
         "restriction--flores-hedgehog-overview",
         "restriction--flores-maroczy-overview"
       ]
+    },
+    {
+      "id": "study-open-files-kid1-card",
+      "crossrefIds": [
+        "open-files--flores-kid1-overview"
+      ]
+    },
+    {
+      "id": "study-counterplay-kid1-race",
+      "crossrefIds": [
+        "counterplay--flores-kid1-counterplay-and-endgames"
+      ]
+    },
+    {
+      "id": "study-pawn-chains-kid2-card",
+      "crossrefIds": [
+        "pawn-chains--flores-kid2-overview"
+      ]
+    },
+    {
+      "id": "study-king-safety-kid2-attacks",
+      "crossrefIds": [
+        "king-safety--flores-kid2-wojtaszek-fedorov",
+        "king-safety--flores-kid2-piorun-hillarp"
+      ]
+    },
+    {
+      "id": "study-pawn-chains-kid3-card",
+      "crossrefIds": [
+        "pawn-chains--flores-kid3-overview"
+      ]
+    },
+    {
+      "id": "study-king-safety-kid3-race",
+      "crossrefIds": [
+        "king-safety--flores-kid3-andersen-szabo",
+        "king-safety--flores-kid3-azarov-volke",
+        "king-safety--flores-kid3-van-wely-krylov",
+        "king-safety--flores-kid3-aronian-carlsen"
+      ]
+    },
+    {
+      "id": "study-backward-pawns-open-kid-card",
+      "crossrefIds": [
+        "backward-pawns--flores-open-kid-overview"
+      ]
+    },
+    {
+      "id": "study-counterplay-open-kid-black",
+      "crossrefIds": [
+        "counterplay--flores-open-kid-arutinian-efimenko",
+        "counterplay--flores-open-kid-ehlvest-flores"
+      ]
+    },
+    {
+      "id": "study-opening-to-middlegame-transition-kid-complex-card",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--flores-kid-complex-overview"
+      ]
+    },
+    {
+      "id": "study-counterplay-kid-complex-c5",
+      "crossrefIds": [
+        "counterplay--flores-kid-complex-shishkin-nyzhnyk",
+        "counterplay--flores-kid-complex-pantsulaia-erdogdu",
+        "counterplay--flores-kid-complex-ulbin-rashkovsky",
+        "counterplay--flores-kid-complex-iturrizaga-berbatov"
+      ]
+    },
+    {
+      "id": "study-pawn-majorities-asymmetric-card",
+      "crossrefIds": [
+        "pawn-majorities--flores-asymmetric-benoni-overview"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-asymmetric-white-breaks",
+      "crossrefIds": [
+        "pawn-breaks--flores-asymmetric-benoni-akopian-pantsulaia",
+        "pawn-breaks--flores-asymmetric-benoni-gabriel-kekelidze",
+        "pawn-breaks--flores-asymmetric-benoni-vitiugov-ding"
+      ]
+    },
+    {
+      "id": "study-counterplay-asymmetric-black-play",
+      "crossrefIds": [
+        "counterplay--flores-asymmetric-benoni-eljanov-radjabov",
+        "counterplay--flores-asymmetric-benoni-hellsten-cordova"
+      ]
+    },
+    {
+      "id": "study-space-symmetric-card",
+      "crossrefIds": [
+        "space--flores-symmetric-benoni-overview"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-symmetric-kingside",
+      "crossrefIds": [
+        "pawn-breaks--flores-symmetric-benoni-spassky-fischer",
+        "pawn-breaks--flores-symmetric-benoni-malakhov-grischuk"
+      ]
+    },
+    {
+      "id": "study-counterplay-symmetric-choices",
+      "crossrefIds": [
+        "counterplay--flores-symmetric-benoni-motylev-lodhi",
+        "counterplay--flores-symmetric-benoni-kacheishvili-fernandez",
+        "counterplay--flores-symmetric-benoni-zherebukh-flores",
+        "counterplay--flores-symmetric-benoni-carlsen-van-wely"
+      ]
+    },
+    {
+      "id": "study-pawn-majorities-benoni-compare",
+      "crossrefIds": [
+        "pawn-majorities--flores-asymmetric-benoni-overview",
+        "pawn-majorities--flores-symmetric-benoni-overview"
+      ]
     }
   ]
 }

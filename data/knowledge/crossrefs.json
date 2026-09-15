@@ -4917,6 +4917,930 @@
         "section": "Complete Davorin Kuljasevic-Boris Golubovic game and Chapter 11 final remarks; stop before Chapter 12 on PDF 227",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "pawn-chains--flores-kid1-overview",
+      "chapterId": "flores-kid1-overview",
+      "locator": {
+        "pdfPageStart": 262,
+        "pdfPageEnd": 263,
+        "printedPages": "261-262",
+        "section": "Complete Chapter 14 formation diagram, plans and chapter map; Carlsen-McShane begins on PDF 263",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-kid1-overview",
+      "chapterId": "flores-kid1-overview",
+      "locator": {
+        "pdfPageStart": 262,
+        "pdfPageEnd": 263,
+        "printedPages": "261-262",
+        "section": "Complete Chapter 14 formation diagram, plans and chapter map; Carlsen-McShane begins on PDF 263",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-kid1-overview",
+      "chapterId": "flores-kid1-overview",
+      "locator": {
+        "pdfPageStart": 262,
+        "pdfPageEnd": 263,
+        "printedPages": "261-262",
+        "section": "Complete Chapter 14 formation diagram, plans and chapter map; Carlsen-McShane begins on PDF 263",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid1-overview",
+      "chapterId": "flores-kid1-overview",
+      "locator": {
+        "pdfPageStart": 262,
+        "pdfPageEnd": 263,
+        "printedPages": "261-262",
+        "section": "Complete Chapter 14 formation diagram, plans and chapter map; Carlsen-McShane begins on PDF 263",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-kid2-overview",
+      "chapterId": "flores-kid2-overview",
+      "locator": {
+        "pdfPageStart": 282,
+        "pdfPageEnd": 283,
+        "printedPages": "281-282",
+        "section": "Complete Chapter 15 formation diagram, plans and transformation map; Wojtaszek-Fedorov begins on PDF 284",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-kid2-overview",
+      "chapterId": "flores-kid2-overview",
+      "locator": {
+        "pdfPageStart": 282,
+        "pdfPageEnd": 283,
+        "printedPages": "281-282",
+        "section": "Complete Chapter 15 formation diagram, plans and transformation map; Wojtaszek-Fedorov begins on PDF 284",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-kid2-overview",
+      "chapterId": "flores-kid2-overview",
+      "locator": {
+        "pdfPageStart": 282,
+        "pdfPageEnd": 283,
+        "printedPages": "281-282",
+        "section": "Complete Chapter 15 formation diagram, plans and transformation map; Wojtaszek-Fedorov begins on PDF 284",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid2-overview",
+      "chapterId": "flores-kid2-overview",
+      "locator": {
+        "pdfPageStart": 282,
+        "pdfPageEnd": 283,
+        "printedPages": "281-282",
+        "section": "Complete Chapter 15 formation diagram, plans and transformation map; Wojtaszek-Fedorov begins on PDF 284",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-kid3-overview",
+      "chapterId": "flores-kid3-overview",
+      "locator": {
+        "pdfPageStart": 298,
+        "pdfPageEnd": 299,
+        "printedPages": "297-298",
+        "section": "Complete Chapter 16 formation diagram, plans and transformation map; Black's vulnerable kingside begins on PDF 300",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-kid3-overview",
+      "chapterId": "flores-kid3-overview",
+      "locator": {
+        "pdfPageStart": 298,
+        "pdfPageEnd": 299,
+        "printedPages": "297-298",
+        "section": "Complete Chapter 16 formation diagram, plans and transformation map; Black's vulnerable kingside begins on PDF 300",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-kid3-overview",
+      "chapterId": "flores-kid3-overview",
+      "locator": {
+        "pdfPageStart": 298,
+        "pdfPageEnd": 299,
+        "printedPages": "297-298",
+        "section": "Complete Chapter 16 formation diagram, plans and transformation map; Black's vulnerable kingside begins on PDF 300",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid3-overview",
+      "chapterId": "flores-kid3-overview",
+      "locator": {
+        "pdfPageStart": 298,
+        "pdfPageEnd": 299,
+        "printedPages": "297-298",
+        "section": "Complete Chapter 16 formation diagram, plans and transformation map; Black's vulnerable kingside begins on PDF 300",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-open-kid-overview",
+      "chapterId": "flores-open-kid-overview",
+      "locator": {
+        "pdfPageStart": 324,
+        "pdfPageEnd": 324,
+        "printedPages": "323",
+        "section": "Complete Chapter 17 formation diagram and plans; Meier-Feller begins on PDF 325",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-open-kid-overview",
+      "chapterId": "flores-open-kid-overview",
+      "locator": {
+        "pdfPageStart": 324,
+        "pdfPageEnd": 324,
+        "printedPages": "323",
+        "section": "Complete Chapter 17 formation diagram and plans; Meier-Feller begins on PDF 325",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-open-kid-overview",
+      "chapterId": "flores-open-kid-overview",
+      "locator": {
+        "pdfPageStart": 324,
+        "pdfPageEnd": 324,
+        "printedPages": "323",
+        "section": "Complete Chapter 17 formation diagram and plans; Meier-Feller begins on PDF 325",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-open-kid-overview",
+      "chapterId": "flores-open-kid-overview",
+      "locator": {
+        "pdfPageStart": 324,
+        "pdfPageEnd": 324,
+        "printedPages": "323",
+        "section": "Complete Chapter 17 formation diagram and plans; Meier-Feller begins on PDF 325",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-kid-complex-overview",
+      "chapterId": "flores-kid-complex-overview",
+      "locator": {
+        "pdfPageStart": 339,
+        "pdfPageEnd": 340,
+        "printedPages": "338-339",
+        "section": "Complete Chapter 18 formation diagram, seven transformations and plans; Danailov-Kasparov begins on PDF 341",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-kid-complex-overview",
+      "chapterId": "flores-kid-complex-overview",
+      "locator": {
+        "pdfPageStart": 339,
+        "pdfPageEnd": 340,
+        "printedPages": "338-339",
+        "section": "Complete Chapter 18 formation diagram, seven transformations and plans; Danailov-Kasparov begins on PDF 341",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-kid-complex-overview",
+      "chapterId": "flores-kid-complex-overview",
+      "locator": {
+        "pdfPageStart": 339,
+        "pdfPageEnd": 340,
+        "printedPages": "338-339",
+        "section": "Complete Chapter 18 formation diagram, seven transformations and plans; Danailov-Kasparov begins on PDF 341",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid-complex-overview",
+      "chapterId": "flores-kid-complex-overview",
+      "locator": {
+        "pdfPageStart": 339,
+        "pdfPageEnd": 340,
+        "printedPages": "338-339",
+        "section": "Complete Chapter 18 formation diagram, seven transformations and plans; Danailov-Kasparov begins on PDF 341",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-kid1-carlsen-mcshane",
+      "chapterId": "flores-kid1-carlsen-mcshane",
+      "locator": {
+        "pdfPageStart": 263,
+        "pdfPageEnd": 267,
+        "printedPages": "262-266",
+        "section": "Complete game and final remarks; Wojtaszek-Swiercz begins on PDF 268",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-kid1-wojtaszek-swiercz",
+      "chapterId": "flores-kid1-wojtaszek-swiercz",
+      "locator": {
+        "pdfPageStart": 268,
+        "pdfPageEnd": 270,
+        "printedPages": "267-269",
+        "section": "Complete game and final remarks; White's endgame prospects begin on PDF 271",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-kid1-counterplay-and-endgames",
+      "chapterId": "flores-kid1-counterplay-and-endgames",
+      "locator": {
+        "pdfPageStart": 271,
+        "pdfPageEnd": 281,
+        "printedPages": "270-280",
+        "section": "Complete Beljavsky-Carlhammar endgame, Bu Xiangzhi-Beliavsky fragment, Ponomariov-Radjabov and Stojanovic-Ding; all final remarks; stop before Chapter 15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-kid2-wojtaszek-fedorov",
+      "chapterId": "flores-kid2-wojtaszek-fedorov",
+      "locator": {
+        "pdfPageStart": 284,
+        "pdfPageEnd": 286,
+        "printedPages": "283-285",
+        "section": "Complete game and final remarks; Piorun-Hillarp Persson begins on PDF 287",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-kid2-piorun-hillarp",
+      "chapterId": "flores-kid2-piorun-hillarp",
+      "locator": {
+        "pdfPageStart": 287,
+        "pdfPageEnd": 289,
+        "printedPages": "286-288",
+        "section": "Complete game and final remarks; Transformation B begins on PDF 290",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-kid2-transformations",
+      "chapterId": "flores-kid2-transformations",
+      "locator": {
+        "pdfPageStart": 290,
+        "pdfPageEnd": 297,
+        "printedPages": "289-296",
+        "section": "Complete Mareco-Bachmann, Mareco-Cori and Sasikiran-Satyapragyan, with transformation B discussion and all final remarks; stop before Chapter 16",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-kid3-bercys-flores",
+      "chapterId": "flores-kid3-bercys-flores",
+      "locator": {
+        "pdfPageStart": 302,
+        "pdfPageEnd": 304,
+        "printedPages": "301-303",
+        "section": "Complete game and final remarks; Transformation B discussion continues on PDF 304",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "center-control--flores-kid3-renet-giri",
+      "chapterId": "flores-kid3-renet-giri",
+      "locator": {
+        "pdfPageStart": 305,
+        "pdfPageEnd": 309,
+        "printedPages": "304-308",
+        "section": "Complete game and final remarks; piece-arrangement section begins on PDF 310",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "sacrifices--flores-kid3-andersen-szabo",
+      "chapterId": "flores-kid3-andersen-szabo",
+      "locator": {
+        "pdfPageStart": 310,
+        "pdfPageEnd": 314,
+        "printedPages": "309-313",
+        "section": "Complete piece-arrangement primer and game, including final remarks; Azarov-Volke begins on PDF 315",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "defensive-exchanges--flores-kid3-azarov-volke",
+      "chapterId": "flores-kid3-azarov-volke",
+      "locator": {
+        "pdfPageStart": 315,
+        "pdfPageEnd": 316,
+        "printedPages": "314-315",
+        "section": "Complete game and final remarks; Van Wely-Krylov begins on PDF 317",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-kid3-van-wely-krylov",
+      "chapterId": "flores-kid3-van-wely-krylov",
+      "locator": {
+        "pdfPageStart": 317,
+        "pdfPageEnd": 320,
+        "printedPages": "316-319",
+        "section": "Complete game and final remarks; Aronian-Carlsen begins on PDF 321",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "center-control--flores-kid3-aronian-carlsen",
+      "chapterId": "flores-kid3-aronian-carlsen",
+      "locator": {
+        "pdfPageStart": 321,
+        "pdfPageEnd": 323,
+        "printedPages": "320-322",
+        "section": "Complete game and Chapter 16 final remarks; stop before Chapter 17",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "backward-pawns--flores-open-kid-meier-feller",
+      "chapterId": "flores-open-kid-meier-feller",
+      "locator": {
+        "pdfPageStart": 325,
+        "pdfPageEnd": 328,
+        "printedPages": "324-327",
+        "section": "Complete game and final remarks; Malakhov-Jobava begins on PDF 328",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--flores-open-kid-arutinian-efimenko",
+      "chapterId": "flores-open-kid-arutinian-efimenko",
+      "locator": {
+        "pdfPageStart": 331,
+        "pdfPageEnd": 334,
+        "printedPages": "330-333",
+        "section": "Complete game and final remarks; Ehlvest-Flores Rios begins on PDF 335",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-open-kid-ehlvest-flores",
+      "chapterId": "flores-open-kid-ehlvest-flores",
+      "locator": {
+        "pdfPageStart": 335,
+        "pdfPageEnd": 338,
+        "printedPages": "334-337",
+        "section": "Complete game and Chapter 17 final remarks; stop before Chapter 18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-kid-complex-overview",
+      "chapterId": "flores-kid-complex-overview",
+      "locator": {
+        "pdfPageStart": 339,
+        "pdfPageEnd": 340,
+        "printedPages": "338-339",
+        "section": "Complete Chapter 18 formation diagram, seven transformations and plans; Danailov-Kasparov begins on PDF 341",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-kid-complex-danailov-kasparov",
+      "chapterId": "flores-kid-complex-danailov-kasparov",
+      "locator": {
+        "pdfPageStart": 341,
+        "pdfPageEnd": 343,
+        "printedPages": "340-342",
+        "section": "Complete game and final remarks; Shishkin-Nyzhnyk begins on PDF 343",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-kid-complex-shishkin-nyzhnyk",
+      "chapterId": "flores-kid-complex-shishkin-nyzhnyk",
+      "locator": {
+        "pdfPageStart": 343,
+        "pdfPageEnd": 346,
+        "printedPages": "342-345",
+        "section": "Complete game and final remarks; Pantsulaia-Erdogdu begins on PDF 346",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-kid-complex-ulbin-rashkovsky",
+      "chapterId": "flores-kid-complex-ulbin-rashkovsky",
+      "locator": {
+        "pdfPageStart": 348,
+        "pdfPageEnd": 351,
+        "printedPages": "347-350",
+        "section": "Complete game and final remarks; Iturrizaga-Berbatov begins on PDF 351",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "defensive-exchanges--flores-kid-complex-iturrizaga-berbatov",
+      "chapterId": "flores-kid-complex-iturrizaga-berbatov",
+      "locator": {
+        "pdfPageStart": 351,
+        "pdfPageEnd": 353,
+        "printedPages": "350-352",
+        "section": "Complete game and Chapter 18 final remarks; stop before Chapter 19 on PDF 354",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-kid1-overview",
+      "chapterId": "flores-kid1-overview",
+      "locator": {
+        "pdfPageStart": 262,
+        "pdfPageEnd": 263,
+        "printedPages": "261-262",
+        "section": "Complete Chapter 14 formation diagram, plans and chapter map; Carlsen-McShane begins on PDF 263",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-kid1-counterplay-and-endgames",
+      "chapterId": "flores-kid1-counterplay-and-endgames",
+      "locator": {
+        "pdfPageStart": 271,
+        "pdfPageEnd": 281,
+        "printedPages": "270-280",
+        "section": "Complete Beljavsky-Carlhammar endgame, Bu Xiangzhi-Beliavsky fragment, Ponomariov-Radjabov and Stojanovic-Ding; all final remarks; stop before Chapter 15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid2-wojtaszek-fedorov",
+      "chapterId": "flores-kid2-wojtaszek-fedorov",
+      "locator": {
+        "pdfPageStart": 284,
+        "pdfPageEnd": 286,
+        "printedPages": "283-285",
+        "section": "Complete game and final remarks; Piorun-Hillarp Persson begins on PDF 287",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid2-piorun-hillarp",
+      "chapterId": "flores-kid2-piorun-hillarp",
+      "locator": {
+        "pdfPageStart": 287,
+        "pdfPageEnd": 289,
+        "printedPages": "286-288",
+        "section": "Complete game and final remarks; Transformation B begins on PDF 290",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid3-andersen-szabo",
+      "chapterId": "flores-kid3-andersen-szabo",
+      "locator": {
+        "pdfPageStart": 310,
+        "pdfPageEnd": 314,
+        "printedPages": "309-313",
+        "section": "Complete piece-arrangement primer and game, including final remarks; Azarov-Volke begins on PDF 315",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid3-azarov-volke",
+      "chapterId": "flores-kid3-azarov-volke",
+      "locator": {
+        "pdfPageStart": 315,
+        "pdfPageEnd": 316,
+        "printedPages": "314-315",
+        "section": "Complete game and final remarks; Van Wely-Krylov begins on PDF 317",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid3-van-wely-krylov",
+      "chapterId": "flores-kid3-van-wely-krylov",
+      "locator": {
+        "pdfPageStart": 317,
+        "pdfPageEnd": 320,
+        "printedPages": "316-319",
+        "section": "Complete game and final remarks; Aronian-Carlsen begins on PDF 321",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-kid3-aronian-carlsen",
+      "chapterId": "flores-kid3-aronian-carlsen",
+      "locator": {
+        "pdfPageStart": 321,
+        "pdfPageEnd": 323,
+        "printedPages": "320-322",
+        "section": "Complete game and Chapter 16 final remarks; stop before Chapter 17",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "backward-pawns--flores-open-kid-overview",
+      "chapterId": "flores-open-kid-overview",
+      "locator": {
+        "pdfPageStart": 324,
+        "pdfPageEnd": 324,
+        "printedPages": "323",
+        "section": "Complete Chapter 17 formation diagram and plans; Meier-Feller begins on PDF 325",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-open-kid-arutinian-efimenko",
+      "chapterId": "flores-open-kid-arutinian-efimenko",
+      "locator": {
+        "pdfPageStart": 331,
+        "pdfPageEnd": 334,
+        "printedPages": "330-333",
+        "section": "Complete game and final remarks; Ehlvest-Flores Rios begins on PDF 335",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-open-kid-ehlvest-flores",
+      "chapterId": "flores-open-kid-ehlvest-flores",
+      "locator": {
+        "pdfPageStart": 335,
+        "pdfPageEnd": 338,
+        "printedPages": "334-337",
+        "section": "Complete game and Chapter 17 final remarks; stop before Chapter 18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-kid-complex-shishkin-nyzhnyk",
+      "chapterId": "flores-kid-complex-shishkin-nyzhnyk",
+      "locator": {
+        "pdfPageStart": 343,
+        "pdfPageEnd": 346,
+        "printedPages": "342-345",
+        "section": "Complete game and final remarks; Pantsulaia-Erdogdu begins on PDF 346",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-kid-complex-pantsulaia-erdogdu",
+      "chapterId": "flores-kid-complex-pantsulaia-erdogdu",
+      "locator": {
+        "pdfPageStart": 346,
+        "pdfPageEnd": 347,
+        "printedPages": "345-346",
+        "section": "Complete game and final remarks; Ulbin-Rashkovsky begins on PDF 348",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-kid-complex-iturrizaga-berbatov",
+      "chapterId": "flores-kid-complex-iturrizaga-berbatov",
+      "locator": {
+        "pdfPageStart": 351,
+        "pdfPageEnd": 353,
+        "printedPages": "350-352",
+        "section": "Complete game and Chapter 18 final remarks; stop before Chapter 19 on PDF 354",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-majorities--flores-asymmetric-benoni-overview",
+      "chapterId": "flores-asymmetric-benoni-overview",
+      "locator": {
+        "pdfPageStart": 227,
+        "pdfPageEnd": 227,
+        "printedPages": "226",
+        "section": "Complete Chapter 12 formation diagram and plan overview; Akopian-Pantsulaia begins on PDF 228",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-asymmetric-benoni-overview",
+      "chapterId": "flores-asymmetric-benoni-overview",
+      "locator": {
+        "pdfPageStart": 227,
+        "pdfPageEnd": 227,
+        "printedPages": "226",
+        "section": "Complete Chapter 12 formation diagram and plan overview; Akopian-Pantsulaia begins on PDF 228",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-asymmetric-benoni-overview",
+      "chapterId": "flores-asymmetric-benoni-overview",
+      "locator": {
+        "pdfPageStart": 227,
+        "pdfPageEnd": 227,
+        "printedPages": "226",
+        "section": "Complete Chapter 12 formation diagram and plan overview; Akopian-Pantsulaia begins on PDF 228",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-asymmetric-benoni-overview",
+      "chapterId": "flores-asymmetric-benoni-overview",
+      "locator": {
+        "pdfPageStart": 227,
+        "pdfPageEnd": 227,
+        "printedPages": "226",
+        "section": "Complete Chapter 12 formation diagram and plan overview; Akopian-Pantsulaia begins on PDF 228",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-asymmetric-benoni-akopian-pantsulaia",
+      "chapterId": "flores-asymmetric-benoni-akopian-pantsulaia",
+      "locator": {
+        "pdfPageStart": 228,
+        "pdfPageEnd": 230,
+        "printedPages": "227-229",
+        "section": "Complete game and final remarks; Christian Gabriel-Kekelidze begins on PDF 230",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-asymmetric-benoni-gabriel-kekelidze",
+      "chapterId": "flores-asymmetric-benoni-gabriel-kekelidze",
+      "locator": {
+        "pdfPageStart": 230,
+        "pdfPageEnd": 232,
+        "printedPages": "229-231",
+        "section": "Complete game and final remarks; Vitiugov-Ding begins on PDF 233",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-asymmetric-benoni-vitiugov-ding",
+      "chapterId": "flores-asymmetric-benoni-vitiugov-ding",
+      "locator": {
+        "pdfPageStart": 233,
+        "pdfPageEnd": 234,
+        "printedPages": "232-233",
+        "section": "Complete game and final remarks; Mikhalevski-Guseinov fragment begins on PDF 235",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-asymmetric-benoni-mikhalevski-guseinov",
+      "chapterId": "flores-asymmetric-benoni-mikhalevski-guseinov",
+      "locator": {
+        "pdfPageStart": 235,
+        "pdfPageEnd": 235,
+        "printedPages": "234",
+        "section": "Complete illustrative fragment; Eljanov-Radjabov begins on PDF 236",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-asymmetric-benoni-eljanov-radjabov",
+      "chapterId": "flores-asymmetric-benoni-eljanov-radjabov",
+      "locator": {
+        "pdfPageStart": 236,
+        "pdfPageEnd": 238,
+        "printedPages": "235-237",
+        "section": "Complete game and final remarks; Hellsten-Cordova begins on PDF 239",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-asymmetric-benoni-hellsten-cordova",
+      "chapterId": "flores-asymmetric-benoni-hellsten-cordova",
+      "locator": {
+        "pdfPageStart": 239,
+        "pdfPageEnd": 242,
+        "printedPages": "238-241",
+        "section": "Complete game and Chapter 12 final remarks; stop before Chapter 13 on PDF 243",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-symmetric-benoni-overview",
+      "chapterId": "flores-symmetric-benoni-overview",
+      "locator": {
+        "pdfPageStart": 243,
+        "pdfPageEnd": 243,
+        "printedPages": "242",
+        "section": "Complete Chapter 13 formation diagram and plan overview; Spassky-Fischer begins on PDF 244",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-symmetric-benoni-overview",
+      "chapterId": "flores-symmetric-benoni-overview",
+      "locator": {
+        "pdfPageStart": 243,
+        "pdfPageEnd": 243,
+        "printedPages": "242",
+        "section": "Complete Chapter 13 formation diagram and plan overview; Spassky-Fischer begins on PDF 244",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-symmetric-benoni-overview",
+      "chapterId": "flores-symmetric-benoni-overview",
+      "locator": {
+        "pdfPageStart": 243,
+        "pdfPageEnd": 243,
+        "printedPages": "242",
+        "section": "Complete Chapter 13 formation diagram and plan overview; Spassky-Fischer begins on PDF 244",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-symmetric-benoni-spassky-fischer",
+      "chapterId": "flores-symmetric-benoni-spassky-fischer",
+      "locator": {
+        "pdfPageStart": 244,
+        "pdfPageEnd": 247,
+        "printedPages": "243-246",
+        "section": "Complete game and final remarks; Malakhov-Grischuk begins on PDF 248",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "center-control--flores-symmetric-benoni-malakhov-grischuk",
+      "chapterId": "flores-symmetric-benoni-malakhov-grischuk",
+      "locator": {
+        "pdfPageStart": 248,
+        "pdfPageEnd": 251,
+        "printedPages": "247-250",
+        "section": "Complete game and final remarks; Motylev-Lodhi begins on PDF 252",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "backward-pawns--flores-symmetric-benoni-motylev-lodhi",
+      "chapterId": "flores-symmetric-benoni-motylev-lodhi",
+      "locator": {
+        "pdfPageStart": 252,
+        "pdfPageEnd": 254,
+        "printedPages": "251-253",
+        "section": "Complete game and final remarks; Kacheishvili-Fernandez begins on PDF 254",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-symmetric-benoni-motylev-lodhi",
+      "chapterId": "flores-symmetric-benoni-motylev-lodhi",
+      "locator": {
+        "pdfPageStart": 252,
+        "pdfPageEnd": 254,
+        "printedPages": "251-253",
+        "section": "Complete game and final remarks; Kacheishvili-Fernandez begins on PDF 254",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-symmetric-benoni-kacheishvili-fernandez",
+      "chapterId": "flores-symmetric-benoni-kacheishvili-fernandez",
+      "locator": {
+        "pdfPageStart": 254,
+        "pdfPageEnd": 255,
+        "printedPages": "253-254",
+        "section": "Complete game and final remarks; Zherebukh-Flores Rios begins on PDF 256",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "sacrifices--flores-symmetric-benoni-zherebukh-flores",
+      "chapterId": "flores-symmetric-benoni-zherebukh-flores",
+      "locator": {
+        "pdfPageStart": 256,
+        "pdfPageEnd": 259,
+        "printedPages": "255-258",
+        "section": "Complete game and final remarks; Carlsen-Van Wely begins on PDF 260",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-symmetric-benoni-carlsen-van-wely",
+      "chapterId": "flores-symmetric-benoni-carlsen-van-wely",
+      "locator": {
+        "pdfPageStart": 260,
+        "pdfPageEnd": 261,
+        "printedPages": "259-260",
+        "section": "Complete game and Chapter 13 final remarks; stop before Chapter 14 on PDF 262",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-asymmetric-benoni-akopian-pantsulaia",
+      "chapterId": "flores-asymmetric-benoni-akopian-pantsulaia",
+      "locator": {
+        "pdfPageStart": 228,
+        "pdfPageEnd": 230,
+        "printedPages": "227-229",
+        "section": "Complete game and final remarks; Christian Gabriel-Kekelidze begins on PDF 230",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-asymmetric-benoni-gabriel-kekelidze",
+      "chapterId": "flores-asymmetric-benoni-gabriel-kekelidze",
+      "locator": {
+        "pdfPageStart": 230,
+        "pdfPageEnd": 232,
+        "printedPages": "229-231",
+        "section": "Complete game and final remarks; Vitiugov-Ding begins on PDF 233",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-asymmetric-benoni-vitiugov-ding",
+      "chapterId": "flores-asymmetric-benoni-vitiugov-ding",
+      "locator": {
+        "pdfPageStart": 233,
+        "pdfPageEnd": 234,
+        "printedPages": "232-233",
+        "section": "Complete game and final remarks; Mikhalevski-Guseinov fragment begins on PDF 235",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-asymmetric-benoni-eljanov-radjabov",
+      "chapterId": "flores-asymmetric-benoni-eljanov-radjabov",
+      "locator": {
+        "pdfPageStart": 236,
+        "pdfPageEnd": 238,
+        "printedPages": "235-237",
+        "section": "Complete game and final remarks; Hellsten-Cordova begins on PDF 239",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-symmetric-benoni-spassky-fischer",
+      "chapterId": "flores-symmetric-benoni-spassky-fischer",
+      "locator": {
+        "pdfPageStart": 244,
+        "pdfPageEnd": 247,
+        "printedPages": "243-246",
+        "section": "Complete game and final remarks; Malakhov-Grischuk begins on PDF 248",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-symmetric-benoni-malakhov-grischuk",
+      "chapterId": "flores-symmetric-benoni-malakhov-grischuk",
+      "locator": {
+        "pdfPageStart": 248,
+        "pdfPageEnd": 251,
+        "printedPages": "247-250",
+        "section": "Complete game and final remarks; Motylev-Lodhi begins on PDF 252",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-symmetric-benoni-motylev-lodhi",
+      "chapterId": "flores-symmetric-benoni-motylev-lodhi",
+      "locator": {
+        "pdfPageStart": 252,
+        "pdfPageEnd": 254,
+        "printedPages": "251-253",
+        "section": "Complete game and final remarks; Kacheishvili-Fernandez begins on PDF 254",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-symmetric-benoni-kacheishvili-fernandez",
+      "chapterId": "flores-symmetric-benoni-kacheishvili-fernandez",
+      "locator": {
+        "pdfPageStart": 254,
+        "pdfPageEnd": 255,
+        "printedPages": "253-254",
+        "section": "Complete game and final remarks; Zherebukh-Flores Rios begins on PDF 256",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-symmetric-benoni-zherebukh-flores",
+      "chapterId": "flores-symmetric-benoni-zherebukh-flores",
+      "locator": {
+        "pdfPageStart": 256,
+        "pdfPageEnd": 259,
+        "printedPages": "255-258",
+        "section": "Complete game and final remarks; Carlsen-Van Wely begins on PDF 260",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-majorities--flores-symmetric-benoni-overview",
+      "chapterId": "flores-symmetric-benoni-overview",
+      "locator": {
+        "pdfPageStart": 243,
+        "pdfPageEnd": 243,
+        "printedPages": "242",
+        "section": "Complete Chapter 13 formation diagram and plan overview; Spassky-Fischer begins on PDF 244",
+        "ebookLocation": null
+      }
     }
   ]
 }
