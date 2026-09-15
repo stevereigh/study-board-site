@@ -1212,6 +1212,100 @@
         "pawn-breaks--flores-najdorf-i-overview",
         "pawn-breaks--flores-najdorf-ii-overview"
       ]
+    },
+    {
+      "id": "study-space-hedgehog-card",
+      "crossrefIds": [
+        "space--flores-hedgehog-overview"
+      ]
+    },
+    {
+      "id": "study-opening-lines-hedgehog-c5",
+      "crossrefIds": [
+        "opening-lines--flores-hedgehog-pruijssers-izsak"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-hedgehog-b5",
+      "crossrefIds": [
+        "pawn-breaks--flores-hedgehog-flores-hayrapetian"
+      ]
+    },
+    {
+      "id": "study-restriction-hedgehog-a5-exchanges",
+      "crossrefIds": [
+        "restriction--flores-hedgehog-predojevic-nestorovic",
+        "restriction--flores-hedgehog-eljanov-jakovenko"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-hedgehog-black-breaks",
+      "crossrefIds": [
+        "pawn-breaks--flores-hedgehog-dominguez-andreikin",
+        "pawn-breaks--flores-hedgehog-van-burg-cordova",
+        "pawn-breaks--flores-hedgehog-munoz-grandadam"
+      ]
+    },
+    {
+      "id": "study-prophylaxis-hedgehog-meet-g5",
+      "crossrefIds": [
+        "prophylaxis--flores-hedgehog-galkin-delchev"
+      ]
+    },
+    {
+      "id": "study-candidate-moves-hedgehog-waiting",
+      "crossrefIds": [
+        "candidate-moves--flores-hedgehog-bartholomew-gareev"
+      ]
+    },
+    {
+      "id": "study-space-maroczy-card",
+      "crossrefIds": [
+        "space--flores-maroczy-overview"
+      ]
+    },
+    {
+      "id": "study-space-maroczy-symmetric-squeeze",
+      "crossrefIds": [
+        "space--flores-maroczy-polugaevsky-ivkov",
+        "space--flores-maroczy-smeets-tiviakov",
+        "space--flores-maroczy-jakovljevic-predojevic"
+      ]
+    },
+    {
+      "id": "study-counterplay-maroczy-symmetric-defense",
+      "crossrefIds": [
+        "counterplay--flores-maroczy-navara-jirovsky"
+      ]
+    },
+    {
+      "id": "study-attacking-prerequisites-maroczy-asymmetric-card",
+      "crossrefIds": [
+        "attacking-prerequisites--flores-maroczy-asymmetric-overview",
+        "attacking-prerequisites--flores-maroczy-ninov-velimirovic"
+      ]
+    },
+    {
+      "id": "study-defensive-exchanges-maroczy-black-counterplay",
+      "crossrefIds": [
+        "defensive-exchanges--flores-maroczy-aziz-vazquez",
+        "defensive-exchanges--flores-maroczy-pavlovic-leon-hoyos",
+        "defensive-exchanges--flores-maroczy-wang-zhang"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-maroczy-white-breaks",
+      "crossrefIds": [
+        "pawn-breaks--flores-maroczy-simacek-kanovsky",
+        "pawn-breaks--flores-maroczy-kuljasevic-golubovic"
+      ]
+    },
+    {
+      "id": "study-restriction-hedgehog-maroczy-compare",
+      "crossrefIds": [
+        "restriction--flores-hedgehog-overview",
+        "restriction--flores-maroczy-overview"
+      ]
     }
   ]
 }

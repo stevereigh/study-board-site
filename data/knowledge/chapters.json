@@ -2119,6 +2119,292 @@
         "section": "Complete Baadur Jobava-Liviu-Dieter Nisipeanu game and Chapter 9 final remarks; stop before Chapter 10 on PDF 179",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "flores-hedgehog-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Hedgehog: space against flexible counterbreaks; pp. 178-179; PDF 179-180",
+      "title": "Hedgehog: space against flexible counterbreaks",
+      "locator": {
+        "pdfPageStart": 179,
+        "pdfPageEnd": 180,
+        "printedPages": "178-179",
+        "section": "Chapter 10 formation diagram, complete plan overview and piece-arrangement introduction; Pruijssers-Izsak begins on PDF 181",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hedgehog-pruijssers-izsak",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Pruijssers-Izsak: c4-c5 opens the queenside; pp. 180-182; PDF 181-183",
+      "title": "Pruijssers-Izsak: c4-c5 opens the queenside",
+      "locator": {
+        "pdfPageStart": 181,
+        "pdfPageEnd": 183,
+        "printedPages": "180-182",
+        "section": "Complete Roeland Pruijssers-Gyula Izsak game and extended 24.b5 analysis; Flores Rios-Hayrapetian begins on PDF 184",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hedgehog-flores-hayrapetian",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Flores Rios-Hayrapetian: the underestimated b4-b5 break; pp. 183-187; PDF 184-188",
+      "title": "Flores Rios-Hayrapetian: the underestimated b4-b5 break",
+      "locator": {
+        "pdfPageStart": 184,
+        "pdfPageEnd": 188,
+        "printedPages": "183-187",
+        "section": "Complete Mauricio Flores Rios-Hovik Hayrapetian game, alternative b5 analysis and final remarks; Predojevic-Nestorovic begins on PDF 188",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hedgehog-predojevic-nestorovic",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Predojevic-Nestorovic: a4-a5 removes Black's releases; pp. 187-191; PDF 188-192",
+      "title": "Predojevic-Nestorovic: a4-a5 removes Black's releases",
+      "locator": {
+        "pdfPageStart": 188,
+        "pdfPageEnd": 192,
+        "printedPages": "187-191",
+        "section": "Complete Borki Predojevic-Dejan Nestorovic game and final remarks; the space-disadvantage section begins on PDF 192",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hedgehog-eljanov-jakovenko",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Eljanov-Jakovenko: trade pieces when the defender loses ...d5; pp. 192-194; PDF 193-195",
+      "title": "Eljanov-Jakovenko: trade pieces when the defender loses ...d5",
+      "locator": {
+        "pdfPageStart": 193,
+        "pdfPageEnd": 195,
+        "printedPages": "192-194",
+        "section": "Complete Pavel Eljanov-Dmitri Jakovenko game and final remarks; Dominguez-Andreikin begins on PDF 195",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hedgehog-dominguez-andreikin",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Dominguez-Andreikin: the prepared ...d5 break; pp. 194-196; PDF 195-197",
+      "title": "Dominguez-Andreikin: the prepared ...d5 break",
+      "locator": {
+        "pdfPageStart": 195,
+        "pdfPageEnd": 197,
+        "printedPages": "194-196",
+        "section": "Complete Leinier Dominguez Perez-Dmitry Andreikin game and final remarks; Van Burg-Cordova begins on PDF 197",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hedgehog-van-burg-cordova",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Van Burg-Cordova: routine play permits the kingside attack; pp. 196-198; PDF 197-199",
+      "title": "Van Burg-Cordova: routine play permits the kingside attack",
+      "locator": {
+        "pdfPageStart": 197,
+        "pdfPageEnd": 199,
+        "printedPages": "196-198",
+        "section": "Complete Twan Burg-Emilio Cordova game and final remarks; Galkin-Delchev begins on PDF 200",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hedgehog-galkin-delchev",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Galkin-Delchev: meet ...g5 with c4-c5; pp. 199; PDF 200-200",
+      "title": "Galkin-Delchev: meet ...g5 with c4-c5",
+      "locator": {
+        "pdfPageStart": 200,
+        "pdfPageEnd": 200,
+        "printedPages": "199",
+        "section": "Complete Alexander Galkin-Aleksander Delchev fragment and final remarks; Munoz Pantoja-Grandadam begins on PDF 201",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hedgehog-munoz-grandadam",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Munoz Pantoja-Grandadam: ...b5 against the fianchetto; pp. 200-202; PDF 201-203",
+      "title": "Munoz Pantoja-Grandadam: ...b5 against the fianchetto",
+      "locator": {
+        "pdfPageStart": 201,
+        "pdfPageEnd": 203,
+        "printedPages": "200-202",
+        "section": "Complete Miguel Munoz Pantoja-Julio Grandadam Zuniga game and final remarks; Bartholomew-Gareev begins on PDF 203",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hedgehog-bartholomew-gareev",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Bartholomew-Gareev: flexible waiting without self-damage; pp. 202-204; PDF 203-205",
+      "title": "Bartholomew-Gareev: flexible waiting without self-damage",
+      "locator": {
+        "pdfPageStart": 203,
+        "pdfPageEnd": 205,
+        "printedPages": "202-204",
+        "section": "Complete John Bartholomew-Timur Gareev game and Chapter 10 final remarks; stop before Chapter 11 on PDF 206",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Maroczy: use space before Black trades it away; pp. 205-206; PDF 206-207",
+      "title": "Maroczy: use space before Black trades it away",
+      "locator": {
+        "pdfPageStart": 206,
+        "pdfPageEnd": 207,
+        "printedPages": "205-206",
+        "section": "Chapter 11 formation diagram, complete plan overview and symmetric-transformation introduction; Polugaevsky-Ivkov begins on PDF 208",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-polugaevsky-ivkov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Polugaevsky-Ivkov: symmetric transformation and full-board expansion; pp. 207-209; PDF 208-210",
+      "title": "Polugaevsky-Ivkov: symmetric transformation and full-board expansion",
+      "locator": {
+        "pdfPageStart": 208,
+        "pdfPageEnd": 210,
+        "printedPages": "207-209",
+        "section": "Complete Lev Polugaevsky-Borislav Ivkov game and final remarks; Smeets-Tiviakov begins on PDF 211",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-smeets-tiviakov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Smeets-Tiviakov: the c-file cannot be blocked forever; pp. 210-211; PDF 211-212",
+      "title": "Smeets-Tiviakov: the c-file cannot be blocked forever",
+      "locator": {
+        "pdfPageStart": 211,
+        "pdfPageEnd": 212,
+        "printedPages": "210-211",
+        "section": "Complete Jan Smeets-Sergei Tiviakov game and final remarks; Another Endgame begins on PDF 213",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-jakovljevic-predojevic",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Jakovljevic-Predojevic: space and zugzwang in the ending; pp. 212-213; PDF 213-214",
+      "title": "Jakovljevic-Predojevic: space and zugzwang in the ending",
+      "locator": {
+        "pdfPageStart": 213,
+        "pdfPageEnd": 214,
+        "printedPages": "212-213",
+        "section": "Complete Jakovljevic-Predojevic endgame fragment and final remarks; Counterplay for Black begins on PDF 215",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-navara-jirovsky",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Navara-Jirovsky: tactical counterplay in the symmetric structure; pp. 214-215; PDF 215-216",
+      "title": "Navara-Jirovsky: tactical counterplay in the symmetric structure",
+      "locator": {
+        "pdfPageStart": 215,
+        "pdfPageEnd": 216,
+        "printedPages": "214-215",
+        "section": "Complete Counterplay for Black fragment from David Navara-Igor Jirovsky; stop before Asymmetric Transformation on PDF 216",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-asymmetric-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Maroczy asymmetric transformation: attack versus queenside release; pp. 215-216; PDF 216-217",
+      "title": "Maroczy asymmetric transformation: attack versus queenside release",
+      "locator": {
+        "pdfPageStart": 216,
+        "pdfPageEnd": 217,
+        "printedPages": "215-216",
+        "section": "Complete Asymmetric Transformation formation card and plan overview; Ninov-Velimirovic begins on PDF 217",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-ninov-velimirovic",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Ninov-Velimirovic: close the queenside, then attack; pp. 216-218; PDF 217-219",
+      "title": "Ninov-Velimirovic: close the queenside, then attack",
+      "locator": {
+        "pdfPageStart": 217,
+        "pdfPageEnd": 219,
+        "printedPages": "216-218",
+        "section": "Complete Nikolai Ninov-Dragoljub Velimirovic game and final remarks; superior-endgame fragment begins on PDF 220",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-aziz-vazquez",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Aziz-Vazquez Igarza: ...b5 creates the superior ending; pp. 219; PDF 220-220",
+      "title": "Aziz-Vazquez Igarza: ...b5 creates the superior ending",
+      "locator": {
+        "pdfPageStart": 220,
+        "pdfPageEnd": 220,
+        "printedPages": "219",
+        "section": "Complete Black obtains a superior endgame fragment from Aziz-Vazquez Igarza; Pavlovic-Leon Hoyos begins on PDF 221",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-pavlovic-leon-hoyos",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Pavlovic-Leon Hoyos: ...f5 is counterplay, not decoration; pp. 220-221; PDF 221-222",
+      "title": "Pavlovic-Leon Hoyos: ...f5 is counterplay, not decoration",
+      "locator": {
+        "pdfPageStart": 221,
+        "pdfPageEnd": 222,
+        "printedPages": "220-221",
+        "section": "Complete Milos Pavlovic-Manuel Leon Hoyos game and final remarks; f3-f4 fragment begins on PDF 222",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-simacek-kanovsky",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Simacek-Kanovsky: f3-f4 supports the central breaks; pp. 221-222; PDF 222-223",
+      "title": "Simacek-Kanovsky: f3-f4 supports the central breaks",
+      "locator": {
+        "pdfPageStart": 222,
+        "pdfPageEnd": 223,
+        "printedPages": "221-222",
+        "section": "Complete White dominates after f3-f4 fragment from Simacek-Kanovsky; Wang Zili-Zhang Pengxiang begins on PDF 224",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-wang-zhang",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Wang Zili-Zhang Pengxiang: ...b7-b5 can be enough; pp. 223-224; PDF 224-225",
+      "title": "Wang Zili-Zhang Pengxiang: ...b7-b5 can be enough",
+      "locator": {
+        "pdfPageStart": 224,
+        "pdfPageEnd": 225,
+        "printedPages": "223-224",
+        "section": "Complete Wang Zili-Zhang Pengxiang game and final remarks; Kuljasevic-Golubovic begins on PDF 225",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-maroczy-kuljasevic-golubovic",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Kuljasevic-Golubovic: e4-e5 and f4-f5 as paired threats; pp. 224-225; PDF 225-226",
+      "title": "Kuljasevic-Golubovic: e4-e5 and f4-f5 as paired threats",
+      "locator": {
+        "pdfPageStart": 225,
+        "pdfPageEnd": 226,
+        "printedPages": "224-225",
+        "section": "Complete Davorin Kuljasevic-Boris Golubovic game and Chapter 11 final remarks; stop before Chapter 12 on PDF 227",
+        "ebookLocation": null
+      }
     }
   ]
 }

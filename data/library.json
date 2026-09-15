@@ -3252,6 +3252,892 @@
     ]
   },
   {
+    "chapterId": "flores-hedgehog-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Hedgehog: space against flexible counterbreaks; pp. 178-179; PDF 179-180",
+    "title": "Hedgehog: space against flexible counterbreaks",
+    "tags": [
+      "hedgehog",
+      "space",
+      "pawn-breaks",
+      "flexibility",
+      "counterplay"
+    ],
+    "note": "Black&#x27;s a6-b6-d6-e6 pawn shell concedes space while keeping several releases available. White normally prepares c4-c5, b4-b5 or a4-a5; only after exchanges reduce Black&#x27;s activity does direct pressure on d6 become a reliable plan. Black answers with ...d6-d5, ...b6-b5, a kingside expansion based on ...Rg8 and ...g5-g4 or ...h5-h4-h3, or a waiting strategy that preserves all of these options.\n\nPiece placement gives the breaks their force. White commonly places rooks on b1 and c1, queen on c1, bishops on f1 and g1, and knights near d4 and d3. The f1 bishop helps punish an untimely ...d5; when White has fianchettoed instead, ...b5 becomes more attractive. Black&#x27;s compact position is sound while the pieces can defend the shell and switch plans.\n\nThe structure tests timing rather than a simple space rule. White must open a wing before Black&#x27;s kingside or central play becomes dangerous. Black may prepare several plans without committing, but a break played after White has fully coordinated can leave permanent pawn weaknesses.",
+    "keyIdeas": [
+      "White&#x27;s main breaks are c4-c5, b4-b5 and a4-a5.",
+      "Black&#x27;s releases are ...d5, ...b5 and a kingside pawn advance.",
+      "Piece placement, especially White&#x27;s bishop, changes which break is viable.",
+      "Waiting is useful only while concrete breaks remain available."
+    ],
+    "activities": [
+      {
+        "id": "study-space-hedgehog-card",
+        "concept": "Space",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Pawn breaks"
+        ],
+        "instructions": "Read the Hedgehog overview on PDF 179-180. Build two columns: White&#x27;s three queenside breaks and Black&#x27;s central, queenside, kingside and waiting plans. Add the piece placement that makes each plan work.",
+        "successCheck": "Explain why White&#x27;s extra space is useful but not decisive while Black retains a sound release.",
+        "playReminders": [
+          "Which pieces can actually use my extra room?",
+          "What freeing break can erase this space advantage?",
+          "Will this exchange strengthen the bind or help the cramped side?"
+        ]
+      },
+      {
+        "id": "study-restriction-hedgehog-maroczy-compare",
+        "concept": "Restriction",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Space",
+          "Pawn breaks"
+        ],
+        "instructions": "Build a side-by-side comparison from the Hedgehog and Maroczy overview cards on PDF 179-180 and 206-207. Compare pawn placement, dark-squared bishops, available breaks, the effect of exchanges, d5 and which side benefits from waiting.",
+        "successCheck": "Identify Hedgehog versus Maroczy from the pawn skeleton and explain whether the cramped side should break, trade or wait.",
+        "playReminders": [
+          "What useful operation does the opponent want, and how can I limit it?",
+          "Does my restricting move create a target the opponent can attack?",
+          "Which exchange removes the opponent&#x27;s best release?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-hedgehog-pruijssers-izsak",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Pruijssers-Izsak: c4-c5 opens the queenside; pp. 180-182; PDF 181-183",
+    "title": "Pruijssers-Izsak: c4-c5 opens the queenside",
+    "tags": [
+      "hedgehog",
+      "c5-break",
+      "opening-lines",
+      "bishop-pair",
+      "sacrifices"
+    ],
+    "note": "White completes the standard rook and bishop arrangement, then uses c4-c5 to open the b- and c-files. The advance creates vulnerable a6 and b6 pawns and activates both bishops. Black&#x27;s attempt to keep the position closed cannot neutralize the coordinated invasion.\n\nThe source&#x27;s extended alternative shows an even stronger b4-b5 follow-up. White is willing to sacrifice material because the open files, advanced c-pawn and active bishops overwhelm Black&#x27;s compact pieces. The example makes the preparation rule concrete: a break is powerful when the pieces already occupy the lines it will open.",
+    "keyIdeas": [
+      "Prepare c5 with rooks on the files it opens.",
+      "Use the bishops to support the queenside invasion.",
+      "A temporary sacrifice can be justified by open lines and a dangerous passer.",
+      "Do not evaluate the break only by the first pawn exchange."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-lines-hedgehog-c5",
+        "concept": "Opening lines",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files"
+        ],
+        "instructions": "Study Pruijssers-Izsak on PDF 181-183. Before reading the continuation, mark the files and diagonals opened by c5 and by the alternative b5 sacrifice.",
+        "successCheck": "Name the pieces that become active and the black pawns that become permanent targets.",
+        "playReminders": [
+          "Which line will this exchange open, and who can use it first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-hedgehog-flores-hayrapetian",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Flores Rios-Hayrapetian: the underestimated b4-b5 break; pp. 183-187; PDF 184-188",
+    "title": "Flores Rios-Hayrapetian: the underestimated b4-b5 break",
+    "tags": [
+      "hedgehog",
+      "b5-break",
+      "passed-pawns",
+      "weak-squares",
+      "conversion"
+    ],
+    "note": "White prepares b4-b5 even though it gives up c5 and loosens queenside pawns. The break is sound because it attacks the b6 and d6 anchors, opens useful lines and creates a passed pawn before Black can organize a central release. Black&#x27;s occupation of c5 looks attractive but does not solve the structural pressure.\n\nThe game also shows the technical aftermath. White&#x27;s a- and c-pawns may become disconnected, so the dark-squared bishop and rook activity are needed to convert. The source repeatedly compares ...d5 with the immediate c5 response; when White can answer the central break with c5, Black&#x27;s shell becomes vulnerable rather than liberated.",
+    "keyIdeas": [
+      "Consider b5 even when it weakens c5 if the anchors fall.",
+      "Judge Black&#x27;s c5 outpost against the opened files and weak d6 pawn.",
+      "Use c5 as the tactical answer to an untimely ...d5.",
+      "Plan the conversion of disconnected passers before forcing the break."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-hedgehog-b5",
+        "concept": "Pawn breaks",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Study Flores Rios-Hayrapetian on PDF 184-188. Compare b5 with a quiet improvement and with Black&#x27;s ...d5 reply. Track c5, d6, the opened files and the eventual passers.",
+        "successCheck": "Explain why the anti-positional-looking b5 break is justified and what technical problem remains afterward.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-hedgehog-predojevic-nestorovic",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Predojevic-Nestorovic: a4-a5 removes Black&#x27;s releases; pp. 187-191; PDF 188-192",
+    "title": "Predojevic-Nestorovic: a4-a5 removes Black&#x27;s releases",
+    "tags": [
+      "hedgehog",
+      "a5-break",
+      "restriction",
+      "backward-pawns",
+      "favorable-exchanges"
+    ],
+    "note": "An early a2-a4-a5 fixes the a6 and b7 pawns and makes Black&#x27;s usual queenside breaks difficult. After the queens come off, White doubles on the d-file and keeps both b4-b5 and c4-c5 in reserve. Black cannot create counterplay and must defend the a6 and d6 weaknesses.\n\nWhite briefly misses a tactical win against d6, but the structural advantage remains. The lesson is not that a5 wins by itself; it works because White&#x27;s pieces support the queenside, Black&#x27;s opening has already weakened the relevant squares, and exchanges reduce the danger of Black&#x27;s kingside play.",
+    "keyIdeas": [
+      "Use a5 to fix queenside pawns when Black cannot answer with activity.",
+      "Keep both b5 and c5 available after gaining space.",
+      "Reduced material makes the d6 weakness more important.",
+      "Search for tactical gains against the fixed pawn before settling for a squeeze."
+    ],
+    "activities": [
+      {
+        "id": "study-restriction-hedgehog-a5-exchanges",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Space",
+          "Pawn breaks"
+        ],
+        "instructions": "Compare Predojevic-Nestorovic and Eljanov-Jakovenko on PDF 188-195. Record which black break is removed by a5 or by each exchange, then identify White&#x27;s remaining active pieces.",
+        "successCheck": "Choose an exchange or pawn advance that strengthens the bind and explain why it does not merely trade away the advantage.",
+        "playReminders": [
+          "What useful operation does the opponent want, and how can I limit it?",
+          "Does my restricting move create a target the opponent can attack?",
+          "Which exchange removes the opponent&#x27;s best release?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-hedgehog-eljanov-jakovenko",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Eljanov-Jakovenko: trade pieces when the defender loses ...d5; pp. 192-194; PDF 193-195",
+    "title": "Eljanov-Jakovenko: trade pieces when the defender loses ...d5",
+    "tags": [
+      "hedgehog",
+      "space",
+      "favorable-exchanges",
+      "two-weaknesses",
+      "restriction"
+    ],
+    "note": "After two minor pieces are exchanged, White still has more space while Black lacks the tactical force needed for ...d5. White does not rush further exchanges; instead he keeps enough pieces to exploit the bind, improves the rooks and attacks on both wings.\n\nThe source corrects the slogan that the cramped side should always trade. Exchanges help Black only if they reduce White&#x27;s control or enable a freeing break. Here they remove Black&#x27;s counterplay, leave d6 exposed and make White&#x27;s space advantage more durable. White can then prepare kingside expansion without abandoning the queenside.",
+    "keyIdeas": [
+      "Ask whether an exchange enables or disables the defender&#x27;s break.",
+      "Keep enough pieces to exploit the extra space.",
+      "A reduced Hedgehog can leave d6 permanently weak.",
+      "Expand on the second wing only after Black&#x27;s counterplay is contained."
+    ],
+    "activities": [
+      {
+        "id": "study-restriction-hedgehog-a5-exchanges",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Space",
+          "Pawn breaks"
+        ],
+        "instructions": "Compare Predojevic-Nestorovic and Eljanov-Jakovenko on PDF 188-195. Record which black break is removed by a5 or by each exchange, then identify White&#x27;s remaining active pieces.",
+        "successCheck": "Choose an exchange or pawn advance that strengthens the bind and explain why it does not merely trade away the advantage.",
+        "playReminders": [
+          "What useful operation does the opponent want, and how can I limit it?",
+          "Does my restricting move create a target the opponent can attack?",
+          "Which exchange removes the opponent&#x27;s best release?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-hedgehog-dominguez-andreikin",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Dominguez-Andreikin: the prepared ...d5 break; pp. 194-196; PDF 195-197",
+    "title": "Dominguez-Andreikin: the prepared ...d5 break",
+    "tags": [
+      "hedgehog",
+      "d5-break",
+      "counterplay",
+      "opening-lines",
+      "king-safety"
+    ],
+    "note": "Black arranges every piece for ...d6-d5 and supplements the central break with an advanced h-pawn. When the break arrives, opened diagonals and files make the black pieces extremely active. White&#x27;s optimistic capture exposes the king and Black&#x27;s attack outweighs material considerations.\n\nThe h-pawn is part of the preparation rather than a separate decoration: it weakens f3 and supports pressure on the long dark diagonal. The example is the positive counterpart to White&#x27;s successful restriction. If White permits ...d5 under ideal conditions, the spatial advantage can disappear in one move and Black&#x27;s compact pieces become attackers.",
+    "keyIdeas": [
+      "Prepare ...d5 with every piece ready for the opened lines.",
+      "Use the h-pawn to weaken the dark squares supporting the central break.",
+      "Do not accept material when the opponent gains forcing activity.",
+      "Re-evaluate space immediately after the center opens."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-hedgehog-black-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Dominguez-Andreikin, Van Burg-Cordova and Munoz Pantoja-Grandadam on PDF 195-203. Build a three-row table for ...d5, ...g5 and ...b5: prerequisites, opened lines, White&#x27;s best prevention and the structural result.",
+        "successCheck": "Given an unlabeled Hedgehog position, choose Black&#x27;s break from piece placement rather than memorized move order.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-hedgehog-van-burg-cordova",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Van Burg-Cordova: routine play permits the kingside attack; pp. 196-198; PDF 197-199",
+    "title": "Van Burg-Cordova: routine play permits the kingside attack",
+    "tags": [
+      "hedgehog",
+      "kingside-attack",
+      "counterplay",
+      "tempo",
+      "king-safety"
+    ],
+    "note": "White makes routine improving moves without creating a concrete queenside threat. Black therefore turns the flexible shell into a direct attack with ...Qh8, ...Rg8 and ...g5-g4. White&#x27;s attempts to close or exchange on the g-file create dark-square weaknesses and leave the king without counterplay.\n\nThe practical defense is active: White should meet the kingside plan with c4-c5 or another queenside operation before Black opens the g-file. Once the attack is established, Black&#x27;s pieces dominate the e5 square and g-file while White&#x27;s space no longer supplies useful moves.",
+    "keyIdeas": [
+      "Routine moves are dangerous when the opponent has a prepared wing attack.",
+      "Meet ...g5 with timely queenside counterplay.",
+      "Avoid opening the g-file when Black controls the attacking squares.",
+      "Space must be converted into activity before the compact side reorganizes."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-hedgehog-black-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Dominguez-Andreikin, Van Burg-Cordova and Munoz Pantoja-Grandadam on PDF 195-203. Build a three-row table for ...d5, ...g5 and ...b5: prerequisites, opened lines, White&#x27;s best prevention and the structural result.",
+        "successCheck": "Given an unlabeled Hedgehog position, choose Black&#x27;s break from piece placement rather than memorized move order.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-hedgehog-galkin-delchev",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Galkin-Delchev: meet ...g5 with c4-c5; pp. 199; PDF 200-200",
+    "title": "Galkin-Delchev: meet ...g5 with c4-c5",
+    "tags": [
+      "hedgehog",
+      "c5-break",
+      "prophylaxis",
+      "tempo",
+      "counterplay"
+    ],
+    "note": "Black announces ...Rg8 and ...g5-g4. White loses time protecting h2 with a queen maneuver and allows the attack to become decisive. The source&#x27;s main defensive rule is to answer ...g7-g5 with c4-c5, opening the queenside while Black&#x27;s pieces are committed to the king.\n\nThe fragment also distinguishes bishop placement. A bishop on g1 supports White&#x27;s defense better than a queen that must spend several tempi reaching the same square. Once ...g5-g4 succeeds and the g-file opens, White&#x27;s counterplay is usually too late.",
+    "keyIdeas": [
+      "Answer ...g5 with c5 before the g-file opens.",
+      "Use a natural bishop defense rather than a multi-tempo queen route.",
+      "Exploit Black&#x27;s pieces being committed to the kingside.",
+      "After ...g4 lands, calculate forcing threats rather than rely on the space edge."
+    ],
+    "activities": [
+      {
+        "id": "study-prophylaxis-hedgehog-meet-g5",
+        "concept": "Prophylaxis",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Study Galkin-Delchev on PDF 200. Compare White&#x27;s slow queen defense with the active c5 response to ...g5.",
+        "successCheck": "Explain the timing window for c5 and why the position is much worse after the g-file opens.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-hedgehog-munoz-grandadam",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Munoz Pantoja-Grandadam: ...b5 against the fianchetto; pp. 200-202; PDF 201-203",
+    "title": "Munoz Pantoja-Grandadam: ...b5 against the fianchetto",
+    "tags": [
+      "hedgehog",
+      "b5-break",
+      "structure-transformation",
+      "counterplay",
+      "piece-activity"
+    ],
+    "note": "With White&#x27;s bishop on g2, ...d5 is difficult and White&#x27;s standard queenside plans are less urgent. Black prepares ...b6-b5 by moving the pieces that must recapture and by preventing a strong central response. The break attacks an overextended queenside and weakens e4.\n\nWhite directs play toward the wrong wing and loses a tempo just as ...b5 becomes possible. After the exchange Black no longer suffers from lack of space and gains targets in the center and on the queenside. This example turns the overview&#x27;s bishop-placement rule into a concrete decision.",
+    "keyIdeas": [
+      "When White fianchettoes, look harder at ...b5 than ...d5.",
+      "Prepare the recapture and protect the b-pawn before breaking.",
+      "Attack the base and center created by White&#x27;s queenside expansion.",
+      "A successful break can erase the space disadvantage immediately."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-hedgehog-black-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Dominguez-Andreikin, Van Burg-Cordova and Munoz Pantoja-Grandadam on PDF 195-203. Build a three-row table for ...d5, ...g5 and ...b5: prerequisites, opened lines, White&#x27;s best prevention and the structural result.",
+        "successCheck": "Given an unlabeled Hedgehog position, choose Black&#x27;s break from piece placement rather than memorized move order.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-hedgehog-bartholomew-gareev",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Bartholomew-Gareev: flexible waiting without self-damage; pp. 202-204; PDF 203-205",
+    "title": "Bartholomew-Gareev: flexible waiting without self-damage",
+    "tags": [
+      "hedgehog",
+      "flexibility",
+      "prophylaxis",
+      "candidate-moves",
+      "pawn-breaks"
+    ],
+    "note": "Black prepares several breaks and tactical ideas but refuses to execute any under unfavorable conditions. White accurately meets ...g5 and controls the queenside releases. Black changes plans, improves the knights and waits while continually checking the consequences of both sides&#x27; breaks.\n\nWhite eventually loses patience and plays b4-b5 when the resulting targets favor Black. The game shows the legitimate form of waiting: the position remains intact, the opponent&#x27;s breaks are understood, and useful alternatives remain. Waiting is dangerous when it merely runs out of moves or allows a permanent bind.",
+    "keyIdeas": [
+      "Prepare several plans without committing to an inferior break.",
+      "Use waiting only while the structure stays sound and alternatives remain.",
+      "Calculate both sides&#x27; breaks at every change of piece placement.",
+      "Do not force a wing break simply because the opponent has waited."
+    ],
+    "activities": [
+      {
+        "id": "study-candidate-moves-hedgehog-waiting",
+        "concept": "Candidate moves",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Study Bartholomew-Gareev on PDF 203-205. At each abandoned black plan, state why execution would be inferior and what useful option remains after waiting.",
+        "successCheck": "Distinguish flexible waiting from passivity using one concrete break for each side.",
+        "playReminders": [
+          "What serious alternative or opposing reply have I left out?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Maroczy: use space before Black trades it away; pp. 205-206; PDF 206-207",
+    "title": "Maroczy: use space before Black trades it away",
+    "tags": [
+      "maroczy",
+      "space",
+      "restriction",
+      "structure-transformation",
+      "pawn-breaks"
+    ],
+    "note": "White&#x27;s pawns on c4 and e4 restrict Black and commonly arise from the Accelerated Dragon, English or King&#x27;s Indian move orders. Unlike the Hedgehog, Black usually fianchettoes the dark-squared bishop and keeps the e-pawn on e7. White uses queenside space, a knight on d5, and f2-f4 followed by e4-e5 or f4-f5. Black seeks piece trades, ...b7-b5, ...f7-f5, pressure on the queenside, or a carefully timed ...e7-e6.\n\nA knight capture on d5 defines two transformations. If White recaptures cxd5, the symmetric structure gives an open c-file and a broad space edge. If White recaptures exd5, the asymmetric structure supports a kingside attack but leaves a backward e7 pawn and gives Black queenside counterplay.\n\nWhite&#x27;s advantage is easier to use because the natural breaks mostly belong to the side with space. Black therefore needs active simplification or a flank release before White expands. The chapter repeatedly tests whether the cramped side can create one concrete distraction.",
+    "keyIdeas": [
+      "White combines d5, flank expansion and central breaks.",
+      "Black trades pieces or uses ...b5, ...f5 and sometimes ...e6.",
+      "cxd5 and exd5 create different plans after the d5 knight is exchanged.",
+      "The side with less space needs a concrete release before passive defense hardens."
+    ],
+    "activities": [
+      {
+        "id": "study-space-maroczy-card",
+        "concept": "Space",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Pawn breaks"
+        ],
+        "instructions": "Read the Maroczy overview on PDF 206-207. Build formation cards for the original bind, cxd5 symmetric transformation and exd5 asymmetric transformation. Include White&#x27;s plan, Black&#x27;s release, the key file and the main target.",
+        "successCheck": "Identify all three structures from pawn placement and give both sides&#x27; first strategic question.",
+        "playReminders": [
+          "Which pieces can actually use my extra room?",
+          "What freeing break can erase this space advantage?",
+          "Will this exchange strengthen the bind or help the cramped side?"
+        ]
+      },
+      {
+        "id": "study-restriction-hedgehog-maroczy-compare",
+        "concept": "Restriction",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Space",
+          "Pawn breaks"
+        ],
+        "instructions": "Build a side-by-side comparison from the Hedgehog and Maroczy overview cards on PDF 179-180 and 206-207. Compare pawn placement, dark-squared bishops, available breaks, the effect of exchanges, d5 and which side benefits from waiting.",
+        "successCheck": "Identify Hedgehog versus Maroczy from the pawn skeleton and explain whether the cramped side should break, trade or wait.",
+        "playReminders": [
+          "What useful operation does the opponent want, and how can I limit it?",
+          "Does my restricting move create a target the opponent can attack?",
+          "Which exchange removes the opponent&#x27;s best release?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-polugaevsky-ivkov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Polugaevsky-Ivkov: symmetric transformation and full-board expansion; pp. 207-209; PDF 208-210",
+    "title": "Polugaevsky-Ivkov: symmetric transformation and full-board expansion",
+    "tags": [
+      "maroczy",
+      "symmetric-transformation",
+      "space",
+      "open-files",
+      "counterplay"
+    ],
+    "note": "After cxd5, White controls the open c-file, keeps pieces on the board and expands on both flanks. Black has no natural break and passive waiting allows White to fix more weaknesses before opening the center with e4-e5.\n\nThe instructive defensive chance is ...e7-e6. It weakens pawns but challenges the d5-e4 chain before White&#x27;s expansion becomes overwhelming. The game shows why a controlled concession can be better than passive structural purity: Black must create a target or exchange while there is still room to maneuver.",
+    "keyIdeas": [
+      "Use the open c-file and extra space before simplifying.",
+      "Expand on both wings when Black lacks a freeing break.",
+      "Consider ...e6 as an active challenge to the d5-e4 chain.",
+      "Do not wait until every pawn is fixed before seeking counterplay."
+    ],
+    "activities": [
+      {
+        "id": "study-space-maroczy-symmetric-squeeze",
+        "concept": "Space",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Pawn breaks"
+        ],
+        "instructions": "Compare Polugaevsky-Ivkov, Smeets-Tiviakov and Jakovljevic-Predojevic on PDF 208-214. Track the c-file, piece exchanges, flank expansion and Black&#x27;s ...e6 or ...f6 resources.",
+        "successCheck": "Explain when White should keep pieces and when exchanges make the space advantage easier to convert.",
+        "playReminders": [
+          "Which pieces can actually use my extra room?",
+          "What freeing break can erase this space advantage?",
+          "Will this exchange strengthen the bind or help the cramped side?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-smeets-tiviakov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Smeets-Tiviakov: the c-file cannot be blocked forever; pp. 210-211; PDF 211-212",
+    "title": "Smeets-Tiviakov: the c-file cannot be blocked forever",
+    "tags": [
+      "maroczy",
+      "open-files",
+      "restriction",
+      "pawn-breaks",
+      "piece-activity"
+    ],
+    "note": "Black mishandles the opening move order and permits a stronger knight jump to d5. After the symmetric recapture, Black tries to block the c-file with a knight. White prepares b3-b4, removes the blockade and wins the file while Black&#x27;s supporting pawn moves create permanent weaknesses.\n\nThe example emphasizes long-term file control. An occupying piece is not a stable solution if it can be challenged by a pawn break. Black needed timely rook exchanges or a more active arrangement before White&#x27;s queenside expansion made the weaknesses permanent.",
+    "keyIdeas": [
+      "Challenge a file blockade with the pawn break that drives away the blockader.",
+      "Do not create multiple weaknesses merely to support a temporary outpost.",
+      "Trade the active rooks before the opponent owns the file.",
+      "A move-order error can improve the opponent&#x27;s structural transformation."
+    ],
+    "activities": [
+      {
+        "id": "study-space-maroczy-symmetric-squeeze",
+        "concept": "Space",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Pawn breaks"
+        ],
+        "instructions": "Compare Polugaevsky-Ivkov, Smeets-Tiviakov and Jakovljevic-Predojevic on PDF 208-214. Track the c-file, piece exchanges, flank expansion and Black&#x27;s ...e6 or ...f6 resources.",
+        "successCheck": "Explain when White should keep pieces and when exchanges make the space advantage easier to convert.",
+        "playReminders": [
+          "Which pieces can actually use my extra room?",
+          "What freeing break can erase this space advantage?",
+          "Will this exchange strengthen the bind or help the cramped side?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-jakovljevic-predojevic",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Jakovljevic-Predojevic: space and zugzwang in the ending; pp. 212-213; PDF 213-214",
+    "title": "Jakovljevic-Predojevic: space and zugzwang in the ending",
+    "tags": [
+      "maroczy",
+      "space",
+      "favorable-exchanges",
+      "schematic-thinking",
+      "minor-piece-endings"
+    ],
+    "note": "In a simplified symmetric Maroczy ending, White&#x27;s space advantage survives even without the bishop pair. Trading rooks removes Black&#x27;s counterplay and leaves the pieces without useful squares. White fixes the queenside, then expands on the kingside and uses zugzwang to penetrate.\n\nThe source also gives Black&#x27;s defensive resources. A timely ...e6 or ...f6 can prevent the full bind, and moving a fixed pawn to a square opposite the remaining bishop can improve practical chances. White&#x27;s plan is risk-free only after those releases are controlled.",
+    "keyIdeas": [
+      "A space edge can persist after heavy-piece exchanges.",
+      "Remove the defender&#x27;s active rook before maneuvering for zugzwang.",
+      "Fix one wing and expand on the other.",
+      "The defender should seek ...e6 or ...f6 before the bind becomes complete."
+    ],
+    "activities": [
+      {
+        "id": "study-space-maroczy-symmetric-squeeze",
+        "concept": "Space",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Pawn breaks"
+        ],
+        "instructions": "Compare Polugaevsky-Ivkov, Smeets-Tiviakov and Jakovljevic-Predojevic on PDF 208-214. Track the c-file, piece exchanges, flank expansion and Black&#x27;s ...e6 or ...f6 resources.",
+        "successCheck": "Explain when White should keep pieces and when exchanges make the space advantage easier to convert.",
+        "playReminders": [
+          "Which pieces can actually use my extra room?",
+          "What freeing break can erase this space advantage?",
+          "Will this exchange strengthen the bind or help the cramped side?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-navara-jirovsky",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Navara-Jirovsky: tactical counterplay in the symmetric structure; pp. 214-215; PDF 215-216",
+    "title": "Navara-Jirovsky: tactical counterplay in the symmetric structure",
+    "tags": [
+      "maroczy",
+      "symmetric-transformation",
+      "counterplay",
+      "calculation",
+      "open-files"
+    ],
+    "note": "Black uses a tactical queenside sequence to punish White&#x27;s overambitious expansion. The key knight jump cannot be captured safely, and the resulting a-file activity gives Black enough counterplay despite White&#x27;s nominal space.\n\nThe fragment prevents an overgeneralization from the preceding wins. The symmetric structure favors White only when the expansion is coordinated and Black&#x27;s tactical resources are contained. White must compare pawn gains with piece activity, open files and back-rank tactics.",
+    "keyIdeas": [
+      "Check tactical knight jumps before expanding on the queenside.",
+      "Open-file activity can compensate for a space deficit.",
+      "Do not assume a favorable structure makes every pawn advance safe.",
+      "The defender should look for a concrete operation rather than wait."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-maroczy-symmetric-defense",
+        "concept": "Counterplay",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Study the Navara-Jirovsky fragment on PDF 215-216. Calculate Black&#x27;s tactical queenside resource before comparing it with passive defense from the previous games.",
+        "successCheck": "Show how open-file activity changes the evaluation of White&#x27;s extra space.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-asymmetric-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Maroczy asymmetric transformation: attack versus queenside release; pp. 215-216; PDF 216-217",
+    "title": "Maroczy asymmetric transformation: attack versus queenside release",
+    "tags": [
+      "maroczy",
+      "asymmetric-transformation",
+      "pawn-chains",
+      "king-safety",
+      "counterplay"
+    ],
+    "note": "After Black captures a knight on d5 and White replies exd5, White gains a c4-d5 chain and typical kingside play with f2-f4-f5. Black has a backward e7 pawn that may be pressured on the e-file, but a bishop on f6 can defend it. Black attacks the chain with ...b7-b5xc4, opens the a-file with ...a7-a5-a4xb3, and simplifies to reduce mating danger.\n\nWhite&#x27;s attack is dangerous only if Black lacks a queenside distraction. Black should combine the breaks with exchanges, especially queen trades; once ...b5xc4 induces bxc4, the c4 pawn can become a more serious target than e7. The structure is double-edged and should be evaluated by the available releases, not by the backward-pawn label alone.",
+    "keyIdeas": [
+      "White attacks with f4-f5 and pressures e7.",
+      "Black challenges c4-d5 with ...b5 and ...a5-a4.",
+      "A bishop on f6 can neutralize pressure on e7.",
+      "Queen exchanges reduce White&#x27;s attack and magnify the c4 target."
+    ],
+    "activities": [
+      {
+        "id": "study-attacking-prerequisites-maroczy-asymmetric-card",
+        "concept": "Attacking prerequisites",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read the asymmetric overview on PDF 216-217 and Ninov-Velimirovic on PDF 217-219. List White&#x27;s f5 prerequisites and Black&#x27;s ...a5-a4, ...b5 and exchange defenses.",
+        "successCheck": "Explain why White must close the queenside before the kingside attack is sound.",
+        "playReminders": [
+          "What in the position makes this attack work?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-ninov-velimirovic",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Ninov-Velimirovic: close the queenside, then attack; pp. 216-218; PDF 217-219",
+    "title": "Ninov-Velimirovic: close the queenside, then attack",
+    "tags": [
+      "maroczy",
+      "asymmetric-transformation",
+      "attacking-prerequisites",
+      "prophylaxis",
+      "pawn-breaks"
+    ],
+    "note": "White reaches the asymmetric structure but initially prepares f4 too soon, allowing queenside counterplay. The stronger order is a3-a4, preventing both ...a5-a4 and ...b6-b5. Once Black has no distraction, White opens the kingside with f4-f5 and transfers pieces to the attack.\n\nThe game is a prerequisite lesson for attacking. White&#x27;s space and pawn chain do not guarantee a safe attack while Black can break on the other wing. Stabilizing the queenside gives White the time and secure base needed for the sacrifice and rook lift.",
+    "keyIdeas": [
+      "Prevent ...a4 and ...b5 before launching f4-f5.",
+      "Treat a stable queenside as a prerequisite for the kingside attack.",
+      "Use f5 to open lines only after Black&#x27;s distraction is gone.",
+      "A secure pawn chain supports piece transfers and sacrifices."
+    ],
+    "activities": [
+      {
+        "id": "study-attacking-prerequisites-maroczy-asymmetric-card",
+        "concept": "Attacking prerequisites",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read the asymmetric overview on PDF 216-217 and Ninov-Velimirovic on PDF 217-219. List White&#x27;s f5 prerequisites and Black&#x27;s ...a5-a4, ...b5 and exchange defenses.",
+        "successCheck": "Explain why White must close the queenside before the kingside attack is sound.",
+        "playReminders": [
+          "What in the position makes this attack work?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-aziz-vazquez",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Aziz-Vazquez Igarza: ...b5 creates the superior ending; pp. 219; PDF 220-220",
+    "title": "Aziz-Vazquez Igarza: ...b5 creates the superior ending",
+    "tags": [
+      "maroczy",
+      "asymmetric-transformation",
+      "defensive-exchanges",
+      "weak-squares",
+      "conversion"
+    ],
+    "note": "Black trades White&#x27;s bishop pair, times ...a5 and then achieves ...b5. After the queenside exchange, White&#x27;s c4 pawn becomes a permanent target and Black controls the dark squares. Simplification now helps Black because White&#x27;s attacking chances have disappeared.\n\nThe fragment is the defensive success case for the asymmetric structure. Black&#x27;s sequence combines plans rather than relying on a single break: exchange a dangerous bishop, prepare the queenside, force the unfavorable recapture and only then convert the static weakness.",
+    "keyIdeas": [
+      "Trade an attacking bishop before opening the queenside.",
+      "Prepare ...b5 with ...a5 when White cannot answer b4 effectively.",
+      "Induce bxc4 so the c-pawn becomes a lasting target.",
+      "Simplify after the opponent&#x27;s attacking chances have been removed."
+    ],
+    "activities": [
+      {
+        "id": "study-defensive-exchanges-maroczy-black-counterplay",
+        "concept": "Defensive exchanges",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Compare Aziz-Vazquez Igarza, Pavlovic-Leon Hoyos and Wang-Zhang on PDF 220-225. For each, identify the exchange or pawn break that creates Black&#x27;s counterplay and the white target left behind.",
+        "successCheck": "Choose among ...b5, ...f5 and simplification from the pieces and targets in the position.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-pavlovic-leon-hoyos",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Pavlovic-Leon Hoyos: ...f5 is counterplay, not decoration; pp. 220-221; PDF 221-222",
+    "title": "Pavlovic-Leon Hoyos: ...f5 is counterplay, not decoration",
+    "tags": [
+      "maroczy",
+      "f5-break",
+      "counterplay",
+      "tempo",
+      "piece-activity"
+    ],
+    "note": "Black prepares ...f7-f5 with queen and rook support. White uses a routine rook move intended for queenside expansion, fails to adjust to Black&#x27;s plan and cannot drive away the central bishop without allowing tactics. The break opens attacking lines and quickly creates a decisive threat.\n\nThe source contrasts a premature ...f5 with the prepared version. White could meet the early break with f4, but after Black improves the pieces and times the break, that reply is tactically unavailable. A thematic move must be judged by the current arrangement, not by whether it appeared questionable a few moves earlier.",
+    "keyIdeas": [
+      "Prepare ...f5 until White&#x27;s normal f4 response is tactically difficult.",
+      "Adjust routine opening moves when the opponent changes plans.",
+      "Use the break to activate every attacking piece.",
+      "Compare the same break at two different moments before judging it."
+    ],
+    "activities": [
+      {
+        "id": "study-defensive-exchanges-maroczy-black-counterplay",
+        "concept": "Defensive exchanges",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Compare Aziz-Vazquez Igarza, Pavlovic-Leon Hoyos and Wang-Zhang on PDF 220-225. For each, identify the exchange or pawn break that creates Black&#x27;s counterplay and the white target left behind.",
+        "successCheck": "Choose among ...b5, ...f5 and simplification from the pieces and targets in the position.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-simacek-kanovsky",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Simacek-Kanovsky: f3-f4 supports the central breaks; pp. 221-222; PDF 222-223",
+    "title": "Simacek-Kanovsky: f3-f4 supports the central breaks",
+    "tags": [
+      "maroczy",
+      "attacking-prerequisites",
+      "pawn-breaks",
+      "bishop-pair",
+      "space"
+    ],
+    "note": "White has already neutralized Black&#x27;s kingside play and uses f3-f4 to support both f4-f5 and e4-e5. Black&#x27;s central pawns become targets, and White&#x27;s bishop pair gives the attack more force than in the preceding ...f5 example.\n\nThe lesson is a contrast in prerequisites. The pawn push is not strong because it gains space alone; it works because Black has no active break, White&#x27;s pieces support both central options and the pawn structure has no comparable weakness. White can then switch between direct attack and structural pressure.",
+    "keyIdeas": [
+      "Use f3-f4 when it supports both e5 and f5.",
+      "Neutralize Black&#x27;s active break before expanding.",
+      "Connect the pawn advance to bishop activity and central targets.",
+      "Keep both central breaks available until Black commits."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-maroczy-white-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Simacek-Kanovsky and Kuljasevic-Golubovic on PDF 222-226. Track how f3-f4 supports both e5 and f5, and how a knight on d5 changes Black&#x27;s defense.",
+        "successCheck": "Choose e5 or f5 at a critical moment and name Black&#x27;s missed ...e6 resource.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-wang-zhang",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Wang Zili-Zhang Pengxiang: ...b7-b5 can be enough; pp. 223-224; PDF 224-225",
+    "title": "Wang Zili-Zhang Pengxiang: ...b7-b5 can be enough",
+    "tags": [
+      "maroczy",
+      "b5-break",
+      "counterplay",
+      "backward-pawns",
+      "structure-transformation"
+    ],
+    "note": "White mishandles the opening and lets Black play ...b7-b5-b4. The exchanges remove White&#x27;s space advantage and leave the a2 pawn backward while Black gains better piece activity. White can still defend in several lines, which leads the source to a practical conclusion: forcing precise defense is already a success for Black in a structure that otherwise offers White the easier game.\n\nThe example also warns against oversimplifying the break. ...b5 does not force a win, and White has resources based on central play and piece activity. Its value is that it creates concrete targets and reduces the lasting restriction.",
+    "keyIdeas": [
+      "Use ...b5 to remove White&#x27;s space and create a queenside target.",
+      "Judge success by the quality of the resulting play, not by a forced win.",
+      "Keep central resources available when answering the flank break.",
+      "A backward a-pawn can replace the original space advantage as the main feature."
+    ],
+    "activities": [
+      {
+        "id": "study-defensive-exchanges-maroczy-black-counterplay",
+        "concept": "Defensive exchanges",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Compare Aziz-Vazquez Igarza, Pavlovic-Leon Hoyos and Wang-Zhang on PDF 220-225. For each, identify the exchange or pawn break that creates Black&#x27;s counterplay and the white target left behind.",
+        "successCheck": "Choose among ...b5, ...f5 and simplification from the pieces and targets in the position.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-maroczy-kuljasevic-golubovic",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Kuljasevic-Golubovic: e4-e5 and f4-f5 as paired threats; pp. 224-225; PDF 225-226",
+    "title": "Kuljasevic-Golubovic: e4-e5 and f4-f5 as paired threats",
+    "tags": [
+      "maroczy",
+      "e5-break",
+      "f5-break",
+      "outposts",
+      "pawn-breaks"
+    ],
+    "note": "White prepares f3-f4 so that both e4-e5 and f4-f5 are available. A timely knight jump to d5 increases the pressure, while Black repeatedly chooses slow moves instead of ...e7-e6. When White finally plays e5, the d6 pawn becomes weak and the central files open in White&#x27;s favor.\n\nThe source notes that f4-f5 was even stronger at two moments. Black&#x27;s practical defense was to challenge d5 and restrict the paired breaks with ...e6. The game closes the chapter by joining space, outpost and break timing: White&#x27;s advantage becomes concrete when two pawn advances cannot both be stopped.",
+    "keyIdeas": [
+      "Prepare e5 and f5 together so Black cannot meet both.",
+      "Use a knight on d5 to amplify the central threat.",
+      "Black should challenge the setup with ...e6 before the breaks land.",
+      "Choose the break that opens a target with tempo."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-maroczy-white-breaks",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Simacek-Kanovsky and Kuljasevic-Golubovic on PDF 222-226. Track how f3-f4 supports both e5 and f5, and how a knight on d5 changes Black&#x27;s defense.",
+        "successCheck": "Choose e5 or f5 at a critical moment and name Black&#x27;s missed ...e6 resource.",
+        "playReminders": [
+          "Which pieces improve when this pawn moves?",
+          "What target remains after the exchanges?",
+          "Can the opponent answer on the other wing with tempo?",
+          "Which recapture creates the structure I actually want?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",

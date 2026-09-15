@@ -4312,6 +4312,611 @@
         "section": "Complete Baadur Jobava-Liviu-Dieter Nisipeanu game and Chapter 9 final remarks; stop before Chapter 10 on PDF 179",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "space--flores-hedgehog-overview",
+      "chapterId": "flores-hedgehog-overview",
+      "locator": {
+        "pdfPageStart": 179,
+        "pdfPageEnd": 180,
+        "printedPages": "178-179",
+        "section": "Chapter 10 formation diagram, complete plan overview and piece-arrangement introduction; Pruijssers-Izsak begins on PDF 181",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-hedgehog-overview",
+      "chapterId": "flores-hedgehog-overview",
+      "locator": {
+        "pdfPageStart": 179,
+        "pdfPageEnd": 180,
+        "printedPages": "178-179",
+        "section": "Chapter 10 formation diagram, complete plan overview and piece-arrangement introduction; Pruijssers-Izsak begins on PDF 181",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-hedgehog-overview",
+      "chapterId": "flores-hedgehog-overview",
+      "locator": {
+        "pdfPageStart": 179,
+        "pdfPageEnd": 180,
+        "printedPages": "178-179",
+        "section": "Chapter 10 formation diagram, complete plan overview and piece-arrangement introduction; Pruijssers-Izsak begins on PDF 181",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-hedgehog-overview",
+      "chapterId": "flores-hedgehog-overview",
+      "locator": {
+        "pdfPageStart": 179,
+        "pdfPageEnd": 180,
+        "printedPages": "178-179",
+        "section": "Chapter 10 formation diagram, complete plan overview and piece-arrangement introduction; Pruijssers-Izsak begins on PDF 181",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--flores-hedgehog-pruijssers-izsak",
+      "chapterId": "flores-hedgehog-pruijssers-izsak",
+      "locator": {
+        "pdfPageStart": 181,
+        "pdfPageEnd": 183,
+        "printedPages": "180-182",
+        "section": "Complete Roeland Pruijssers-Gyula Izsak game and extended 24.b5 analysis; Flores Rios-Hayrapetian begins on PDF 184",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "sacrifices--flores-hedgehog-pruijssers-izsak",
+      "chapterId": "flores-hedgehog-pruijssers-izsak",
+      "locator": {
+        "pdfPageStart": 181,
+        "pdfPageEnd": 183,
+        "printedPages": "180-182",
+        "section": "Complete Roeland Pruijssers-Gyula Izsak game and extended 24.b5 analysis; Flores Rios-Hayrapetian begins on PDF 184",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-hedgehog-flores-hayrapetian",
+      "chapterId": "flores-hedgehog-flores-hayrapetian",
+      "locator": {
+        "pdfPageStart": 184,
+        "pdfPageEnd": 188,
+        "printedPages": "183-187",
+        "section": "Complete Mauricio Flores Rios-Hovik Hayrapetian game, alternative b5 analysis and final remarks; Predojevic-Nestorovic begins on PDF 188",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-hedgehog-flores-hayrapetian",
+      "chapterId": "flores-hedgehog-flores-hayrapetian",
+      "locator": {
+        "pdfPageStart": 184,
+        "pdfPageEnd": 188,
+        "printedPages": "183-187",
+        "section": "Complete Mauricio Flores Rios-Hovik Hayrapetian game, alternative b5 analysis and final remarks; Predojevic-Nestorovic begins on PDF 188",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-hedgehog-predojevic-nestorovic",
+      "chapterId": "flores-hedgehog-predojevic-nestorovic",
+      "locator": {
+        "pdfPageStart": 188,
+        "pdfPageEnd": 192,
+        "printedPages": "187-191",
+        "section": "Complete Borki Predojevic-Dejan Nestorovic game and final remarks; the space-disadvantage section begins on PDF 192",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "backward-pawns--flores-hedgehog-predojevic-nestorovic",
+      "chapterId": "flores-hedgehog-predojevic-nestorovic",
+      "locator": {
+        "pdfPageStart": 188,
+        "pdfPageEnd": 192,
+        "printedPages": "187-191",
+        "section": "Complete Borki Predojevic-Dejan Nestorovic game and final remarks; the space-disadvantage section begins on PDF 192",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-hedgehog-eljanov-jakovenko",
+      "chapterId": "flores-hedgehog-eljanov-jakovenko",
+      "locator": {
+        "pdfPageStart": 193,
+        "pdfPageEnd": 195,
+        "printedPages": "192-194",
+        "section": "Complete Pavel Eljanov-Dmitri Jakovenko game and final remarks; Dominguez-Andreikin begins on PDF 195",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-hedgehog-eljanov-jakovenko",
+      "chapterId": "flores-hedgehog-eljanov-jakovenko",
+      "locator": {
+        "pdfPageStart": 193,
+        "pdfPageEnd": 195,
+        "printedPages": "192-194",
+        "section": "Complete Pavel Eljanov-Dmitri Jakovenko game and final remarks; Dominguez-Andreikin begins on PDF 195",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-hedgehog-eljanov-jakovenko",
+      "chapterId": "flores-hedgehog-eljanov-jakovenko",
+      "locator": {
+        "pdfPageStart": 193,
+        "pdfPageEnd": 195,
+        "printedPages": "192-194",
+        "section": "Complete Pavel Eljanov-Dmitri Jakovenko game and final remarks; Dominguez-Andreikin begins on PDF 195",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-hedgehog-dominguez-andreikin",
+      "chapterId": "flores-hedgehog-dominguez-andreikin",
+      "locator": {
+        "pdfPageStart": 195,
+        "pdfPageEnd": 197,
+        "printedPages": "194-196",
+        "section": "Complete Leinier Dominguez Perez-Dmitry Andreikin game and final remarks; Van Burg-Cordova begins on PDF 197",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--flores-hedgehog-dominguez-andreikin",
+      "chapterId": "flores-hedgehog-dominguez-andreikin",
+      "locator": {
+        "pdfPageStart": 195,
+        "pdfPageEnd": 197,
+        "printedPages": "194-196",
+        "section": "Complete Leinier Dominguez Perez-Dmitry Andreikin game and final remarks; Van Burg-Cordova begins on PDF 197",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-hedgehog-van-burg-cordova",
+      "chapterId": "flores-hedgehog-van-burg-cordova",
+      "locator": {
+        "pdfPageStart": 197,
+        "pdfPageEnd": 199,
+        "printedPages": "196-198",
+        "section": "Complete Twan Burg-Emilio Cordova game and final remarks; Galkin-Delchev begins on PDF 200",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-hedgehog-van-burg-cordova",
+      "chapterId": "flores-hedgehog-van-burg-cordova",
+      "locator": {
+        "pdfPageStart": 197,
+        "pdfPageEnd": 199,
+        "printedPages": "196-198",
+        "section": "Complete Twan Burg-Emilio Cordova game and final remarks; Galkin-Delchev begins on PDF 200",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-hedgehog-van-burg-cordova",
+      "chapterId": "flores-hedgehog-van-burg-cordova",
+      "locator": {
+        "pdfPageStart": 197,
+        "pdfPageEnd": 199,
+        "printedPages": "196-198",
+        "section": "Complete Twan Burg-Emilio Cordova game and final remarks; Galkin-Delchev begins on PDF 200",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--flores-hedgehog-galkin-delchev",
+      "chapterId": "flores-hedgehog-galkin-delchev",
+      "locator": {
+        "pdfPageStart": 200,
+        "pdfPageEnd": 200,
+        "printedPages": "199",
+        "section": "Complete Alexander Galkin-Aleksander Delchev fragment and final remarks; Munoz Pantoja-Grandadam begins on PDF 201",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-hedgehog-galkin-delchev",
+      "chapterId": "flores-hedgehog-galkin-delchev",
+      "locator": {
+        "pdfPageStart": 200,
+        "pdfPageEnd": 200,
+        "printedPages": "199",
+        "section": "Complete Alexander Galkin-Aleksander Delchev fragment and final remarks; Munoz Pantoja-Grandadam begins on PDF 201",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-hedgehog-munoz-grandadam",
+      "chapterId": "flores-hedgehog-munoz-grandadam",
+      "locator": {
+        "pdfPageStart": 201,
+        "pdfPageEnd": 203,
+        "printedPages": "200-202",
+        "section": "Complete Miguel Munoz Pantoja-Julio Grandadam Zuniga game and final remarks; Bartholomew-Gareev begins on PDF 203",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--flores-hedgehog-munoz-grandadam",
+      "chapterId": "flores-hedgehog-munoz-grandadam",
+      "locator": {
+        "pdfPageStart": 201,
+        "pdfPageEnd": 203,
+        "printedPages": "200-202",
+        "section": "Complete Miguel Munoz Pantoja-Julio Grandadam Zuniga game and final remarks; Bartholomew-Gareev begins on PDF 203",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "candidate-moves--flores-hedgehog-bartholomew-gareev",
+      "chapterId": "flores-hedgehog-bartholomew-gareev",
+      "locator": {
+        "pdfPageStart": 203,
+        "pdfPageEnd": 205,
+        "printedPages": "202-204",
+        "section": "Complete John Bartholomew-Timur Gareev game and Chapter 10 final remarks; stop before Chapter 11 on PDF 206",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--flores-hedgehog-bartholomew-gareev",
+      "chapterId": "flores-hedgehog-bartholomew-gareev",
+      "locator": {
+        "pdfPageStart": 203,
+        "pdfPageEnd": 205,
+        "printedPages": "202-204",
+        "section": "Complete John Bartholomew-Timur Gareev game and Chapter 10 final remarks; stop before Chapter 11 on PDF 206",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-maroczy-overview",
+      "chapterId": "flores-maroczy-overview",
+      "locator": {
+        "pdfPageStart": 206,
+        "pdfPageEnd": 207,
+        "printedPages": "205-206",
+        "section": "Chapter 11 formation diagram, complete plan overview and symmetric-transformation introduction; Polugaevsky-Ivkov begins on PDF 208",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-maroczy-overview",
+      "chapterId": "flores-maroczy-overview",
+      "locator": {
+        "pdfPageStart": 206,
+        "pdfPageEnd": 207,
+        "printedPages": "205-206",
+        "section": "Chapter 11 formation diagram, complete plan overview and symmetric-transformation introduction; Polugaevsky-Ivkov begins on PDF 208",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-maroczy-overview",
+      "chapterId": "flores-maroczy-overview",
+      "locator": {
+        "pdfPageStart": 206,
+        "pdfPageEnd": 207,
+        "printedPages": "205-206",
+        "section": "Chapter 11 formation diagram, complete plan overview and symmetric-transformation introduction; Polugaevsky-Ivkov begins on PDF 208",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-maroczy-polugaevsky-ivkov",
+      "chapterId": "flores-maroczy-polugaevsky-ivkov",
+      "locator": {
+        "pdfPageStart": 208,
+        "pdfPageEnd": 210,
+        "printedPages": "207-209",
+        "section": "Complete Lev Polugaevsky-Borislav Ivkov game and final remarks; Smeets-Tiviakov begins on PDF 211",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-maroczy-polugaevsky-ivkov",
+      "chapterId": "flores-maroczy-polugaevsky-ivkov",
+      "locator": {
+        "pdfPageStart": 208,
+        "pdfPageEnd": 210,
+        "printedPages": "207-209",
+        "section": "Complete Lev Polugaevsky-Borislav Ivkov game and final remarks; Smeets-Tiviakov begins on PDF 211",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-maroczy-smeets-tiviakov",
+      "chapterId": "flores-maroczy-smeets-tiviakov",
+      "locator": {
+        "pdfPageStart": 211,
+        "pdfPageEnd": 212,
+        "printedPages": "210-211",
+        "section": "Complete Jan Smeets-Sergei Tiviakov game and final remarks; Another Endgame begins on PDF 213",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-maroczy-smeets-tiviakov",
+      "chapterId": "flores-maroczy-smeets-tiviakov",
+      "locator": {
+        "pdfPageStart": 211,
+        "pdfPageEnd": 212,
+        "printedPages": "210-211",
+        "section": "Complete Jan Smeets-Sergei Tiviakov game and final remarks; Another Endgame begins on PDF 213",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-maroczy-smeets-tiviakov",
+      "chapterId": "flores-maroczy-smeets-tiviakov",
+      "locator": {
+        "pdfPageStart": 211,
+        "pdfPageEnd": 212,
+        "printedPages": "210-211",
+        "section": "Complete Jan Smeets-Sergei Tiviakov game and final remarks; Another Endgame begins on PDF 213",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "schematic-thinking--flores-maroczy-jakovljevic-predojevic",
+      "chapterId": "flores-maroczy-jakovljevic-predojevic",
+      "locator": {
+        "pdfPageStart": 213,
+        "pdfPageEnd": 214,
+        "printedPages": "212-213",
+        "section": "Complete Jakovljevic-Predojevic endgame fragment and final remarks; Counterplay for Black begins on PDF 215",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-maroczy-jakovljevic-predojevic",
+      "chapterId": "flores-maroczy-jakovljevic-predojevic",
+      "locator": {
+        "pdfPageStart": 213,
+        "pdfPageEnd": 214,
+        "printedPages": "212-213",
+        "section": "Complete Jakovljevic-Predojevic endgame fragment and final remarks; Counterplay for Black begins on PDF 215",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-maroczy-jakovljevic-predojevic",
+      "chapterId": "flores-maroczy-jakovljevic-predojevic",
+      "locator": {
+        "pdfPageStart": 213,
+        "pdfPageEnd": 214,
+        "printedPages": "212-213",
+        "section": "Complete Jakovljevic-Predojevic endgame fragment and final remarks; Counterplay for Black begins on PDF 215",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-maroczy-navara-jirovsky",
+      "chapterId": "flores-maroczy-navara-jirovsky",
+      "locator": {
+        "pdfPageStart": 215,
+        "pdfPageEnd": 216,
+        "printedPages": "214-215",
+        "section": "Complete Counterplay for Black fragment from David Navara-Igor Jirovsky; stop before Asymmetric Transformation on PDF 216",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--flores-maroczy-navara-jirovsky",
+      "chapterId": "flores-maroczy-navara-jirovsky",
+      "locator": {
+        "pdfPageStart": 215,
+        "pdfPageEnd": 216,
+        "printedPages": "214-215",
+        "section": "Complete Counterplay for Black fragment from David Navara-Igor Jirovsky; stop before Asymmetric Transformation on PDF 216",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-maroczy-asymmetric-overview",
+      "chapterId": "flores-maroczy-asymmetric-overview",
+      "locator": {
+        "pdfPageStart": 216,
+        "pdfPageEnd": 217,
+        "printedPages": "215-216",
+        "section": "Complete Asymmetric Transformation formation card and plan overview; Ninov-Velimirovic begins on PDF 217",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-maroczy-asymmetric-overview",
+      "chapterId": "flores-maroczy-asymmetric-overview",
+      "locator": {
+        "pdfPageStart": 216,
+        "pdfPageEnd": 217,
+        "printedPages": "215-216",
+        "section": "Complete Asymmetric Transformation formation card and plan overview; Ninov-Velimirovic begins on PDF 217",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-maroczy-asymmetric-overview",
+      "chapterId": "flores-maroczy-asymmetric-overview",
+      "locator": {
+        "pdfPageStart": 216,
+        "pdfPageEnd": 217,
+        "printedPages": "215-216",
+        "section": "Complete Asymmetric Transformation formation card and plan overview; Ninov-Velimirovic begins on PDF 217",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-maroczy-ninov-velimirovic",
+      "chapterId": "flores-maroczy-ninov-velimirovic",
+      "locator": {
+        "pdfPageStart": 217,
+        "pdfPageEnd": 219,
+        "printedPages": "216-218",
+        "section": "Complete Nikolai Ninov-Dragoljub Velimirovic game and final remarks; superior-endgame fragment begins on PDF 220",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--flores-maroczy-ninov-velimirovic",
+      "chapterId": "flores-maroczy-ninov-velimirovic",
+      "locator": {
+        "pdfPageStart": 217,
+        "pdfPageEnd": 219,
+        "printedPages": "216-218",
+        "section": "Complete Nikolai Ninov-Dragoljub Velimirovic game and final remarks; superior-endgame fragment begins on PDF 220",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "defensive-exchanges--flores-maroczy-aziz-vazquez",
+      "chapterId": "flores-maroczy-aziz-vazquez",
+      "locator": {
+        "pdfPageStart": 220,
+        "pdfPageEnd": 220,
+        "printedPages": "219",
+        "section": "Complete Black obtains a superior endgame fragment from Aziz-Vazquez Igarza; Pavlovic-Leon Hoyos begins on PDF 221",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-maroczy-aziz-vazquez",
+      "chapterId": "flores-maroczy-aziz-vazquez",
+      "locator": {
+        "pdfPageStart": 220,
+        "pdfPageEnd": 220,
+        "printedPages": "219",
+        "section": "Complete Black obtains a superior endgame fragment from Aziz-Vazquez Igarza; Pavlovic-Leon Hoyos begins on PDF 221",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-maroczy-pavlovic-leon-hoyos",
+      "chapterId": "flores-maroczy-pavlovic-leon-hoyos",
+      "locator": {
+        "pdfPageStart": 221,
+        "pdfPageEnd": 222,
+        "printedPages": "220-221",
+        "section": "Complete Milos Pavlovic-Manuel Leon Hoyos game and final remarks; f3-f4 fragment begins on PDF 222",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--flores-maroczy-pavlovic-leon-hoyos",
+      "chapterId": "flores-maroczy-pavlovic-leon-hoyos",
+      "locator": {
+        "pdfPageStart": 221,
+        "pdfPageEnd": 222,
+        "printedPages": "220-221",
+        "section": "Complete Milos Pavlovic-Manuel Leon Hoyos game and final remarks; f3-f4 fragment begins on PDF 222",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "defensive-exchanges--flores-maroczy-pavlovic-leon-hoyos",
+      "chapterId": "flores-maroczy-pavlovic-leon-hoyos",
+      "locator": {
+        "pdfPageStart": 221,
+        "pdfPageEnd": 222,
+        "printedPages": "220-221",
+        "section": "Complete Milos Pavlovic-Manuel Leon Hoyos game and final remarks; f3-f4 fragment begins on PDF 222",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-maroczy-simacek-kanovsky",
+      "chapterId": "flores-maroczy-simacek-kanovsky",
+      "locator": {
+        "pdfPageStart": 222,
+        "pdfPageEnd": 223,
+        "printedPages": "221-222",
+        "section": "Complete White dominates after f3-f4 fragment from Simacek-Kanovsky; Wang Zili-Zhang Pengxiang begins on PDF 224",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--flores-maroczy-simacek-kanovsky",
+      "chapterId": "flores-maroczy-simacek-kanovsky",
+      "locator": {
+        "pdfPageStart": 222,
+        "pdfPageEnd": 223,
+        "printedPages": "221-222",
+        "section": "Complete White dominates after f3-f4 fragment from Simacek-Kanovsky; Wang Zili-Zhang Pengxiang begins on PDF 224",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-maroczy-simacek-kanovsky",
+      "chapterId": "flores-maroczy-simacek-kanovsky",
+      "locator": {
+        "pdfPageStart": 222,
+        "pdfPageEnd": 223,
+        "printedPages": "221-222",
+        "section": "Complete White dominates after f3-f4 fragment from Simacek-Kanovsky; Wang Zili-Zhang Pengxiang begins on PDF 224",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-maroczy-wang-zhang",
+      "chapterId": "flores-maroczy-wang-zhang",
+      "locator": {
+        "pdfPageStart": 224,
+        "pdfPageEnd": 225,
+        "printedPages": "223-224",
+        "section": "Complete Wang Zili-Zhang Pengxiang game and final remarks; Kuljasevic-Golubovic begins on PDF 225",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "backward-pawns--flores-maroczy-wang-zhang",
+      "chapterId": "flores-maroczy-wang-zhang",
+      "locator": {
+        "pdfPageStart": 224,
+        "pdfPageEnd": 225,
+        "printedPages": "223-224",
+        "section": "Complete Wang Zili-Zhang Pengxiang game and final remarks; Kuljasevic-Golubovic begins on PDF 225",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "defensive-exchanges--flores-maroczy-wang-zhang",
+      "chapterId": "flores-maroczy-wang-zhang",
+      "locator": {
+        "pdfPageStart": 224,
+        "pdfPageEnd": 225,
+        "printedPages": "223-224",
+        "section": "Complete Wang Zili-Zhang Pengxiang game and final remarks; Kuljasevic-Golubovic begins on PDF 225",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-maroczy-kuljasevic-golubovic",
+      "chapterId": "flores-maroczy-kuljasevic-golubovic",
+      "locator": {
+        "pdfPageStart": 225,
+        "pdfPageEnd": 226,
+        "printedPages": "224-225",
+        "section": "Complete Davorin Kuljasevic-Boris Golubovic game and Chapter 11 final remarks; stop before Chapter 12 on PDF 227",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-maroczy-kuljasevic-golubovic",
+      "chapterId": "flores-maroczy-kuljasevic-golubovic",
+      "locator": {
+        "pdfPageStart": 225,
+        "pdfPageEnd": 226,
+        "printedPages": "224-225",
+        "section": "Complete Davorin Kuljasevic-Boris Golubovic game and Chapter 11 final remarks; stop before Chapter 12 on PDF 227",
+        "ebookLocation": null
+      }
     }
   ]
 }
