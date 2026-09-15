@@ -1950,6 +1950,175 @@
         "section": "Complete Yuri Vovk-Andrei Volokitin game and Chapter 7 final remarks; stop before Chapter 8 on PDF 139",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "flores-najdorf-i-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Najdorf Type I: queenside majority against a kingside attack; pp. 138; PDF 139-139",
+      "title": "Najdorf Type I: queenside majority against a kingside attack",
+      "locator": {
+        "pdfPageStart": 139,
+        "pdfPageEnd": 139,
+        "printedPages": "138",
+        "section": "Chapter 8 formation diagram and complete plan overview; first annotated game begins on PDF 140",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-i-grischuk-zhang",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Grischuk-Zhang: create the passer before the attack lands; pp. 139-141; PDF 140-142",
+      "title": "Grischuk-Zhang: create the passer before the attack lands",
+      "locator": {
+        "pdfPageStart": 140,
+        "pdfPageEnd": 142,
+        "printedPages": "139-141",
+        "section": "Complete Alexander Grischuk-Zhang Zhong game and final remarks; Bologan-Esen begins on PDF 142",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-i-bologan-esen",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Bologan-Esen: combine b4 with kingside threats; pp. 141-144; PDF 142-145",
+      "title": "Bologan-Esen: combine b4 with kingside threats",
+      "locator": {
+        "pdfPageStart": 142,
+        "pdfPageEnd": 145,
+        "printedPages": "141-144",
+        "section": "Complete Viktor Bologan-Boris Esen game and final remarks; Flores Rios-Delgado begins on PDF 145",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-i-flores-delgado",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Flores Rios-Delgado: sacrifice for the attack, then face the passers; pp. 144-149; PDF 145-150",
+      "title": "Flores Rios-Delgado: sacrifice for the attack, then face the passers",
+      "locator": {
+        "pdfPageStart": 145,
+        "pdfPageEnd": 150,
+        "printedPages": "144-149",
+        "section": "Complete Mauricio Flores Rios-Neuris Delgado game and final remarks; Polgar-Dominguez begins on PDF 150",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-i-polgar-dominguez",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Polgar-Dominguez: the bishop imbalance decides the plan; pp. 149-152; PDF 150-153",
+      "title": "Polgar-Dominguez: the bishop imbalance decides the plan",
+      "locator": {
+        "pdfPageStart": 150,
+        "pdfPageEnd": 153,
+        "printedPages": "149-152",
+        "section": "Complete Judit Polgar-Leinier Dominguez Perez game and final remarks; Hector-Rapport begins on PDF 153",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-i-hector-rapport",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Hector-Rapport: opposite bishops with unequal attacking value; pp. 152-154; PDF 153-155",
+      "title": "Hector-Rapport: opposite bishops with unequal attacking value",
+      "locator": {
+        "pdfPageStart": 153,
+        "pdfPageEnd": 155,
+        "printedPages": "152-154",
+        "section": "Complete Jonny Hector-Richard Rapport game and Chapter 8 final remarks; stop before Chapter 9 on PDF 156",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-ii-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Najdorf Type II: the fight for d5; pp. 153-156; PDF 156-157",
+      "title": "Najdorf Type II: the fight for d5",
+      "locator": {
+        "pdfPageStart": 156,
+        "pdfPageEnd": 157,
+        "printedPages": "153-156",
+        "section": "Chapter 9 formation diagram, complete plan overview and variant introduction; Akopian-Morozevich begins on PDF 157",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-ii-akopian-morozevich",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Akopian-Morozevich: improve the d5 knight until it dominates; pp. 156-159; PDF 157-160",
+      "title": "Akopian-Morozevich: improve the d5 knight until it dominates",
+      "locator": {
+        "pdfPageStart": 157,
+        "pdfPageEnd": 160,
+        "printedPages": "156-159",
+        "section": "Complete Vladimir Akopian-Alexander Morozevich game and final remarks; stop before Kovchan-Khismatullin on PDF 161",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-ii-kovchan-khismatullin",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Kovchan-Khismatullin: prepare ...d5 with more pieces; pp. 160-162; PDF 161-163",
+      "title": "Kovchan-Khismatullin: prepare ...d5 with more pieces",
+      "locator": {
+        "pdfPageStart": 161,
+        "pdfPageEnd": 163,
+        "printedPages": "160-162",
+        "section": "Complete Alexander Kovchan-Denis Khismatullin game and final remarks; Tiviakov-Anand begins on PDF 164",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-ii-tiviakov-anand",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Tiviakov-Anand: the c4 bind and the missing ...b5 break; pp. 163-166; PDF 164-167",
+      "title": "Tiviakov-Anand: the c4 bind and the missing ...b5 break",
+      "locator": {
+        "pdfPageStart": 164,
+        "pdfPageEnd": 167,
+        "printedPages": "163-166",
+        "section": "Complete Sergei Tiviakov-Viswanathan Anand game and final remarks; stop before Bologan-Topalov on PDF 168",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-ii-bologan-topalov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Bologan-Topalov: open the b-file and play around d5; pp. 167-169; PDF 168-170",
+      "title": "Bologan-Topalov: open the b-file and play around d5",
+      "locator": {
+        "pdfPageStart": 168,
+        "pdfPageEnd": 170,
+        "printedPages": "167-169",
+        "section": "Complete Viktor Bologan-Veselin Topalov game and final remarks; Almasi-Aagaard begins on PDF 170",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-ii-almasi-aagaard",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Almasi-Aagaard: the f5 attack and the difficult ending; pp. 169-175; PDF 170-176",
+      "title": "Almasi-Aagaard: the f5 attack and the difficult ending",
+      "locator": {
+        "pdfPageStart": 170,
+        "pdfPageEnd": 176,
+        "printedPages": "169-175",
+        "section": "Complete Zoltan Almasi-Jacob Aagaard game and final remarks; Jobava-Nisipeanu begins on PDF 176",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-najdorf-ii-jobava-nisipeanu",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Jobava-Nisipeanu: ...d5 and ...e4 against the f5 structure; pp. 175-177; PDF 176-178",
+      "title": "Jobava-Nisipeanu: ...d5 and ...e4 against the f5 structure",
+      "locator": {
+        "pdfPageStart": 176,
+        "pdfPageEnd": 178,
+        "printedPages": "175-177",
+        "section": "Complete Baadur Jobava-Liviu-Dieter Nisipeanu game and Chapter 9 final remarks; stop before Chapter 10 on PDF 179",
+        "ebookLocation": null
+      }
     }
   ]
 }

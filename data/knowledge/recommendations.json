@@ -1130,6 +1130,88 @@
       "crossrefIds": [
         "passed-pawns--flores-grunfeld-vovk-volokitin"
       ]
+    },
+    {
+      "id": "study-pawn-majorities-najdorf-i-card",
+      "crossrefIds": [
+        "pawn-majorities--flores-najdorf-i-overview"
+      ]
+    },
+    {
+      "id": "study-passed-pawns-najdorf-i-race",
+      "crossrefIds": [
+        "passed-pawns--flores-najdorf-i-grischuk-zhang"
+      ]
+    },
+    {
+      "id": "study-attacking-prerequisites-najdorf-i-two-wings",
+      "crossrefIds": [
+        "attacking-prerequisites--flores-najdorf-i-bologan-esen"
+      ]
+    },
+    {
+      "id": "study-sacrifices-najdorf-i-sacrifice-race",
+      "crossrefIds": [
+        "sacrifices--flores-najdorf-i-flores-delgado"
+      ]
+    },
+    {
+      "id": "study-good-and-bad-bishops-najdorf-i-bishop-pair",
+      "crossrefIds": [
+        "good-and-bad-bishops--flores-najdorf-i-polgar-dominguez",
+        "good-and-bad-bishops--flores-najdorf-i-hector-rapport"
+      ]
+    },
+    {
+      "id": "study-outposts-najdorf-ii-card",
+      "crossrefIds": [
+        "outposts--flores-najdorf-ii-overview"
+      ]
+    },
+    {
+      "id": "study-outposts-najdorf-ii-d5-knight",
+      "crossrefIds": [
+        "outposts--flores-najdorf-ii-akopian-morozevich"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-najdorf-ii-prepared-d5",
+      "crossrefIds": [
+        "pawn-breaks--flores-najdorf-ii-kovchan-khismatullin"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-najdorf-ii-c4-contrast",
+      "crossrefIds": [
+        "pawn-breaks--flores-najdorf-ii-tiviakov-anand",
+        "pawn-breaks--flores-najdorf-ii-bologan-topalov"
+      ]
+    },
+    {
+      "id": "study-attacking-prerequisites-najdorf-ii-f5-attack",
+      "crossrefIds": [
+        "attacking-prerequisites--flores-najdorf-ii-almasi-aagaard"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-najdorf-ii-f5-ending",
+      "crossrefIds": [
+        "converting-advantages--flores-najdorf-ii-almasi-aagaard"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-najdorf-ii-f5-reply",
+      "crossrefIds": [
+        "pawn-breaks--flores-najdorf-ii-jobava-nisipeanu",
+        "pawn-breaks--flores-najdorf-ii-almasi-aagaard"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-najdorf-types-compare",
+      "crossrefIds": [
+        "pawn-breaks--flores-najdorf-i-overview",
+        "pawn-breaks--flores-najdorf-ii-overview"
+      ]
     }
   ]
 }

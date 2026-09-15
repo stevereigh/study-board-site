@@ -3905,6 +3905,413 @@
         "section": "Complete Yuri Vovk-Andrei Volokitin game and Chapter 7 final remarks; stop before Chapter 8 on PDF 139",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-i-overview",
+      "chapterId": "flores-najdorf-i-overview",
+      "locator": {
+        "pdfPageStart": 139,
+        "pdfPageEnd": 139,
+        "printedPages": "138",
+        "section": "Chapter 8 formation diagram and complete plan overview; first annotated game begins on PDF 140",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-majorities--flores-najdorf-i-overview",
+      "chapterId": "flores-najdorf-i-overview",
+      "locator": {
+        "pdfPageStart": 139,
+        "pdfPageEnd": 139,
+        "printedPages": "138",
+        "section": "Chapter 8 formation diagram and complete plan overview; first annotated game begins on PDF 140",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-najdorf-i-overview",
+      "chapterId": "flores-najdorf-i-overview",
+      "locator": {
+        "pdfPageStart": 139,
+        "pdfPageEnd": 139,
+        "printedPages": "138",
+        "section": "Chapter 8 formation diagram and complete plan overview; first annotated game begins on PDF 140",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-najdorf-i-grischuk-zhang",
+      "chapterId": "flores-najdorf-i-grischuk-zhang",
+      "locator": {
+        "pdfPageStart": 140,
+        "pdfPageEnd": 142,
+        "printedPages": "139-141",
+        "section": "Complete Alexander Grischuk-Zhang Zhong game and final remarks; Bologan-Esen begins on PDF 142",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-najdorf-i-grischuk-zhang",
+      "chapterId": "flores-najdorf-i-grischuk-zhang",
+      "locator": {
+        "pdfPageStart": 140,
+        "pdfPageEnd": 142,
+        "printedPages": "139-141",
+        "section": "Complete Alexander Grischuk-Zhang Zhong game and final remarks; Bologan-Esen begins on PDF 142",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-najdorf-i-bologan-esen",
+      "chapterId": "flores-najdorf-i-bologan-esen",
+      "locator": {
+        "pdfPageStart": 142,
+        "pdfPageEnd": 145,
+        "printedPages": "141-144",
+        "section": "Complete Viktor Bologan-Boris Esen game and final remarks; Flores Rios-Delgado begins on PDF 145",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-i-bologan-esen",
+      "chapterId": "flores-najdorf-i-bologan-esen",
+      "locator": {
+        "pdfPageStart": 142,
+        "pdfPageEnd": 145,
+        "printedPages": "141-144",
+        "section": "Complete Viktor Bologan-Boris Esen game and final remarks; Flores Rios-Delgado begins on PDF 145",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "sacrifices--flores-najdorf-i-flores-delgado",
+      "chapterId": "flores-najdorf-i-flores-delgado",
+      "locator": {
+        "pdfPageStart": 145,
+        "pdfPageEnd": 150,
+        "printedPages": "144-149",
+        "section": "Complete Mauricio Flores Rios-Neuris Delgado game and final remarks; Polgar-Dominguez begins on PDF 150",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-i-flores-delgado",
+      "chapterId": "flores-najdorf-i-flores-delgado",
+      "locator": {
+        "pdfPageStart": 145,
+        "pdfPageEnd": 150,
+        "printedPages": "144-149",
+        "section": "Complete Mauricio Flores Rios-Neuris Delgado game and final remarks; Polgar-Dominguez begins on PDF 150",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-najdorf-i-flores-delgado",
+      "chapterId": "flores-najdorf-i-flores-delgado",
+      "locator": {
+        "pdfPageStart": 145,
+        "pdfPageEnd": 150,
+        "printedPages": "144-149",
+        "section": "Complete Mauricio Flores Rios-Neuris Delgado game and final remarks; Polgar-Dominguez begins on PDF 150",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--flores-najdorf-i-flores-delgado",
+      "chapterId": "flores-najdorf-i-flores-delgado",
+      "locator": {
+        "pdfPageStart": 145,
+        "pdfPageEnd": 150,
+        "printedPages": "144-149",
+        "section": "Complete Mauricio Flores Rios-Neuris Delgado game and final remarks; Polgar-Dominguez begins on PDF 150",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-najdorf-i-polgar-dominguez",
+      "chapterId": "flores-najdorf-i-polgar-dominguez",
+      "locator": {
+        "pdfPageStart": 150,
+        "pdfPageEnd": 153,
+        "printedPages": "149-152",
+        "section": "Complete Judit Polgar-Leinier Dominguez Perez game and final remarks; Hector-Rapport begins on PDF 153",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-najdorf-i-polgar-dominguez",
+      "chapterId": "flores-najdorf-i-polgar-dominguez",
+      "locator": {
+        "pdfPageStart": 150,
+        "pdfPageEnd": 153,
+        "printedPages": "149-152",
+        "section": "Complete Judit Polgar-Leinier Dominguez Perez game and final remarks; Hector-Rapport begins on PDF 153",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-i-polgar-dominguez",
+      "chapterId": "flores-najdorf-i-polgar-dominguez",
+      "locator": {
+        "pdfPageStart": 150,
+        "pdfPageEnd": 153,
+        "printedPages": "149-152",
+        "section": "Complete Judit Polgar-Leinier Dominguez Perez game and final remarks; Hector-Rapport begins on PDF 153",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-najdorf-i-hector-rapport",
+      "chapterId": "flores-najdorf-i-hector-rapport",
+      "locator": {
+        "pdfPageStart": 153,
+        "pdfPageEnd": 155,
+        "printedPages": "152-154",
+        "section": "Complete Jonny Hector-Richard Rapport game and Chapter 8 final remarks; stop before Chapter 9 on PDF 156",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-najdorf-i-hector-rapport",
+      "chapterId": "flores-najdorf-i-hector-rapport",
+      "locator": {
+        "pdfPageStart": 153,
+        "pdfPageEnd": 155,
+        "printedPages": "152-154",
+        "section": "Complete Jonny Hector-Richard Rapport game and Chapter 8 final remarks; stop before Chapter 9 on PDF 156",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-ii-overview",
+      "chapterId": "flores-najdorf-ii-overview",
+      "locator": {
+        "pdfPageStart": 156,
+        "pdfPageEnd": 157,
+        "printedPages": "153-156",
+        "section": "Chapter 9 formation diagram, complete plan overview and variant introduction; Akopian-Morozevich begins on PDF 157",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-najdorf-ii-overview",
+      "chapterId": "flores-najdorf-ii-overview",
+      "locator": {
+        "pdfPageStart": 156,
+        "pdfPageEnd": 157,
+        "printedPages": "153-156",
+        "section": "Chapter 9 formation diagram, complete plan overview and variant introduction; Akopian-Morozevich begins on PDF 157",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "weak-squares--flores-najdorf-ii-overview",
+      "chapterId": "flores-najdorf-ii-overview",
+      "locator": {
+        "pdfPageStart": 156,
+        "pdfPageEnd": 157,
+        "printedPages": "153-156",
+        "section": "Chapter 9 formation diagram, complete plan overview and variant introduction; Akopian-Morozevich begins on PDF 157",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-najdorf-ii-akopian-morozevich",
+      "chapterId": "flores-najdorf-ii-akopian-morozevich",
+      "locator": {
+        "pdfPageStart": 157,
+        "pdfPageEnd": 160,
+        "printedPages": "156-159",
+        "section": "Complete Vladimir Akopian-Alexander Morozevich game and final remarks; stop before Kovchan-Khismatullin on PDF 161",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--flores-najdorf-ii-akopian-morozevich",
+      "chapterId": "flores-najdorf-ii-akopian-morozevich",
+      "locator": {
+        "pdfPageStart": 157,
+        "pdfPageEnd": 160,
+        "printedPages": "156-159",
+        "section": "Complete Vladimir Akopian-Alexander Morozevich game and final remarks; stop before Kovchan-Khismatullin on PDF 161",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--flores-najdorf-ii-akopian-morozevich",
+      "chapterId": "flores-najdorf-ii-akopian-morozevich",
+      "locator": {
+        "pdfPageStart": 157,
+        "pdfPageEnd": 160,
+        "printedPages": "156-159",
+        "section": "Complete Vladimir Akopian-Alexander Morozevich game and final remarks; stop before Kovchan-Khismatullin on PDF 161",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-ii-kovchan-khismatullin",
+      "chapterId": "flores-najdorf-ii-kovchan-khismatullin",
+      "locator": {
+        "pdfPageStart": 161,
+        "pdfPageEnd": 163,
+        "printedPages": "160-162",
+        "section": "Complete Alexander Kovchan-Denis Khismatullin game and final remarks; Tiviakov-Anand begins on PDF 164",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--flores-najdorf-ii-kovchan-khismatullin",
+      "chapterId": "flores-najdorf-ii-kovchan-khismatullin",
+      "locator": {
+        "pdfPageStart": 161,
+        "pdfPageEnd": 163,
+        "printedPages": "160-162",
+        "section": "Complete Alexander Kovchan-Denis Khismatullin game and final remarks; Tiviakov-Anand begins on PDF 164",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-ii-tiviakov-anand",
+      "chapterId": "flores-najdorf-ii-tiviakov-anand",
+      "locator": {
+        "pdfPageStart": 164,
+        "pdfPageEnd": 167,
+        "printedPages": "163-166",
+        "section": "Complete Sergei Tiviakov-Viswanathan Anand game and final remarks; stop before Bologan-Topalov on PDF 168",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-najdorf-ii-tiviakov-anand",
+      "chapterId": "flores-najdorf-ii-tiviakov-anand",
+      "locator": {
+        "pdfPageStart": 164,
+        "pdfPageEnd": 167,
+        "printedPages": "163-166",
+        "section": "Complete Sergei Tiviakov-Viswanathan Anand game and final remarks; stop before Bologan-Topalov on PDF 168",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-najdorf-ii-tiviakov-anand",
+      "chapterId": "flores-najdorf-ii-tiviakov-anand",
+      "locator": {
+        "pdfPageStart": 164,
+        "pdfPageEnd": 167,
+        "printedPages": "163-166",
+        "section": "Complete Sergei Tiviakov-Viswanathan Anand game and final remarks; stop before Bologan-Topalov on PDF 168",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-ii-bologan-topalov",
+      "chapterId": "flores-najdorf-ii-bologan-topalov",
+      "locator": {
+        "pdfPageStart": 168,
+        "pdfPageEnd": 170,
+        "printedPages": "167-169",
+        "section": "Complete Viktor Bologan-Veselin Topalov game and final remarks; Almasi-Aagaard begins on PDF 170",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-najdorf-ii-bologan-topalov",
+      "chapterId": "flores-najdorf-ii-bologan-topalov",
+      "locator": {
+        "pdfPageStart": 168,
+        "pdfPageEnd": 170,
+        "printedPages": "167-169",
+        "section": "Complete Viktor Bologan-Veselin Topalov game and final remarks; Almasi-Aagaard begins on PDF 170",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-najdorf-ii-bologan-topalov",
+      "chapterId": "flores-najdorf-ii-bologan-topalov",
+      "locator": {
+        "pdfPageStart": 168,
+        "pdfPageEnd": 170,
+        "printedPages": "167-169",
+        "section": "Complete Viktor Bologan-Veselin Topalov game and final remarks; Almasi-Aagaard begins on PDF 170",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-najdorf-ii-almasi-aagaard",
+      "chapterId": "flores-najdorf-ii-almasi-aagaard",
+      "locator": {
+        "pdfPageStart": 170,
+        "pdfPageEnd": 176,
+        "printedPages": "169-175",
+        "section": "Complete Zoltan Almasi-Jacob Aagaard game and final remarks; Jobava-Nisipeanu begins on PDF 176",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-ii-almasi-aagaard",
+      "chapterId": "flores-najdorf-ii-almasi-aagaard",
+      "locator": {
+        "pdfPageStart": 170,
+        "pdfPageEnd": 176,
+        "printedPages": "169-175",
+        "section": "Complete Zoltan Almasi-Jacob Aagaard game and final remarks; Jobava-Nisipeanu begins on PDF 176",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-najdorf-ii-almasi-aagaard",
+      "chapterId": "flores-najdorf-ii-almasi-aagaard",
+      "locator": {
+        "pdfPageStart": 170,
+        "pdfPageEnd": 176,
+        "printedPages": "169-175",
+        "section": "Complete Zoltan Almasi-Jacob Aagaard game and final remarks; Jobava-Nisipeanu begins on PDF 176",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--flores-najdorf-ii-almasi-aagaard",
+      "chapterId": "flores-najdorf-ii-almasi-aagaard",
+      "locator": {
+        "pdfPageStart": 170,
+        "pdfPageEnd": 176,
+        "printedPages": "169-175",
+        "section": "Complete Zoltan Almasi-Jacob Aagaard game and final remarks; Jobava-Nisipeanu begins on PDF 176",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-najdorf-ii-jobava-nisipeanu",
+      "chapterId": "flores-najdorf-ii-jobava-nisipeanu",
+      "locator": {
+        "pdfPageStart": 176,
+        "pdfPageEnd": 178,
+        "printedPages": "175-177",
+        "section": "Complete Baadur Jobava-Liviu-Dieter Nisipeanu game and Chapter 9 final remarks; stop before Chapter 10 on PDF 179",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-najdorf-ii-jobava-nisipeanu",
+      "chapterId": "flores-najdorf-ii-jobava-nisipeanu",
+      "locator": {
+        "pdfPageStart": 176,
+        "pdfPageEnd": 178,
+        "printedPages": "175-177",
+        "section": "Complete Baadur Jobava-Liviu-Dieter Nisipeanu game and Chapter 9 final remarks; stop before Chapter 10 on PDF 179",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forcing-moves--flores-najdorf-ii-jobava-nisipeanu",
+      "chapterId": "flores-najdorf-ii-jobava-nisipeanu",
+      "locator": {
+        "pdfPageStart": 176,
+        "pdfPageEnd": 178,
+        "printedPages": "175-177",
+        "section": "Complete Baadur Jobava-Liviu-Dieter Nisipeanu game and Chapter 9 final remarks; stop before Chapter 10 on PDF 179",
+        "ebookLocation": null
+      }
     }
   ]
 }

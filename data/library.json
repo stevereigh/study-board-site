@@ -2683,6 +2683,575 @@
     ]
   },
   {
+    "chapterId": "flores-najdorf-i-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Najdorf Type I: queenside majority against a kingside attack; pp. 138; PDF 139-139",
+    "title": "Najdorf Type I: queenside majority against a kingside attack",
+    "tags": [
+      "najdorf-type-i",
+      "pawn-majorities",
+      "pawn-breaks",
+      "opposite-wing-attacks",
+      "bishops"
+    ],
+    "note": "Type I commonly arises when White recaptures on d5 with the e-pawn. White has a queenside majority and seeks b2-b4 followed by c2-c4-c5. Black attacks with ...f7-f5 and may restrain the expansion with ...b7-b5. In some positions White answers ...f5 with a bishop on the b1-h7 diagonal and g2-g4, but the book treats this as a concrete option rather than the default.\n\nThe bishops create a major strategic imbalance. White&#x27;s light-squared bishop can be restricted by the d5 pawn, while Black&#x27;s dark-squared bishop may be an active attacker despite standing on the same color as Black&#x27;s advanced e5 pawn. Classical labels therefore mislead unless they are tied to routes, targets and the intended pawn breaks.\n\nThe formation is often a race. White tries to turn the queenside majority into a passed pawn; Black tries to open the king before that passer matters. Count tempi, preserve the pieces needed for the chosen wing, and reassess any exchange that weakens either operation.",
+    "keyIdeas": [
+      "White advances b4 and c4-c5 to create a queenside passer.",
+      "Black uses ...f5 and sometimes ...b5 to attack or restrain.",
+      "Bishop quality depends on activity and targets, not only pawn color.",
+      "Compare the speed and required pieces of both wing operations."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-majorities-najdorf-i-card",
+        "concept": "Pawn majorities",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn breaks",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Read the Type I overview on PDF 139. Build a two-column card for White&#x27;s b4/c5 expansion and Black&#x27;s ...f5/...e4 attack. Add the bishops each side needs and the move that can restrain the opposing wing.",
+        "successCheck": "Explain the race without assuming that the extra queenside pawn or first attack automatically wins.",
+        "playReminders": [
+          "Can this majority create a passer before the opponent becomes active?",
+          "Which king, rook, or minor piece supports or blocks the advance?",
+          "Would a minority attack neutralize the larger group?"
+        ]
+      },
+      {
+        "id": "study-pawn-breaks-najdorf-types-compare",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Build a side-by-side comparison from PDF 139 and 156-157. Include White&#x27;s recapture and e-pawn placement, majorities, key square, bishop imbalance, standard break and flank race for each type.",
+        "successCheck": "Identify Type I versus Type II from the pawn skeleton and produce two candidate plans for each side without using opening moves.",
+        "playReminders": [
+          "Which side wins the pawn-break race if forcing moves are counted first?",
+          "What must be removed before ...d5 or a knight on d5 works?",
+          "Is White&#x27;s extra pawn on c4, f5, or neither?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-i-grischuk-zhang",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Grischuk-Zhang: create the passer before the attack lands; pp. 139-141; PDF 140-142",
+    "title": "Grischuk-Zhang: create the passer before the attack lands",
+    "tags": [
+      "najdorf-type-i",
+      "passed-pawns",
+      "pawn-majorities",
+      "calculation",
+      "counterplay"
+    ],
+    "note": "White converts the queenside expansion into a concrete passer with c5-c6 and b4-b5. Black launches a thematic h-pawn and kingside counterattack, creating practical danger even after falling behind in the race. White succeeds because the passed pawn arrives with tempo and Black&#x27;s attack lacks one final move.\n\nThe game is a calculation model for opposite-wing play. White must not count only the passer&#x27;s distance from promotion; Black&#x27;s forcing checks, sacrifices and mating threats determine whether the queenside plan is fast enough. The source variations show several moments where a single inaccurate move could reverse the result.",
+    "keyIdeas": [
+      "Use c5-c6 and b4-b5 to turn the majority into a passed pawn.",
+      "Calculate the opponent&#x27;s forcing attack before advancing on the other wing.",
+      "A one-tempo lead can decide the race.",
+      "The passed pawn is useful because it arrives with threats, not merely because it exists."
+    ],
+    "activities": [
+      {
+        "id": "study-passed-pawns-najdorf-i-race",
+        "concept": "Passed pawns",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Study Grischuk-Zhang on PDF 140-142. Count the tempi from c5-c6 and b4-b5 to promotion, then list Black&#x27;s forcing kingside checks and sacrifices at each stage.",
+        "successCheck": "Identify the move that gives White the decisive tempo and one alternative that would reverse the race.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-i-bologan-esen",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Bologan-Esen: combine b4 with kingside threats; pp. 141-144; PDF 142-145",
+    "title": "Bologan-Esen: combine b4 with kingside threats",
+    "tags": [
+      "najdorf-type-i",
+      "pawn-breaks",
+      "attacking-prerequisites",
+      "good-and-bad-bishops",
+      "space"
+    ],
+    "note": "White preserves the knight needed for the queenside plan, expands with b4, and then transfers the light-squared bishop toward the king. The bishop move and g-pawn break neutralize Black&#x27;s dark-squared bishop while opening attacking lines. Black attempts play on both flanks, but the operations do not coordinate and White&#x27;s pieces arrive first.\n\nThe example corrects the assumption that White must choose only one wing. The queenside expansion gains space and fixes Black&#x27;s structure; the bishop route and g2-g4 exploit the resulting piece placement. Black needed earlier activity or a better challenge to the knight and b-pawn before White could combine the plans.",
+    "keyIdeas": [
+      "Keep the knight that supports White&#x27;s queenside expansion.",
+      "A bishop transfer can neutralize Black&#x27;s attacking bishop and support g2-g4.",
+      "Two-wing play works when the first operation restricts the defender.",
+      "Black&#x27;s counterplay needs a concrete target rather than motion on both flanks."
+    ],
+    "activities": [
+      {
+        "id": "study-attacking-prerequisites-najdorf-i-two-wings",
+        "concept": "Attacking prerequisites",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study Bologan-Esen on PDF 142-145. Track the knight kept for queenside play, the b4 expansion, the bishop transfer and g2-g4. State how the first operation supports the second.",
+        "successCheck": "Explain why White can combine both wings while Black&#x27;s operations fail to coordinate.",
+        "playReminders": [
+          "What in the position makes this attack work?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-i-flores-delgado",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Flores Rios-Delgado: sacrifice for the attack, then face the passers; pp. 144-149; PDF 145-150",
+    "title": "Flores Rios-Delgado: sacrifice for the attack, then face the passers",
+    "tags": [
+      "najdorf-type-i",
+      "sacrifices",
+      "pawn-breaks",
+      "passed-pawns",
+      "prophylaxis"
+    ],
+    "note": "Black attacks the king while White&#x27;s central and queenside pawns advance. The thematic sequence ...e5-e4 and ...f5-f4 opens lines and can justify a pawn sacrifice because it gains space, a knight square and attacking tempos. White must decide whether to defend the king, return material, or keep pushing the passers.\n\nWhite eventually neutralizes the attack and the connected pawns become decisive. The route is tactical rather than automatic: prophylactic moves free key defensive squares, and White accepts material loss when necessary to keep the king safe. Once Black&#x27;s initiative is stopped, the passed pawns march with tempo.\n\nThe example shows both sides of the Type I race. Black&#x27;s attacking sacrifice is positionally grounded, but it must produce enough forcing play before White consolidates. White&#x27;s extra pawns matter only after the mating threats are removed.",
+    "keyIdeas": [
+      "...e5-e4 and ...f5-f4 can sacrifice material to open the king and gain squares.",
+      "Return material when it is the cleanest way to survive the attack.",
+      "Connected passers decide only after forcing counterplay is neutralized.",
+      "Prophylaxis can create the single defensive square that stops the attack."
+    ],
+    "activities": [
+      {
+        "id": "study-sacrifices-najdorf-i-sacrifice-race",
+        "concept": "Sacrifices",
+        "minutes": 35,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Study Flores Rios-Delgado on PDF 145-150. Separate Black&#x27;s ...e4/...f4 sacrifice, forcing attack, White&#x27;s defensive concessions, and the later passed-pawn march.",
+        "successCheck": "Explain the compensation for the pawn and the exact condition under which White&#x27;s passers become more important.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-i-polgar-dominguez",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Polgar-Dominguez: the bishop imbalance decides the plan; pp. 149-152; PDF 150-153",
+    "title": "Polgar-Dominguez: the bishop imbalance decides the plan",
+    "tags": [
+      "najdorf-type-i",
+      "good-and-bad-bishops",
+      "favorable-exchanges",
+      "pawn-breaks",
+      "piece-activity"
+    ],
+    "note": "White&#x27;s light-squared bishop has no productive route, while Black&#x27;s dark-squared bishop can join the attack. White transforms the center with an exchange that removes the usual queenside expansion and leaves no active target. Black then improves patiently, prepares ...f5 and ...e4, and uses the bishop as a central attacking piece.\n\nThe result is not explained by a generic good-bishop rule. Black&#x27;s bishop has diagonals and useful targets; White&#x27;s bishop is blocked by its own pawns and cannot challenge the attacking squares. The structural transformation magnifies that difference and gives Black time to build the kingside operation.",
+    "keyIdeas": [
+      "Judge bishops by routes and targets in the actual structure.",
+      "A central exchange can erase White&#x27;s queenside plan and strengthen Black&#x27;s attack.",
+      "The ...g6, ...f5, and ...e4 sequence is strong when the pieces support it.",
+      "Do not simplify into a familiar structure without comparing the remaining minor pieces."
+    ],
+    "activities": [
+      {
+        "id": "study-good-and-bad-bishops-najdorf-i-bishop-pair",
+        "concept": "Good and bad bishops",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare Polgar-Dominguez and Hector-Rapport on PDF 150-155. For each bishop, record its diagonal, target, obstructing pawn and role in the attack. Note the structural decision that removes White&#x27;s counterplay.",
+        "successCheck": "Explain why Black&#x27;s bishop is stronger in both games without relying only on pawn-color labels.",
+        "playReminders": [
+          "Separate pawn-color classification from actual activity."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-i-hector-rapport",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Hector-Rapport: opposite bishops with unequal attacking value; pp. 152-154; PDF 153-155",
+    "title": "Hector-Rapport: opposite bishops with unequal attacking value",
+    "tags": [
+      "najdorf-type-i",
+      "good-and-bad-bishops",
+      "king-safety",
+      "pawn-breaks",
+      "piece-activity"
+    ],
+    "note": "White voluntarily reaches a structure where the queenside majority cannot advance, the light-squared bishop is buried, and the king&#x27;s location makes ordinary expansion too slow. Black&#x27;s dark-squared bishop opens a long diagonal through a central break and combines with the queen and advanced a-pawn.\n\nThe bishops may be opposite-colored, but only Black&#x27;s bishop participates in the attack. White&#x27;s extra pawns and nominal attacking bishop cannot compensate because they lack entry routes and targets. The game reinforces that a material or color-complex label is secondary to activity, king safety and the speed of the initiative.",
+    "keyIdeas": [
+      "Opposite-colored bishops can favor the attacker when only one bishop has targets.",
+      "A central break can release the dark-squared bishop toward the king.",
+      "A blocked queenside majority provides no counterweight to a direct attack.",
+      "King location can make the standard wing plan unavailable."
+    ],
+    "activities": [
+      {
+        "id": "study-good-and-bad-bishops-najdorf-i-bishop-pair",
+        "concept": "Good and bad bishops",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare Polgar-Dominguez and Hector-Rapport on PDF 150-155. For each bishop, record its diagonal, target, obstructing pawn and role in the attack. Note the structural decision that removes White&#x27;s counterplay.",
+        "successCheck": "Explain why Black&#x27;s bishop is stronger in both games without relying only on pawn-color labels.",
+        "playReminders": [
+          "Separate pawn-color classification from actual activity."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-ii-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Najdorf Type II: the fight for d5; pp. 153-156; PDF 156-157",
+    "title": "Najdorf Type II: the fight for d5",
+    "tags": [
+      "najdorf-type-ii",
+      "outposts",
+      "pawn-breaks",
+      "weak-squares",
+      "structure-transformation"
+    ],
+    "note": "Type II keeps White&#x27;s pawn on e4 and Black&#x27;s pawns on d6 and e5. Every major plan connects to d5. White seeks a knight on d5 supported so that recapture can be made with a piece, not a pawn; g2-g4-g5 or Bg5xf6 can remove the f6-knight; and f2-f4-f5 can restrict Black&#x27;s light-squared bishop. Black prepares ...d6-d5, pressures c2 and the c-file, or uses ...b5-b4 to dislodge the c3-knight before the central break.\n\nThree variants need separate attention. In the standard structure White has pawns on c2 and f3. A white c4-pawn stops ...d5 permanently but allows ...b5 counterplay. A white f5-pawn strengthens a kingside attack while leaving c4 and central squares more vulnerable.\n\nIf White controls d5, the space advantage and outpost can support a long squeeze or attack. If Black achieves ...d5 under favorable piece placement, the position often transforms into a freer Type I or balanced structure. The square is therefore a gateway to the next pawn skeleton, not an isolated positional trophy.",
+    "keyIdeas": [
+      "White occupies d5 with a piece and removes its defenders.",
+      "Black prepares ...d5 with c-file pressure or ...b5-b4 against the c3-knight.",
+      "The c4 and f5 variants change which counterbreak is available.",
+      "Piece placement determines whether ...d5 equalizes or yields the initiative."
+    ],
+    "activities": [
+      {
+        "id": "study-outposts-najdorf-ii-card",
+        "concept": "Outposts",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read the Type II overview on PDF 156-157. Build three rows for the standard, c4 and f5 versions. For each, record White&#x27;s d5 plan, Black&#x27;s freeing break, and the relevant flank operation.",
+        "successCheck": "Identify the variant from an unlabeled pawn skeleton and give both sides&#x27; first strategic question.",
+        "playReminders": [
+          "Check stability, access and useful targets."
+        ]
+      },
+      {
+        "id": "study-pawn-breaks-najdorf-types-compare",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Build a side-by-side comparison from PDF 139 and 156-157. Include White&#x27;s recapture and e-pawn placement, majorities, key square, bishop imbalance, standard break and flank race for each type.",
+        "successCheck": "Identify Type I versus Type II from the pawn skeleton and produce two candidate plans for each side without using opening moves.",
+        "playReminders": [
+          "Which side wins the pawn-break race if forcing moves are counted first?",
+          "What must be removed before ...d5 or a knight on d5 works?",
+          "Is White&#x27;s extra pawn on c4, f5, or neither?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-ii-akopian-morozevich",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Akopian-Morozevich: improve the d5 knight until it dominates; pp. 156-159; PDF 157-160",
+    "title": "Akopian-Morozevich: improve the d5 knight until it dominates",
+    "tags": [
+      "najdorf-type-ii",
+      "outposts",
+      "knight-versus-bishop",
+      "piece-activity",
+      "conversion"
+    ],
+    "note": "The position begins as a balanced contest between White&#x27;s d5 outpost and Black&#x27;s active dark-squared bishop. White maneuvers the knight toward d5, while Black has several chances to challenge the setup or create counterplay. A queenside loss of time lets White consolidate, bring the knight to its ideal square and reduce Black&#x27;s active options.\n\nThe source qualifies the usual rule: control of d5 does not automatically make Black&#x27;s bishop bad. If White&#x27;s knight is far away or Black can activate quickly, the bishop and c-file can balance the square. Once the knight is securely installed and White penetrates, however, Black&#x27;s remaining pieces are tied to defense and the endgame becomes very difficult.",
+    "keyIdeas": [
+      "A weak square matters only when the intended piece can reach it in time.",
+      "Black&#x27;s dark-squared bishop can balance d5 through active counterplay.",
+      "Avoid flank moves that give the opponent time to consolidate the outpost.",
+      "Once the knight is secure, use files and king entry to convert the bind."
+    ],
+    "activities": [
+      {
+        "id": "study-outposts-najdorf-ii-d5-knight",
+        "concept": "Outposts",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Study Akopian-Morozevich on PDF 157-160. Track the knight&#x27;s route to d5, Black&#x27;s active bishop, the time-losing queenside moves and the later penetration.",
+        "successCheck": "Explain when the d5 square is only potential and when it becomes a practical advantage.",
+        "playReminders": [
+          "Check stability, access and useful targets."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-ii-kovchan-khismatullin",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Kovchan-Khismatullin: prepare ...d5 with more pieces; pp. 160-162; PDF 161-163",
+    "title": "Kovchan-Khismatullin: prepare ...d5 with more pieces",
+    "tags": [
+      "najdorf-type-ii",
+      "pawn-breaks",
+      "piece-activity",
+      "center-control",
+      "tempo"
+    ],
+    "note": "Black contests d5 with several pieces and times ...d6-d5 after White makes a slow maneuver. The break changes the structure into a more balanced pawn distribution, but Black gains the initiative because the rooks, bishop and knights are already placed for the opened lines. White&#x27;s pieces are uncoordinated and the c-pawn becomes a target.\n\nThe source emphasizes that the structural transformation alone is not favorable. The same break could merely equalize if the pieces were neutral. Here Black&#x27;s superior placement turns it into an active operation with tempos, pins and an invasion. Preparation decides who benefits from the open center.",
+    "keyIdeas": [
+      "Contest d5 with enough pieces before executing ...d6-d5.",
+      "A freeing break is strongest when every piece is ready for the opened lines.",
+      "The transformed pawn count does not measure the initiative.",
+      "Slow regrouping can lose the moment to restrain the break."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-najdorf-ii-prepared-d5",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Study Kovchan-Khismatullin on PDF 161-163. Inventory every black piece supporting ...d5 and every white piece misplaced when the break occurs. Re-evaluate the resulting pawn count separately from the initiative.",
+        "successCheck": "Explain why ...d5 gives Black active play here rather than merely equalizing the structure.",
+        "playReminders": [
+          "Which side wins the pawn-break race if forcing moves are counted first?",
+          "What must be removed before ...d5 or a knight on d5 works?",
+          "Is White&#x27;s extra pawn on c4, f5, or neither?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-ii-tiviakov-anand",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Tiviakov-Anand: the c4 bind and the missing ...b5 break; pp. 163-166; PDF 164-167",
+    "title": "Tiviakov-Anand: the c4 bind and the missing ...b5 break",
+    "tags": [
+      "najdorf-type-ii",
+      "outposts",
+      "restriction",
+      "pawn-breaks",
+      "converting-advantages"
+    ],
+    "note": "With White&#x27;s pawn on c4, ...d5 is permanently restrained and d5 becomes a secure outpost. Black must create counterplay with ...b5 before White locks the queenside. A slow bishop plan and ...b6 let White play a4, prevent the break and establish a protected d6-pawn.\n\nWhite then exchanges into a favorable ending, fixes more weaknesses and improves the pieces without allowing active play. Black&#x27;s dark-squared bishop remains restricted and the d6-pawn is permanently weak. The win comes from preventing the only freeing operation before converting the static targets.\n\nThe chapter notes alternative defensive setups. The lesson is not that c4 wins, but that Black must react before White&#x27;s bind becomes permanent; once ...b5 is gone, useful counterplay becomes scarce.",
+    "keyIdeas": [
+      "The c4-pawn stops ...d5 but gives Black the thematic ...b5 break.",
+      "Use a4 to prevent ...b5 only when the queenside can then be fixed.",
+      "A secure d5 outpost and protected d6-pawn support a long squeeze.",
+      "Exchange into the ending after Black&#x27;s active break has been removed."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-najdorf-ii-c4-contrast",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Tiviakov-Anand and Bologan-Topalov on PDF 164-170. In both c4 structures, track ...b5, a4, the b-file, the d5 knight, Black&#x27;s bishop and the b3 target.",
+        "successCheck": "Explain why White&#x27;s bind becomes permanent in one game while Black&#x27;s queenside counterplay succeeds in the other.",
+        "playReminders": [
+          "Which side wins the pawn-break race if forcing moves are counted first?",
+          "What must be removed before ...d5 or a knight on d5 works?",
+          "Is White&#x27;s extra pawn on c4, f5, or neither?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-ii-bologan-topalov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Bologan-Topalov: open the b-file and play around d5; pp. 167-169; PDF 168-170",
+    "title": "Bologan-Topalov: open the b-file and play around d5",
+    "tags": [
+      "najdorf-type-ii",
+      "pawn-breaks",
+      "open-files",
+      "counterplay",
+      "weak-squares"
+    ],
+    "note": "Black reacts actively to the c4 structure with ...b5, opening the b-file and preventing White from fixing the queenside. The c4-pawn also makes b3 a target. Even when White occupies d5, Black can exchange the knight, use the resulting pawn as a blockading target, or play around the square through dark-square pressure and open lines.\n\nBlack&#x27;s pieces reach an ideal arrangement: the bishop gains a strong diagonal, the knight transfers through active squares, and the rooks use the open file. White&#x27;s nominal d5 control cannot answer threats elsewhere. This is the counterexample to Tiviakov-Anand: the same c4 bind is healthy for White only if Black&#x27;s queenside break is stopped.",
+    "keyIdeas": [
+      "Answer the c4 bind with timely ...b5 and an open b-file.",
+      "Control of d5 can be bypassed through dark-square play and flank targets.",
+      "The c4-pawn may leave b3 vulnerable after the file opens.",
+      "Ideal piece placement can outweigh the opponent&#x27;s protected outpost."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-najdorf-ii-c4-contrast",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Tiviakov-Anand and Bologan-Topalov on PDF 164-170. In both c4 structures, track ...b5, a4, the b-file, the d5 knight, Black&#x27;s bishop and the b3 target.",
+        "successCheck": "Explain why White&#x27;s bind becomes permanent in one game while Black&#x27;s queenside counterplay succeeds in the other.",
+        "playReminders": [
+          "Which side wins the pawn-break race if forcing moves are counted first?",
+          "What must be removed before ...d5 or a knight on d5 works?",
+          "Is White&#x27;s extra pawn on c4, f5, or neither?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-ii-almasi-aagaard",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Almasi-Aagaard: the f5 attack and the difficult ending; pp. 169-175; PDF 170-176",
+    "title": "Almasi-Aagaard: the f5 attack and the difficult ending",
+    "tags": [
+      "najdorf-type-ii",
+      "attacking-prerequisites",
+      "favorable-exchanges",
+      "converting-advantages",
+      "two-weaknesses"
+    ],
+    "note": "With pawns on f5 and firm control of d5, White has strong kingside prospects. The bishop on the a2-g8 diagonal, g4-g5 and the restricted f6-knight create a serious attack. Black&#x27;s queenside play is too slow because White&#x27;s space and d5 control keep the pieces tied down.\n\nWhite later declines forcing attacking continuations and chooses a superior endgame. That decision is defensible but gives Black practical saving chances, and the source analyzes several drawing resources. Black nearly holds before a late miscalculation allows White to create a second front and win.\n\nThe two phases teach different skills. The middlegame requires comparing forcing attack with favorable simplification. The ending requires patient expansion without releasing the defender. A large positional edge does not remove the need for precision.",
+    "keyIdeas": [
+      "The f5-pawn, d5 control and bishop diagonal combine into a kingside attack.",
+      "Compare a forcing continuation with a favorable but technically difficult ending.",
+      "Do not assume a superior endgame converts itself.",
+      "Create a second front only after the defender&#x27;s counterplay is contained."
+    ],
+    "activities": [
+      {
+        "id": "study-attacking-prerequisites-najdorf-ii-f5-attack",
+        "concept": "Attacking prerequisites",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study the attacking phase of Almasi-Aagaard on PDF 170-173. List the f5 pawn, d5 control, bishop diagonal, g4-g5 route and Black&#x27;s queenside timing before comparing the forcing attack with simplification.",
+        "successCheck": "Choose between the attack and ending with a concrete reason, then compare with the source continuation.",
+        "playReminders": [
+          "What in the position makes this attack work?"
+        ]
+      },
+      {
+        "id": "study-converting-advantages-najdorf-ii-f5-ending",
+        "concept": "Converting advantages",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Study the endgame phase on PDF 173-176. Identify Black&#x27;s drawing setup, White&#x27;s second-front plan and the late defensive error that changes the result.",
+        "successCheck": "Explain why the large middlegame advantage still requires a separate endgame conversion method.",
+        "playReminders": [
+          "What is my advantage, and what is the defender&#x27;s most active resource?",
+          "Which piece can improve before I force the issue?",
+          "Can I create a separate second weakness without releasing counterplay?"
+        ]
+      },
+      {
+        "id": "study-pawn-breaks-najdorf-ii-f5-reply",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Jobava-Nisipeanu on PDF 176-178 with the Almasi attack. Track Black&#x27;s b7 bishop, White&#x27;s f3 bishop, preparation of ...d5, and the follow-up ...e4.",
+        "successCheck": "Explain why Black&#x27;s central break is timely here and too slow in the successful White attack.",
+        "playReminders": [
+          "Which side wins the pawn-break race if forcing moves are counted first?",
+          "What must be removed before ...d5 or a knight on d5 works?",
+          "Is White&#x27;s extra pawn on c4, f5, or neither?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-najdorf-ii-jobava-nisipeanu",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Jobava-Nisipeanu: ...d5 and ...e4 against the f5 structure; pp. 175-177; PDF 176-178",
+    "title": "Jobava-Nisipeanu: ...d5 and ...e4 against the f5 structure",
+    "tags": [
+      "najdorf-type-ii",
+      "pawn-breaks",
+      "good-and-bad-bishops",
+      "piece-activity",
+      "forcing-moves"
+    ],
+    "note": "Black&#x27;s pieces are ideally placed to meet the f5 structure. The bishop on b7 is active, White&#x27;s bishop on f3 is comparatively restricted, and Black prepares ...d6-d5 before White can organize g4-g5. When the center opens, ...e5-e4 gains time and releases the remaining pieces.\n\nWhite reacts inaccurately and tries to recover the d5-pawn rather than address the active threats. Black&#x27;s break, bishop and rook coordination then produce a direct tactical win. The source limits the thematic sequence: ...d5 followed by ...e4 is strong after White has committed f3-f4-f5 and when Black&#x27;s pieces are already ready, not as an automatic recipe.",
+    "keyIdeas": [
+      "Prepare ...d5 with the bishop, rook and central pieces already active.",
+      "After the break, ...e5-e4 can gain time against the f5 setup.",
+      "Do not recover a pawn while the opponent&#x27;s opened lines create stronger threats.",
+      "The theme works because of exact piece placement and White&#x27;s committed pawn chain."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-najdorf-ii-f5-reply",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Jobava-Nisipeanu on PDF 176-178 with the Almasi attack. Track Black&#x27;s b7 bishop, White&#x27;s f3 bishop, preparation of ...d5, and the follow-up ...e4.",
+        "successCheck": "Explain why Black&#x27;s central break is timely here and too slow in the successful White attack.",
+        "playReminders": [
+          "Which side wins the pawn-break race if forcing moves are counted first?",
+          "What must be removed before ...d5 or a knight on d5 works?",
+          "Is White&#x27;s extra pawn on c4, f5, or neither?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
