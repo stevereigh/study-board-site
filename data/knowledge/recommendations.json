@@ -680,6 +680,69 @@
       "crossrefIds": [
         "converting-advantages--silman-lucena-bridge"
       ]
+    },
+    {
+      "id": "study-rook-endings-recognize-philidor",
+      "crossrefIds": [
+        "rook-endings--silman-philidor-recognition",
+        "rook-endings--silman-lucena-start"
+      ]
+    },
+    {
+      "id": "study-rook-endings-rook-transfer",
+      "crossrefIds": [
+        "rook-endings--silman-passive-rook-loss"
+      ]
+    },
+    {
+      "id": "study-rook-endings-edge-comparison",
+      "crossrefIds": [
+        "rook-endings--silman-passive-rook-edge"
+      ]
+    },
+    {
+      "id": "study-rook-endings-rank-defense",
+      "crossrefIds": [
+        "rook-endings--silman-philidor-barrier"
+      ]
+    },
+    {
+      "id": "study-rook-endings-checking-too-soon",
+      "crossrefIds": [
+        "rook-endings--silman-philidor-barrier"
+      ]
+    },
+    {
+      "id": "study-rook-endings-switch-to-checks",
+      "crossrefIds": [
+        "rook-endings--silman-philidor-checking"
+      ]
+    },
+    {
+      "id": "study-favorable-exchanges-philidor-trade",
+      "crossrefIds": [
+        "favorable-exchanges--silman-philidor-checking",
+        "favorable-exchanges--silman-pawn-liquidation"
+      ]
+    },
+    {
+      "id": "study-rook-endings-offensive-cutoff",
+      "crossrefIds": [
+        "rook-endings--silman-rook-cutoff-win"
+      ]
+    },
+    {
+      "id": "study-rook-endings-defensive-cutoff",
+      "crossrefIds": [
+        "rook-endings--silman-rook-cutoff-defense"
+      ]
+    },
+    {
+      "id": "study-rook-endings-cross-book-defense",
+      "crossrefIds": [
+        "rook-endings--silman-rook-cutoff-defense",
+        "rook-endings--amateurs-rook-active-defense"
+      ]
     }
   ]
 }

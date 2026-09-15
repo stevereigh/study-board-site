@@ -1066,6 +1066,97 @@
         "section": "Rf4 selection on PDF 211, diagrams 128-129 and the Lucena conclusion; stop before Philidor",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "silman-philidor-recognition",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Recognize the Philidor defensive goal; PDF 214-215",
+      "title": "Recognize the Philidor defensive goal",
+      "locator": {
+        "pdfPageStart": 214,
+        "pdfPageEnd": 215,
+        "printedPages": null,
+        "section": "The Philidor Position introduction and diagram 130; stop before Passive Rook on PDF 215",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-passive-rook-loss",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Punish a passive rook with a transfer; PDF 215-217",
+      "title": "Punish a passive rook with a transfer",
+      "locator": {
+        "pdfPageStart": 215,
+        "pdfPageEnd": 217,
+        "printedPages": null,
+        "section": "Passive Rook, diagrams 131-132 and the line ending Rxg8 on PDF 217; stop before the knight-pawn exception",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-passive-rook-edge",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Why the pawn file changes passive defense; PDF 217-218",
+      "title": "Why the pawn file changes passive defense",
+      "locator": {
+        "pdfPageStart": 217,
+        "pdfPageEnd": 218,
+        "printedPages": null,
+        "section": "Passive Rook, diagram 133 and its knight/rook-pawn comparison; stop before Pure Philidor on PDF 218",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-philidor-barrier",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Philidor: hold the rank before checking; PDF 218-221",
+      "title": "Philidor: hold the rank before checking",
+      "locator": {
+        "pdfPageStart": 218,
+        "pdfPageEnd": 221,
+        "printedPages": null,
+        "section": "Pure Philidor heading, diagrams 134-136 and the third-rank barrier explanation; stop before 4.e6 on PDF 221",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-philidor-checking",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Switch to rear checks when the pawn advances; PDF 221-222",
+      "title": "Switch to rear checks when the pawn advances",
+      "locator": {
+        "pdfPageStart": 221,
+        "pdfPageEnd": 222,
+        "printedPages": null,
+        "section": "Pure Philidor from 4.e6 through diagram 137 and the concluding rule",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-cutoff-win",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Cut off the defending king to preserve the win; PDF 223-224",
+      "title": "Cut off the defending king to preserve the win",
+      "locator": {
+        "pdfPageStart": 223,
+        "pdfPageEnd": 224,
+        "printedPages": null,
+        "section": "Trap The Enemy King Away From the Action, diagram 138 and Rf1 explanation; stop before the defensive example",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-cutoff-defense",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Cut off the attacking king to save the position; PDF 224-225",
+      "title": "Cut off the attacking king to save the position",
+      "locator": {
+        "pdfPageStart": 224,
+        "pdfPageEnd": 225,
+        "printedPages": null,
+        "section": "Trap The Enemy King Away From the Action, diagram 139 through the subsection conclusion",
+        "ebookLocation": null
+      }
     }
   ]
 }

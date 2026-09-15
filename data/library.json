@@ -2718,6 +2718,22 @@
         "playReminders": [
           "After this exchange, what useful job will my rook have, and which pawns become passed?"
         ]
+      },
+      {
+        "id": "study-rook-endings-cross-book-defense",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Compare this cutoff with The Amateur’s Mind active-rook defense reading. For each example, name the rook’s useful job, the pawn weakness conceded or defended, and the opponent’s intended king route.",
+        "successCheck": "Explain two concrete forms of active defense without assuming activity compensates for every material loss.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
       }
     ]
   },
@@ -3218,6 +3234,20 @@
         "playReminders": [
           "Who benefits from the pieces that will remain?"
         ]
+      },
+      {
+        "id": "study-favorable-exchanges-philidor-trade",
+        "concept": "Favorable exchanges",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "From diagram 137, follow Ra4 Rd1+ and examine Rd4. Before exchanging, state the resulting pawn square, king squares and side to move; replay the source continuation.",
+        "successCheck": "Reach the stated stalemate and justify the rook trade using the resulting pawn ending.",
+        "playReminders": [
+          "Who benefits from the pieces that will remain?"
+        ]
       }
     ]
   },
@@ -3355,6 +3385,22 @@
           "After this exchange, what useful job will my rook have, and which pawns become passed?",
           "Can my king leave cover while keeping the pawn safe and blocking the next checks?"
         ]
+      },
+      {
+        "id": "study-rook-endings-recognize-philidor",
+        "concept": "Rook endings",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 214-215 and set diagram 130: White Kd5, Pe5, Rg8; Black Ke7, Rh7; Black to move. Compare its pawn rank and king access with the earlier Lucena position.",
+        "successCheck": "Name the drawing resources and explain why the extra pawn does not establish a win.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
       }
     ]
   },
@@ -3441,6 +3487,304 @@
         "successCheck": "Explain the purpose of the quiet rook move and show how the final interposition answers the defender’s checks.",
         "playReminders": [
           "What preparation makes the winning operation work, and what counterplay is available?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-philidor-recognition",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Recognize the Philidor defensive goal; PDF 214-215",
+    "title": "Recognize the Philidor defensive goal",
+    "tags": [
+      "rook-endings",
+      "philidor",
+      "defense"
+    ],
+    "note": "A pawn advantage, an advanced king and an active-looking rook do not by themselves establish a winning rook ending. Silman introduces Philidor with a position in which the defender still has the resources to prevent the attacker from coordinating king and pawn. The task is to recognize that defensive arrangement and preserve it.\n\nIn the supplied example, the defending king stands in front of the pawn while the attacking king has not crossed the rank the rook can guard. The defender needs a plan for restricting king access and a clear trigger for changing the rook’s job. That combination is what makes the draw practical to execute.\n\nCompare this starting position with the earlier Lucena reading. Name the pawn rank, the attacking king’s access and the defending king’s relationship to the pawn. Treat the comparison as recognition practice before memorizing moves. The detailed method follows in Pure Philidor; the intervening passive-rook examples explain what the defender should avoid and why the pawn file can change the result.",
+    "keyIdeas": [
+      "Extra material does not settle the result.",
+      "Identify the defending king and the rank the rook can guard.",
+      "Compare the arrangement with Lucena."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-recognize-philidor",
+        "concept": "Rook endings",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 214-215 and set diagram 130: White Kd5, Pe5, Rg8; Black Ke7, Rh7; Black to move. Compare its pawn rank and king access with the earlier Lucena position.",
+        "successCheck": "Name the drawing resources and explain why the extra pawn does not establish a win.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-passive-rook-loss",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Punish a passive rook with a transfer; PDF 215-217",
+    "title": "Punish a passive rook with a transfer",
+    "tags": [
+      "rook-endings",
+      "rook-transfer",
+      "conversion"
+    ],
+    "note": "A rook confined to defending the back rank can leave the opposing king free to support a decisive attack. Silman’s first example places the pawn on d6 and the attacking king beside it. The attacker can transfer the rook to the other side of the board, creating a back-rank check that the defender cannot answer satisfactorily.\n\nThe c-pawn example uses the same idea with a concrete change of move order. The rook transfer forces the king to respond, a pawn check displaces it again, and the next rook check wins the defending rook. The lesson is to coordinate king, pawn and rook threats rather than repeat checks from an ineffective file.\n\nFor practice, identify what ties the defending rook to its rank and what the transfer threatens. Then follow the source’s c-pawn line to the actual material gain. The d-pawn passage supplies a first move and threat rather than a complete forced line; do not invent a silent opponent reply. These positions illustrate the cost of this particular passive arrangement. The next reading tests the board-edge exception, so inactivity alone should not be used as a universal verdict.",
+    "keyIdeas": [
+      "Identify the threat that ties the defender’s rook down.",
+      "Transfer to a file that creates a decisive check.",
+      "Coordinate the pawn check with the rook transfer."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-rook-transfer",
+        "concept": "Rook endings",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 215-217, diagrams 131-132. Find the rook transfer and explain its back-rank threat before following the c-pawn line.",
+        "successCheck": "Show the actual rook gain in diagram 132 and distinguish a stated threat from a complete forced line.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-passive-rook-edge",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Why the pawn file changes passive defense; PDF 217-218",
+    "title": "Why the pawn file changes passive defense",
+    "tags": [
+      "rook-endings",
+      "rook-pawns",
+      "board-edge"
+    ],
+    "note": "Moving the previous pattern toward the board edge removes space the attacking rook needs. In Silman’s b-pawn example, White cannot transfer the rook to a file beyond the a-file. The back-rank mechanism that worked against the central and bishop pawns therefore cannot be reproduced in the same way.\n\nThe demonstrated checks return the kings and rooks to a position where White has made no progress. Pushing the pawn impatiently then allows a checking tactic that turns the tables. The example should train the student to distinguish a draw that requires accurate play from permission to make arbitrary moves. The source also identifies rook-pawns as exceptions in these passive defensive arrangements.\n\nCompare diagrams 132 and 133 directly, naming the missing file and the different king escape geometry. Keep the scope precise: a knight-pawn here means a b- or g-pawn, not a pawn accompanied by a knight. These are rook-and-pawn-versus-rook positions with the defending king in front and the placement shown. Do not generalize the result to every ending containing an edge pawn, or confuse it with the earlier king-and-rook-pawn stalemate lesson.",
+    "keyIdeas": [
+      "The board edge can remove the needed rook-transfer square.",
+      "A theoretical draw still needs accurate moves.",
+      "Apply the exception to the specified defensive arrangement."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-edge-comparison",
+        "concept": "Rook endings",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 217-218, diagram 133. Compare it with diagram 132 and replay the source’s checking sequence and premature pawn push.",
+        "successCheck": "Identify the missing transfer file, explain the draw with accurate play and show why the pawn push lets Black win.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-philidor-barrier",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Philidor: hold the rank before checking; PDF 218-221",
+    "title": "Philidor: hold the rank before checking",
+    "tags": [
+      "rook-endings",
+      "philidor",
+      "restriction"
+    ],
+    "note": "The basic Philidor method begins by denying the attacking king entry to the rank in front of its pawn. In the supplied position, Black plays Rh6 and keeps the rook guarding White’s sixth rank, which is Black’s third rank. This is why the same method is called third-rank defense. White cannot bring the king forward while that barrier is intact.\n\nThe defender can wait with the rook while retaining the king in front of the pawn. Checking from behind too soon gives the attacker a chance to advance the king and use the pawn as shelter. The resulting diagram 135 is still a theoretical draw, as the source explicitly acknowledges, but its advanced defensive method is outside this passage. The two natural checking attempts shown there lose.\n\nThere is also a qualification to the source’s warning about Rf7 followed by Ra8: exact checks retain a draw, with resources such as a later Rf1. Treat that as a less direct route, not an immediate losing blunder. For this lesson, learn the straightforward rank barrier and explain the future trigger for abandoning it. The goal is a reliable defensive procedure with correctly stated outcomes.",
+    "keyIdeas": [
+      "Guard White’s sixth rank, Black’s third rank.",
+      "Wait while the pawn still offers shelter to the king.",
+      "Distinguish harder defense from a lost position."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-rank-defense",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 218-221. From diagram 134, choose the move that blocks White’s king from the sixth rank. Practise the waiting sequence to diagram 136 and explain when it must change.",
+        "successCheck": "Demonstrate Rh6 and the continuing rank barrier, correctly identifying White’s sixth rank as Black’s third.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
+      },
+      {
+        "id": "study-rook-endings-checking-too-soon",
+        "concept": "Rook endings",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Compare diagram 135 with the intended barrier in diagram 136. Follow the two natural checks that fail in 135; read the qualification that the starting position still draws with a more advanced method.",
+        "successCheck": "Explain how the pawn shelters White’s king and distinguish the still-drawn position from the two losing checking moves.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-philidor-checking",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Switch to rear checks when the pawn advances; PDF 221-222",
+    "title": "Switch to rear checks when the pawn advances",
+    "tags": [
+      "rook-endings",
+      "philidor",
+      "favorable-exchanges"
+    ],
+    "note": "The pawn advance changes the defensive task. Once White pushes to e6 in the source example, the defending rook moves away from the guarded rank and prepares long-range checks from behind. The attacker has used the pawn move that previously could have sheltered the king, so the rook can now disrupt attempts to bring that king forward.\n\nThis is a timed change of method. Continuing to wait on the old rank would ignore the newly available king entry, while leaving too early would allow the attacking king to retain pawn cover. Ask what changed on the board before deciding whether the rook should restrict or check. The pawn’s rank and the king’s available shelter explain the switch.\n\nThe source also examines blocking a check with the attacking rook. A rook exchange then leads to a familiar drawn king-and-pawn ending, ending in stalemate in the displayed line. That connects this defense to the previous pawn-ending package: a trade is safe because of the precise position left behind. Practice the complete sequence, then repeat from the moment of the pawn push so the trigger becomes recognizable without replaying the whole lesson from memory.",
+    "keyIdeas": [
+      "The pawn push is the trigger for switching methods.",
+      "Check from a distance when the king lacks pawn shelter.",
+      "Verify the pawn ending before exchanging rooks."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-switch-to-checks",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 221-222. From diagram 136, follow e6 and choose Black’s rook response. Continue from diagram 137 against both Kd6 and Ra4.",
+        "successCheck": "Switch to rear checks at the pawn push and explain why the king no longer has the same pawn shelter.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
+      },
+      {
+        "id": "study-favorable-exchanges-philidor-trade",
+        "concept": "Favorable exchanges",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "From diagram 137, follow Ra4 Rd1+ and examine Rd4. Before exchanging, state the resulting pawn square, king squares and side to move; replay the source continuation.",
+        "successCheck": "Reach the stated stalemate and justify the rook trade using the resulting pawn ending.",
+        "playReminders": [
+          "Who benefits from the pieces that will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-cutoff-win",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Cut off the defending king to preserve the win; PDF 223-224",
+    "title": "Cut off the defending king to preserve the win",
+    "tags": [
+      "rook-endings",
+      "king-activity",
+      "conversion"
+    ],
+    "note": "Keeping the opposing king away from the pawn can be more effective than giving another check. In Silman’s winning example the extra pawn is not yet close to promotion, but the defending king is too far away to help. The attacker’s rook can establish a file barrier that prevents it from reaching the front of the pawn and creating a Philidor defense.\n\nThe move Rf1 gives the rook a continuing job: exclude the king while White’s king and pawn make progress. If Black contests the file by offering a rook exchange, the resulting pawn ending is won for White. The source’s short exchange line illustrates why the defender cannot simply remove the barrier without considering what remains.\n\nCompare this with Lucena’s earlier king cutoff. The pawn is less advanced here, but the purpose is the same: deny the defending king a useful route to the decisive area. Before transferring the rook, identify the file that must stay controlled and check whether a rook trade helps or hurts. The passage gives a conversion plan and a selected exchange comparison; it is not a complete forced promotion sequence against every legal defense.",
+    "keyIdeas": [
+      "Deny the defending king a route in front of the pawn.",
+      "Use a file barrier to support king-and-pawn progress.",
+      "Check the pawn ending if the defender offers a rook trade."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-offensive-cutoff",
+        "concept": "Rook endings",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 223-224, diagram 138. Identify the king route Black wants and choose White’s rook barrier. Examine the offered rook exchange, including the recapture.",
+        "successCheck": "Show why Rf1 prevents the defending king from joining and explain the winning pawn ending after the exchange.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-cutoff-defense",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Cut off the attacking king to save the position; PDF 224-225",
+    "title": "Cut off the attacking king to save the position",
+    "tags": [
+      "rook-endings",
+      "king-activity",
+      "defense"
+    ],
+    "note": "A king cutoff can also defend a weakness. In Silman’s final example, White wants to bring the king toward the d5-pawn and combine its attack with the rook. If White moves first, the source demonstrates that route and the capture of the pawn. With Black to move, the rook can occupy the c-file and prevent the king from joining the attack.\n\nThe rook then creates pressure against White’s f-pawn while preserving the file barrier. Activity and restriction work together: the defender is not merely checking whenever possible, nor passively protecting d5. The useful rook move changes the attacking king’s access and gives the opponent another problem to address.\n\nPractice both turn assignments, naming the king entry square before selecting a rook move. In the defensive line, explain why the rook returns along the c-file rather than abandoning its main responsibility. This is a nine-piece practical ending, so its source win/draw judgments are supported here by legal replay and finite-depth engine checks, not by the exact tablebase evidence used for the smaller examples. The lesson is the demonstrated mechanism and its conditions, not a universal rule that cutting off a king always draws.",
+    "keyIdeas": [
+      "Identify the king route that makes the pawn vulnerable.",
+      "Combine a file barrier with pressure on another pawn.",
+      "Keep the rook’s main defensive responsibility in view."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-defensive-cutoff",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 224-225, diagram 139. Compare both turns. Follow Black’s Rc8, the pressure against f2 and the rook’s return along the c-file.",
+        "successCheck": "Explain the prevented Kc5 route and how counterpressure supports the cutoff; treat the source result as a practical example rather than a tablebase proof.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
+      },
+      {
+        "id": "study-rook-endings-cross-book-defense",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Compare this cutoff with The Amateur’s Mind active-rook defense reading. For each example, name the rook’s useful job, the pawn weakness conceded or defended, and the opponent’s intended king route.",
+        "successCheck": "Explain two concrete forms of active defense without assuming activity compensates for every material loss.",
+        "playReminders": [
+          "What job does my rook need now: restrict, check, shelter or counterattack?",
+          "Has the pawn advanced enough that its king can no longer use it as cover?"
         ]
       }
     ]

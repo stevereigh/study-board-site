@@ -1771,6 +1771,138 @@
         "section": "Lucena heading, diagram 125 and Rf2+ explanation through diagram 126; response and choices continue on PDF 210",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "rook-endings--silman-philidor-recognition",
+      "chapterId": "silman-philidor-recognition",
+      "locator": {
+        "pdfPageStart": 214,
+        "pdfPageEnd": 215,
+        "printedPages": null,
+        "section": "The Philidor Position introduction and diagram 130; stop before Passive Rook on PDF 215",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-passive-rook-loss",
+      "chapterId": "silman-passive-rook-loss",
+      "locator": {
+        "pdfPageStart": 215,
+        "pdfPageEnd": 217,
+        "printedPages": null,
+        "section": "Passive Rook, diagrams 131-132 and the line ending Rxg8 on PDF 217; stop before the knight-pawn exception",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-passive-rook-edge",
+      "chapterId": "silman-passive-rook-edge",
+      "locator": {
+        "pdfPageStart": 217,
+        "pdfPageEnd": 218,
+        "printedPages": null,
+        "section": "Passive Rook, diagram 133 and its knight/rook-pawn comparison; stop before Pure Philidor on PDF 218",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-philidor-barrier",
+      "chapterId": "silman-philidor-barrier",
+      "locator": {
+        "pdfPageStart": 218,
+        "pdfPageEnd": 221,
+        "printedPages": null,
+        "section": "Pure Philidor heading, diagrams 134-136 and the third-rank barrier explanation; stop before 4.e6 on PDF 221",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-philidor-checking",
+      "chapterId": "silman-philidor-checking",
+      "locator": {
+        "pdfPageStart": 221,
+        "pdfPageEnd": 222,
+        "printedPages": null,
+        "section": "Pure Philidor from 4.e6 through diagram 137 and the concluding rule",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-rook-cutoff-win",
+      "chapterId": "silman-rook-cutoff-win",
+      "locator": {
+        "pdfPageStart": 223,
+        "pdfPageEnd": 224,
+        "printedPages": null,
+        "section": "Trap The Enemy King Away From the Action, diagram 138 and Rf1 explanation; stop before the defensive example",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-rook-cutoff-defense",
+      "chapterId": "silman-rook-cutoff-defense",
+      "locator": {
+        "pdfPageStart": 224,
+        "pdfPageEnd": 225,
+        "printedPages": null,
+        "section": "Trap The Enemy King Away From the Action, diagram 139 through the subsection conclusion",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-passive-rook-edge",
+      "chapterId": "silman-passive-rook-edge",
+      "locator": {
+        "pdfPageStart": 217,
+        "pdfPageEnd": 218,
+        "printedPages": null,
+        "section": "Passive Rook, diagram 133 and its knight/rook-pawn comparison; stop before Pure Philidor on PDF 218",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-rook-cutoff-win",
+      "chapterId": "silman-rook-cutoff-win",
+      "locator": {
+        "pdfPageStart": 223,
+        "pdfPageEnd": 224,
+        "printedPages": null,
+        "section": "Trap The Enemy King Away From the Action, diagram 138 and Rf1 explanation; stop before the defensive example",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-rook-cutoff-defense",
+      "chapterId": "silman-rook-cutoff-defense",
+      "locator": {
+        "pdfPageStart": 224,
+        "pdfPageEnd": 225,
+        "printedPages": null,
+        "section": "Trap The Enemy King Away From the Action, diagram 139 through the subsection conclusion",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--silman-philidor-checking",
+      "chapterId": "silman-philidor-checking",
+      "locator": {
+        "pdfPageStart": 221,
+        "pdfPageEnd": 222,
+        "printedPages": null,
+        "section": "Pure Philidor from 4.e6 through diagram 137 and the concluding rule",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--silman-philidor-barrier",
+      "chapterId": "silman-philidor-barrier",
+      "locator": {
+        "pdfPageStart": 218,
+        "pdfPageEnd": 221,
+        "printedPages": null,
+        "section": "Pure Philidor heading, diagrams 134-136 and the third-rank barrier explanation; stop before 4.e6 on PDF 221",
+        "ebookLocation": null
+      }
     }
   ]
 }
