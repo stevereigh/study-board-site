@@ -824,6 +824,120 @@
         "good-and-bad-bishops--flores-isolani-bishop-absent",
         "good-and-bad-bishops--flores-isolani-bishop-present"
       ]
+    },
+    {
+      "id": "study-hanging-pawns-origin-and-transform",
+      "crossrefIds": [
+        "hanging-pawns--nimzowitsch-hanging-pawns"
+      ]
+    },
+    {
+      "id": "study-hanging-pawns-six-game-matrix",
+      "crossrefIds": [
+        "hanging-pawns--flores-hanging-pawns"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-break-comparison",
+      "crossrefIds": [
+        "pawn-breaks--flores-hanging-pawns"
+      ]
+    },
+    {
+      "id": "study-minority-attack-carlsbad-decision",
+      "crossrefIds": [
+        "minority-attack--flores-carlsbad-complete"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-carlsbad-transform",
+      "crossrefIds": [
+        "pawn-breaks--flores-carlsbad-complete"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-six-elements",
+      "crossrefIds": [
+        "converting-advantages--nimzowitsch-endgame-elements"
+      ]
+    },
+    {
+      "id": "study-favorable-exchanges-three-transitions",
+      "crossrefIds": [
+        "favorable-exchanges--shereshevsky-exchanging"
+      ]
+    },
+    {
+      "id": "study-schematic-thinking-scheme-and-counter",
+      "crossrefIds": [
+        "schematic-thinking--shereshevsky-schematic-thinking-complete"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-capablanca-loop",
+      "crossrefIds": [
+        "converting-advantages--silman-capablanca-clarity"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-patience-boundary",
+      "crossrefIds": [
+        "converting-advantages--shereshevsky-do-not-hurry"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-alternate-fronts",
+      "crossrefIds": [
+        "converting-advantages--shereshevsky-two-weaknesses"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-patient-not-careless",
+      "crossrefIds": [
+        "converting-advantages--silman-cat-and-mouse"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-five-created-targets",
+      "crossrefIds": [
+        "converting-advantages--silman-two-weaknesses"
+      ]
+    },
+    {
+      "id": "study-pawn-majorities-collective-mobility",
+      "crossrefIds": [
+        "pawn-majorities--nimzowitsch-collective-pawn-mobility"
+      ]
+    },
+    {
+      "id": "study-pawn-majorities-qualitative-majority",
+      "crossrefIds": [
+        "pawn-majorities--nimzowitsch-restraining-majorities"
+      ]
+    },
+    {
+      "id": "study-pawn-majorities-pawn-race-value",
+      "crossrefIds": [
+        "pawn-majorities--shereshevsky-role-of-pawns"
+      ]
+    },
+    {
+      "id": "study-pawn-majorities-three-versus-two",
+      "crossrefIds": [
+        "pawn-majorities--shereshevsky-queenside-majority"
+      ]
+    },
+    {
+      "id": "study-pawn-majorities-competing-wings",
+      "crossrefIds": [
+        "pawn-majorities--flores-three-versus-two-majority"
+      ]
+    },
+    {
+      "id": "study-pawn-majorities-formula-check",
+      "crossrefIds": [
+        "pawn-majorities--kotov-ending-formula"
+      ]
     }
   ]
 }

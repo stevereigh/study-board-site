@@ -1404,6 +1404,159 @@
     ]
   },
   {
+    "chapterId": "flores-hanging-pawns",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Hanging Pawns: complete chapter; pp. 36-50; PDF 37-51",
+    "title": "Hanging Pawns: complete chapter",
+    "tags": [
+      "hanging-pawns",
+      "pawn-breaks",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "Flores Rios begins with plans for both sides. The hanging-pawn owner commonly seeks a kingside initiative or the central advance d4-d5, which may open attacking lines or create a passed pawn. The opponent seeks exchanges, pressure against the central pawns, and a blockade that makes c4 and d4 fixed targets. The breaks ...b6-b5 or ...e6-e5 can challenge the center, but their preparation matters because the advanced pawns may create new holes.\n\nThe six games show several transformations. A successful d4-d5 can exploit the bishop pair and open lines against the king; it can also create a protected passer. After exchanges on e5, the structure may turn into an isolani, so the new weak pawn and the activity gained in return must be evaluated together. Defensive examples show that allowing the pawns to become blocked from the opening can produce a long squeeze, while b3-b4 can undermine the chain and create access to d4.\n\nThe chapter repeatedly ties structural plans to tactics. A strategically desirable break can fail if a piece is loose, while a well-coordinated attack can punish a defender who focuses only on the pawns. Before choosing a plan, locate the blockading squares, compare piece activity, and calculate the immediate consequences of the central or flank break.",
+    "keyIdeas": [
+      "The pawn side uses activity, a kingside initiative, and a prepared d4-d5 break.",
+      "The defender seeks exchanges, blockades, and pressure against fixed central pawns.",
+      "Central exchanges may transform hanging pawns into an isolani or passed pawn.",
+      "Typical plans work only when the pieces and tactics support them."
+    ],
+    "activities": [
+      {
+        "id": "study-hanging-pawns-six-game-matrix",
+        "concept": "Hanging pawns",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Read the overview and final remarks for all six games in Chapter 2. Make columns for d4-d5, blocked center, b3-b4, and transformation to an isolani.",
+        "successCheck": "Place every game in a column and state the piece-placement condition that made its plan work or fail.",
+        "playReminders": [
+          "Which pawn break is available, and what lines does it open?",
+          "Can I blockade both pawns without conceding activity elsewhere?",
+          "What structure remains after the central exchange?"
+        ]
+      },
+      {
+        "id": "study-pawn-breaks-break-comparison",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare the chapter&#x27;s central d4-d5 examples with Bachmann-Cornejo&#x27;s b3-b4 plan. Predict the opened line and resulting weak square before reading each continuation.",
+        "successCheck": "Correctly name the structural change and the piece that uses it in both cases.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece benefits after this pawn break?",
+          "Does the opponent have a stronger counterbreak?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-carlsbad-complete",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "The Carlsbad Formation: complete chapter; pp. 86-102; PDF 87-103",
+    "title": "The Carlsbad Formation: complete chapter",
+    "tags": [
+      "carlsbad",
+      "minority-attack",
+      "pawn-breaks",
+      "pawn-structures"
+    ],
+    "note": "The Carlsbad structure gives White two main strategic choices. The minority attack b2-b4-b5 seeks a queenside pawn weakness, usually on c6 or after an exchange on b5. A central plan with f2-f3 and e3-e4 seeks space and active lines. The choice depends on piece placement and Black&#x27;s queenside arrangement; it is not an opening-memory decision.\n\nBlack commonly seeks kingside play or a queenside expansion with ...b7-b6 and ...c6-c5. The games show why the dark-squared bishop matters. When it remains locked inside White&#x27;s pawn chain, Black can take over key central squares and generate an attack. When it reaches an active diagonal, it supports the minority attack or the e3-e4 break. Black can blunt the minority attack with accurate piece maneuvers, a timely ...a7-a6 setup, or counterplay that makes White&#x27;s slow queenside operation too costly.\n\nThe chapter&#x27;s most useful discipline is to test the break against the actual pawn skeleton. If Black&#x27;s pawns stand on a7-b6-c7, b4-b5 may not create the expected c6 target. If the minority attack is neutralized, White may need to switch to e3-e4. Conversely, a premature central break can leave White with a weak isolani and inactive pieces. Plan, prepare, and reassess after each structural change.",
+    "keyIdeas": [
+      "Choose between the minority attack and e3-e4 from the piece placement and pawn arrangement.",
+      "An active dark-squared bishop often determines whether White&#x27;s plan has force.",
+      "Black seeks accurate queenside restraint or timely kingside and central counterplay.",
+      "Reassess when a break transforms the structure into hanging pawns or an isolani."
+    ],
+    "activities": [
+      {
+        "id": "study-minority-attack-carlsbad-decision",
+        "concept": "Minority attack",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Open files"
+        ],
+        "instructions": "Read the Chapter 5 overview, Milos-Dublan, Onischuk-Dominguez, and Carlsen-Anand. For each position choose b4-b5 or e3-e4 and give one reason.",
+        "successCheck": "Match the plan to Black&#x27;s pawn arrangement and explain the role of White&#x27;s dark-squared bishop.",
+        "playReminders": [
+          "Which pawn becomes weak after the exchange, and how will I attack it?",
+          "Does this pawn skeleton actually permit the standard minority attack?"
+        ]
+      },
+      {
+        "id": "study-pawn-breaks-carlsbad-transform",
+        "concept": "Pawn breaks",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Trace one Carlsbad game into hanging pawns and another into an isolani. Stop immediately after the transformation and reassess both sides&#x27; plans.",
+        "successCheck": "Name the new structure, its available break, and one piece whose job changed.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece benefits after this pawn break?",
+          "Does the opponent have a stronger counterbreak?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-three-versus-two-majority",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "The 3-3 versus 4-2 structure; pp. 400-402; PDF 401-403",
+    "title": "The 3-3 versus 4-2 structure",
+    "tags": [
+      "pawn-majorities",
+      "minority-attack",
+      "open-files",
+      "good-and-bad-bishops"
+    ],
+    "note": "Flores Rios studies a common open structure in which one side has a four-against-three queenside group while the other has a kingside majority. Because the center is relatively open, the bishop pair and active pieces often matter greatly. Both sides commonly seek queenside play: control of the d-file, seventh-rank entry, and a prepared pawn advance.\n\nThe side with the queenside majority aims to create a passed pawn. The opposing side may use a minority attack with ...a7-a5 and ...b7-b5-b4 to eliminate the other queenside pawns and reach an ending where the kingside majority becomes relevant. The model game shows Black preparing that expansion while White needs a timely central break to avoid being squeezed. Once White remains passive, the minority attack leaves a fixed queenside weakness and Black can simplify.\n\nThis is a compact chapter section, and its lesson is comparative. Identify which majority can actually move, which file the rooks can occupy, and whether the bishop pair gains power from the open board. Avoid launching a kingside pawn storm merely because that side has more pawns; exposing the king can be slower and more dangerous than the queenside plan already available.",
+    "keyIdeas": [
+      "Compare the mobility of both wing majorities before choosing a side of play.",
+      "The d-file and seventh rank can be more urgent than creating a passer immediately.",
+      "A minority attack can eliminate the opponent&#x27;s queenside majority.",
+      "Open positions increase the importance of bishops and active pieces."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-majorities-competing-wings",
+        "concept": "Pawn majorities",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn breaks",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 401-403. Draw the 3-3 versus 4-2 skeleton and mark both sides&#x27; intended pawn advances and rook file.",
+        "successCheck": "Explain how the minority attack can eliminate the larger group and why an immediate kingside attack may be too slow.",
+        "playReminders": [
+          "Can this majority create a passer before the opponent becomes active?",
+          "Which king, rook, or minor piece supports or blocks the advance?",
+          "Would a minority attack neutralize the larger group?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
@@ -1544,6 +1697,45 @@
         "successCheck": "Name one avoidable source of wasted time and one decision that deserved more attention.",
         "playReminders": [
           "Use my own pace; check what changed before continuing."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-ending-formula",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "The Ending: four practical formulas; pp. 131; PDF 130-130",
+    "title": "The Ending: four practical formulas",
+    "tags": [
+      "endgame-evaluation",
+      "pawn-majorities",
+      "opposite-colored-bishops",
+      "king-activity"
+    ],
+    "note": "Kotov&#x27;s short formula section warns against evaluating an ending from a single feature. A pawn majority has no independent value unless the individual pawns can move and the pieces and kings support them. Opposite-colored bishops may behave as if the attacker has an extra attacking piece because the defending bishop cannot contest the same squares, yet material gain may still be difficult when both sides have weaknesses.\n\nHe also connects knight endings with pawn endings. King activity, passed pawns, tempo and zugzwang often decide them, so a player should calculate the pawn geometry rather than assume the knight guarantees complexity. These are prompts for analysis, not verdicts that replace it.\n\nThe section is deliberately concise. Use its formulas to generate questions: Can the majority create a passer? Which side can attack squares the opposing bishop cannot cover? Can a king gain a tempo? What counterweakness prevents conversion? The answers must come from the actual board. This record does not claim coverage of the following general-formula discussion or the book&#x27;s broader ending material.",
+    "keyIdeas": [
+      "A pawn majority matters through mobility, piece placement, and the passer it can create.",
+      "Opposite-colored bishops change which squares each side can attack and defend.",
+      "Knight endings often require pawn-ending calculations of king routes and tempi."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-majorities-formula-check",
+        "concept": "Pawn majorities",
+        "minutes": 10,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn breaks",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Turn Kotov&#x27;s four ending formulas on PDF 130 into questions, then apply them to one recent ending.",
+        "successCheck": "Reject at least one formula that the concrete position does not support and explain why.",
+        "playReminders": [
+          "Can this majority create a passer before the opponent becomes active?",
+          "Which king, rook, or minor piece supports or blocks the advance?",
+          "Would a minority attack neutralize the larger group?"
         ]
       }
     ]
@@ -2425,6 +2617,45 @@
     ]
   },
   {
+    "chapterId": "nimzowitsch-hanging-pawns",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "The isolated pawn couple and hanging pawns; pp. 213-227; PDF 235-249",
+    "title": "The isolated pawn couple and hanging pawns",
+    "tags": [
+      "hanging-pawns",
+      "isolated-pawns",
+      "pawn-breaks",
+      "restriction"
+    ],
+    "note": "Nimzowitsch treats hanging pawns as a mobile but unstable stage in the life of an isolated-pawn structure. A neighboring pawn can join an isolani to make an isolated pawn couple; an advance can then create the familiar adjacent pawns on open files. Their static weakness and dynamic strength are both partly hidden, because the position can change character with either pawn advance.\n\nA blockader may be tempted by what the author calls the security of a fixed position. That security can be expensive if several pieces must maintain it while the pawn side keeps active pieces and a timely advance. Conversely, the pawn side should not advance merely to escape a blockade: the break must open useful lines or sustain the initiative, because it may leave a fresh isolani or exposed squares behind.\n\nThe practical decision is therefore about timing and piece coordination. Compare the cost of maintaining the blockade with the concrete threats created by c4-c5, d4-d5, or their reversed-color equivalents. Hanging pawns are transitional. Preserve their mobility while it supports real activity; trade or restrain them when the resulting static targets can be attacked without conceding counterplay.",
+    "keyIdeas": [
+      "Hanging pawns combine concealed mobility with potential static targets.",
+      "A pawn advance is useful only when the opened lines and initiative justify the transformation.",
+      "Measure the cost of maintaining a blockade as well as the cost of allowing the break."
+    ],
+    "activities": [
+      {
+        "id": "study-hanging-pawns-origin-and-transform",
+        "concept": "Hanging pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Read printed 220-227 / PDF 242-249. Draw the isolated pawn couple and the hanging-pawn structure, then show how one advance transforms each.",
+        "successCheck": "Explain the dynamic benefit and static cost of both transformations, including the cost of a rigid blockade.",
+        "playReminders": [
+          "Which pawn break is available, and what lines does it open?",
+          "Can I blockade both pawns without conceding activity elsewhere?",
+          "What structure remains after the central exchange?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nimzovich-seventh-rank-conversion",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
@@ -2456,6 +2687,123 @@
         "successCheck": "Describe the intended final arrangement and one concrete defensive resource; distinguish the printed route from a unique solution.",
         "playReminders": [
           "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzowitsch-endgame-elements",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "The elements of endgame strategy; pp. 91-103; PDF 114-126",
+    "title": "The elements of endgame strategy",
+    "tags": [
+      "endgame-planning",
+      "king-activity",
+      "rook-endings",
+      "converting-advantages"
+    ],
+    "note": "Nimzowitsch presents the ending as the stage where positional advantages must be turned into concrete action. His recurring elements are active centralization, shelter from checks, active rook placement, cooperation among separated pieces, coordinated pawn advances, and the conversion of an abstract file or rank advantage into a specific entry point.\n\nKing centralization has two sides: activating your king and restricting the opponent&#x27;s route. Rooks and other pieces also need active posts. A rook behind a passed pawn can support its advance and still influence the rest of the board, whereas a passive defender may be tied to one task. When checks interfere with progress, pieces and pawns can form a moving shelter or bridge that lets the king approach.\n\nThe collective advance is a coordination problem. Passed pawns should remain close enough to receive support, and pieces should occupy useful squares as they become available. A nominal advantage such as control of an open file matters only when it produces an invasion, a forced concession, or a favorable pawn advance. Use these elements as a planning inventory, then calculate the order that prevents counterchecks and counterplay.",
+    "keyIdeas": [
+      "Centralize the king while restricting the opposing king.",
+      "Prefer active rook placement and build shelter from checks when needed.",
+      "Coordinate pawns and pieces so each advance creates a useful next square.",
+      "Turn file or rank control into a concrete entry point or concession."
+    ],
+    "activities": [
+      {
+        "id": "study-converting-advantages-six-elements",
+        "concept": "Converting advantages",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Read printed 91-103 / PDF 114-126 and apply the six endgame elements to one recent game position.",
+        "successCheck": "Produce a legal plan with a king route, active rook idea, countercheck shelter, pawn coordination, and concrete entry square.",
+        "playReminders": [
+          "What is my advantage, and what is the defender&#x27;s most active resource?",
+          "Which piece can improve before I force the issue?",
+          "Can I create a separate second weakness without releasing counterplay?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzowitsch-collective-pawn-mobility",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "The collective mobility of a pawn mass; pp. 168-169; PDF 190-191",
+    "title": "The collective mobility of a pawn mass",
+    "tags": [
+      "pawn-majorities",
+      "pawn-breaks",
+      "piece-activity"
+    ],
+    "note": "Nimzowitsch evaluates a pawn mass collectively. One pawn may appear backward when judged in isolation but still support the front pawns and preserve the possibility of a coordinated advance. The important question is whether the group can expand with useful piece support, not whether every pawn has equal freedom.\n\nThe example contrasts an immediate leveling advance with a prepared wing expansion. The more effective plan supports the pawn chain and develops attacking prospects before resolving the backward pawn. This does not make every pawn storm sound. Mobility is valuable when the pawns remain mutually supportive and the pieces can use the lines or squares they create.\n\nFor study, draw the pawn mass without pieces and list candidate advances. Then restore the pieces and reject advances that abandon a key pawn, close a useful line, or allow a counterbreak. The section supplies a positional principle that complements later, more concrete majority examples. It does not establish a numerical formula for comparing majorities, and the following center chapter lies outside this record.",
+    "keyIdeas": [
+      "Evaluate the mobility of the pawn group rather than each pawn separately.",
+      "A backward pawn can still support a coordinated expansion.",
+      "Prepare the advance so pieces can use the resulting lines and squares."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-majorities-collective-mobility",
+        "concept": "Pawn majorities",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn breaks",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Read printed 168-169 / PDF 190-191. Compare the immediate leveling advance with the prepared wing expansion.",
+        "successCheck": "Explain why a backward pawn can still help the group and which pieces support the preferred plan.",
+        "playReminders": [
+          "Can this majority create a passer before the opponent becomes active?",
+          "Which king, rook, or minor piece supports or blocks the advance?",
+          "Would a minority attack neutralize the larger group?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzowitsch-restraining-majorities",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Restraint action against pawn majorities; pp. 205-206; PDF 227-228",
+    "title": "Restraint action against pawn majorities",
+    "tags": [
+      "pawn-majorities",
+      "restriction",
+      "pawn-breaks",
+      "center-control"
+    ],
+    "note": "A central majority may create a passed pawn, a wedge, or open lines against the king. Nimzowitsch therefore recommends restraining it before it advances too far. His model uses an open file together with more than one possible blockade point, so the defender can meet different pawn advances without relying on a single rigid piece.\n\nThe section also introduces a qualitative majority: the more advanced pawn group may have greater practical force even when the pawn count alone looks equal. Its advance can open lines sooner and cramp the opponent&#x27;s coordination. This qualitative idea must still be checked against piece activity and concrete breaks; an advanced majority can also become fixed and vulnerable.\n\nThe practical sequence is to identify the majority&#x27;s two main advances, place flexible restraining pieces, and decide which pawn must be fixed now. Do not wait until the wedge has already cut communication between the defending pieces. This passage ends before the following review of restraint methods, so the record is limited to the central-majority model and qualitative-majority definition.",
+    "keyIdeas": [
+      "Restrain a central majority before its wedge disrupts coordination.",
+      "Prepare flexible blockade points for more than one pawn advance.",
+      "Judge a majority by advancement and line-opening potential as well as pawn count."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-majorities-qualitative-majority",
+        "concept": "Pawn majorities",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn breaks",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Read printed 205-206 / PDF 227-228. Diagram the two advances of the central majority and the proposed restraint points.",
+        "successCheck": "Define a qualitative majority in your own words and show how the defender keeps both advances under control.",
+        "playReminders": [
+          "Can this majority create a passer before the opponent becomes active?",
+          "Which king, rook, or minor piece supports or blocks the advance?",
+          "Would a minority attack neutralize the larger group?"
         ]
       }
     ]
@@ -2735,6 +3083,241 @@
         "successCheck": "Explain one position where king activity matters and one where an urgent operation takes priority.",
         "playReminders": [
           "Can my king safely become useful now?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-exchanging",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "The problem of exchanging; pp. 19-40; PDF 27-48",
+    "title": "The problem of exchanging",
+    "tags": [
+      "favorable-exchanges",
+      "endgame-planning",
+      "rook-endings",
+      "converting-advantages"
+    ],
+    "note": "Shereshevsky treats an exchange as a transition into a new position, not as automatic simplification. The stronger side must evaluate the resulting king routes, pawn structure, open files, minor-piece quality, and remaining counterplay. Several examples show that trading the wrong minor piece can remove the defender&#x27;s weakness or leave the stronger side with no way to penetrate.\n\nRook exchanges demand the same care. A rook ending may be favorable because an active rook and king can attack separated pawns, but extra material alone may be insufficient. The Capablanca-Alekhine example is especially valuable because a promising conversion allows active counterplay and ends in a draw. The lesson is to compare the position after the trade with the best active defense, rather than with a passive line.\n\nThe chapter also shows exchanges used to improve structure: removing a bad bishop, inducing a backward pawn, or entering a pawn ending only when the king and tempi favor it. Before every voluntary trade, name what disappears and what replaces it. If the answer is only &#x27;fewer pieces,&#x27; the evaluation is incomplete. Calculate the destination ending far enough to identify the defender&#x27;s most active resource.",
+    "keyIdeas": [
+      "Evaluate the resulting ending before exchanging.",
+      "A trade can remove a weakness, improve a pawn structure, or surrender counterplay.",
+      "Active rook defense can overturn a material-based expectation.",
+      "King routes and tempi decide whether a pawn-ending transition works."
+    ],
+    "activities": [
+      {
+        "id": "study-favorable-exchanges-three-transitions",
+        "concept": "Favorable exchanges",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Choose one minor-piece exchange, one rook exchange, and one pawn-ending transition from Chapter 4. Hide the continuation and evaluate each resulting position.",
+        "successCheck": "For every exchange, identify what improves, what weakness disappears or appears, and the defender&#x27;s active resource.",
+        "playReminders": [
+          "Who benefits from the pieces that will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-schematic-thinking-complete",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Schematic thinking; pp. 55-66; PDF 63-74",
+    "title": "Schematic thinking",
+    "tags": [
+      "schematic-thinking",
+      "endgame-planning",
+      "two-weaknesses",
+      "counterplay"
+    ],
+    "note": "Schematic thinking begins with a destination: an arrangement of pieces and pawns that would realize the advantage. The route is then broken into small plans. In the Janowski-Capablanca example, Black prepares ...b5, suppresses central counterplay, improves the king and pieces, then switches wings under the principle of two weaknesses. Each move belongs to a larger arrangement.\n\nThe defensive examples prevent the method from becoming a fantasy exercise. A defender can form a scheme too: exchange an active rook, place a bishop on the best defensive diagonal, keep a knight ready for counterplay, or create a passed pawn on the opposite wing. When the pieces work together, an apparently inferior position may hold. An incorrect first move or an impatient pawn push can spoil an otherwise sound plan.\n\nA useful scheme names jobs, not merely squares. Which rook invades, which piece restrains the freeing break, where the king belongs, and what second front will stretch the defense? Then test the sequence against the opponent&#x27;s counterplan. The chapter includes difficult rook endings whose exact result still depends on calculation; the plan organizes that calculation but does not replace it.",
+    "keyIdeas": [
+      "Describe a destination arrangement and divide the route into small plans.",
+      "Give every piece a job connected to restraint, entry, or a second front.",
+      "Model the defender&#x27;s best scheme before committing the plan.",
+      "Recalculate when an exchange or pawn move changes the arrangement."
+    ],
+    "activities": [
+      {
+        "id": "study-schematic-thinking-scheme-and-counter",
+        "concept": "Schematic thinking",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Study Janowski-Capablanca and Bogoljubow-Lasker. Write the stronger side&#x27;s desired arrangement and the defender&#x27;s counter-scheme before following the annotations.",
+        "successCheck": "Assign every major piece a job and explain the move that changes the plan on the opposite wing.",
+        "playReminders": [
+          "Where should every remaining piece be, and what prevents that arrangement?",
+          "What scheme would the defender choose?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-do-not-hurry",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Do not hurry; pp. 41-54; PDF 49-62",
+    "title": "Do not hurry",
+    "tags": [
+      "patient-maneuvering",
+      "converting-advantages",
+      "counterplay",
+      "endgame-planning"
+    ],
+    "note": "&#x27;Do not hurry&#x27; applies when the defender has no useful counterplay and the stronger side can improve safely. Shereshevsky&#x27;s examples use quiet moves to improve a king, reroute a piece, fix a pawn, or disguise the intended break. The point is positional readiness, not delay for its own sake. A forcing move should be played immediately when the opportunity is temporary.\n\nSeveral examples expose the danger on both sides. A winner who rushes can release the defender, enter a drawn ending, or overlook a countercheck. A defender who remains passive too long can miss the moment for active play. In rook and opposite-colored bishop endings, one tempo can determine whether the king penetrates, whether a pawn break succeeds, or whether the defender establishes a blockade.\n\nUse a simple test before a quiet move: Is the opponent genuinely unable to improve or create a threat? What exact feature does my move improve? Will the desired break still be available? If any answer is uncertain, calculate the forcing options first. Patient maneuvering is strongest when it reduces risk while preserving every useful choice; it becomes procrastination when the position demands action now.",
+    "keyIdeas": [
+      "Improve safely only when the opponent lacks useful counterplay.",
+      "A quiet move should strengthen a concrete feature or preserve options.",
+      "Do not postpone a forcing opportunity that may disappear.",
+      "The defender should search for the moment when active play is necessary."
+    ],
+    "activities": [
+      {
+        "id": "study-converting-advantages-patience-boundary",
+        "concept": "Converting advantages",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Select three Chapter 5 moments. Decide whether the position permits a quiet improvement or requires immediate action, then compare with the source.",
+        "successCheck": "State the opponent&#x27;s counterplay and the exact feature improved or the opportunity that would disappear.",
+        "playReminders": [
+          "What is my advantage, and what is the defender&#x27;s most active resource?",
+          "Which piece can improve before I force the issue?",
+          "Can I create a separate second weakness without releasing counterplay?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-two-weaknesses",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "The principle of two weaknesses; pp. 67-79; PDF 75-87",
+    "title": "The principle of two weaknesses",
+    "tags": [
+      "two-weaknesses",
+      "converting-advantages",
+      "patient-maneuvering",
+      "piece-activity"
+    ],
+    "note": "One weakness can often be defended by concentrating pieces around it. Shereshevsky&#x27;s stronger side therefore creates a second target on the other wing or a second kind of problem, such as a weak square, exposed king, passed pawn, or restricted piece. The defender must then shuttle between duties, and the attacking side uses that loss of coordination to penetrate.\n\nThe examples show a recurring order. Improve the pieces, fix the first weakness, provoke or create the second, and only then switch the attack. An apparent opportunity may be too early if it lets the defender trade the vulnerable pawn or activate a rook. The attacking side sometimes gives up one advantage after the second weakness has become permanent, because the remaining target and entry squares are enough.\n\nNimzowitsch&#x27;s &#x27;law of alternation&#x27; is illustrated through repeated wing-to-wing maneuvers. The goal is not endless movement; each switch forces a new defensive concession. In practice, name both targets and the route between them. If all your pieces attack one pawn and the defender can hold without compromise, look for a safe pawn advance, king route, or file that creates a genuinely separate problem.",
+    "keyIdeas": [
+      "Fix the first weakness before trying to create another.",
+      "A second weakness can be a pawn, square, exposed king, passed pawn, or restricted piece.",
+      "Alternate fronts to overload the defender&#x27;s coordination.",
+      "Time the switch so the defender cannot liquidate or become active."
+    ],
+    "activities": [
+      {
+        "id": "study-converting-advantages-alternate-fronts",
+        "concept": "Converting advantages",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "For two Chapter 7 games, label the first weakness, second weakness, entry route, and switch of wing.",
+        "successCheck": "Explain why the defender could hold one target and why the second target broke coordination.",
+        "playReminders": [
+          "What is my advantage, and what is the defender&#x27;s most active resource?",
+          "Which piece can improve before I force the issue?",
+          "Can I create a separate second weakness without releasing counterplay?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-role-of-pawns",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "The role of pawns in the endgame; pp. 12-18; PDF 20-26",
+    "title": "The role of pawns in the endgame",
+    "tags": [
+      "pawn-majorities",
+      "passed-pawns",
+      "king-activity",
+      "calculation"
+    ],
+    "note": "Shereshevsky&#x27;s pawn chapter shows that endgame material must be valued through the speed and coordination of passed pawns. Several examples give up a piece or rook to create connected passers whose advance forces the defender to return material. The king often belongs near the pawns, either helping them advance or blocking the opponent&#x27;s group.\n\nThe defender&#x27;s resources are equally important. Active rook checks, a timely blockade, or a counter-sacrifice can change a seemingly overwhelming pawn mass into a draw. In Botvinnik-Keres the roles shift as both sides use material to create or stop passers; the resulting queen ending depends on perpetual-check resources. These examples resist a simple conversion table such as &#x27;three pawns equal a piece.&#x27;\n\nEvaluate a pawn mass by asking how many moves it needs to create a threat, whether the pawns protect one another, where the kings stand, and which piece can attack from behind or give checks. A material sacrifice is justified only when the resulting pawns have a concrete route. For training, pause before each sacrifice and calculate the defender&#x27;s most active blockade or return sacrifice.",
+    "keyIdeas": [
+      "Value passed pawns by speed, connection, and king support.",
+      "Active checks and blockades can stop a numerically imposing pawn mass.",
+      "A defender may return material to destroy the passers.",
+      "Do not use a fixed piece-versus-pawns conversion without calculating the race."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-majorities-pawn-race-value",
+        "concept": "Pawn majorities",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn breaks",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Choose one successful material sacrifice for passers and one defensive counter-sacrifice in Chapter 3. Count moves to the first forcing promotion threat.",
+        "successCheck": "Explain the result through tempi, king position, and blockade rather than a fixed material conversion.",
+        "playReminders": [
+          "Can this majority create a passer before the opponent becomes active?",
+          "Which king, rook, or minor piece supports or blocks the advance?",
+          "Would a minority attack neutralize the larger group?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-queenside-majority",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "The 3-2 queenside pawn majority; pp. 143-151; PDF 151-159",
+    "title": "The 3-2 queenside pawn majority",
+    "tags": [
+      "pawn-majorities",
+      "open-files",
+      "king-activity",
+      "minority-attack"
+    ],
+    "note": "A three-against-two queenside majority is common but not automatically favorable. Shereshevsky emphasizes the surrounding position: control of the open d-file, king freedom, rook activity, and piece coordination can matter more than the extra pawn on one wing. Yates-Alekhine shows a nominal majority failing because Black controls the file and activates the king and rook.\n\nWhen the majority can advance, it gains space, fixes targets, and may create a passed pawn. The stronger side often prepares the advance by improving pieces or suppressing the opponent&#x27;s kingside counterplay. Several examples show ...a7-a5-a4 or a4-a5 fixing the opposing pawns before a break. Others show that a minority attack can be the correct use of the queenside when the bishop-and-knight difference makes a direct passer less effective.\n\nThe chapter&#x27;s conclusion gives the d-file special weight, usually after one pair of rooks is exchanged. Treat that as a practical pattern rather than an absolute rule. Before advancing, compare the kings, identify the open-file entry squares, and calculate the opposing wing&#x27;s counterplay. A majority that cannot move or that leaves the king exposed may have little value.",
+    "keyIdeas": [
+      "A 3-2 majority needs king and piece support to matter.",
+      "Open-file control can outweigh the numerical pawn advantage.",
+      "Prepare the advance by fixing targets and limiting counterplay.",
+      "A minority attack may serve the position better than forcing a passer immediately."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-majorities-three-versus-two",
+        "concept": "Pawn majorities",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn breaks",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Compare Yates-Alekhine, Smyslov-Szabo, and Kasparov-Vukic. Rank majority mobility, d-file control, and king activity in each.",
+        "successCheck": "Identify why the nominal majority matters in one example and is outweighed or repurposed in another.",
+        "playReminders": [
+          "Can this majority create a passer before the opponent becomes active?",
+          "Which king, rook, or minor piece supports or blocks the advance?",
+          "Would a minority attack neutralize the larger group?"
         ]
       }
     ]
@@ -4225,6 +4808,126 @@
         "playReminders": [
           "What job does my rook need now: restrict, check, shelter or counterattack?",
           "Has the pawn advanced enough that its king can no longer use it as cover?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-capablanca-clarity",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Capablanca: crystal clarity; PDF 754-769",
+    "title": "Capablanca: crystal clarity",
+    "tags": [
+      "converting-advantages",
+      "schematic-thinking",
+      "pawn-majorities",
+      "piece-activity"
+    ],
+    "note": "Silman presents Capablanca&#x27;s technique as a continuous flow from middlegame advantages into favorable endings. Against Marshall, a queenside majority becomes meaningful only after Black coordinates the bishop and rook, controls the open file, prevents king activity, and advances the pawns. The position changes through exchanges, but the pieces continue to support the same strategic aim.\n\nAgainst Janowski, active rooks, space, and a superior structure are converted by first suppressing queenside counterplay with b4 and a4-a5. Capablanca improves the king, returns to the f-file, and times the g-pawn break only after Black&#x27;s resources are restricted. The lesson is patient improvement with a purpose: every waiting move either denies activity or prepares a new entry.\n\nAgainst Lasker, Black keeps the rooks because they can harass the king and attack several weak pawns. A small tactical sequence wins a pawn, then king and knight activity create further targets. These games support a practical conversion loop: suppress counterplay, improve the worst piece, create or fix a new weakness, and only then simplify or break through. The examples are models, not proof that every similar advantage is technically won.",
+    "keyIdeas": [
+      "Carry a positional advantage into the ending through coordinated pieces.",
+      "Suppress counterplay before opening a new file or advancing a majority.",
+      "Keep pieces when they can attack several weaknesses more effectively than a pawn ending can.",
+      "Use small tactics to make a strategic plan concrete."
+    ],
+    "activities": [
+      {
+        "id": "study-converting-advantages-capablanca-loop",
+        "concept": "Converting advantages",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "For all three Capablanca examples, record the counterplay suppressed, worst piece improved, new weakness created, and final concrete operation.",
+        "successCheck": "Complete all four fields for each game without using the result as the evaluation.",
+        "playReminders": [
+          "What is my advantage, and what is the defender&#x27;s most active resource?",
+          "Which piece can improve before I force the issue?",
+          "Can I create a separate second weakness without releasing counterplay?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-cat-and-mouse",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Cat and Mouse; PDF 526-548",
+    "title": "Cat and Mouse",
+    "tags": [
+      "patient-maneuvering",
+      "converting-advantages",
+      "piece-activity",
+      "endgame-planning"
+    ],
+    "note": "Silman&#x27;s Cat and Mouse method applies to positions where the opponent is nearly helpless. The stronger side uses the available time to improve king placement, piece activity, pawn structure, and tactical readiness before committing to the final operation. Benko&#x27;s examples show why an immediate material gain can be inferior if it releases the defender or leaves an unnecessarily difficult technical task.\n\nPatience does not guarantee accuracy. In Benko-Korchnoi, the long maneuvering phase produces errors by both sides, and a position described as won can become drawable. That qualification is useful: psychological pressure is a practical benefit, but the board still requires calculation. The Peters example shows a different challenge, where a surprising stalemate defense must be accepted and then met with a new route rather than an emotional reaction.\n\nThe final example prepares a favorable minor-piece ending by fixing pawns on the bishop&#x27;s color, improving space, and penetrating only after the pieces are ideally placed. Use Cat and Mouse as a checklist: confirm that the opponent lacks counterplay, improve the worst placed unit, preserve favorable options, and calculate the final break. If the defender can create threats, simplify, or change the pawn race, the position no longer permits leisurely maneuvering.",
+    "keyIdeas": [
+      "Use patient improvement only when the opponent is truly restricted.",
+      "Avoid a material gain that releases the defense or complicates conversion.",
+      "Recalculate after every structural change; long pressure does not prevent errors.",
+      "Respond calmly when the defender reveals an unexpected resource."
+    ],
+    "activities": [
+      {
+        "id": "study-converting-advantages-patient-not-careless",
+        "concept": "Converting advantages",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Compare Benko-Averbakh, Benko-Korchnoi, and Schutt-Peters. Find the immediate tempting action, the patient improvement, and any defensive resource.",
+        "successCheck": "Explain why patience helped in each game and identify the Benko-Korchnoi evaluation change caused by errors.",
+        "playReminders": [
+          "What is my advantage, and what is the defender&#x27;s most active resource?",
+          "Which piece can improve before I force the issue?",
+          "Can I create a separate second weakness without releasing counterplay?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-two-weaknesses",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "The Principle of Two Weaknesses; PDF 549-565",
+    "title": "The Principle of Two Weaknesses",
+    "tags": [
+      "two-weaknesses",
+      "converting-advantages",
+      "patient-maneuvering",
+      "favorable-exchanges"
+    ],
+    "note": "Silman broadens a weakness beyond a pawn. It can be a vulnerable square, material disadvantage, exposed king, restricted piece, or any feature that consumes defensive resources. Unzicker-Donner shows a passed pawn becoming decisive only after a queenside advance creates a target and an entry square. Rubinstein-Cohn combines king dominance, rook penetration, and newly weakened kingside pawns before creating a passed c-pawn.\n\nThe later examples emphasize preparation. Smyslov fixes kingside weaknesses before attacking b6. Alekhine delays the passed pawn, fixes h7 on the bishop&#x27;s color, and forces a queen trade only when the king remains tied to that target. Euwe centralizes the king, freezes the queenside, creates further kingside weaknesses, and prevents counterplay before entering the final zugzwang.\n\nThe common pattern is cumulative pressure. Do not assume that an extra pawn or passed pawn wins by itself. Improve the pieces, create a separate target, deny active defense, and choose exchanges that preserve the defender&#x27;s obligations. In study, distinguish the original advantage from the deliberately created second weakness and identify the move after which the defender can no longer cover both.",
+    "keyIdeas": [
+      "Treat weak squares, exposed kings, and restricted pieces as possible weaknesses.",
+      "Create a separate target before forcing the original advantage.",
+      "Exchange only when the defender remains tied to both problems.",
+      "Deny counterplay while accumulating small positional gains."
+    ],
+    "activities": [
+      {
+        "id": "study-converting-advantages-five-created-targets",
+        "concept": "Converting advantages",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity",
+          "Piece activity"
+        ],
+        "instructions": "Review the five examples on PDF 549-565. For each, distinguish the original advantage from the newly created weakness.",
+        "successCheck": "Identify the move that fixes the second target and the exchange or entry that converts it.",
+        "playReminders": [
+          "What is my advantage, and what is the defender&#x27;s most active resource?",
+          "Which piece can improve before I force the issue?",
+          "Can I create a separate second weakness without releasing counterplay?"
         ]
       }
     ]

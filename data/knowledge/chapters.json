@@ -1287,6 +1287,227 @@
         "section": "Complete Final Comment: Isolani on the Fifth Rank, Narciso Dublan–Gonzales Vidal fragment, through the end of Chapter 1",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "nimzowitsch-hanging-pawns",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "The isolated pawn couple and hanging pawns; pp. 213-227; PDF 235-249",
+      "title": "The isolated pawn couple and hanging pawns",
+      "locator": {
+        "pdfPageStart": 235,
+        "pdfPageEnd": 249,
+        "printedPages": "213-227",
+        "section": "Part II Chapter 3, The Isolated Queen's Pawn and His Descendants, through the complete hanging-pawns discussion; stop before Chapter 4 on PDF 250",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-hanging-pawns",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Hanging Pawns: complete chapter; pp. 36-50; PDF 37-51",
+      "title": "Hanging Pawns: complete chapter",
+      "locator": {
+        "pdfPageStart": 37,
+        "pdfPageEnd": 51,
+        "printedPages": "36-50",
+        "section": "Complete Chapter 2, overview plus all six annotated games and final remarks; stop before Chapter 3 on PDF 52",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-carlsbad-complete",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "The Carlsbad Formation: complete chapter; pp. 86-102; PDF 87-103",
+      "title": "The Carlsbad Formation: complete chapter",
+      "locator": {
+        "pdfPageStart": 87,
+        "pdfPageEnd": 103,
+        "printedPages": "86-102",
+        "section": "Complete Chapter 5, overview plus all six annotated games and final remarks; stop before Chapter 6 on PDF 104",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzowitsch-endgame-elements",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "The elements of endgame strategy; pp. 91-103; PDF 114-126",
+      "title": "The elements of endgame strategy",
+      "locator": {
+        "pdfPageStart": 114,
+        "pdfPageEnd": 126,
+        "printedPages": "91-103",
+        "section": "Complete Part I Chapter 6, introductory section through The Collective Advance and the closing file/rank example; stop before Chapter 7 on PDF 127",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-ending-formula",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "The Ending: four practical formulas; pp. 131; PDF 130-130",
+      "title": "The Ending: four practical formulas",
+      "locator": {
+        "pdfPageStart": 130,
+        "pdfPageEnd": 130,
+        "printedPages": "131",
+        "section": "Complete short section The Ending on PDF 130; stop before General Formulae and Concrete Analysis on the same page",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-exchanging",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "The problem of exchanging; pp. 19-40; PDF 27-48",
+      "title": "The problem of exchanging",
+      "locator": {
+        "pdfPageStart": 27,
+        "pdfPageEnd": 48,
+        "printedPages": "19-40",
+        "section": "Complete Chapter 4, including all annotated examples; stop before Chapter 5 on PDF 49",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-schematic-thinking-complete",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Schematic thinking; pp. 55-66; PDF 63-74",
+      "title": "Schematic thinking",
+      "locator": {
+        "pdfPageStart": 63,
+        "pdfPageEnd": 74,
+        "printedPages": "55-66",
+        "section": "Complete Chapter 6 with all four annotated endings; stop before Chapter 7 on PDF 75",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-capablanca-clarity",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Capablanca: crystal clarity; PDF 754-769",
+      "title": "Capablanca: crystal clarity",
+      "locator": {
+        "pdfPageStart": 754,
+        "pdfPageEnd": 769,
+        "printedPages": null,
+        "section": "Complete Capablanca section in Part Nine, including Marshall-Capablanca, Capablanca-Janowski and Lasker-Capablanca; stop before Smyslov on PDF 770",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-do-not-hurry",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Do not hurry; pp. 41-54; PDF 49-62",
+      "title": "Do not hurry",
+      "locator": {
+        "pdfPageStart": 49,
+        "pdfPageEnd": 62,
+        "printedPages": "41-54",
+        "section": "Complete Chapter 5 with all annotated examples; stop before Chapter 6 on PDF 63",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-two-weaknesses",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "The principle of two weaknesses; pp. 67-79; PDF 75-87",
+      "title": "The principle of two weaknesses",
+      "locator": {
+        "pdfPageStart": 75,
+        "pdfPageEnd": 87,
+        "printedPages": "67-79",
+        "section": "Complete Chapter 7 with all annotated examples; stop before Chapter 8 on PDF 88",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-cat-and-mouse",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Cat and Mouse; PDF 526-548",
+      "title": "Cat and Mouse",
+      "locator": {
+        "pdfPageStart": 526,
+        "pdfPageEnd": 548,
+        "printedPages": null,
+        "section": "Complete Cat and Mouse section in Part Eight, five annotated examples; stop before The Principle of Two Weaknesses on PDF 549",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-two-weaknesses",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "The Principle of Two Weaknesses; PDF 549-565",
+      "title": "The Principle of Two Weaknesses",
+      "locator": {
+        "pdfPageStart": 549,
+        "pdfPageEnd": 565,
+        "printedPages": null,
+        "section": "Complete section in Part Eight, Unzicker-Donner through Euwe-van Doesburgh; stop before All King and Pawn Endgames are Confusing on PDF 566",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzowitsch-collective-pawn-mobility",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "The collective mobility of a pawn mass; pp. 168-169; PDF 190-191",
+      "title": "The collective mobility of a pawn mass",
+      "locator": {
+        "pdfPageStart": 190,
+        "pdfPageEnd": 191,
+        "printedPages": "168-169",
+        "section": "Complete section 4 in Part II Chapter 1; stop before section 5 on PDF 192",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzowitsch-restraining-majorities",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Restraint action against pawn majorities; pp. 205-206; PDF 227-228",
+      "title": "Restraint action against pawn majorities",
+      "locator": {
+        "pdfPageStart": 227,
+        "pdfPageEnd": 228,
+        "printedPages": "205-206",
+        "section": "Complete section 4 in Part II Chapter 2; stop before section 5 on PDF 229",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-role-of-pawns",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "The role of pawns in the endgame; pp. 12-18; PDF 20-26",
+      "title": "The role of pawns in the endgame",
+      "locator": {
+        "pdfPageStart": 20,
+        "pdfPageEnd": 26,
+        "printedPages": "12-18",
+        "section": "Complete Chapter 3 with all seven examples; stop before Chapter 4 on PDF 27",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-queenside-majority",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "The 3-2 queenside pawn majority; pp. 143-151; PDF 151-159",
+      "title": "The 3-2 queenside pawn majority",
+      "locator": {
+        "pdfPageStart": 151,
+        "pdfPageEnd": 159,
+        "printedPages": "143-151",
+        "section": "Complete Chapter 12 with all seven examples and conclusion; stop before Chapter 13 on PDF 160",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-three-versus-two-majority",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "The 3-3 versus 4-2 structure; pp. 400-402; PDF 401-403",
+      "title": "The 3-3 versus 4-2 structure",
+      "locator": {
+        "pdfPageStart": 401,
+        "pdfPageEnd": 403,
+        "printedPages": "400-402",
+        "section": "Complete 3-3 vs. 4-2 section in Chapter 22, overview and Nguyen Van Huy-Le Quang Liem; stop before The Panov Structure on PDF 404",
+        "ebookLocation": null
+      }
     }
   ]
 }
