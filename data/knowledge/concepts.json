@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "candidate-moves",
+      "name": "Candidate moves"
+    },
+    {
+      "id": "forcing-moves",
+      "name": "Forcing moves"
+    },
+    {
+      "id": "visualization",
+      "name": "Visualization"
+    },
+    {
+      "id": "calculation",
+      "name": "Calculation"
+    },
+    {
+      "id": "position-evaluation",
+      "name": "Position evaluation"
+    },
+    {
+      "id": "blunder-checking",
+      "name": "Blunder checking"
+    },
+    {
+      "id": "prophylaxis",
+      "name": "Prophylaxis"
+    },
+    {
+      "id": "time-management",
+      "name": "Time management"
+    },
+    {
+      "id": "forks",
+      "name": "Forks"
+    },
+    {
+      "id": "pins",
+      "name": "Pins"
+    },
+    {
+      "id": "skewers",
+      "name": "Skewers"
+    },
+    {
+      "id": "discovered-attacks",
+      "name": "Discovered attacks"
+    },
+    {
+      "id": "removing-the-defender",
+      "name": "Removing the defender"
+    },
+    {
+      "id": "deflection",
+      "name": "Deflection"
+    },
+    {
+      "id": "intermediate-moves",
+      "name": "Intermediate moves"
+    },
+    {
+      "id": "mating-patterns",
+      "name": "Mating patterns"
+    },
+    {
+      "id": "development",
+      "name": "Development"
+    },
+    {
+      "id": "center-control",
+      "name": "Center control"
+    },
+    {
+      "id": "king-safety",
+      "name": "King safety"
+    },
+    {
+      "id": "tempo",
+      "name": "Tempo"
+    },
+    {
+      "id": "opening-to-middlegame-transition",
+      "name": "Opening to middlegame transition"
+    },
+    {
+      "id": "isolated-pawns",
+      "name": "Isolated pawns"
+    },
+    {
+      "id": "hanging-pawns",
+      "name": "Hanging pawns"
+    },
+    {
+      "id": "backward-pawns",
+      "name": "Backward pawns"
+    },
+    {
+      "id": "doubled-pawns",
+      "name": "Doubled pawns"
+    },
+    {
+      "id": "pawn-chains",
+      "name": "Pawn chains"
+    },
+    {
+      "id": "pawn-majorities",
+      "name": "Pawn majorities"
+    },
+    {
+      "id": "passed-pawns",
+      "name": "Passed pawns"
+    },
+    {
+      "id": "minority-attack",
+      "name": "Minority attack"
+    },
+    {
+      "id": "pawn-breaks",
+      "name": "Pawn breaks"
+    },
+    {
+      "id": "weak-squares",
+      "name": "Weak squares"
+    },
+    {
+      "id": "outposts",
+      "name": "Outposts"
+    },
+    {
+      "id": "space",
+      "name": "Space"
+    },
+    {
+      "id": "piece-activity",
+      "name": "Piece activity"
+    },
+    {
+      "id": "restriction",
+      "name": "Restriction"
+    },
+    {
+      "id": "favorable-exchanges",
+      "name": "Favorable exchanges"
+    },
+    {
+      "id": "improving-the-worst-piece",
+      "name": "Improving the worst piece"
+    },
+    {
+      "id": "good-and-bad-bishops",
+      "name": "Good and bad bishops"
+    },
+    {
+      "id": "bishop-pair",
+      "name": "Bishop pair"
+    },
+    {
+      "id": "knight-versus-bishop",
+      "name": "Knight versus bishop"
+    },
+    {
+      "id": "open-files",
+      "name": "Open files"
+    },
+    {
+      "id": "attacking-prerequisites",
+      "name": "Attacking prerequisites"
+    },
+    {
+      "id": "opening-lines",
+      "name": "Opening lines"
+    },
+    {
+      "id": "sacrifices",
+      "name": "Sacrifices"
+    },
+    {
+      "id": "threat-recognition",
+      "name": "Threat recognition"
+    },
+    {
+      "id": "counterplay",
+      "name": "Counterplay"
+    },
+    {
+      "id": "defensive-exchanges",
+      "name": "Defensive exchanges"
+    },
+    {
+      "id": "king-activity",
+      "name": "King activity"
+    },
+    {
+      "id": "opposition",
+      "name": "Opposition"
+    },
+    {
+      "id": "pawn-endings",
+      "name": "Pawn endings"
+    },
+    {
+      "id": "rook-endings",
+      "name": "Rook endings"
+    },
+    {
+      "id": "minor-piece-endings",
+      "name": "Minor piece endings"
+    },
+    {
+      "id": "converting-advantages",
+      "name": "Converting advantages"
+    },
+    {
+      "id": "rook-pawn-endings",
+      "name": "Rook-pawn endings"
+    }
+  ]
+}

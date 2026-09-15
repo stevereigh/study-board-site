@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-W38",
+  "generatedAt": "2026-09-15T10:43:49.373082Z",
+  "timezone": "America/New_York",
+  "studyStarts": "2026-09-14",
+  "studyEndsExclusive": "2026-09-21",
+  "gamesFrom": "2026-09-07T04:00:00Z",
+  "gamesUntilExclusive": "2026-09-14T04:00:00Z",
+  "status": "no-games",
+  "generator": {
+    "kind": "deterministic",
+    "version": "1.0.0",
+    "model": null
+  },
+  "sample": {
+    "games": 0,
+    "analyzedGames": 0,
+    "priorWeeksCompared": []
+  },
+  "summary": "0 completed games from 2026-09-07 through 2026-09-13. No games this week. 55 minutes of source-backed foundational study.",
+  "focus": [
+    {
+      "conceptId": "position-evaluation",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-position-evaluation-first"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read The Imbalances. Before diagram 1’s explanation, write the differences for both sides and propose each side’s plan. Compare with the author, then follow the continuation.",
+        "Explain why e5 gives White space but also becomes Black’s target."
+      ],
+      "playReminders": [
+        "What does this position give each side a reason to do?"
+      ],
+      "minutes": 25
+    },
+    {
+      "conceptId": "favorable-exchanges",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-favorable-exchanges-first"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Revisit the bishop and queen exchanges. Before each, name the target and the jobs of the pieces that remain.",
+        "Explain an exchange by positional purpose rather than nominal piece values alone."
+      ],
+      "playReminders": [
+        "Who benefits from the pieces that will remain?"
+      ],
+      "minutes": 15
+    },
+    {
+      "conceptId": "king-activity",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-king-activity-first"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read Understanding the King and Use Your King! Set up diagram 43 and identify each side’s objective. Continue to Opposition for the defensive explanation.",
+        "Explain why an extra pawn needs king support and why pushing alone may not win."
+      ],
+      "playReminders": [
+        "Can my king safely become useful now?"
+      ],
+      "minutes": 15
+    }
+  ],
+  "generalReminders": [
+    "Before moving, check both sides’ checks, captures and immediate threats.",
+    "Review flagged positions before looking at the engine candidate.",
+    "After studying, record which recommendations you completed and one lesson from your games."
+  ],
+  "limitations": [
+    "Engine score changes identify review positions, not strategic causes. No automatic weakness diagnosis is made.",
+    "Only the verified portion of the book catalog is available. Assigned reading is not marked completed automatically.",
+    "Using a provisional 60-minute weekly reading budget until you set a preference.",
+    "Only 0 games in the window; below the 30-game diagnostic minimum."
+  ],
+  "nextReview": "2026-09-21"
+}

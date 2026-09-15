@@ -1,0 +1,80 @@
+[
+  {
+    "book": "Logical Chess: Move by Move",
+    "author": "Irving Chernev",
+    "ref": "Introduction; supplied TXT lines 48-123",
+    "title": "Introduction",
+    "tags": [
+      "study-method",
+      "piece-activity",
+      "planning",
+      "attack"
+    ],
+    "note": "Chernev presents the book as a way to learn the purpose behind moves. He begins with the apparent ease of a master giving a simultaneous exhibition and argues that the useful lesson is not a gigantic stock of memorized opening variations or an ability to calculate every possibility. The reader should instead follow how a strong player recognizes relevant positional features and chooses moves that serve them.\n\nThe promised method is repeated explanation within complete games. Effective piece placement, central influence, useful files, and restricting the opponent are meant to become recognizable through examples. This repeated exposure should build judgment, while retaining the need to recognize exceptions to general principles. Chernev also connects positional preparation with combinations: an attack should grow out of a position that supplies opportunities.\n\nThis introduction supports a study method and a broad link between positional play and attacking chances. It does not verify any particular game’s variations. The supplied TXT loses diagrams and many figurine symbols later in the book, so detailed game ingestion requires a visual source. Once one is available, a useful activity is to predict a move’s purpose before reading the explanation."
+  },
+  {
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "The Imbalances, pp. 1-7; PDF 9-15",
+    "title": "The Imbalances",
+    "tags": [
+      "evaluation",
+      "planning",
+      "exchanges",
+      "piece-activity"
+    ],
+    "note": "Silman introduces imbalances as the differences between the two sides that should determine a plan. His checklist covers minor pieces, pawn structure, space, material, files and squares, development, and initiative. The point is to compare what each player can realistically use, rather than choose a familiar attack and hope the position cooperates. A lead in development is temporary; a pawn weakness can remain a target after pieces are exchanged.\n\nThe chapter works through a position from Dzindzichashvili–Yermolinsky, U.S. Championship 1993. White’s advanced e-pawn gives space but also needs defense. Black organizes pressure against that pawn while limiting useful knight outposts. A bishop exchange and later queen exchange are explained in relation to this continuing target, rather than automatic rules about keeping the bishop pair or avoiding simplification.\n\nFor study, pause at diagram 1, list the relevant differences for both colors, and state a plan before reading the explanation. Then explain how each exchange serves that plan. This chapter introduces a planning method; it does not replace checking immediate tactical threats."
+  },
+  {
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Rules of the Minor Pieces, pp. 9-16; PDF 16-23",
+    "title": "Rules of the Minor Pieces",
+    "tags": [
+      "minor-pieces",
+      "bishops",
+      "knights",
+      "outposts",
+      "pawn-structure"
+    ],
+    "note": "Silman compares bishops and knights through the pawn structure, available squares and actual tasks in a position. Their nominal material values are only a starting point. Open diagonals and races involving widely separated passed pawns can favor a bishop’s range; locked positions and secure advanced squares can let a knight dominate. These are guides to investigation rather than guarantees that replace checking the position.\n\nThe discussion separates the conventional label of a bad bishop from its usefulness. A bishop restricted by pawns on its own color may be exchanged, freed by a change in the pawns, or activated outside the chain. A bishop that remains bad by the structural definition can still do important work. The bishop pair reduces the limitation of controlling only one color.\n\nFor knights, Silman emphasizes mobility, access to both wings and protected support points. The point of improving a knight is to give it relevant targets, while a player facing knights should consider denying those squares. Study diagrams 2-9 by explaining each piece’s job and the structural features that enable it. The following detailed game examples belong to later reading."
+  },
+  {
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Part Two: Understanding the King / Use Your King!; PDF 80-83",
+    "title": "Understanding the King — Use Your King!",
+    "tags": [
+      "king-activity",
+      "pawn-endings",
+      "conversion"
+    ],
+    "note": "This section addresses a common carryover from the opening: treating the king only as something to shelter. Silman contrasts the danger created by a large attacking force with the demands of a simplified ending, where the king becomes an essential active unit. When the remaining pieces no longer present a serious mating threat, bringing the king toward the action helps use the material that is still on the board.\n\nThe discussion then narrows to king and pawn against king. An extra pawn cannot mate by itself; the relevant objective is promotion, which requires king and pawn to cooperate. Diagram 43 follows a pawn toward the last rank but ends in stalemate, illustrating why advancing a pawn is not the same as making progress. The defender’s king prevents the attacking king from gaining the access it needs.\n\nThis is a bridge into opposition rather than a complete pawn-ending method. A useful study exercise is to identify the king’s job before choosing a pawn move: supporting promotion, denying entry, or approaching relevant squares. Apply the active-king principle in the context of the remaining threats."
+  },
+  {
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Part Two: Opposition; PDF 84-89",
+    "title": "Opposition",
+    "tags": [
+      "opposition",
+      "pawn-endings",
+      "tempo",
+      "defense"
+    ],
+    "note": "Silman explains direct opposition as a contest over the squares that let a king advance. When two kings face one another with a square between them, the player who must move may have to yield an entry square. The bare-king illustration isolates that geometry; it does not suggest that opposition alone can win without other material.\n\nThe section then returns to king and pawn against king. The defender aims to keep the attacking king from reaching the front of its pawn. In the specific example, stepping directly backward when necessary and taking opposition at the right moment maintains that barrier. Similar-looking positions can have opposite outcomes because the side to move has changed. Near promotion, that single tempo decides whether the defender must concede the queening square or the attacker must accept stalemate or lose the pawn.\n\nConnect opposition to a concrete objective: entry, exclusion, or control of a promotion square. Replay diagrams 44–47 with the side to move explicitly stated, and explain the entry squares before moving. The defensive rules are taught through this particular elementary pawn ending; more complex configurations require fresh calculation."
+  },
+  {
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Part Two: Rook-Pawns; PDF 90-92",
+    "title": "Rook-Pawns",
+    "tags": [
+      "rook-pawns",
+      "stalemate",
+      "pawn-endings",
+      "defense"
+    ],
+    "note": "This section shows why an edge pawn can give the defender drawing chances that a central or knight pawn does not. A king in front of an a- or h-pawn has fewer directions in which to move. That restriction can produce stalemate before the attacker controls a usable promotion route.\n\nSilman compares an h-pawn position with the same arrangement shifted to the g-file. In the edge-pawn example, advancing the pawn leaves the defending king with no legal move while it is not in check. In the neighboring-file example, the defender has an escape square, allowing the attacking king to improve its position and secure promotion. The comparison makes the board edge, king locations, and side to move concrete parts of the evaluation.\n\nFor this elementary king-and-rook-pawn versus king ending, reaching the front of the pawn is the defender’s key drawing resource. This does not mean that every ending containing a rook-pawn is drawn. Compare diagrams 48 and 49 and explain the difference in legal king moves. Before exchanging into a pawn ending, identify whether the passed pawn can actually promote."
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "study-position-evaluation-first",
+      "crossrefIds": [
+        "position-evaluation--amateurs-imbalances"
+      ]
+    },
+    {
+      "id": "study-favorable-exchanges-first",
+      "crossrefIds": [
+        "favorable-exchanges--amateurs-imbalances"
+      ]
+    },
+    {
+      "id": "study-king-activity-first",
+      "crossrefIds": [
+        "king-activity--silman-use-your-king"
+      ]
+    },
+    {
+      "id": "study-opposition-first",
+      "crossrefIds": [
+        "opposition--silman-basic-opposition"
+      ]
+    },
+    {
+      "id": "study-rook-pawn-endings-first",
+      "crossrefIds": [
+        "rook-pawn-endings--silman-rook-pawns"
+      ]
+    },
+    {
+      "id": "study-knight-versus-bishop-first",
+      "crossrefIds": [
+        "knight-versus-bishop--amateurs-minor-piece-rules"
+      ]
+    },
+    {
+      "id": "study-good-and-bad-bishops-first",
+      "crossrefIds": [
+        "good-and-bad-bishops--amateurs-minor-piece-rules"
+      ]
+    },
+    {
+      "id": "study-outposts-first",
+      "crossrefIds": [
+        "outposts--amateurs-minor-piece-rules"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "nunn-deadly-checkmates-2011",
+      "title": "1001 Deadly Checkmates",
+      "authors": [
+        "John Nunn"
+      ]
+    },
+    {
+      "id": "nimzovich-my-system-1964",
+      "title": "My System: A Treatise on Chess",
+      "authors": [
+        "Aron Nimzovich"
+      ]
+    },
+    {
+      "id": "silman-amateurs-mind-1999",
+      "title": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+      "authors": [
+        "Jeremy Silman"
+      ]
+    },
+    {
+      "id": "kotov-think-grandmaster-algebraic",
+      "title": "Think Like a Grandmaster",
+      "authors": [
+        "Alexander Kotov"
+      ]
+    },
+    {
+      "id": "shereshevsky-endgame-strategy-1985",
+      "title": "Endgame Strategy",
+      "authors": [
+        "M. I. Shereshevsky"
+      ]
+    },
+    {
+      "id": "silman-complete-endgame-course-2007",
+      "title": "Silman’s Complete Endgame Course: From Beginner to Master",
+      "authors": [
+        "Jeremy Silman"
+      ]
+    },
+    {
+      "id": "erwich-club-exercises-2019",
+      "title": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+      "authors": [
+        "Frank Erwich"
+      ]
+    },
+    {
+      "id": "chernev-logical-chess-2018",
+      "title": "Logical Chess: Move by Move",
+      "authors": [
+        "Irving Chernev"
+      ]
+    },
+    {
+      "id": "flores-rios-chess-structures-2015",
+      "title": "Chess Structures: A Grandmaster Guide",
+      "authors": [
+        "Mauricio Flores Rios"
+      ]
+    }
+  ]
+}

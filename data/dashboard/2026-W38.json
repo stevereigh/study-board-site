@@ -1,0 +1,98 @@
+{
+  "generated": "2026-09-15T10:43:49.373082Z",
+  "player": "DeputyBob",
+  "week": {
+    "id": "2026-W38",
+    "label": "Study week 2026-09-14"
+  },
+  "assignment": {
+    "chapter": "Position evaluation",
+    "trigger": "foundational study",
+    "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+    "gist": "Read The Imbalances. Before diagram 1’s explanation, write the differences for both sides and propose each side’s plan. Compare with the author, then follow the continuation. Explain why e5 gives White space but also becomes Black’s target."
+  },
+  "ratings": {
+    "weeks": [
+      "2026-09"
+    ],
+    "series": {
+      "classical": [
+        null
+      ],
+      "rapid": [
+        1247
+      ],
+      "blitz": [
+        1017
+      ],
+      "bullet": [
+        873
+      ]
+    }
+  },
+  "perf": {
+    "overview": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "classical": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "rapid": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "blitz": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "bullet": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    }
+  },
+  "needsAnalysis": [],
+  "games": [],
+  "archive": [
+    {
+      "id": "2026-W38",
+      "label": "2026-W38"
+    }
+  ]
+}

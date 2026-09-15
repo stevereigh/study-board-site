@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "position-evaluation--amateurs-imbalances",
+      "chapterId": "amateurs-imbalances",
+      "locator": {
+        "pdfPageStart": 9,
+        "pdfPageEnd": 15,
+        "printedPages": "1-7",
+        "section": "The Imbalances",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--chernev-introduction",
+      "chapterId": "chernev-introduction",
+      "locator": {
+        "pdfPageStart": null,
+        "pdfPageEnd": null,
+        "printedPages": null,
+        "section": "Introduction",
+        "ebookLocation": "TXT lines 48-123, Python splitlines including form-feed boundaries"
+      }
+    },
+    {
+      "id": "favorable-exchanges--amateurs-imbalances",
+      "chapterId": "amateurs-imbalances",
+      "locator": {
+        "pdfPageStart": 9,
+        "pdfPageEnd": 15,
+        "printedPages": "1-7",
+        "section": "The Imbalances",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--amateurs-imbalances",
+      "chapterId": "amateurs-imbalances",
+      "locator": {
+        "pdfPageStart": 9,
+        "pdfPageEnd": 15,
+        "printedPages": "1-7",
+        "section": "The Imbalances",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--chernev-introduction",
+      "chapterId": "chernev-introduction",
+      "locator": {
+        "pdfPageStart": null,
+        "pdfPageEnd": null,
+        "printedPages": null,
+        "section": "Introduction",
+        "ebookLocation": "TXT lines 48-123, Python splitlines including form-feed boundaries"
+      }
+    },
+    {
+      "id": "attacking-prerequisites--amateurs-imbalances",
+      "chapterId": "amateurs-imbalances",
+      "locator": {
+        "pdfPageStart": 9,
+        "pdfPageEnd": 15,
+        "printedPages": "1-7",
+        "section": "The Imbalances",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--chernev-introduction",
+      "chapterId": "chernev-introduction",
+      "locator": {
+        "pdfPageStart": null,
+        "pdfPageEnd": null,
+        "printedPages": null,
+        "section": "Introduction",
+        "ebookLocation": "TXT lines 48-123, Python splitlines including form-feed boundaries"
+      }
+    },
+    {
+      "id": "king-activity--silman-use-your-king",
+      "chapterId": "silman-use-your-king",
+      "locator": {
+        "pdfPageStart": 80,
+        "pdfPageEnd": 83,
+        "printedPages": null,
+        "section": "Part Two (Class E): Understanding the King / Use Your King!",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-basic-opposition",
+      "chapterId": "silman-basic-opposition",
+      "locator": {
+        "pdfPageStart": 84,
+        "pdfPageEnd": 89,
+        "printedPages": null,
+        "section": "Part Two (Class E): Opposition; diagrams 44-47",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-rook-pawns",
+      "chapterId": "silman-rook-pawns",
+      "locator": {
+        "pdfPageStart": 90,
+        "pdfPageEnd": 92,
+        "printedPages": null,
+        "section": "Part Two (Class E): Rook-Pawns; diagrams 48-49",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--amateurs-minor-piece-rules",
+      "chapterId": "amateurs-minor-piece-rules",
+      "locator": {
+        "pdfPageStart": 16,
+        "pdfPageEnd": 23,
+        "printedPages": "9-16",
+        "section": "The Battle Between Bishops and Knights / Rules of the Minor Pieces",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--amateurs-minor-piece-rules",
+      "chapterId": "amateurs-minor-piece-rules",
+      "locator": {
+        "pdfPageStart": 16,
+        "pdfPageEnd": 23,
+        "printedPages": "9-16",
+        "section": "The Battle Between Bishops and Knights / Rules of the Minor Pieces",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--amateurs-minor-piece-rules",
+      "chapterId": "amateurs-minor-piece-rules",
+      "locator": {
+        "pdfPageStart": 16,
+        "pdfPageEnd": 23,
+        "printedPages": "9-16",
+        "section": "The Battle Between Bishops and Knights / Rules of the Minor Pieces",
+        "ebookLocation": null
+      }
+    }
+  ]
+}

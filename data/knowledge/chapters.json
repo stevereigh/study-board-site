@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "amateurs-imbalances",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "The Imbalances, pp. 1-7; PDF 9-15",
+      "title": "The Imbalances"
+    },
+    {
+      "id": "silman-use-your-king",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Two: Understanding the King / Use Your King!; PDF 80-83",
+      "title": "Understanding the King — Use Your King!"
+    },
+    {
+      "id": "silman-basic-opposition",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Two: Opposition; PDF 84-89",
+      "title": "Opposition"
+    },
+    {
+      "id": "silman-rook-pawns",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Two: Rook-Pawns; PDF 90-92",
+      "title": "Rook-Pawns"
+    },
+    {
+      "id": "chernev-introduction",
+      "bookId": "chernev-logical-chess-2018",
+      "ref": "Introduction; supplied TXT lines 48-123",
+      "title": "Introduction"
+    },
+    {
+      "id": "amateurs-minor-piece-rules",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Rules of the Minor Pieces, pp. 9-16; PDF 16-23",
+      "title": "Rules of the Minor Pieces"
+    }
+  ]
+}

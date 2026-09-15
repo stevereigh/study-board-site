@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Study Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#E8EAE2;
+    --panel:#F6F7F2;
+    --ink:#23312B;
+    --ink-soft:#5C6B62;
+    --ink-faint:#8E9A90;
+    --rule:#C9CFC0;
+    --rule-soft:#DDE1D6;
+    --oxide:#A6402F;
+    --moss:#4A7856;
+    --ochre:#8A7B4F;
+    --serif:"Newsreader",Georgia,serif;
+    --sans:"IBM Plex Sans",system-ui,sans-serif;
+    --mono:"IBM Plex Mono",ui-monospace,monospace;
+  }
+
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:15px;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit}
+  button{font-family:inherit;font-size:inherit;cursor:pointer}
+
+  /* ---------- shell ---------- */
+  .shell{display:grid;grid-template-columns:230px 1fr;min-height:100vh}
+
+  .rail{
+    background:var(--panel);
+    border-right:1px solid var(--rule);
+    padding:26px 0 20px;
+    display:flex;flex-direction:column;
+    position:sticky;top:0;height:100vh;overflow-y:auto;
+  }
+  .brand{padding:0 22px 22px}
+  .brand h1{
+    font-family:var(--serif);
+    font-size:26px;font-weight:500;
+    letter-spacing:-.015em;
+    margin:0;line-height:1.05;
+  }
+  .brand .who{
+    display:inline-block;
+    font-family:var(--mono);
+    font-size:11.5px;color:var(--ink-faint);
+    margin-top:5px;letter-spacing:.02em;
+    text-decoration:none;
+    border-bottom:1px solid transparent;
+  }
+  .brand .who:hover{color:var(--ink);border-bottom-color:var(--rule)}
+  .brand .who:focus-visible{outline:2px solid var(--oxide);outline-offset:2px}
+
+  .navgroup{padding:0 12px;margin-bottom:20px}
+  .navgroup h2{
+    font-family:var(--serif);
+    font-size:13px;font-weight:500;font-style:italic;
+    color:var(--ink-faint);
+    margin:0 0 6px 10px;
+  }
+  .navitem{
+    display:flex;align-items:baseline;gap:8px;
+    width:100%;text-align:left;
+    background:none;border:0;border-radius:3px;
+    padding:6px 10px;
+    color:var(--ink-soft);
+    text-decoration:none;
+  }
+  .navitem:hover{background:#EDEFE7;color:var(--ink)}
+  .navitem[aria-current="true"]{background:var(--ink);color:var(--panel)}
+  .navitem[aria-current="true"] .navcount{color:#AEBBAF}
+  .navitem .dot{width:7px;height:7px;border-radius:50%;flex:none;align-self:center}
+  .navcount{margin-left:auto;font-family:var(--mono);font-size:11.5px;color:var(--ink-faint)}
+
+  .rail-foot{margin-top:auto;padding:16px 22px 0;border-top:1px solid var(--rule-soft)}
+  .toggle{display:flex;align-items:center;gap:9px;color:var(--ink-soft);font-size:13px}
+  .toggle input{accent-color:var(--ink);width:15px;height:15px}
+  .stamp{font-family:var(--mono);font-size:11px;color:var(--ink-faint);margin-top:10px;line-height:1.5}
+
+  /* ---------- main ---------- */
+  main{padding:26px 34px 70px;max-width:1080px}
+
+  .actionbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:24px}
+  .btn{
+    border:1px solid var(--rule);
+    background:var(--panel);
+    color:var(--ink);
+    padding:8px 14px;border-radius:3px;
+    display:inline-flex;align-items:center;gap:9px;
+    text-decoration:none;
+  }
+  .btn:hover{border-color:var(--ink-faint);background:#fff}
+  .btn:focus-visible,.navitem:focus-visible{outline:2px solid var(--oxide);outline-offset:2px}
+  .btn.flag{border-color:var(--oxide);color:var(--oxide);background:#FBF0ED}
+  .btn.flag:hover{background:#F7E6E1}
+  .btn .tally{
+    font-family:var(--mono);font-size:12px;
+    background:var(--oxide);color:#FBF0ED;
+    border-radius:2px;padding:1px 5px;
+  }
+  .btn[disabled]{opacity:.45;pointer-events:none}
+  .spacer{flex:1}
+  .weeklabel{font-family:var(--serif);font-size:15px;font-style:italic;color:var(--ink-soft)}
+
+  section{margin-bottom:34px}
+  .sechead{display:flex;align-items:baseline;gap:12px;margin-bottom:12px}
+  .sechead h3{
+    font-family:var(--serif);font-size:19px;font-weight:500;
+    margin:0;letter-spacing:-.01em;
+  }
+  .sechead .hint{font-size:13px;color:var(--ink-faint)}
+
+  .card{background:var(--panel);border:1px solid var(--rule);border-radius:4px}
+
+  /* ---------- chart ---------- */
+  .chartwrap{padding:20px 20px 12px}
+  .chart-legend{display:flex;gap:18px;flex-wrap:wrap;margin:14px 0 0;padding:0;list-style:none}
+  .chart-legend li{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--ink-soft)}
+  .chart-legend .swatch{width:14px;height:3px;border-radius:2px}
+  .chart-legend .off{opacity:.4}
+  svg.chart{display:block;width:100%;height:auto}
+  .grid-line{stroke:var(--rule-soft);stroke-width:1}
+  .axis-text{font-family:var(--mono);font-size:10.5px;fill:var(--ink-faint)}
+  .series-path{fill:none;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}
+  .series-dot{stroke:var(--panel);stroke-width:2}
+
+  /* ---------- assignment ---------- */
+  .assignment{
+    border-left:4px solid var(--ink);
+    padding:22px 24px;
+  }
+  .assignment .kicker{
+    font-family:var(--serif);font-style:italic;font-size:14px;
+    color:var(--ink-soft);margin:0 0 6px;
+  }
+  .assignment h4{
+    font-family:var(--serif);font-size:27px;font-weight:500;
+    margin:0 0 10px;letter-spacing:-.015em;line-height:1.15;
+  }
+  .assignment .why{margin:0 0 16px;max-width:62ch;color:var(--ink-soft)}
+  .assignment .why b{color:var(--ink);font-weight:600}
+  .gist{
+    border-top:1px solid var(--rule-soft);
+    padding-top:14px;max-width:68ch;
+    font-family:var(--serif);font-size:16px;line-height:1.65;
+  }
+
+  /* ---------- stats ---------- */
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(168px,1fr));gap:12px}
+  .stat{padding:15px 17px}
+  .stat .k{font-size:12.5px;color:var(--ink-soft);margin-bottom:7px}
+  .stat .v{font-family:var(--serif);font-size:31px;line-height:1;letter-spacing:-.02em}
+  .stat .v small{font-size:15px;color:var(--ink-faint);letter-spacing:0}
+  .stat .sub{font-size:12px;color:var(--ink-faint);margin-top:6px}
+  .stat .v.warn{color:var(--oxide)}
+
+  /* ---------- scoresheet table ---------- */
+  table{width:100%;border-collapse:collapse}
+  thead th{
+    text-align:left;font-weight:500;font-size:12.5px;color:var(--ink-soft);
+    padding:0 12px 8px;border-bottom:1px solid var(--rule);
+  }
+  tbody td{padding:9px 12px;border-bottom:1px solid var(--rule-soft);font-size:14px;vertical-align:baseline}
+  tbody tr:nth-child(even){background:#F1F3EC}
+  tbody tr:last-child td{border-bottom:0}
+  td.num{font-family:var(--mono);font-size:13px}
+  .res{font-family:var(--mono);font-size:12px;padding:1px 6px;border-radius:2px}
+  .res.w{background:#E6EFE7;color:var(--moss)}
+  .res.l{background:#F6E8E5;color:var(--oxide)}
+  .res.d{background:#EDEFE7;color:var(--ink-soft)}
+  .tag{font-size:12px;color:var(--ink-soft)}
+  .needs{font-family:var(--mono);font-size:11.5px;color:var(--oxide)}
+
+  /* ---------- notices ---------- */
+  .notice{
+    display:flex;gap:14px;align-items:flex-start;
+    padding:15px 18px;border-radius:4px;
+    background:#F1F3EC;border:1px solid var(--rule);
+    color:var(--ink-soft);font-size:14px;
+  }
+  .notice .bar{width:3px;align-self:stretch;background:var(--ochre);border-radius:2px;flex:none}
+  .notice p{margin:0;max-width:70ch}
+  .notice strong{color:var(--ink)}
+
+  .empty{padding:44px 26px;text-align:center;color:var(--ink-soft)}
+  .empty h4{font-family:var(--serif);font-size:20px;font-weight:500;margin:0 0 8px;color:var(--ink)}
+  .empty p{margin:0 auto;max-width:46ch;font-size:14px}
+  .empty .steps{
+    margin:20px auto 0;max-width:44ch;text-align:left;
+    font-family:var(--mono);font-size:12.5px;color:var(--ink-faint);
+    line-height:2;
+  }
+
+  .hidden{display:none !important}
+
+  /* ---------- panes ---------- */
+  .pane{display:none}
+  .pane.on{display:block}
+  .panehead{margin-bottom:22px}
+  .panehead h2{
+    font-family:var(--serif);font-size:28px;font-weight:500;
+    margin:0 0 6px;letter-spacing:-.015em;
+  }
+  .panehead p{margin:0;max-width:64ch;color:var(--ink-soft);font-size:14px}
+
+  /* ---------- study map ---------- */
+  .maptable td.rule{font-family:var(--serif);font-size:16px}
+  .maptable td.thresh{font-family:var(--mono);font-size:12.5px;color:var(--ink-soft);white-space:nowrap}
+  .maptable td.dest{font-size:14px}
+  .maptable td.dest .book{display:block;color:var(--ink-faint);font-size:12.5px}
+  .maptable td.dest .ch{color:var(--ink)}
+
+  /* ---------- library ---------- */
+  .searchrow{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:18px}
+  .search{
+    flex:1;min-width:220px;
+    font-family:var(--sans);font-size:14px;
+    padding:9px 13px;
+    border:1px solid var(--rule);border-radius:3px;
+    background:var(--panel);color:var(--ink);
+  }
+  .search::placeholder{color:var(--ink-faint)}
+  .search:focus{outline:2px solid var(--oxide);outline-offset:1px;background:#fff}
+  .chip{
+    border:1px solid var(--rule);background:var(--panel);
+    color:var(--ink-soft);border-radius:14px;
+    padding:5px 12px;font-size:13px;
+  }
+  .chip[aria-pressed="true"]{background:var(--ink);color:var(--panel);border-color:var(--ink)}
+  .chip:focus-visible{outline:2px solid var(--oxide);outline-offset:2px}
+
+  .book{margin-bottom:26px}
+  .book > h4{
+    font-family:var(--serif);font-size:17px;font-weight:500;
+    margin:0 0 3px;display:flex;align-items:baseline;gap:9px;
+  }
+  .book > h4 .n{font-family:var(--mono);font-size:11.5px;color:var(--ink-faint)}
+  .book > .auth{font-size:12.5px;color:var(--ink-faint);margin:0 0 10px}
+
+  details.entry{border-bottom:1px solid var(--rule-soft)}
+  details.entry:first-of-type{border-top:1px solid var(--rule)}
+  details.entry > summary{
+    list-style:none;cursor:pointer;
+    padding:11px 12px;
+    display:flex;align-items:baseline;gap:11px;
+  }
+  details.entry > summary::-webkit-details-marker{display:none}
+  details.entry > summary:hover{background:#F1F3EC}
+  details.entry > summary:focus-visible{outline:2px solid var(--oxide);outline-offset:-2px}
+  details.entry .ref{font-family:var(--mono);font-size:12px;color:var(--ink-faint);flex:none;min-width:52px}
+  details.entry .ttl{flex:1}
+  details.entry .tags{font-size:12px;color:var(--ink-faint)}
+  details.entry[open] > summary{background:#EDEFE7}
+  details.entry .body{
+    padding:4px 12px 18px 75px;
+    font-family:var(--serif);font-size:16px;line-height:1.65;
+    max-width:70ch;
+  }
+  @media (max-width:600px){details.entry .body{padding-left:12px}}
+
+  @media (max-width:820px){
+    .shell{grid-template-columns:1fr}
+    .rail{position:static;height:auto;border-right:0;border-bottom:1px solid var(--rule)}
+    main{padding:22px 18px 60px}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none !important;animation:none !important}}
+</style>
+</head>
+<body>
+
+<div class="shell">
+
+  <!-- ============ SIDEBAR ============ -->
+  <nav class="rail">
+    <div class="brand">
+      <h1>Study Board</h1>
+      <a class="who" id="brand-who" href="https://lichess.org/@/DeputyBob" target="_blank" rel="noopener">lichess / DeputyBob</a>
+    </div>
+
+    <div class="navgroup">
+      <h2>This week</h2>
+      <button class="navitem" data-view="overview" aria-current="true">Overview<span class="navcount" id="c-all">—</span></button>
+    </div>
+
+    <div class="navgroup">
+      <h2>By time control</h2>
+      <button class="navitem" data-view="classical"><span class="dot" style="background:#4A7856"></span>Classical<span class="navcount" id="c-classical">—</span></button>
+      <button class="navitem" data-view="rapid"><span class="dot" style="background:#23312B"></span>Rapid<span class="navcount" id="c-rapid">—</span></button>
+      <button class="navitem" data-view="blitz"><span class="dot" style="background:#A6402F"></span>Blitz<span class="navcount" id="c-blitz">—</span></button>
+      <button class="navitem" data-view="bullet"><span class="dot" style="background:#8A7B4F"></span>Bullet<span class="navcount" id="c-bullet">—</span></button>
+    </div>
+
+    <div class="navgroup">
+      <h2>Archive</h2>
+      <div id="archive-list"></div>
+    </div>
+
+    <div class="navgroup">
+      <h2>Reference</h2>
+      <button class="navitem" data-view="map">Study map<span class="navcount" id="c-map">—</span></button>
+      <button class="navitem" data-view="library">Study material<span class="navcount" id="c-library">—</span></button>
+    </div>
+
+    <div class="rail-foot">
+      <label class="toggle">
+        <input type="checkbox" id="demo-toggle">
+        Show sample data
+      </label>
+      <div class="stamp" id="stamp">No data pulled yet</div>
+    </div>
+  </nav>
+
+  <!-- ============ MAIN ============ -->
+  <main>
+  <section id="current-ratings" aria-label="Current Lichess ratings"></section>
+  <style>
+    .rating-row{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px}
+    .rating-item{padding:12px 18px;border:1px solid var(--line);border-radius:8px;font-weight:600}
+    #current-ratings{margin-bottom:24px}.study-focus{padding:18px 0;border-bottom:1px solid var(--line)}
+    .study-focus ol{padding-left:22px;line-height:1.6}.source-ref{font-size:13px;color:var(--ink-soft)}
+    #assignment details{margin-top:14px}#assignment details p{font-size:13px;line-height:1.5}
+  </style>
+
+  <!-- ---------- WEEK PANE ---------- -->
+  <div class="pane on" id="pane-week">
+
+    <div class="actionbar">
+      <a class="btn flag hidden" id="btn-analyze" href="#">
+        <span class="tally" id="analyze-count">0</span>
+        <span id="analyze-label">games need analysis</span>
+      </a>
+      <a class="btn" id="btn-repull" href="#">Repull this week</a>
+      <div class="spacer"></div>
+      <div class="weeklabel" id="week-label">No week loaded</div>
+    </div>
+
+    <!-- rating chart -->
+    <section>
+      <div class="sechead">
+        <h3>Rating history</h3>
+        <span class="hint" id="chart-hint">Click a legend entry to hide a line</span>
+      </div>
+      <div class="card chartwrap">
+        <svg class="chart" id="chart" viewBox="0 0 760 260" role="img" aria-label="Monthly rating history by time control"></svg>
+        <ul class="chart-legend" id="legend"></ul>
+      </div>
+    </section>
+
+    <!-- confidence gate -->
+    <div class="notice hidden" id="gate" style="margin-bottom:34px">
+      <div class="bar"></div>
+      <p id="gate-text"></p>
+    </div>
+
+    <!-- assignment -->
+    <section id="sec-assignment">
+      <div class="sechead"><h3>What to study</h3></div>
+      <div class="card assignment" id="assignment"></div>
+    </section>
+
+    <!-- stats -->
+    <section id="sec-stats">
+      <div class="sechead">
+        <h3>Game review</h3>
+        <span class="hint" id="stats-scope"></span>
+      </div>
+      <div class="stats" id="stats"></div>
+    </section>
+
+    <!-- games -->
+    <section id="sec-games">
+      <div class="sechead">
+        <h3>Games</h3>
+        <span class="hint" id="games-hint"></span>
+      </div>
+      <div class="card" id="games-card"></div>
+    </section>
+
+  </div><!-- /pane-week -->
+
+  <!-- ---------- STUDY MAP PANE ---------- -->
+  <div class="pane" id="pane-map">
+    <div class="panehead">
+      <h2>Study map</h2>
+      <p>The routing rules. When the Monday job sees a pattern on the left, it sends you to the
+         reading on the right. These are hand-written by you in <span class="needs">data/map.json</span> —
+         nothing infers them, which is why they can be trusted.</p>
+    </div>
+    <div class="card" id="map-card"></div>
+  </div>
+
+  <!-- ---------- STUDY MATERIAL PANE ---------- -->
+  <div class="pane" id="pane-library">
+    <div class="panehead">
+      <h2>Study material</h2>
+      <p>Your chapter notes. Search finds anything in a title, tag, or note body — the point is to
+         land on the right chapter in two seconds, then go read the actual book.</p>
+    </div>
+    <div class="searchrow">
+      <input class="search" id="lib-search" type="search" placeholder="Search chapters, tags, notes…" autocomplete="off">
+      <div id="lib-chips" style="display:flex;gap:7px;flex-wrap:wrap"></div>
+    </div>
+    <div id="lib-results"></div>
+  </div>
+
+  </main>
+</div>
+
+<script src="./assets/integration.js"></script>
+<script>
+/* ============================================================
+   Study Board — static dashboard for Lichess study review.
+
+   Reads ./data/latest.json, written each Monday by the
+   GitHub Actions workflow. Falls back to an empty state
+   when that file is absent, and can render sample data via
+   the sidebar toggle.
+   ============================================================ */
+
+const CONFIG = {
+  lichessUser: "DeputyBob",
+  // Actions run page — "Repull this week" sends you here to hit Run workflow.
+  workflowUrl: "https://github.com/stevereigh/study-board/actions/workflows/weekly.yml",
+  // Below this many games in a bucket, we show counts but withhold a diagnosis.
+  minGamesForDiagnosis: 30
+};
+
+const SERIES = {
+  classical: { label: "Classical", color: "#4A7856" },
+  rapid:     { label: "Rapid",     color: "#23312B" },
+  blitz:     { label: "Blitz",     color: "#A6402F" },
+  bullet:    { label: "Bullet",    color: "#8A7B4F" }
+};
+
+let DATA = null;
+let MAP = [];        // data/map.json — the concept → chapter routing rules
+let LIBRARY = [];    // data/library.json — chapter notes, one entry per chapter
+let VIEW = "overview";
+let HIDDEN = new Set();
+let LIB_BOOK = "all";
+
+/* ---------- sample reference content (toggle only) ---------- */
+function sampleMap() {
+  return [
+    { rule:"Material dropped, moves 10–20", threshold:"≥40% of losses", book:"The Amateur's Mind", chapter:"ch. 3 — Minor pieces" },
+    { rule:"No plan after the opening",     threshold:"≥3 games running", book:"The Amateur's Mind", chapter:"ch. 1–2 — Imbalances" },
+    { rule:"Won position not converted",    threshold:"≥2 in a week",    book:"Silman's Complete Endgame Course", chapter:"Class D / Class C sections" },
+    { rule:"Under 8s on the losing move",   threshold:"median across losses", book:"Perpetual Chess Improvement", chapter:"ch. on practical play" },
+    { rule:"Same opening losing repeatedly", threshold:"≥3 games, one ECO", book:"Logical Chess: Move by Move", chapter:"games matching the structure" },
+    { rule:"Back-rank or loose-piece motif", threshold:"≥2 in a week",    book:"Logical Chess: Move by Move", chapter:"games 4, 7, 11" }
+  ];
+}
+
+function sampleLibrary() {
+  return [
+    { book:"The Amateur's Mind", author:"Jeremy Silman", ref:"ch. 1", title:"The concept of imbalances",
+      tags:["planning","evaluation"],
+      note:"Silman's opening claim is that every position contains a set of differences between the two sides — pawn structure, minor pieces, space, material, open lines, development, initiative — and that these differences, not general principles, dictate the plan. The practical instruction is to stop hunting for a move until you can name the imbalances out loud. Most amateur errors trace back to a plan chosen before the position was read." },
+    { book:"The Amateur's Mind", author:"Jeremy Silman", ref:"ch. 3", title:"Minor pieces: knights and bishops",
+      tags:["trades","structure","middlegame"],
+      note:"The argument is that amateurs treat minor pieces as interchangeable point-values rather than pieces whose worth is set by the structure around them. A knight with a protected outpost on the sixth rank is not a three-point piece; a bishop staring at its own pawn chain is not one either. The habit he asks for is to name, before every trade, which piece the structure actually favours — and to decline the trade when the answer is not yours." },
+    { book:"The Amateur's Mind", author:"Jeremy Silman", ref:"ch. 6", title:"The curse of the mindless king-hunter",
+      tags:["attack","psychology"],
+      note:"A diagnosis of the habit of attacking the enemy king because checkmate is the object of the game, regardless of whether anything in the position supports an attack. Silman's counter is that the imbalances tell you which sector of the board is yours, and that playing on the wrong wing hands the opponent a free hand on the right one." },
+    { book:"Silman's Complete Endgame Course", author:"Jeremy Silman", ref:"Class D", title:"Endgames for 1200–1399",
+      tags:["endgame","conversion"],
+      note:"The band covering basic king-and-pawn technique, opposition, and the square of the pawn. The book's structuring principle is that you read only your own rating band and then close it — everything above is theory you will not use yet and will not retain." },
+    { book:"Logical Chess: Move by Move", author:"Irving Chernev", ref:"game 4", title:"Kingside attack from a healthy centre",
+      tags:["attack","development"],
+      note:"Chernev annotates every move, including the obvious ones, which is the point — you see the reasoning behind moves that other authors skip. This game illustrates why an attack needs a stable centre behind it before it starts." },
+    { book:"Perpetual Chess Improvement", author:"Ben Johnson", ref:"ch. 5", title:"How adult improvers actually train",
+      tags:["training","habits"],
+      note:"Synthesised from interviews with dozens of amateurs who moved their ratings meaningfully. The recurring findings: daily beats binge, tactics stay in the rotation permanently, long time controls produce the games worth reviewing, and almost everyone who improved analysed their own losses before touching an engine." }
+  ];
+}
+
+/* ---------- empty scaffold ---------- */
+function emptyData() {
+  return {
+    generated: null,
+    player: CONFIG.lichessUser,
+    week: null,
+    assignment: null,
+    ratings: { weeks: [], series: {} },
+    perf: {},
+    needsAnalysis: [],
+    games: [],
+    archive: []
+  };
+}
+
+/* ---------- sample data (toggle only) ---------- */
+function sampleData() {
+  const weeks = ["Aug 4","Aug 11","Aug 18","Aug 25","Sep 1","Sep 8"];
+  return {
+    generated: "2026-09-14T09:23:00Z",
+    player: CONFIG.lichessUser,
+    week: { id: "2026-W37", label: "Sep 8 – Sep 14" },
+    assignment: {
+      chapter: "The Amateur's Mind, ch. 3",
+      trigger: "material dropped in the middlegame",
+      why: "You lost material between moves 12 and 16 in <b>4 of 5</b> games, spending a median of <b>6 seconds</b> on the losing move.",
+      gist: "Silman's argument in this chapter is that amateurs treat minor pieces as interchangeable point-values rather than as pieces whose worth is set by the position around them. A knight with a protected outpost on the sixth rank is not a three-point piece. A bishop staring at its own pawn chain is not a three-point piece either. The practical habit he asks for is to name, before every trade, which of the two pieces the structure actually favours — and to decline the trade when the answer is not yours."
+    },
+    ratings: {
+      weeks,
+      series: {
+        rapid:     [1142,1156,1149,1171,1168,1194],
+        blitz:     [1099,1088,1104,1096,1117,1112],
+        classical: [null,null,1180,1176,1201,1214],
+        bullet:    [981,974,969,988,979,991]
+      }
+    },
+    perf: {
+      overview:  { games:17, w:7, l:9, d:1, collapseMove:14, secsOnBlunder:6.2, phase:"Middlegame", phasePct:64, confidence:"low" },
+      rapid:     { games:8,  w:4, l:4, d:0, collapseMove:16, secsOnBlunder:11.4, phase:"Middlegame", phasePct:58, confidence:"low" },
+      blitz:     { games:6,  w:2, l:4, d:0, collapseMove:12, secsOnBlunder:3.1,  phase:"Middlegame", phasePct:71, confidence:"low" },
+      classical: { games:2,  w:1, l:1, d:0, collapseMove:31, secsOnBlunder:44.0, phase:"Endgame",    phasePct:50, confidence:"low" },
+      bullet:    { games:1,  w:0, l:0, d:1, collapseMove:9,  secsOnBlunder:1.2,  phase:"Opening",    phasePct:100, confidence:"low" }
+    },
+    needsAnalysis: [
+      { id:"TdZbWwtk", tc:"5+0",   when:"Sep 12", perf:"blitz" },
+      { id:"a1B2c3D4", tc:"15+10", when:"Sep 13", perf:"rapid" },
+      { id:"z9Y8x7W6", tc:"15+10", when:"Sep 14", perf:"rapid" }
+    ],
+    games: [
+      { id:"z9Y8x7W6", when:"Sep 14", perf:"rapid",     tc:"15+10", color:"White", opp:"Astryx96",  oppRating:1188, result:"l", opening:"Italian Game",       collapseMove:16, secs:9.2,  analysed:false },
+      { id:"a1B2c3D4", when:"Sep 13", perf:"rapid",     tc:"15+10", color:"Black", opp:"pawnstorm",  oppRating:1150, result:"w", opening:"Caro-Kann",          collapseMove:null, secs:null, analysed:false },
+      { id:"TdZbWwtk", when:"Sep 12", perf:"blitz",     tc:"5+0",   color:"White", opp:"Astryx96",  oppRating:1102, result:"l", opening:"Queen's Pawn",       collapseMove:14, secs:4.1,  analysed:false },
+      { id:"k4L5m6N7", when:"Sep 11", perf:"classical", tc:"30+20", color:"Black", opp:"endgamer",   oppRating:1205, result:"w", opening:"French Defence",     collapseMove:null, secs:null, analysed:true },
+      { id:"p8Q9r0S1", when:"Sep 10", perf:"rapid",     tc:"15+10", color:"White", opp:"NightMoves", oppRating:1163, result:"l", opening:"London System",      collapseMove:13, secs:5.8,  analysed:true },
+      { id:"t2U3v4W5", when:"Sep 9",  perf:"blitz",     tc:"5+0",   color:"Black", opp:"blunderbus", oppRating:1090, result:"l", opening:"Sicilian, Alapin",   collapseMove:11, secs:2.4,  analysed:true }
+    ],
+    archive: [
+      { id:"2026-W37", label:"Sep 8 – Sep 14" },
+      { id:"2026-W36", label:"Sep 1 – Sep 7" },
+      { id:"2026-W35", label:"Aug 25 – Aug 31" },
+      { id:"2026-W34", label:"Aug 18 – Aug 24" }
+    ]
+  };
+}
+
+/* ============================================================
+   Chart
+   ============================================================ */
+function drawChart(ratings) {
+  const svg = document.getElementById("chart");
+  const W = 760, H = 260, padL = 46, padR = 16, padT = 16, padB = 34;
+  svg.innerHTML = "";
+
+  const weeks = ratings.weeks || [];
+  const active = Object.keys(SERIES).filter(k =>
+    !HIDDEN.has(k) && Array.isArray(ratings.series?.[k]) && ratings.series[k].some(v => v != null)
+  );
+
+  if (!weeks.length || !active.length) {
+    svg.insertAdjacentHTML("beforeend",
+      `<text x="${W/2}" y="${H/2}" text-anchor="middle" class="axis-text"
+         style="font-size:13px">No rating history yet</text>`);
+    return;
+  }
+
+  let vals = [];
+  active.forEach(k => ratings.series[k].forEach(v => { if (v != null) vals.push(v); }));
+  let lo = Math.min(...vals), hi = Math.max(...vals);
+  const pad = Math.max(25, Math.round((hi - lo) * 0.25));
+  lo = Math.floor((lo - pad) / 25) * 25;
+  hi = Math.ceil((hi + pad) / 25) * 25;
+
+  const x = i => padL + (weeks.length === 1 ? (W - padL - padR) / 2
+                : i * (W - padL - padR) / (weeks.length - 1));
+  const y = v => padT + (hi - v) * (H - padT - padB) / (hi - lo);
+
+  // horizontal gridlines + y labels
+  const ticks = 4;
+  for (let t = 0; t <= ticks; t++) {
+    const v = lo + (hi - lo) * t / ticks;
+    const yy = y(v);
+    svg.insertAdjacentHTML("beforeend",
+      `<line class="grid-line" x1="${padL}" y1="${yy}" x2="${W - padR}" y2="${yy}"/>
+       <text class="axis-text" x="${padL - 9}" y="${yy + 3.5}" text-anchor="end">${Math.round(v)}</text>`);
+  }
+
+  // x labels
+  weeks.forEach((w, i) => {
+    svg.insertAdjacentHTML("beforeend",
+      `<text class="axis-text" x="${x(i)}" y="${H - padB + 20}" text-anchor="middle">${w}</text>`);
+  });
+
+  // series
+  active.forEach(k => {
+    const pts = ratings.series[k]
+      .map((v, i) => v == null ? null : [x(i), y(v)])
+      .filter(Boolean);
+    if (!pts.length) return;
+    const d = pts.map((p, i) => (i ? "L" : "M") + p[0].toFixed(1) + " " + p[1].toFixed(1)).join(" ");
+    svg.insertAdjacentHTML("beforeend",
+      `<path class="series-path" d="${d}" stroke="${SERIES[k].color}"/>`);
+    pts.forEach(p => {
+      svg.insertAdjacentHTML("beforeend",
+        `<circle class="series-dot" cx="${p[0].toFixed(1)}" cy="${p[1].toFixed(1)}" r="3.5" fill="${SERIES[k].color}"/>`);
+    });
+  });
+}
+
+function drawLegend(ratings) {
+  const ul = document.getElementById("legend");
+  ul.innerHTML = "";
+  Object.entries(SERIES).forEach(([k, s]) => {
+    const has = Array.isArray(ratings.series?.[k]) && ratings.series[k].some(v => v != null);
+    const li = document.createElement("li");
+    li.className = HIDDEN.has(k) || !has ? "off" : "";
+    li.innerHTML = `<span class="swatch" style="background:${s.color}"></span>${s.label}`;
+    if (has) {
+      li.style.cursor = "pointer";
+      li.onclick = () => {
+        HIDDEN.has(k) ? HIDDEN.delete(k) : HIDDEN.add(k);
+        drawChart(DATA.ratings); drawLegend(DATA.ratings);
+      };
+    }
+    ul.appendChild(li);
+  });
+}
+
+/* ============================================================
+   Panels
+   ============================================================ */
+function renderActionBar() {
+  const n = (DATA.needsAnalysis || []).length;
+  const btn = document.getElementById("btn-analyze");
+  document.getElementById("analyze-count").textContent = n;
+  document.getElementById("analyze-label").textContent =
+    n === 1 ? "game needs analysis" : "games need analysis";
+  btn.classList.toggle("hidden", n === 0);
+  if (n) btn.href = `https://lichess.org/${DATA.needsAnalysis[0].id}`;
+
+  const repull = document.getElementById("btn-repull");
+  repull.href = CONFIG.workflowUrl;
+  repull.target = "_blank";
+  repull.rel = "noopener";
+
+  document.getElementById("week-label").textContent =
+    DATA.week ? DATA.week.label : "No week loaded";
+}
+
+function renderGate() {
+  const gate = document.getElementById("gate");
+  const perf = DATA.perf?.[VIEW === "overview" ? "overview" : VIEW];
+  const total = perf?.games || 0;
+
+  if (!DATA.generated) { gate.classList.add("hidden"); return; }
+  if (total >= CONFIG.minGamesForDiagnosis) { gate.classList.add("hidden"); return; }
+
+  gate.classList.remove("hidden");
+  document.getElementById("gate-text").innerHTML =
+    `<strong>${total} game${total === 1 ? "" : "s"} in this bucket.</strong> ` +
+    `Small sample: use the readings as foundational practice. Game counts alone do not diagnose a weakness.`;
+}
+
+function renderAssignment() {
+  if (renderStudyPlan()) return;
+  const el = document.getElementById("assignment");
+  const perf = DATA.perf?.[VIEW === "overview" ? "overview" : VIEW];
+  const enough = (perf?.games || 0) >= CONFIG.minGamesForDiagnosis;
+
+  if (!DATA.generated) {
+    el.innerHTML = `
+      <div class="empty" style="padding:34px 8px">
+        <h4>Nothing pulled yet</h4>
+        <p>The Monday job hasn't written <span class="needs">data/latest.json</span>. Once it has, this is where the week's single reading assignment lands.</p>
+        <div class="steps">
+          1 &nbsp;play three games at 15+10<br>
+          2 &nbsp;request analysis on each from lichess<br>
+          3 &nbsp;wait for Monday, or hit Repull this week
+        </div>
+      </div>`;
+    return;
+  }
+
+  if (!enough || !DATA.assignment) {
+    el.innerHTML = `
+      <p class="kicker">This week</p>
+      <h4>No assignment yet</h4>
+      <p class="why">Play more games and this fills in. Meanwhile the honest instruction hasn't changed:
+        <b>check every move for checks and captures</b>, and take the full clock you're given.</p>`;
+    return;
+  }
+
+  const a = DATA.assignment;
+  el.innerHTML = `
+    <p class="kicker">This week, because of ${a.trigger}</p>
+    <h4>${a.chapter}</h4>
+    <p class="why">${a.why}</p>
+    ${a.gist ? `<div class="gist">${a.gist}</div>` : ""}`;
+}
+
+function renderStats() {
+  const wrap = document.getElementById("stats");
+  const key = VIEW === "overview" ? "overview" : VIEW;
+  const p = DATA.perf?.[key];
+  document.getElementById("stats-scope").textContent =
+    VIEW === "overview" ? "all time controls" : SERIES[VIEW]?.label.toLowerCase() || "";
+
+  if (!p) {
+    wrap.innerHTML = `<div class="card empty" style="grid-column:1/-1">
+      <h4>No games in this bucket</h4>
+      <p>Play a few and the breakdown appears here.</p></div>`;
+    return;
+  }
+
+  const cards = [
+    { k:"Games", v:p.games, sub:`${p.w}W · ${p.l}L · ${p.d}D` },
+    { k:"Flagged review move", v:p.collapseMove ?? "—", sub:"median of each game's strongest review cue" },
+    { k:"Time on review moves", v:p.secsOnBlunder != null ? p.secsOnBlunder.toFixed(1) : "—",
+      sub:"median seconds, when clocks are available", warn: false },
+    { k:"Analysis", v:DATA.games?.filter(g => g.analysed && (VIEW === "overview" || g.perf === VIEW)).length ?? 0,
+      sub:"games reviewed by engine", small:true }
+  ];
+
+  wrap.innerHTML = cards.map(c => `
+    <div class="card stat">
+      <div class="k">${c.k}</div>
+      <div class="v${c.warn ? " warn" : ""}"${c.small ? ' style="font-size:22px"' : ""}>${c.v}</div>
+      ${c.sub ? `<div class="sub">${c.sub}</div>` : ""}
+    </div>`).join("");
+}
+
+function renderGames() {
+  const card = document.getElementById("games-card");
+  const all = DATA.games || [];
+  const rows = VIEW === "overview" ? all : all.filter(g => g.perf === VIEW);
+  document.getElementById("games-hint").textContent =
+    rows.length ? `${rows.length} this week` : "";
+
+  if (!rows.length) {
+    card.innerHTML = `<div class="empty">
+      <h4>${DATA.generated ? "No games in this bucket" : "The scoresheet is blank"}</h4>
+      <p>${DATA.generated
+        ? "Nothing played at this time control during the week shown."
+        : "Games appear here after the first successful pull."}</p></div>`;
+    return;
+  }
+
+  card.innerHTML = `
+    <table>
+      <thead><tr>
+        <th>Played</th><th>Control</th><th>As</th><th>Opponent</th>
+        <th>Opening</th><th>Review move</th><th>Result</th><th></th>
+      </tr></thead>
+      <tbody>
+        ${rows.map(g => `
+          <tr>
+            <td class="num">${g.when}</td>
+            <td class="num">${g.tc}</td>
+            <td class="tag">${g.color}</td>
+            <td>${g.opp} <span class="tag">${g.oppRating ?? ""}</span></td>
+            <td class="tag">${g.opening}</td>
+            <td class="num">${g.collapseMove ? `${g.collapseMove}. &nbsp;${g.secs != null ? g.secs.toFixed(1) + "s" : ""}` : "—"}</td>
+            <td><span class="res ${g.result}">${g.result.toUpperCase()}</span></td>
+            <td>${g.analysed
+              ? `<a class="tag" href="https://lichess.org/${g.id}" target="_blank" rel="noopener">open</a>`
+              : `<a class="needs" href="https://lichess.org/${g.id}" target="_blank" rel="noopener">analyse</a>`}</td>
+          </tr>`).join("")}
+      </tbody>
+    </table>`;
+}
+
+/* ---------- study map ---------- */
+function renderMap() {
+  const card = document.getElementById("map-card");
+  if (!MAP.length) {
+    card.innerHTML = `<div class="empty">
+      <h4>Foundational study is active</h4>
+      <p>Your weekly plan selects verified readings by prerequisites and study history.
+         Specific weakness rules will appear here when supported by reviewed game patterns.</p>
+    </div>`;
+    return;
+  }
+  card.innerHTML = `
+    <table class="maptable">
+      <thead><tr><th>When this shows up</th><th>Threshold</th><th>Go read</th></tr></thead>
+      <tbody>
+        ${MAP.map(r => `
+          <tr>
+            <td class="rule">${r.rule}</td>
+            <td class="thresh">${r.threshold || "—"}</td>
+            <td class="dest"><span class="book">${r.book}</span><span class="ch">${r.chapter}</span></td>
+          </tr>`).join("")}
+      </tbody>
+    </table>`;
+}
+
+/* ---------- study material ---------- */
+function renderLibChips() {
+  const box = document.getElementById("lib-chips");
+  const books = [...new Set(LIBRARY.map(e => e.book))];
+  if (!books.length) { box.innerHTML = ""; return; }
+  box.innerHTML =
+    [["all", "All books"], ...books.map(b => [b, b])]
+      .map(([v, label]) =>
+        `<button class="chip" data-book-index="${v === 'all' ? -1 : books.indexOf(v)}"
+           aria-pressed="${LIB_BOOK === v}">${label}</button>`).join("");
+  box.querySelectorAll(".chip").forEach(c => {
+    c.onclick = () => { LIB_BOOK = Number(c.dataset.bookIndex) < 0 ? 'all' : books[Number(c.dataset.bookIndex)]; renderLibChips(); renderLibrary(); };
+  });
+}
+
+function renderLibrary() {
+  const out = document.getElementById("lib-results");
+  const q = (document.getElementById("lib-search").value || "").trim().toLowerCase();
+
+  if (!LIBRARY.length) {
+    out.innerHTML = `<div class="card empty">
+      <h4>No notes yet</h4>
+      <p>This fills from <span class="needs">data/library.json</span> — one entry per chapter, each with a
+         short note you can read in under a minute. The book itself stays on the shelf.</p>
+      <div class="steps">{ "book": "…", "ref": "ch. 3", "title": "…",<br>&nbsp;&nbsp;"tags": ["…"], "note": "…" }</div>
+    </div>`;
+    return;
+  }
+
+  const hits = LIBRARY.filter(e => {
+    if (LIB_BOOK !== "all" && e.book !== LIB_BOOK) return false;
+    if (!q) return true;
+    return [e.book, e.ref, e.title, e.note, (e.tags || []).join(" ")]
+      .join(" ").toLowerCase().includes(q);
+  });
+
+  if (!hits.length) {
+    out.innerHTML = `<div class="card empty">
+      <h4>Nothing matches “${q.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}”</h4>
+      <p>Try a shorter word, or clear the book filter.</p></div>`;
+    return;
+  }
+
+  const byBook = {};
+  hits.forEach(e => (byBook[e.book] = byBook[e.book] || []).push(e));
+
+  out.innerHTML = Object.entries(byBook).map(([book, entries]) => `
+    <div class="book">
+      <h4>${book}<span class="n">${entries.length}</span></h4>
+      <p class="auth">${entries[0].author || ""}</p>
+      ${entries.map(e => `
+        <details class="entry">
+          <summary>
+            <span class="ref">${e.ref || ""}</span>
+            <span class="ttl">${e.title || ""}</span>
+            <span class="tags">${(e.tags || []).join(" · ")}</span>
+          </summary>
+          <div class="body">${e.note || ""}</div>
+        </details>`).join("")}
+    </div>`).join("");
+}
+
+function renderNavCounts() {
+  const set = (id, v) => { const e = document.getElementById(id); if (e) e.textContent = v ?? "—"; };
+  set("c-all", DATA.perf?.overview?.games);
+  ["classical","rapid","blitz","bullet"].forEach(k => set("c-" + k, DATA.perf?.[k]?.games));
+  set("c-map", MAP.length || null);
+  set("c-library", LIBRARY.length || null);
+}
+
+function renderArchive() {
+  const box = document.getElementById("archive-list");
+  const weeks = DATA.archive || [];
+  if (!weeks.length) {
+    box.innerHTML = `<div style="padding:6px 10px;font-size:13px;color:var(--ink-faint)">No past weeks</div>`;
+    return;
+  }
+  box.innerHTML = '<a class="navitem" href="./">Latest week</a>' + weeks.map((w, i) => `
+    <a class="navitem" href="?week=${encodeURIComponent(w.id)}"${i === 0 ? ' aria-current="false"' : ""}>
+      ${w.label}
+    </a>`).join("");
+}
+
+function renderStamp() {
+  const s = document.getElementById("stamp");
+  document.getElementById("brand-who").textContent = `lichess / ${DATA.player || CONFIG.lichessUser}`;
+  s.textContent = DATA.generated
+    ? "Pulled " + new Date(DATA.generated).toLocaleString(undefined,
+        { weekday:"short", month:"short", day:"numeric", hour:"numeric", minute:"2-digit" })
+    : "No data pulled yet";
+}
+
+function renderAll() {
+  renderCurrentRatings();
+  renderStamp();
+  renderNavCounts();
+  renderArchive();
+  renderActionBar();
+  drawChart(DATA.ratings);
+  drawLegend(DATA.ratings);
+  renderGate();
+  renderAssignment();
+  renderStats();
+  renderGames();
+  renderMap();
+  renderLibChips();
+  renderLibrary();
+}
+
+/* Show one pane; the four time-control views all share the week pane. */
+function showPane(view) {
+  const ref = view === "map" || view === "library";
+  document.getElementById("pane-week").classList.toggle("on", !ref);
+  document.getElementById("pane-map").classList.toggle("on", view === "map");
+  document.getElementById("pane-library").classList.toggle("on", view === "library");
+  if (view === "library") document.getElementById("lib-search").focus({ preventScroll: true });
+}
+
+/* ============================================================
+   Wiring
+   ============================================================ */
+document.querySelectorAll(".navitem[data-view]").forEach(b => {
+  b.addEventListener("click", () => {
+    document.querySelectorAll(".navitem[data-view]")
+      .forEach(x => x.setAttribute("aria-current", "false"));
+    b.setAttribute("aria-current", "true");
+    const v = b.dataset.view;
+    showPane(v);
+    if (v === "map" || v === "library") return;   // reference panes render once, on load
+    VIEW = v;
+    renderGate(); renderAssignment(); renderStats(); renderGames();
+  });
+});
+
+document.getElementById("lib-search").addEventListener("input", renderLibrary);
+
+document.getElementById("demo-toggle").addEventListener("change", e => {
+  if (e.target.checked) {
+    DATA = sampleData();
+    MAP = window.__map?.length ? window.__map : sampleMap();
+    LIBRARY = window.__library?.length ? window.__library : sampleLibrary();
+  } else {
+    DATA = window.__live || emptyData();
+    MAP = window.__map || [];
+    LIBRARY = window.__library || [];
+  }
+  HIDDEN.clear(); LIB_BOOK = "all";
+  renderAll();
+});
+
+async function loadJSON(path) {
+  try {
+    const res = await fetch(path, { cache: "no-store" });
+    return res.ok ? await res.json() : null;
+  } catch (_) {
+    return null;   // file not written yet — the empty state is the correct view
+  }
+}
+
+(async function init() {
+  DATA = emptyData();
+  renderAll();
+
+  const requestedWeek = new URLSearchParams(location.search).get('week');
+  const archived = requestedWeek && /^\d{4}-W(0[1-9]|[1-4][0-9]|5[0-3])$/.test(requestedWeek);
+  const [live, map, library] = await Promise.all([
+    loadJSON(archived ? `./data/dashboard/${requestedWeek}.json` : "./data/latest.json"),
+    loadJSON("./data/map.json"),
+    loadJSON("./data/library.json")
+  ]);
+  await loadStudyContext(live);
+  if (archived && !live) document.getElementById('week-label').textContent = 'Archived week unavailable';
+
+  window.__live = live;
+  window.__map = Array.isArray(map) ? map : [];
+  window.__library = Array.isArray(library) ? library : [];
+
+  if (!document.getElementById("demo-toggle").checked) {
+    if (live) DATA = live;
+    MAP = window.__map;
+    LIBRARY = window.__library;
+    renderAll();
+  }
+})();
+</script>
+</body>
+</html>

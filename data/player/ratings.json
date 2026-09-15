@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "date": "2026-09-15",
+      "fetchedAt": "2026-09-15T10:43:49.373082Z",
+      "ratings": {
+        "classical": null,
+        "rapid": {
+          "rating": 1247,
+          "games": 26,
+          "provisional": true
+        },
+        "blitz": {
+          "rating": 1017,
+          "games": 283,
+          "provisional": true
+        },
+        "bullet": {
+          "rating": 873,
+          "games": 73,
+          "provisional": true
+        }
+      }
+    }
+  ]
+}
