@@ -6,63 +6,72 @@
       "title": "1001 Deadly Checkmates",
       "authors": [
         "John Nunn"
-      ]
+      ],
+      "edition": "Gambit, first published 2011"
     },
     {
       "id": "nimzovich-my-system-1964",
       "title": "My System: A Treatise on Chess",
       "authors": [
         "Aron Nimzovich"
-      ]
+      ],
+      "edition": "Revised edition 1947; reprinted August 1964; edited by Fred Reinfeld"
     },
     {
       "id": "silman-amateurs-mind-1999",
       "title": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
       "authors": [
         "Jeremy Silman"
-      ]
+      ],
+      "edition": "2nd edition / expanded"
     },
     {
       "id": "kotov-think-grandmaster-algebraic",
       "title": "Think Like a Grandmaster",
       "authors": [
         "Alexander Kotov"
-      ]
+      ],
+      "edition": "First algebraic edition 1995; supplied scan lists reprints through 2004"
     },
     {
       "id": "shereshevsky-endgame-strategy-1985",
       "title": "Endgame Strategy",
       "authors": [
         "M. I. Shereshevsky"
-      ]
+      ],
+      "edition": "English translation by K. P. Neat; first edition"
     },
     {
       "id": "silman-complete-endgame-course-2007",
       "title": "Silman’s Complete Endgame Course: From Beginner to Master",
       "authors": [
         "Jeremy Silman"
-      ]
+      ],
+      "edition": "Siles Press ebook, copyright 2007"
     },
     {
       "id": "erwich-club-exercises-2019",
       "title": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
       "authors": [
         "Frank Erwich"
-      ]
+      ],
+      "edition": "New In Chess, copyright 2019"
     },
     {
       "id": "chernev-logical-chess-2018",
       "title": "Logical Chess: Move by Move",
       "authors": [
         "Irving Chernev"
-      ]
+      ],
+      "edition": "Graymalkin Media ebook edition 2018; copyright 1998"
     },
     {
       "id": "flores-rios-chess-structures-2015",
       "title": "Chess Structures: A Grandmaster Guide",
       "authors": [
         "Mauricio Flores Rios"
-      ]
+      ],
+      "edition": "Quality Chess, first edition"
     }
   ]
 }

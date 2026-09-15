@@ -1,5 +1,6 @@
 [
   {
+    "chapterId": "chernev-introduction",
     "book": "Logical Chess: Move by Move",
     "author": "Irving Chernev",
     "ref": "Introduction; supplied TXT lines 48-123",
@@ -20,6 +21,7 @@
     "activities": []
   },
   {
+    "chapterId": "erwich-capture-deflect",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Eliminating defenders: capture, attack and deflection; PDF 8-11",
@@ -68,6 +70,7 @@
     ]
   },
   {
+    "chapterId": "erwich-interference-blocking",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Interference, blocked escapes and tactical preparation; PDF 11-13",
@@ -102,6 +105,7 @@
     ]
   },
   {
+    "chapterId": "erwich-double-attack-targets",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Double attacks: targets, luring and clearance; PDF 74-75",
@@ -150,6 +154,7 @@
     ]
   },
   {
+    "chapterId": "erwich-double-attack-defenders",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Preparing a double attack by removing defenders; PDF 75-76",
@@ -183,6 +188,7 @@
     ]
   },
   {
+    "chapterId": "erwich-double-attack-move-order",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Decoys, intermediate checks and precise move order; PDF 76-78",
@@ -231,6 +237,7 @@
     ]
   },
   {
+    "chapterId": "erwich-double-attack-practice",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Double-attack practice: exercises 123-124; PDF 79-80",
@@ -264,6 +271,7 @@
     ]
   },
   {
+    "chapterId": "erwich-discovered-batteries",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Discovered attacks: batteries and counterattacks; PDF 116-117",
@@ -297,6 +305,7 @@
     ]
   },
   {
+    "chapterId": "erwich-discovered-decoy",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Discovered attacks: decoying the king onto a file; PDF 117-118",
@@ -330,6 +339,7 @@
     ]
   },
   {
+    "chapterId": "erwich-discovered-follow-through",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Discovered attacks: finishing with an intermediate check; PDF 118-119",
@@ -377,6 +387,7 @@
     ]
   },
   {
+    "chapterId": "erwich-discovered-setup",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Discovered attacks: building a battery and distinguishing double check; PDF 119-120",
@@ -425,6 +436,7 @@
     ]
   },
   {
+    "chapterId": "erwich-discovered-practice-196",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Discovered-attack practice: exercise 196; PDF 120-120",
@@ -459,6 +471,7 @@
     ]
   },
   {
+    "chapterId": "erwich-double-check-practice-217",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Double-check practice: exercise 217; PDF 131-131",
@@ -493,6 +506,7 @@
     ]
   },
   {
+    "chapterId": "erwich-skewer-move-order",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Skewers: alignment, defenders and move order; PDF 144-145",
@@ -541,6 +555,7 @@
     ]
   },
   {
+    "chapterId": "erwich-skewer-practice-242",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Skewer practice: exercise 242 and the quiet approach; PDF 145-145",
@@ -574,6 +589,7 @@
     ]
   },
   {
+    "chapterId": "erwich-skewer-practice-243",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Skewer practice: exercise 243 and the king lure; PDF 146-146",
@@ -607,6 +623,7 @@
     ]
   },
   {
+    "chapterId": "erwich-skewer-practice-245",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Skewer practice: exercise 245 from Black&#x27;s side; PDF 147-147",
@@ -641,6 +658,7 @@
     ]
   },
   {
+    "chapterId": "erwich-pin-exploitation",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Pins: restrictions and attacking the pinned piece; PDF 164-164",
@@ -674,6 +692,7 @@
     ]
   },
   {
+    "chapterId": "erwich-pin-accuracy-defense",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Pins and unpinning: accurate pressure and counterplay; PDF 165-166",
@@ -722,6 +741,7 @@
     ]
   },
   {
+    "chapterId": "erwich-pin-preparation",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Pins: preparing the front and rear targets; PDF 166-168",
@@ -769,6 +789,7 @@
     ]
   },
   {
+    "chapterId": "erwich-cross-pin",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Cross-pins: two restrictions and intermediate checks; PDF 168-169",
@@ -802,6 +823,7 @@
     ]
   },
   {
+    "chapterId": "erwich-pin-practice-278",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Pin practice: exercise 278 and legal movement along a pin; PDF 170-170",
@@ -835,6 +857,7 @@
     ]
   },
   {
+    "chapterId": "erwich-pin-practice-280",
     "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
     "author": "Frank Erwich",
     "ref": "Pin practice: exercise 280 and a rook drawn onto the diagonal; PDF 171-171",
@@ -868,6 +891,7 @@
     ]
   },
   {
+    "chapterId": "flores-structure-study",
     "book": "Chess Structures: A Grandmaster Guide",
     "author": "Mauricio Flores Rios",
     "ref": "Studying pawn structures across openings; pp. 9-11; PDF 10-12",
@@ -902,6 +926,7 @@
     ]
   },
   {
+    "chapterId": "flores-isolani-primer",
     "book": "Chess Structures: A Grandmaster Guide",
     "author": "Mauricio Flores Rios",
     "ref": "The isolani: plans for both sides; pp. 12; PDF 13-13",
@@ -939,6 +964,7 @@
     ]
   },
   {
+    "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
     "ref": "Analysis habits and training; pp. 15-24; PDF 14-23",
@@ -987,6 +1013,7 @@
     ]
   },
   {
+    "chapterId": "kotov-candidate-principles",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
     "ref": "Candidate selection: introductory principles; pp. 41-43; PDF 40-42",
@@ -1018,6 +1045,7 @@
     ]
   },
   {
+    "chapterId": "kotov-blumenfeld-rule",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
     "ref": "Return to the board: Blumenfeld’s rule; pp. 67-69; PDF 66-68",
@@ -1049,6 +1077,7 @@
     ]
   },
   {
+    "chapterId": "kotov-time-trouble",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
     "ref": "Time-trouble; pp. 76-79; PDF 75-78",
@@ -1080,6 +1109,7 @@
     ]
   },
   {
+    "chapterId": "nimzovich-development",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
     "ref": "Development and the pawn center; pp. 3-7; PDF 28-32",
@@ -1112,6 +1142,7 @@
     ]
   },
   {
+    "chapterId": "nimzovich-exchange-tempo",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
     "ref": "Exchanges that gain time; pp. 7-9; PDF 32-34",
@@ -1160,6 +1191,7 @@
     ]
   },
   {
+    "chapterId": "nimzovich-liquidation",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
     "ref": "Relieving central tension to finish development; pp. 9-12; PDF 34-37",
@@ -1195,6 +1227,7 @@
     ]
   },
   {
+    "chapterId": "nimzovich-mobile-center",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
     "ref": "The mobile center and its restraint; pp. 12-18; PDF 37-43",
@@ -1243,6 +1276,7 @@
     ]
   },
   {
+    "chapterId": "nimzovich-pawn-hunting",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
     "ref": "Pawn hunting and the central-pawn exception; pp. 18-20; PDF 43-45",
@@ -1275,6 +1309,7 @@
     ]
   },
   {
+    "chapterId": "nimzovich-unpinning-options",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
     "ref": "Unpinning: compare the defensive choices; pp. 116-117; PDF 139-140",
@@ -1322,6 +1357,7 @@
     ]
   },
   {
+    "chapterId": "nunn-mate-recognition",
     "book": "1001 Deadly Checkmates",
     "author": "John Nunn",
     "ref": "Learning to recognize mating patterns; pp. 6-8; PDF 7-9",
@@ -1353,6 +1389,7 @@
     ]
   },
   {
+    "chapterId": "nunn-elementary-one-move",
     "book": "1001 Deadly Checkmates",
     "author": "John Nunn",
     "ref": "Elementary mates: exercises 1-14; pp. 9-11; solutions 24; PDF 10-12",
@@ -1423,6 +1460,7 @@
     ]
   },
   {
+    "chapterId": "nunn-elementary-two-move",
     "book": "1001 Deadly Checkmates",
     "author": "John Nunn",
     "ref": "Elementary mates: exercises 15-24; pp. 11-12; solutions 24-25; PDF 12-13",
@@ -1481,6 +1519,7 @@
     ]
   },
   {
+    "chapterId": "shereshevsky-basic-principles",
     "book": "Endgame Strategy",
     "author": "M. I. Shereshevsky",
     "ref": "Basic Principles of Endgame Play; pp. 1-3; PDF 9-11",
@@ -1545,6 +1584,7 @@
     ]
   },
   {
+    "chapterId": "shereshevsky-king-centralization",
     "book": "Endgame Strategy",
     "author": "M. I. Shereshevsky",
     "ref": "Centralization of the King; pp. 4-11; PDF 12-19",
@@ -1581,6 +1621,7 @@
     ]
   },
   {
+    "chapterId": "amateurs-imbalances",
     "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
     "author": "Jeremy Silman",
     "ref": "The Imbalances, pp. 1-7; PDF 9-15",
@@ -1657,6 +1698,7 @@
     ]
   },
   {
+    "chapterId": "amateurs-minor-piece-rules",
     "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
     "author": "Jeremy Silman",
     "ref": "Rules of the Minor Pieces, pp. 9-16; PDF 16-23",
@@ -1724,6 +1766,7 @@
     ]
   },
   {
+    "chapterId": "silman-use-your-king",
     "book": "Silman’s Complete Endgame Course: From Beginner to Master",
     "author": "Jeremy Silman",
     "ref": "Part Two: Understanding the King / Use Your King!; PDF 80-83",
@@ -1755,6 +1798,7 @@
     ]
   },
   {
+    "chapterId": "silman-basic-opposition",
     "book": "Silman’s Complete Endgame Course: From Beginner to Master",
     "author": "Jeremy Silman",
     "ref": "Part Two: Opposition; PDF 84-89",
@@ -1790,6 +1834,7 @@
     ]
   },
   {
+    "chapterId": "silman-rook-pawns",
     "book": "Silman’s Complete Endgame Course: From Beginner to Master",
     "author": "Jeremy Silman",
     "ref": "Part Two: Rook-Pawns; PDF 90-92",
