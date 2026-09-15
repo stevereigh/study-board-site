@@ -1086,6 +1086,50 @@
       "crossrefIds": [
         "pawn-breaks--flores-stonewall-harika-adams"
       ]
+    },
+    {
+      "id": "study-center-control-grunfeld-formation-card",
+      "crossrefIds": [
+        "center-control--flores-grunfeld-overview"
+      ]
+    },
+    {
+      "id": "study-open-files-grunfeld-c-file",
+      "crossrefIds": [
+        "open-files--flores-grunfeld-karpov-kasparov"
+      ]
+    },
+    {
+      "id": "study-open-files-grunfeld-model-comparison",
+      "crossrefIds": [
+        "open-files--flores-grunfeld-so-flores",
+        "open-files--flores-grunfeld-karpov-kasparov"
+      ]
+    },
+    {
+      "id": "study-opening-to-middlegame-transition-grunfeld-entry-test",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--flores-grunfeld-hernandez-meier"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-grunfeld-successful-e5",
+      "crossrefIds": [
+        "pawn-breaks--flores-grunfeld-parligras-nepomniachtchi"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-grunfeld-e5-contrast",
+      "crossrefIds": [
+        "pawn-breaks--flores-grunfeld-vovk-volokitin",
+        "pawn-breaks--flores-grunfeld-parligras-nepomniachtchi"
+      ]
+    },
+    {
+      "id": "study-passed-pawns-grunfeld-remote-majority",
+      "crossrefIds": [
+        "passed-pawns--flores-grunfeld-vovk-volokitin"
+      ]
     }
   ]
 }

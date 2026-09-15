@@ -3630,6 +3630,281 @@
         "section": "Complete Dronavalli Harika-Michael Adams game and Chapter 6 final remarks; stop before Chapter 7 on PDF 123",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "center-control--flores-grunfeld-overview",
+      "chapterId": "flores-grunfeld-overview",
+      "locator": {
+        "pdfPageStart": 123,
+        "pdfPageEnd": 123,
+        "printedPages": "122",
+        "section": "Chapter 7 formation diagram and complete plan overview; the first annotated game begins on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-grunfeld-overview",
+      "chapterId": "flores-grunfeld-overview",
+      "locator": {
+        "pdfPageStart": 123,
+        "pdfPageEnd": 123,
+        "printedPages": "122",
+        "section": "Chapter 7 formation diagram and complete plan overview; the first annotated game begins on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-grunfeld-overview",
+      "chapterId": "flores-grunfeld-overview",
+      "locator": {
+        "pdfPageStart": 123,
+        "pdfPageEnd": 123,
+        "printedPages": "122",
+        "section": "Chapter 7 formation diagram and complete plan overview; the first annotated game begins on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-majorities--flores-grunfeld-overview",
+      "chapterId": "flores-grunfeld-overview",
+      "locator": {
+        "pdfPageStart": 123,
+        "pdfPageEnd": 123,
+        "printedPages": "122",
+        "section": "Chapter 7 formation diagram and complete plan overview; the first annotated game begins on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-grunfeld-karpov-kasparov",
+      "chapterId": "flores-grunfeld-karpov-kasparov",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 126,
+        "printedPages": "123-125",
+        "section": "Complete Anatoly Karpov-Garry Kasparov game and final remarks; stop before So-Flores Rios on PDF 127",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "center-control--flores-grunfeld-karpov-kasparov",
+      "chapterId": "flores-grunfeld-karpov-kasparov",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 126,
+        "printedPages": "123-125",
+        "section": "Complete Anatoly Karpov-Garry Kasparov game and final remarks; stop before So-Flores Rios on PDF 127",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-grunfeld-karpov-kasparov",
+      "chapterId": "flores-grunfeld-karpov-kasparov",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 126,
+        "printedPages": "123-125",
+        "section": "Complete Anatoly Karpov-Garry Kasparov game and final remarks; stop before So-Flores Rios on PDF 127",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-grunfeld-karpov-kasparov",
+      "chapterId": "flores-grunfeld-karpov-kasparov",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 126,
+        "printedPages": "123-125",
+        "section": "Complete Anatoly Karpov-Garry Kasparov game and final remarks; stop before So-Flores Rios on PDF 127",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-grunfeld-so-flores",
+      "chapterId": "flores-grunfeld-so-flores",
+      "locator": {
+        "pdfPageStart": 127,
+        "pdfPageEnd": 129,
+        "printedPages": "126-128",
+        "section": "Complete Wesley So-Mauricio Flores Rios game and final remarks; stop before Hernandez-Meier on PDF 130",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "center-control--flores-grunfeld-so-flores",
+      "chapterId": "flores-grunfeld-so-flores",
+      "locator": {
+        "pdfPageStart": 127,
+        "pdfPageEnd": 129,
+        "printedPages": "126-128",
+        "section": "Complete Wesley So-Mauricio Flores Rios game and final remarks; stop before Hernandez-Meier on PDF 130",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-grunfeld-so-flores",
+      "chapterId": "flores-grunfeld-so-flores",
+      "locator": {
+        "pdfPageStart": 127,
+        "pdfPageEnd": 129,
+        "printedPages": "126-128",
+        "section": "Complete Wesley So-Mauricio Flores Rios game and final remarks; stop before Hernandez-Meier on PDF 130",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-grunfeld-so-flores",
+      "chapterId": "flores-grunfeld-so-flores",
+      "locator": {
+        "pdfPageStart": 127,
+        "pdfPageEnd": 129,
+        "printedPages": "126-128",
+        "section": "Complete Wesley So-Mauricio Flores Rios game and final remarks; stop before Hernandez-Meier on PDF 130",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-grunfeld-hernandez-meier",
+      "chapterId": "flores-grunfeld-hernandez-meier",
+      "locator": {
+        "pdfPageStart": 130,
+        "pdfPageEnd": 132,
+        "printedPages": "129-131",
+        "section": "Complete Holden Hernandez-George Meier game and final remarks; the Parligras-Nepomniachtchi game begins on PDF 132",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "center-control--flores-grunfeld-hernandez-meier",
+      "chapterId": "flores-grunfeld-hernandez-meier",
+      "locator": {
+        "pdfPageStart": 130,
+        "pdfPageEnd": 132,
+        "printedPages": "129-131",
+        "section": "Complete Holden Hernandez-George Meier game and final remarks; the Parligras-Nepomniachtchi game begins on PDF 132",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-grunfeld-hernandez-meier",
+      "chapterId": "flores-grunfeld-hernandez-meier",
+      "locator": {
+        "pdfPageStart": 130,
+        "pdfPageEnd": 132,
+        "printedPages": "129-131",
+        "section": "Complete Holden Hernandez-George Meier game and final remarks; the Parligras-Nepomniachtchi game begins on PDF 132",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--flores-grunfeld-hernandez-meier",
+      "chapterId": "flores-grunfeld-hernandez-meier",
+      "locator": {
+        "pdfPageStart": 130,
+        "pdfPageEnd": 132,
+        "printedPages": "129-131",
+        "section": "Complete Holden Hernandez-George Meier game and final remarks; the Parligras-Nepomniachtchi game begins on PDF 132",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-grunfeld-parligras-nepomniachtchi",
+      "chapterId": "flores-grunfeld-parligras-nepomniachtchi",
+      "locator": {
+        "pdfPageStart": 132,
+        "pdfPageEnd": 134,
+        "printedPages": "131-133",
+        "section": "Complete M. Emilian Parligras-Ian Nepomniachtchi game and final remarks; stop before Vovk-Volokitin on PDF 135",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-grunfeld-parligras-nepomniachtchi",
+      "chapterId": "flores-grunfeld-parligras-nepomniachtchi",
+      "locator": {
+        "pdfPageStart": 132,
+        "pdfPageEnd": 134,
+        "printedPages": "131-133",
+        "section": "Complete M. Emilian Parligras-Ian Nepomniachtchi game and final remarks; stop before Vovk-Volokitin on PDF 135",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-grunfeld-parligras-nepomniachtchi",
+      "chapterId": "flores-grunfeld-parligras-nepomniachtchi",
+      "locator": {
+        "pdfPageStart": 132,
+        "pdfPageEnd": 134,
+        "printedPages": "131-133",
+        "section": "Complete M. Emilian Parligras-Ian Nepomniachtchi game and final remarks; stop before Vovk-Volokitin on PDF 135",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--flores-grunfeld-parligras-nepomniachtchi",
+      "chapterId": "flores-grunfeld-parligras-nepomniachtchi",
+      "locator": {
+        "pdfPageStart": 132,
+        "pdfPageEnd": 134,
+        "printedPages": "131-133",
+        "section": "Complete M. Emilian Parligras-Ian Nepomniachtchi game and final remarks; stop before Vovk-Volokitin on PDF 135",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-grunfeld-vovk-volokitin",
+      "chapterId": "flores-grunfeld-vovk-volokitin",
+      "locator": {
+        "pdfPageStart": 135,
+        "pdfPageEnd": 138,
+        "printedPages": "134-137",
+        "section": "Complete Yuri Vovk-Andrei Volokitin game and Chapter 7 final remarks; stop before Chapter 8 on PDF 139",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-grunfeld-vovk-volokitin",
+      "chapterId": "flores-grunfeld-vovk-volokitin",
+      "locator": {
+        "pdfPageStart": 135,
+        "pdfPageEnd": 138,
+        "printedPages": "134-137",
+        "section": "Complete Yuri Vovk-Andrei Volokitin game and Chapter 7 final remarks; stop before Chapter 8 on PDF 139",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-grunfeld-vovk-volokitin",
+      "chapterId": "flores-grunfeld-vovk-volokitin",
+      "locator": {
+        "pdfPageStart": 135,
+        "pdfPageEnd": 138,
+        "printedPages": "134-137",
+        "section": "Complete Yuri Vovk-Andrei Volokitin game and Chapter 7 final remarks; stop before Chapter 8 on PDF 139",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-majorities--flores-grunfeld-vovk-volokitin",
+      "chapterId": "flores-grunfeld-vovk-volokitin",
+      "locator": {
+        "pdfPageStart": 135,
+        "pdfPageEnd": 138,
+        "printedPages": "134-137",
+        "section": "Complete Yuri Vovk-Andrei Volokitin game and Chapter 7 final remarks; stop before Chapter 8 on PDF 139",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-grunfeld-vovk-volokitin",
+      "chapterId": "flores-grunfeld-vovk-volokitin",
+      "locator": {
+        "pdfPageStart": 135,
+        "pdfPageEnd": 138,
+        "printedPages": "134-137",
+        "section": "Complete Yuri Vovk-Andrei Volokitin game and Chapter 7 final remarks; stop before Chapter 8 on PDF 139",
+        "ebookLocation": null
+      }
     }
   ]
 }

@@ -2407,6 +2407,282 @@
     ]
   },
   {
+    "chapterId": "flores-grunfeld-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Grunfeld Centre: central majority against queenside pressure; pp. 122; PDF 123-123",
+    "title": "Grunfeld Centre: central majority against queenside pressure",
+    "tags": [
+      "grunfeld-centre",
+      "center-control",
+      "open-files",
+      "pawn-breaks",
+      "pawn-majorities"
+    ],
+    "note": "The structure usually arises after central exchanges in the Grunfeld, and can also appear from other openings. White keeps a central pawn majority and slightly more space; Black has a queenside majority and multiple opportunities to exchange pieces or reach a favorable ending. Because the d-pawns are commonly exchanged, the c-file becomes open and control of that file is often the position&#x27;s essential strategic contest.\n\nWhite may advance d4-d5 to create a central passer, support it with c4-c5, or launch a kingside attack with h-pawn play and e4-e5. The e5 advance can restrict Black&#x27;s g7 bishop and control f6, but it can also leave d5 weak and allow Black to neutralize the majority. Black seeks a queenside passed pawn after simplification, pressure against the center from the d-file, and active use of the c-file.\n\nThe center-versus-pressure comparison starts with files and piece placement, not a pawn count. White&#x27;s central mass is valuable only if it can advance or support an attack. Black&#x27;s queenside majority is valuable only if Black controls the entry routes, exchanges the right pieces, or reaches an ending where the remote passer matters.",
+    "keyIdeas": [
+      "The open c-file often decides whether White&#x27;s center or Black&#x27;s queenside becomes active.",
+      "White uses d4-d5/c4-c5 for a passer or e4-e5 for kingside space.",
+      "Black pressures the center and seeks a queenside passer after simplification.",
+      "Evaluate the pieces and open files before counting pawn majorities."
+    ],
+    "activities": [
+      {
+        "id": "study-center-control-grunfeld-formation-card",
+        "concept": "Center control",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Development",
+          "Piece activity"
+        ],
+        "instructions": "Read the formation overview on PDF 123. Make two columns for White&#x27;s central majority and Black&#x27;s queenside majority. Add the d5, c5, and e5 advances, the c- and d-files, and the favorable ending each side seeks.",
+        "successCheck": "Explain why the pawn count alone does not determine which side controls the center.",
+        "playReminders": [
+          "Which central advance is actually prepared, and which file opens afterward?",
+          "If the position simplifies, whose pawn majority and king improve?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-grunfeld-karpov-kasparov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Karpov-Kasparov: own the c-file before advancing; pp. 123-125; PDF 124-126",
+    "title": "Karpov-Kasparov: own the c-file before advancing",
+    "tags": [
+      "grunfeld-centre",
+      "open-files",
+      "center-control",
+      "passed-pawns",
+      "favorable-exchanges"
+    ],
+    "note": "Black has attacking and queenside resources, but loses the central contest by allowing White to take the c-file. Karpov places the rook on c1, advances d4-d5 only when it also secures c6, and then doubles major pieces on the file. Black&#x27;s attempts to block or contest the file fail because White&#x27;s pieces enter with tempo and the passed a-pawn remains a secondary issue.\n\nWhite deliberately exchanges accessory pieces while retaining the rooks that make the file advantage meaningful. A bishop trade clears c7 as an entry square; the rook invasion on c6 increases the pressure until Black has no counterplay. The game shows that a central advance and an open-file operation can be one plan rather than separate themes.\n\nKasparov&#x27;s move that ceded the c-file is presented as the decisive strategic error, but the conversion still requires accurate coordination. White improves the position before taking tactical action and uses the file to restrict every black resource.",
+    "keyIdeas": [
+      "Secure the c-file before committing the central advance.",
+      "Exchange pieces that block entry while retaining the major pieces that use the file.",
+      "d4-d5 can gain a square and create a passer at the same time.",
+      "An outside pawn is less urgent when the opponent has no active route."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-grunfeld-c-file",
+        "concept": "Open files",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Study Karpov-Kasparov on PDF 124-126. Track the first move that cedes the c-file, White&#x27;s rook doubling, the bishop exchange that clears c7, and the entry on c6/c7.",
+        "successCheck": "Explain how the file, central advance, and selective exchanges form one conversion plan.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      },
+      {
+        "id": "study-open-files-grunfeld-model-comparison",
+        "concept": "Open files",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Compare So-Flores Rios (PDF 127-129) with Karpov-Kasparov. Record the c-file owner, central passer, restricted black piece, and moment when Black loses active counterplay in each game.",
+        "successCheck": "State the reusable relationship shared by both games and one position-specific difference.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-grunfeld-so-flores",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "So-Flores Rios: c4-c5, d5-d6, and a passed c-pawn; pp. 126-128; PDF 127-129",
+    "title": "So-Flores Rios: c4-c5, d5-d6, and a passed c-pawn",
+    "tags": [
+      "grunfeld-centre",
+      "open-files",
+      "passed-pawns",
+      "center-control",
+      "restriction"
+    ],
+    "note": "White prepares c4-c5 and d5-d6 so that the central majority produces both a passed pawn and control of the c-file. Black&#x27;s queenside bishop is confined and the nominal queenside majority cannot advance. The author describes Black as reduced to a waiting game because every active attempt concedes an entry point or tactical target.\n\nThe game closely resembles Karpov-Kasparov. White first arranges the c-file, then advances the connected center, and finally invades with the rook. Black&#x27;s attempt to challenge the file damages the d-file defense, while later tactical resources only accelerate the loss. The source notes that precise defense may affect whether the initial position is objectively won or drawn, but White&#x27;s practical pressure is persistent and easy to maintain.\n\nThis example emphasizes model-game recognition. The plan is not memorized as a move sequence; it is recognized from the relationship between the passed pawn, the open file, the restricted bishop, and Black&#x27;s absence of counterplay.",
+    "keyIdeas": [
+      "Coordinate c4-c5 and d5-d6 with control of the c-file.",
+      "A queenside majority is passive when its pieces and pawns cannot move.",
+      "Use model games to recognize relationships, not to copy moves blindly.",
+      "Persistent practical pressure can exist without a source claim of a forced win."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-grunfeld-model-comparison",
+        "concept": "Open files",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Compare So-Flores Rios (PDF 127-129) with Karpov-Kasparov. Record the c-file owner, central passer, restricted black piece, and moment when Black loses active counterplay in each game.",
+        "successCheck": "State the reusable relationship shared by both games and one position-specific difference.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-grunfeld-hernandez-meier",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Hernandez-Meier: entering the structure without the c-file; pp. 129-131; PDF 130-132",
+    "title": "Hernandez-Meier: entering the structure without the c-file",
+    "tags": [
+      "grunfeld-centre",
+      "open-files",
+      "opening-to-middlegame-transition",
+      "center-control",
+      "king-activity"
+    ],
+    "note": "White voluntarily transforms a different opening into a Grunfeld Centre structure, but does so without calculating the c-file contest. Black&#x27;s major pieces already control the file, White&#x27;s center is vulnerable, and neither of White&#x27;s normal plans can be carried out. The structure is therefore unfavorable despite White&#x27;s nominal central majority.\n\nBlack invades the second rank, attacks e4 and d4, and forces White into passive defense. A desperate pawn advance does not create a useful passer because it is unsupported and exposes another target. After exchanges, Black&#x27;s more active king and queenside majority decide the ending.\n\nThe central lesson is about structural transitions. Before accepting a familiar pawn skeleton, evaluate who owns its critical file and whether the standard breaks are available. A structure that is desirable in one move order can be strategically lost in another because the pieces arrive on different squares.",
+    "keyIdeas": [
+      "Do not enter the structure without calculating the c-file contest.",
+      "A central majority can become a set of targets when its normal advances are unavailable.",
+      "Black&#x27;s c-file invasion converts into a favorable ending and active king.",
+      "Judge structural transitions by current piece placement, not the opening name."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-to-middlegame-transition-grunfeld-entry-test",
+        "concept": "Opening to middlegame transition",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Development",
+          "Center control"
+        ],
+        "instructions": "At White&#x27;s structural decision in Hernandez-Meier, PDF 130, inventory the c-file, d4/e4 targets, available pawn advances, and queenside majorities before reading the continuation.",
+        "successCheck": "Give a four-part test for deciding whether to enter this structure from a different opening.",
+        "playReminders": [
+          "Did the pawn structure change enough that my plan should change?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-grunfeld-parligras-nepomniachtchi",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Parligras-Nepomniachtchi: the successful e4-e5 attack; pp. 131-133; PDF 132-134",
+    "title": "Parligras-Nepomniachtchi: the successful e4-e5 attack",
+    "tags": [
+      "grunfeld-centre",
+      "pawn-breaks",
+      "king-attack",
+      "restriction",
+      "tempo"
+    ],
+    "note": "White times e4-e5 when it restricts Black&#x27;s g7 bishop, controls f6, and supports a kingside expansion without allowing an effective attack on d5. Black&#x27;s knight is misplaced on a5 and needs several tempi to reach the central blockading square, so White&#x27;s h-pawn and pieces arrive first.\n\nThe advance is double-edged in principle: d5 may become permanently weak, and Black can sometimes neutralize the majority with ...e6. Here those drawbacks do not operate quickly enough. Black weakens the king further, and White opens lines while the central pieces remain far from useful defensive squares.\n\nThe game supplies the positive case for e4-e5. The move succeeds because its benefits are immediate and its costs cannot be exploited. The correct study question is not whether e5 is thematic, but whether Black can blockade d5, activate the bishop, and challenge the center before the attack lands.",
+    "keyIdeas": [
+      "e4-e5 succeeds when f6 control and bishop restriction create immediate attacking time.",
+      "Check whether Black can blockade d5 or neutralize the majority with ...e6.",
+      "A misplaced knight can make a thematic defensive square practically unreachable.",
+      "The h-pawn attack works because the central drawbacks arrive too slowly."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-grunfeld-successful-e5",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Study Parligras-Nepomniachtchi on PDF 132-134. For e4-e5, list the immediate gains on f6 and g7, the long-term weakness on d5, Black&#x27;s knight route, and the timing of h4-h5.",
+        "successCheck": "Explain why the immediate benefits arrive before Black can exploit the structural cost.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Who controls the c-file if the center is exchanged?",
+          "Does e4-e5 create an attack before d5 becomes a target?"
+        ]
+      },
+      {
+        "id": "study-pawn-breaks-grunfeld-e5-contrast",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Vovk-Volokitin (PDF 135-138) with Parligras-Nepomniachtchi. Track Black&#x27;s bishop activity, pressure on d4, White&#x27;s knight route, queen exchanges, and the resulting pawn majority.",
+        "successCheck": "Explain why the same e4-e5 plan attacks successfully in one game but loses force in the other.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Who controls the c-file if the center is exchanged?",
+          "Does e4-e5 create an attack before d5 becomes a target?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-grunfeld-vovk-volokitin",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Vovk-Volokitin: neutralize e5 and win with the remote majority; pp. 134-137; PDF 135-138",
+    "title": "Vovk-Volokitin: neutralize e5 and win with the remote majority",
+    "tags": [
+      "grunfeld-centre",
+      "pawn-breaks",
+      "favorable-exchanges",
+      "passed-pawns",
+      "two-weaknesses",
+      "knight-endings"
+    ],
+    "note": "White also plays e4-e5, but Black is prepared. The light-squared bishop finds counterplay on the long diagonal, the d4-pawn comes under pressure, and Black prevents the intended knight route toward f6. Exchanges reduce the kingside attack and lead to an ending where Black&#x27;s queenside majority and active pieces matter more than White&#x27;s remaining space.\n\nWhite still has attacking resources and should keep the queens when perpetual-check chances remain. Instead, a simplifying decision heads toward a difficult knight ending. Black deliberately keeps the a-pawn rather than the b-pawn because it is farther from White&#x27;s king, then creates a second passed pawn on the kingside. The two remote fronts produce the decisive zugzwang.\n\nThis negative case completes the comparison with Parligras-Nepomniachtchi. The same e5 advance changes value with bishop activity, the d4 target, knight routes, queen exchanges, and the resulting majority. The source variations retain drawing and practical resources; the lesson is the decision process, not a claim that the opening plan forces a loss.",
+    "keyIdeas": [
+      "Challenge e5 by attacking d4 and preventing the intended knight route.",
+      "Keep queens when kingside checking chances are the main counterplay.",
+      "A remote a-pawn can be more valuable than a closer b-pawn in a knight ending.",
+      "Create a second passer to stretch the king and produce zugzwang."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-grunfeld-e5-contrast",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Vovk-Volokitin (PDF 135-138) with Parligras-Nepomniachtchi. Track Black&#x27;s bishop activity, pressure on d4, White&#x27;s knight route, queen exchanges, and the resulting pawn majority.",
+        "successCheck": "Explain why the same e4-e5 plan attacks successfully in one game but loses force in the other.",
+        "playReminders": [
+          "What opens, what becomes weak, and which piece improves after this break?",
+          "Who controls the c-file if the center is exchanged?",
+          "Does e4-e5 create an attack before d5 becomes a target?"
+        ]
+      },
+      {
+        "id": "study-passed-pawns-grunfeld-remote-majority",
+        "concept": "Passed pawns",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Study the knight-ending transition on PDF 136-138. Compare keeping the a-pawn with keeping the b-pawn, then track Black&#x27;s creation of a second passed pawn with ...g5.",
+        "successCheck": "Explain why distance from the defending king matters and how two remote fronts produce the final zugzwang.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",

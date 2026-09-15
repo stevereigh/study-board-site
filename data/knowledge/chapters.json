@@ -1872,6 +1872,84 @@
         "section": "Complete Dronavalli Harika-Michael Adams game and Chapter 6 final remarks; stop before Chapter 7 on PDF 123",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "flores-grunfeld-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Grunfeld Centre: central majority against queenside pressure; pp. 122; PDF 123-123",
+      "title": "Grunfeld Centre: central majority against queenside pressure",
+      "locator": {
+        "pdfPageStart": 123,
+        "pdfPageEnd": 123,
+        "printedPages": "122",
+        "section": "Chapter 7 formation diagram and complete plan overview; the first annotated game begins on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-grunfeld-karpov-kasparov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Karpov-Kasparov: own the c-file before advancing; pp. 123-125; PDF 124-126",
+      "title": "Karpov-Kasparov: own the c-file before advancing",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 126,
+        "printedPages": "123-125",
+        "section": "Complete Anatoly Karpov-Garry Kasparov game and final remarks; stop before So-Flores Rios on PDF 127",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-grunfeld-so-flores",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "So-Flores Rios: c4-c5, d5-d6, and a passed c-pawn; pp. 126-128; PDF 127-129",
+      "title": "So-Flores Rios: c4-c5, d5-d6, and a passed c-pawn",
+      "locator": {
+        "pdfPageStart": 127,
+        "pdfPageEnd": 129,
+        "printedPages": "126-128",
+        "section": "Complete Wesley So-Mauricio Flores Rios game and final remarks; stop before Hernandez-Meier on PDF 130",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-grunfeld-hernandez-meier",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Hernandez-Meier: entering the structure without the c-file; pp. 129-131; PDF 130-132",
+      "title": "Hernandez-Meier: entering the structure without the c-file",
+      "locator": {
+        "pdfPageStart": 130,
+        "pdfPageEnd": 132,
+        "printedPages": "129-131",
+        "section": "Complete Holden Hernandez-George Meier game and final remarks; the Parligras-Nepomniachtchi game begins on PDF 132",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-grunfeld-parligras-nepomniachtchi",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Parligras-Nepomniachtchi: the successful e4-e5 attack; pp. 131-133; PDF 132-134",
+      "title": "Parligras-Nepomniachtchi: the successful e4-e5 attack",
+      "locator": {
+        "pdfPageStart": 132,
+        "pdfPageEnd": 134,
+        "printedPages": "131-133",
+        "section": "Complete M. Emilian Parligras-Ian Nepomniachtchi game and final remarks; stop before Vovk-Volokitin on PDF 135",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-grunfeld-vovk-volokitin",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Vovk-Volokitin: neutralize e5 and win with the remote majority; pp. 134-137; PDF 135-138",
+      "title": "Vovk-Volokitin: neutralize e5 and win with the remote majority",
+      "locator": {
+        "pdfPageStart": 135,
+        "pdfPageEnd": 138,
+        "printedPages": "134-137",
+        "section": "Complete Yuri Vovk-Andrei Volokitin game and Chapter 7 final remarks; stop before Chapter 8 on PDF 139",
+        "ebookLocation": null
+      }
     }
   ]
 }
