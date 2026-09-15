@@ -224,6 +224,10 @@
     {
       "id": "interference",
       "name": "Interference"
+    },
+    {
+      "id": "double-attacks",
+      "name": "Double attacks"
     }
   ]
 }

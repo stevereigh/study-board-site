@@ -204,6 +204,42 @@
       "crossrefIds": [
         "isolated-pawns--flores-isolani-primer"
       ]
+    },
+    {
+      "id": "study-double-attacks-targets",
+      "crossrefIds": [
+        "double-attacks--erwich-double-attack-targets"
+      ]
+    },
+    {
+      "id": "study-forks-clearance",
+      "crossrefIds": [
+        "forks--erwich-double-attack-targets"
+      ]
+    },
+    {
+      "id": "study-double-attacks-defenders",
+      "crossrefIds": [
+        "double-attacks--erwich-double-attack-defenders"
+      ]
+    },
+    {
+      "id": "study-intermediate-moves-countercheck",
+      "crossrefIds": [
+        "intermediate-moves--erwich-double-attack-move-order"
+      ]
+    },
+    {
+      "id": "study-double-attacks-preparation",
+      "crossrefIds": [
+        "double-attacks--erwich-double-attack-move-order"
+      ]
+    },
+    {
+      "id": "study-forks-practice-123-124",
+      "crossrefIds": [
+        "forks--erwich-double-attack-practice"
+      ]
     }
   ]
 }

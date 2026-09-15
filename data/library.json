@@ -102,6 +102,168 @@
     ]
   },
   {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Double attacks: targets, luring and clearance; PDF 74-75",
+    "title": "Double attacks: targets, luring and clearance",
+    "tags": [
+      "double-attacks",
+      "forks",
+      "clearance",
+      "calculation"
+    ],
+    "note": "Erwich treats a double attack as either one piece threatening two targets or one move producing two distinct threats. The targets need not both be pieces: a decisive square can matter because reaching it creates mate, promotion or another forcing threat. This widens the search beyond familiar knight forks. Before calculating, identify both intended consequences and ask whether one defensive move can meet them together.\n\nThe Gottfried-Ducarmon example illustrates preparation. A checking move gives the defender a choice between moving the king onto an exposed line and interposing a piece that can be lured onto another vulnerable square. Follow both branches rather than assuming the opponent will choose the picturesque finish.\n\nIn Van Klaveren-Baak, moving the knight frees a square for the rook while preserving a separate knight threat. A retreat can therefore be an attacking move. The source distinguishes clearance, which makes a square or line available, from targeting, which reaches a useful attacking square with gain of time. The resulting knight fork is only one branch of a broader double threat. For study, hide each continuation, name the two targets and compare the defender&#x27;s choices. The lesson is to create a concrete dilemma, not merely to count two attacks on the board.",
+    "keyIdeas": [
+      "A target may be a piece, king or strategically decisive square.",
+      "Look for the move that creates two threats, including quiet moves and retreats.",
+      "Test whether a single reply neutralizes both threats."
+    ],
+    "activities": [
+      {
+        "id": "study-double-attacks-targets",
+        "concept": "Double attacks",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Read PDF 74-75. Hide each worked continuation. Name the two targets, propose a candidate, and calculate both defensive branches in Gottfried-Ducarmon and Van Klaveren-Baak.",
+        "successCheck": "Explain why the preparation creates two threats and how the replies change the continuation.",
+        "playReminders": [
+          "What are my two threats, and can one reply answer both?"
+        ]
+      },
+      {
+        "id": "study-forks-clearance",
+        "concept": "Forks",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Study Van Klaveren-Baak on PDF 75. Before viewing the line, explain what Ng2 clears and which fork it threatens. Compare the king capture with the rook retreat.",
+        "successCheck": "Identify the cleared f4-square, the Ne3 fork, and the Rf4+ alternative.",
+        "playReminders": [
+          "Scan for loose pieces and possible knight-fork squares."
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Preparing a double attack by removing defenders; PDF 75-76",
+    "title": "Preparing a double attack by removing defenders",
+    "tags": [
+      "double-attacks",
+      "removing-the-defender",
+      "interference"
+    ],
+    "note": "A double attack may be unavailable because a defender protects an entry square or because a target remains adequately defended. Erwich revisits defender removal as preparation for a later tactic. The Sebenik-Tiviakov example combines a threat against a rook with a subsequent interference move, changing two defensive relationships before the queen attacks the resulting targets.\n\nRead the combination as a sequence of jobs. First identify the defender displaced by the initial threat. Then identify which defensive line is interrupted and why the opponent&#x27;s capture changes the queen&#x27;s opportunities. The point is not to memorize a sequence of tactical labels; each preparatory move must make a concrete difference to what can be captured safely afterward.\n\nThe published continuation illustrates one defensive branch. Independent analysis also finds replies that concede material differently, so the lesson must not present the printed branch as forced on every move. Calculate an alternative defense and evaluate the resulting material balance. For a practical review exercise, start from the desired final double attack, work backward to its obstacles, and then test the proposed preparation forward against the opponent&#x27;s best available responses. This extends the earlier defender-removal material without treating the remaining chapter exercises as already solved.",
+    "keyIdeas": [
+      "Name the defensive relationship changed by each preparatory move.",
+      "A tactic can prepare another tactic.",
+      "The opponent may choose a different way to concede material."
+    ],
+    "activities": [
+      {
+        "id": "study-double-attacks-defenders",
+        "concept": "Double attacks",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Removing the defender"
+        ],
+        "instructions": "Study Sebenik-Tiviakov on PDF 75-76. Name the defenders disturbed by Bb8 and Bc7. Follow the printed branch, then consider a defense that concedes material differently.",
+        "successCheck": "Explain both changes in defensive coverage and avoid claiming that every printed reply is forced.",
+        "playReminders": [
+          "What are my two threats, and can one reply answer both?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Decoys, intermediate checks and precise move order; PDF 76-78",
+    "title": "Decoys, intermediate checks and precise move order",
+    "tags": [
+      "double-attacks",
+      "intermediate-moves",
+      "forks",
+      "move-order"
+    ],
+    "note": "In Kubo-Krings, an apparently loose queen is protected tactically: accepting the offer allows a checking knight fork that recovers the queen with additional material. Erwich uses this to explain a decoy, where a sacrifice draws an enemy piece onto a vulnerable square. The tempting capture must be evaluated after the forcing continuation, not at the instant the material changes hands.\n\nThe move order is essential. A superficially similar knight move permits an intermediate rook check before the queen is captured. The successful move closes that checking line while creating the tactical threats. This provides a useful defensive habit: before making an expected recapture or retreat, search for a forcing move that changes the order of events. An intermediate move is valuable because of its concrete consequence, not because interrupting a sequence is automatically good.\n\nThe chapter&#x27;s recap distinguishes luring a target, chasing it by a threat, gaining access with tempo, clearing one&#x27;s own obstruction and removing a defender. These methods can be combined. In study, compare the two knight candidates and explain exactly what happens to the rook&#x27;s checking line. Then describe each preparation method in your own words. This is a checked explanation of the chapter introduction, not a claim that all later exercises or every possible defensive branch have been verified.",
+    "keyIdeas": [
+      "A sacrificed piece can lure a target into a checking fork.",
+      "Before an expected recapture, look for an intermediate check.",
+      "Compare what each candidate opens or closes, not just what it attacks."
+    ],
+    "activities": [
+      {
+        "id": "study-intermediate-moves-countercheck",
+        "concept": "Intermediate moves",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Forcing moves"
+        ],
+        "instructions": "Compare Nd4 and Ng5 in Kubo-Krings, PDF 77. Calculate the queen capture and search for an inserted rook check before concluding that the tactic works.",
+        "successCheck": "Explain why Rd8+ refutes the tempting move order and why Nd4 closes that file.",
+        "playReminders": [
+          "Before recapturing, check for a forcing move in between."
+        ]
+      },
+      {
+        "id": "study-double-attacks-preparation",
+        "concept": "Double attacks",
+        "minutes": 10,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Read the preparation recap on PDF 77-78 left. Close the book and distinguish luring, chasing, targeting, clearance and defender removal. Connect three of them to the worked examples.",
+        "successCheck": "Give three accurate example-to-method matches and state the purpose of each preparatory move.",
+        "playReminders": [
+          "What are my two threats, and can one reply answer both?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Double-attack practice: exercises 123-124; PDF 79-80",
+    "title": "Double-attack practice: exercises 123-124",
+    "tags": [
+      "double-attacks",
+      "forks",
+      "practice"
+    ],
+    "note": "These two selected positions turn recognition into calculation. Their diagrams were transcribed and checked independently with Stockfish because the supplied PDF does not contain the book&#x27;s solution chapter. The answer guidance here is independent analysis and must not be attributed to the missing answer key. Use the large diagram numbers: the hyperlink captions underneath point to the next exercise and are not the current diagram&#x27;s label.\n\nIn exercise 123, Black can use Nf3 to attack the rook while keeping the advanced pawn dangerous. The tempting capture of that pawn allows Ng1+, a checking fork that wins the rook. A rook retreat must also be considered; recognizing the trap alone does not finish the calculation.\n\nIn exercise 124, Be7 preserves the bishop while maintaining threats against White&#x27;s loose knight. Check the forcing knight check as well as quieter attempts to save the knight. After Nc5, the reply Rd5+ attacks the king and knight together. The position rewards connecting a preparatory move with the later double attack.\n\nAttempt each position for five minutes, write the strongest reply you found and only then consult the checks. Finite-depth engine analysis supports these continuations; it does not certify a unique solution or every eventual endgame. The other numbered exercises remain outside this batch.",
+    "keyIdeas": [
+      "Exercise 123: test Nf3 against both Rxe2 and a rook retreat; after Rxe2, Ng1+ is the fork.",
+      "Exercise 124: test Be7 against Nc5 and Nd6+; after Nc5, Rd5+ creates the double attack.",
+      "These checks are independent analysis, not the missing book solutions."
+    ],
+    "activities": [
+      {
+        "id": "study-forks-practice-123-124",
+        "concept": "Forks",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Solve diagrams 123 and 124 (PDF 79 right and 80 left), five minutes each, then review. Cover the guidance first. Independent checks: 123 ...Nf3, with ...Ng1+ after Rxe2; 124 ...Be7, with ...Rd5+ after Nc5. Also examine a rook retreat in 123 and Nd6+ in 124. These are independently checked continuations; the book answer key is absent.",
+        "successCheck": "For each position, show the preparation, both targets and at least two defensive replies; record any reply you initially missed.",
+        "playReminders": [
+          "Scan for loose pieces and possible knight-fork squares."
+        ]
+      }
+    ]
+  },
+  {
     "book": "Chess Structures: A Grandmaster Guide",
     "author": "Mauricio Flores Rios",
     "ref": "Studying pawn structures across openings; pp. 9-11; PDF 10-12",

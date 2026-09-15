@@ -550,6 +550,116 @@
         "section": "Chapter 1 The Isolani opening structural diagram and plan overview only; stop before the first annotated game on PDF 14",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "double-attacks--erwich-double-attack-targets",
+      "chapterId": "erwich-double-attack-targets",
+      "locator": {
+        "pdfPageStart": 74,
+        "pdfPageEnd": 75,
+        "printedPages": null,
+        "section": "Chapter 2 opening through the Gottfried-Ducarmon and Van Klaveren-Baak worked examples; stop before the Sebenik-Tiviakov heading on PDF 75",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forks--erwich-double-attack-targets",
+      "chapterId": "erwich-double-attack-targets",
+      "locator": {
+        "pdfPageStart": 74,
+        "pdfPageEnd": 75,
+        "printedPages": null,
+        "section": "Chapter 2 opening through the Gottfried-Ducarmon and Van Klaveren-Baak worked examples; stop before the Sebenik-Tiviakov heading on PDF 75",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "double-attacks--erwich-double-attack-defenders",
+      "chapterId": "erwich-double-attack-defenders",
+      "locator": {
+        "pdfPageStart": 75,
+        "pdfPageEnd": 76,
+        "printedPages": null,
+        "section": "Sebenik-Tiviakov heading on PDF 75 through its example and continuations on PDF 76; stop before the Kubo-Krings heading",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "removing-the-defender--erwich-double-attack-defenders",
+      "chapterId": "erwich-double-attack-defenders",
+      "locator": {
+        "pdfPageStart": 75,
+        "pdfPageEnd": 76,
+        "printedPages": null,
+        "section": "Sebenik-Tiviakov heading on PDF 75 through its example and continuations on PDF 76; stop before the Kubo-Krings heading",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "interference--erwich-double-attack-defenders",
+      "chapterId": "erwich-double-attack-defenders",
+      "locator": {
+        "pdfPageStart": 75,
+        "pdfPageEnd": 76,
+        "printedPages": null,
+        "section": "Sebenik-Tiviakov heading on PDF 75 through its example and continuations on PDF 76; stop before the Kubo-Krings heading",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "double-attacks--erwich-double-attack-move-order",
+      "chapterId": "erwich-double-attack-move-order",
+      "locator": {
+        "pdfPageStart": 76,
+        "pdfPageEnd": 78,
+        "printedPages": null,
+        "section": "Kubo-Krings heading on PDF 76, diagram and analysis on PDF 77, and preparation-method recap through PDF 78 left; exclude exercise 121 on PDF 78 right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forks--erwich-double-attack-move-order",
+      "chapterId": "erwich-double-attack-move-order",
+      "locator": {
+        "pdfPageStart": 76,
+        "pdfPageEnd": 78,
+        "printedPages": null,
+        "section": "Kubo-Krings heading on PDF 76, diagram and analysis on PDF 77, and preparation-method recap through PDF 78 left; exclude exercise 121 on PDF 78 right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "intermediate-moves--erwich-double-attack-move-order",
+      "chapterId": "erwich-double-attack-move-order",
+      "locator": {
+        "pdfPageStart": 76,
+        "pdfPageEnd": 78,
+        "printedPages": null,
+        "section": "Kubo-Krings heading on PDF 76, diagram and analysis on PDF 77, and preparation-method recap through PDF 78 left; exclude exercise 121 on PDF 78 right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forks--erwich-double-attack-practice",
+      "chapterId": "erwich-double-attack-practice",
+      "locator": {
+        "pdfPageStart": 79,
+        "pdfPageEnd": 80,
+        "printedPages": null,
+        "section": "Exercise 123 on PDF 79 right and exercise 124 on PDF 80 left only; diagram numbers take precedence over the misleading link text below them",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "double-attacks--erwich-double-attack-practice",
+      "chapterId": "erwich-double-attack-practice",
+      "locator": {
+        "pdfPageStart": 79,
+        "pdfPageEnd": 80,
+        "printedPages": null,
+        "section": "Exercise 123 on PDF 79 right and exercise 124 on PDF 80 left only; diagram numbers take precedence over the misleading link text below them",
+        "ebookLocation": null
+      }
     }
   ]
 }

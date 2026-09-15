@@ -144,6 +144,30 @@
       "bookId": "flores-rios-chess-structures-2015",
       "ref": "The isolani: plans for both sides; pp. 12; PDF 13-13",
       "title": "The isolani: plans for both sides"
+    },
+    {
+      "id": "erwich-double-attack-targets",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Double attacks: targets, luring and clearance; PDF 74-75",
+      "title": "Double attacks: targets, luring and clearance"
+    },
+    {
+      "id": "erwich-double-attack-defenders",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Preparing a double attack by removing defenders; PDF 75-76",
+      "title": "Preparing a double attack by removing defenders"
+    },
+    {
+      "id": "erwich-double-attack-move-order",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Decoys, intermediate checks and precise move order; PDF 76-78",
+      "title": "Decoys, intermediate checks and precise move order"
+    },
+    {
+      "id": "erwich-double-attack-practice",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Double-attack practice: exercises 123-124; PDF 79-80",
+      "title": "Double-attack practice: exercises 123-124"
     }
   ]
 }
