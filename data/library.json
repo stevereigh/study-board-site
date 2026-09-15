@@ -938,7 +938,7 @@
       "restriction",
       "exchanges"
     ],
-    "note": "The isolani is an isolated queen&#x27;s pawn: in the displayed structure White has the d-pawn without neighboring friendly pawns able to support it. Flores Rios frames its practical value as a balance between activity in the middlegame and the risk of a lasting target in a simplified position. The structure can arise through several openings and with colors reversed.\n\nFor the side with the pawn, the overview emphasizes active piece play, a possible kingside attack, and a well-prepared central advance that trades pawns and opens lines. The pawn&#x27;s value cannot be judged separately from the initiative that the pieces can generate. For the opponent, the outline includes exchanges, pressure on the pawn and occupation of the square in front of it to restrain the central break.\n\nThese are starting plans, not automatic instructions. The text explicitly warns that practical judgment and calculation are needed to decide whether activity compensates for the pawn&#x27;s weakness. In study, explain both sides&#x27; aims from the pawn diagram, then identify which additional piece-placement facts would be needed to choose a move. This record covers the plan primer only; the following annotated games and the chapter&#x27;s advanced-pawn example remain outside the verified coverage.",
+    "note": "The isolani is an isolated queen&#x27;s pawn: in the displayed structure White has the d-pawn without neighboring friendly pawns able to support it. Flores Rios frames its practical value as a balance between activity in the middlegame and the risk of a lasting target in a simplified position. The structure can arise through several openings and with colors reversed.\n\nFor the side with the pawn, the overview emphasizes active piece play, a possible kingside attack, and a well-prepared central advance that trades pawns and opens lines. The pawn&#x27;s value cannot be judged separately from the initiative that the pieces can generate. For the opponent, the outline includes exchanges, pressure on the pawn and occupation of the square in front of it to restrain the central break.\n\nThese are starting plans, not automatic instructions. The text explicitly warns that practical judgment and calculation are needed to decide whether activity compensates for the pawn&#x27;s weakness. In study, explain both sides&#x27; aims from the pawn diagram, then identify which additional piece-placement facts would be needed to choose a move. This record covers the plan primer only. The following annotated games and the advanced-pawn example are now covered separately in reading-019.",
     "keyIdeas": [
       "Weigh middlegame activity against the isolated pawn’s long-term weakness.",
       "For the pawn side, investigate active pieces and a sound central break.",
@@ -957,6 +957,446 @@
         ],
         "instructions": "Read only the Isolani plan primer, PDF 13. Using its pawn skeleton, describe both sides’ aims and list the missing piece-placement facts needed before choosing a move.",
         "successCheck": "Explain the activity-versus-target tradeoff, the central break and a restraining plan without claiming the skeleton proves a forced result.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-break",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "The central break: Zvjaginsev–Vasquez; pp. 13-15; PDF 14-16",
+    "title": "The central break: Zvjaginsev–Vasquez",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "An isolated queen&#x27;s pawn can be useful while its advance threatens to open the position for better-developed pieces. In Zvjaginsev–Vasquez, Black spends time on the queenside and removes the knight from the ideal blockading square. White&#x27;s d4-d5 break becomes a concrete opportunity before Black can coordinate the defense. The important preparation is the placement of the pieces, rather than a fixed rule that the pawn should always advance.\n\nAfter the central exchanges, White uses the open lines to bring the queen, bishop and rook toward the king. The pawn itself disappears, but its advance has changed which side can act first. The game illustrates why judging an isolated pawn only as an endgame weakness misses the immediate struggle. Black needed to prepare for the break, not merely count attackers and defenders of d4.\n\nFor practice, stop before 13.d5 and identify the lines that will open after the exchanges. Then follow the attacking coordination through the rook lift. Explain how Black&#x27;s earlier queenside moves contributed to the problem. The checked continuation is a concrete example of an attack succeeding; it does not establish that every similar-looking isolani position offers a forced win.",
+    "keyIdeas": [
+      "Prepare a central break through piece placement.",
+      "Reassess open lines after the pawn disappears.",
+      "The defender must anticipate the advance."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-break",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "At the position before 13.d5, list the central exchanges and the attacking pieces they activate. Replay through 22.Re1, then describe a defensive improvement from the annotations.",
+        "successCheck": "Explain the opened lines, the rook lift and why the queenside pawn moves did not meet the central threat.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      },
+      {
+        "id": "study-isolated-pawns-flores-both-colors",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Center control"
+        ],
+        "instructions": "Compare Zvjaginsev’s d5 with Aronian’s ...d4. For each, explain the opened lines, useful piece squares and the strongest defensive preparation.",
+        "successCheck": "Distinguish the direct attack from the pawn sacrifice, and name one defensive improvement in each game.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-sacrifice",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Giving up the isolani for activity: Huzman–Aronian; pp. 15-17; PDF 16-18",
+    "title": "Giving up the isolani for activity: Huzman–Aronian",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "The same central idea works with the colors reversed. Aronian prepares ...d5-d4 by improving his pieces while White fails to reinforce the square in front of the pawn. The break is a pawn sacrifice: after White exchanges bishops and captures the advanced pawn, Black&#x27;s compensation lies in coordinated activity rather than in an immediate material recovery.\n\nThe knights become especially important. Their routes to e4 and f4 create threats against White&#x27;s king and overloaded defenders. Opening the position gives those threats greater force, and Black combines them with a queenside advance instead of automatically taking the first available material. The source contrasts White&#x27;s passive rook placement with a more active rook alternative, showing that the sacrifice depends on the exact squares available to the knights.\n\nStudy this game from both sides. Before the break, identify the square White needed to control. After the capture, list Black&#x27;s immediate threats and explain why a pawn count understates the danger. The game is a model for evaluating a dynamic sacrifice, not permission to give away an isolated pawn whenever development looks attractive. Calculate the opponent&#x27;s best defensive arrangement before relying on the pattern.",
+    "keyIdeas": [
+      "A pawn sacrifice can unlock coordinated pieces.",
+      "Control the square in front of the isolani.",
+      "Follow the initiative beyond the first material gain."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-sacrifice",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "Study the position before 20...d4. Compare 21.Bxb7 with 21.exd4, then follow the knights to e4 and f4 and explain the purpose of ...a5.",
+        "successCheck": "Name the concrete threats after the sacrifice and explain how stronger control of d4 could have reduced them.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      },
+      {
+        "id": "study-isolated-pawns-flores-both-colors",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Center control"
+        ],
+        "instructions": "Compare Zvjaginsev’s d5 with Aronian’s ...d4. For each, explain the opened lines, useful piece squares and the strongest defensive preparation.",
+        "successCheck": "Distinguish the direct attack from the pawn sacrifice, and name one defensive improvement in each game.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-second-front",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Fix the pawn, then create another threat: Wojtaszek–Fressinet; pp. 17-19; PDF 18-20",
+    "title": "Fix the pawn, then create another threat: Wojtaszek–Fressinet",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "With queens and several minor pieces gone, an isolated pawn may tie the remaining pieces to defense. Wojtaszek first applies pressure to d5 so that Black has limited freedom to improve. He then gains kingside space and coordinates his own pieces before attempting to create a passed pawn. The isolani is the first target, but the decisive pressure develops elsewhere.\n\nThis is a useful example of patient conversion. A premature pawn push can release the defender through exchanges or checks; improving the arrangement first makes the later advance more effective. The king, knight and rooks each have a job in restricting counterplay and supporting the second front. The source&#x27;s variations distinguish the intended plan from move orders that let Black untangle.\n\nThe conversion was not flawless. White&#x27;s 38.Kg4 gave Black a defensive chance, and after 40.Rh1 the active ...Re4+ resource could hold; the game instead continued with ...d4. The checked defensive line and its near-level finite-depth evaluation support retaining that qualification. Practice identifying both the method and the missed defense. Winning the actual game does not mean the original ending or every intermediate position was a forced win.",
+    "keyIdeas": [
+      "Fix one weakness before opening a second front.",
+      "Improve coordination before committing pawn advances.",
+      "Search for active defense even in a passive-looking ending."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-second-front",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "Follow the buildup from the starting diagram through the kingside advance. Then stop after 40.Rh1 and compare ...Re4+ with the played ...d4.",
+        "successCheck": "Describe the conversion plan and show the defensive checking resource without calling the whole ending forcibly won.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-queenside-target",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Force a second pawn weakness: Korneev–Kasimdzhanov; pp. 20-22; PDF 21-23",
+    "title": "Force a second pawn weakness: Korneev–Kasimdzhanov",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "Pressure on an isolated pawn can force a concession somewhere else. In Korneev–Kasimdzhanov, Black combines pressure along the d-file with the possibility of ...c6-c5. White advances the b-pawn to discourage that break. Black then prepares ...a7-a5, making White choose between a new target on b4 and allowing the central advance after an exchange.\n\nThe sequence explains how a structural weakness can influence moves on the flank. Black improves the queen, rook and king before forcing the decision, then carries the pressure into a rook ending. Study the relationship between the central threat and White&#x27;s queenside pawn moves: ...a5 gains its meaning from the existing pressure, rather than from an abstract rule to attack with rook pawns.\n\nThere are defensive opportunities along the way. The annotations give active rook checks as more resilient than White&#x27;s 45.Ke4, and Black must also prevent king activity instead of rushing to capture a pawn. Treat the resulting win as an instructive conversion with practical inaccuracies. The lesson is to create connected problems for the defender while continually checking whether simplification or active counterplay changes the assessment.",
+    "keyIdeas": [
+      "A central threat can induce a flank weakness.",
+      "Prepare the second break before committing it.",
+      "Check active rook defense before taking material."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-queenside-target",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "From the starting diagram, explain why ...c5 encourages b4 and how ...a5 changes White’s choices. Compare the annotated 45.Rc1+ defense with the game.",
+        "successCheck": "Connect the two targets in a single plan and identify the active defensive option.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      },
+      {
+        "id": "study-isolated-pawns-flores-c-e-comparison",
+        "concept": "Isolated pawns",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Center control"
+        ],
+        "instructions": "Compare Korneev–Kasimdzhanov with the following e-pawn interlude. Draw the pawn skeletons and predict which pawn move restrains the central break.",
+        "successCheck": "Explain why b4 appears in one formation and f4 in the other, and the second weakness each may create.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-pawn-variant",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "The c-pawn versus e-pawn comparison; pp. 22-23; PDF 23-24",
+    "title": "The c-pawn versus e-pawn comparison",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "Two positions can share an isolated d-pawn while demanding different defensive pawn moves. Flores Rios revisits the preceding ending with Black&#x27;s c-pawn replaced by an e-pawn. The analogous threat is now ...e6-e5, so the relevant restraint moves from White&#x27;s queenside to the kingside. This small change is an important warning against recognizing a structure only by its most conspicuous pawn.\n\nWhite&#x27;s f-pawn advance can hold back the central break, but it also creates squares and targets that Black can use. The illustrative continuation develops pressure against f4 and weakens the king&#x27;s surroundings with a flank pawn advance. A related variation shows that a direct central break can permit a drawing simplification, so the stronger side still needs an accurate move order.\n\nUse the two diagrams as a comparison exercise before studying more games. Identify which pawn can challenge d4, which white pawn might restrain it, and which new weakness that restraining move creates. This interlude is a constructed source comparison, not a second historical game. Its plans help explain the next middlegame example, but the exact tactical conclusions belong to the illustrated arrangements.",
+    "keyIdeas": [
+      "Identify the neighboring files as well as the isolated pawn.",
+      "A restraining pawn move may create another target.",
+      "Similar plans still require concrete move-order checks."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-pawn-variant",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "Compare the source’s c-pawn and e-pawn diagrams. Predict the restraining move and the new target in each before reading the continuation.",
+        "successCheck": "Explain b4 versus f4, and identify why the resulting weaknesses lie on different wings.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      },
+      {
+        "id": "study-isolated-pawns-flores-c-e-comparison",
+        "concept": "Isolated pawns",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Center control"
+        ],
+        "instructions": "Compare Korneev–Kasimdzhanov with the following e-pawn interlude. Draw the pawn skeletons and predict which pawn move restrains the central break.",
+        "successCheck": "Explain why b4 appears in one formation and f4 in the other, and the second weakness each may create.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-missing-e-pawn",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "King exposure without the e-pawn: Simacek–Jobava; pp. 23-25; PDF 24-26",
+    "title": "King exposure without the e-pawn: Simacek–Jobava",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "The side playing against an isolani cannot assume its king is safe merely because its pawn structure contains no isolated pawn. In Simacek–Jobava, White retains a c-pawn rather than the more usual e-pawn. The missing e-pawn increases the influence of Black&#x27;s bishop along the diagonal toward the king, making accurate development especially important.\n\nThe source recommends arranging a rook and bishop to challenge that diagonal. White instead chooses a less effective setup and spends another tempo on h3, which also supplies an attacking target. Black combines a centralized knight with queen pressure and a bishop sacrifice. The following threats repeatedly exploit the relationship between White&#x27;s king defense and the queen on c2.\n\nRead this example as a coordination and king-safety lesson. Before accepting the bishop, check the forcing replies and the defender that must move away from the queen. The source&#x27;s strong winning language is not independently proved for every branch; the reviewed position receives only finite-depth analysis here, and declining the sacrifice remains an important comparison. The general conclusion is increased sensitivity to mistakes, not that this entire pawn formation is inherently losing.",
+    "keyIdeas": [
+      "A missing central pawn changes diagonal access to the king.",
+      "Development should answer the opponent’s strongest piece.",
+      "A sacrifice may exploit a loose queen as well as king exposure."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-missing-e-pawn",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "Compare the source’s proposed Re1/Be3 setup with the game. At 15...Bxh3, examine both accepting the sacrifice and 16.Qb3.",
+        "successCheck": "Name the attacking diagonal and explain how threats against the king also uncover threats to the queen.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-practical-attack",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Sound pressure versus a practical sacrifice: Bacrot–Edouard; pp. 25-28; PDF 26-29",
+    "title": "Sound pressure versus a practical sacrifice: Bacrot–Edouard",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "An isolated-pawn attack can influence play even when the central pawn does not advance immediately. Bacrot&#x27;s recurring d4-d5 threat limits Black&#x27;s choices and helps White improve piece placement. The annotations repeatedly test apparently natural defensive moves against this break, connecting long-term pressure with short tactical variations.\n\nWhite eventually chooses Bxh6, giving up a bishop to expose the king and prepare a rook lift. This is a practical decision, not a source claim of a forced win from the sacrifice. The annotations regard the resulting play as approximately balanced with accurate defense, while the quieter Bh4 would retain pressure without the same commitment. In the game Black later misses a difficult queen defense, after which White&#x27;s central pawns and active pieces become decisive.\n\nFor study, compare the two choices before looking at the result. Describe what each asks of both players: a sustained positional squeeze, or concrete defense against exposed-king threats. Then examine the later ...Qe8 resource so that the win does not retroactively make the original sacrifice compulsory. The main continuation and selected alternatives replay legally; finite-depth engine checks do not prove every source evaluation or uniquely best move.",
+    "keyIdeas": [
+      "A threatened break can restrict moves before it is played.",
+      "Separate practical difficulty from a forced win.",
+      "Compare a sacrifice with a quieter way to retain pressure."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-practical-attack",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "Before 18.Bxh6, compare the sacrifice with 18.Bh4. Follow the rook lift, then locate the later ...Qe8 defense instead of the game’s ...Bc5.",
+        "successCheck": "Explain why the attack was easier to play in practice without asserting that the bishop sacrifice forced a win.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-bishop-absent",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "When the useful bishop is missing: Vitiugov–Bologan; pp. 28-30; PDF 29-31",
+    "title": "When the useful bishop is missing: Vitiugov–Bologan",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "An isolated pawn needs useful piece activity to compensate for its long-term vulnerability. Vitiugov–Bologan shows a position in which Black accepts the pawn without the dark-squared bishop that commonly supplies kingside threats. The remaining pieces struggle to create comparable counterplay, so White can organize pressure without facing the attacks seen in earlier games.\n\nWhite&#x27;s arrangement restrains important knight squares, places a knight in front of the pawn and coordinates the bishops with the rooks. The plan develops beyond simply adding another attacker to d5: White prepares access along the c-file, uses b3 to control the defender&#x27;s routes, and eventually penetrates the seventh rank. This connects the pawn-structure lesson with the previously studied open-file and rook-entry methods.\n\nThe key comparison is functional. Count what the exchanged bishop would have attacked and which threats remain after it is gone. Do not turn this single example into a claim that every isolani without that bishop loses; the initial finite-depth check does not establish a forced win. Study how White progressively reduces counterplay and how later defensive inaccuracies allow the invasion to become decisive.",
+    "keyIdeas": [
+      "Judge a bishop by the threats its absence removes.",
+      "Blockade and useful file access should support each other.",
+      "A structural advantage still needs a concrete conversion."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-bishop-absent",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "Trace White’s rearrangement through Nd4, Rc3, Qc1 and b3. Explain what Black’s missing dark-squared bishop would normally contribute.",
+        "successCheck": "Identify both the blockading arrangement and the route by which White creates threats beyond d5.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      },
+      {
+        "id": "study-good-and-bad-bishops-flores-bishop-comparison",
+        "concept": "Good and bad bishops",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare Vitiugov–Bologan with Carlsen–Wang Yue. List the useful bishop, blockading knight square and available kingside threats in each.",
+        "successCheck": "Explain why counting exchanged pieces alone does not predict whether the isolated pawn has adequate counterplay.",
+        "playReminders": [
+          "Separate pawn-color classification from actual activity."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-bishop-present",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Activity with the useful bishop retained: Carlsen–Wang Yue; pp. 31-34; PDF 32-35",
+    "title": "Activity with the useful bishop retained: Carlsen–Wang Yue",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "Carlsen–Wang Yue provides the deliberate contrast to the preceding game. Black accepts an isolated pawn while retaining the bishop that can threaten the kingside, and White&#x27;s knight is poorly placed for an effective blockade. These features give Black practical resources even though some minor pieces have already been exchanged.\n\nBlack combines active knights, queen pressure and the bishop&#x27;s diagonal. At a critical moment an exchange sacrifice keeps the attack alive; material balance alone cannot describe the resulting danger. White still has defensive choices, and the source identifies a satisfactory alternative before the mistaken 26.Re1. The game result therefore illustrates the cost of a tactical error in a dynamic position rather than an inevitable consequence of accepting the isolani.\n\nCompare this game directly with Vitiugov–Bologan. Explain which bishop is retained, where the blockading knight is, and what threats make the isolated pawn affordable. Then compare White&#x27;s defensive choice with the game continuation. The late queen-versus-rooks phase was read and its main moves checked, but the study assignment concentrates on the structural decision and compensation; it does not present the unusual later material balance as a general endgame method.",
+    "keyIdeas": [
+      "Piece quality matters more than the number of exchanges.",
+      "A badly placed blockader can leave room for counterplay.",
+      "Preserve the distinction between compensation and a forced win."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-bishop-present",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "Compare Black’s useful bishop and White’s knight with the preceding game. After 25...Qe5, compare 26.g3 with 26.Re1 before following the attack.",
+        "successCheck": "Explain the compensation for the exchange and identify the defensive choice that keeps the source assessment near equality.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      },
+      {
+        "id": "study-good-and-bad-bishops-flores-bishop-comparison",
+        "concept": "Good and bad bishops",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare Vitiugov–Bologan with Carlsen–Wang Yue. List the useful bishop, blockading knight square and available kingside threats in each.",
+        "successCheck": "Explain why counting exchanged pieces alone does not predict whether the isolated pawn has adequate counterplay.",
+        "playReminders": [
+          "Separate pawn-color classification from actual activity."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-isolani-fifth-rank",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "An isolani advanced to the fifth rank; pp. 34-35; PDF 35-36",
+    "title": "An isolani advanced to the fifth rank",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structures",
+      "piece-activity"
+    ],
+    "note": "An isolated pawn that advances one rank farther can change the character of the blockade. In the concluding fragment, Black&#x27;s ...d5-d4 gains space and restricts White&#x27;s pieces. The white knight must move toward d3 to prevent a further advance, but that square is less influential than the familiar d4 blockade against a pawn still on d5.\n\nBlack develops comfortably behind the advanced pawn and applies pressure along the e-file. White has fewer useful moves, and the annotations show how ignoring the next pawn break can open the position for Black&#x27;s better-placed pieces. Later exchanges transform the pawn structure, at which point the author ends the fragment rather than treating the rest of the game as another isolani lesson.\n\nFor practice, compare the knight&#x27;s work on d3 with its ideal work on d4 in earlier examples. Name the squares it controls, the pawn advance it prevents, and the activity White has sacrificed to maintain the blockade. An isolated pawn is not automatically weak because no friendly pawn can defend it. Its vulnerability depends on whether the opponent can actually attack it while keeping useful play. This section completes the book&#x27;s Chapter 1, not every book&#x27;s treatment of isolated pawns.",
+    "keyIdeas": [
+      "An advanced isolani may restrict the blockading pieces.",
+      "Compare the activity of the blockader on different ranks.",
+      "Reassess the plan when exchanges change the structure."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-flores-fifth-rank",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Isolated pawns",
+          "Piece activity"
+        ],
+        "instructions": "Study the fragment from 11...d4 through 19...Bf5. Compare the knight’s role on d3 with a knight blockading on d4 in earlier games.",
+        "successCheck": "Explain why stopping the pawn is insufficient when the blockader becomes passive, and identify the final structural transformation.",
         "playReminders": [
           "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
         ]

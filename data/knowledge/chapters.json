@@ -1157,6 +1157,136 @@
         "section": "Trap The Enemy King Away From the Action, diagram 139 through the subsection conclusion",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "flores-isolani-break",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "The central break: Zvjaginsev–Vasquez; pp. 13-15; PDF 14-16",
+      "title": "The central break: Zvjaginsev–Vasquez",
+      "locator": {
+        "pdfPageStart": 14,
+        "pdfPageEnd": 16,
+        "printedPages": "13-15",
+        "section": "Complete Zvjaginsev–Vasquez game and final remarks; stop before Huzman–Aronian on PDF 16",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-isolani-sacrifice",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Giving up the isolani for activity: Huzman–Aronian; pp. 15-17; PDF 16-18",
+      "title": "Giving up the isolani for activity: Huzman–Aronian",
+      "locator": {
+        "pdfPageStart": 16,
+        "pdfPageEnd": 18,
+        "printedPages": "15-17",
+        "section": "Complete Huzman–Aronian game and final remarks; stop before Wojtaszek–Fressinet on PDF 18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-isolani-second-front",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Fix the pawn, then create another threat: Wojtaszek–Fressinet; pp. 17-19; PDF 18-20",
+      "title": "Fix the pawn, then create another threat: Wojtaszek–Fressinet",
+      "locator": {
+        "pdfPageStart": 18,
+        "pdfPageEnd": 20,
+        "printedPages": "17-19",
+        "section": "Complete Wojtaszek–Fressinet endgame fragment and final remarks",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-isolani-queenside-target",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Force a second pawn weakness: Korneev–Kasimdzhanov; pp. 20-22; PDF 21-23",
+      "title": "Force a second pawn weakness: Korneev–Kasimdzhanov",
+      "locator": {
+        "pdfPageStart": 21,
+        "pdfPageEnd": 23,
+        "printedPages": "20-22",
+        "section": "Complete Korneev–Kasimdzhanov endgame fragment and final remarks; stop before Short comment between games on PDF 23",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-isolani-pawn-variant",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "The c-pawn versus e-pawn comparison; pp. 22-23; PDF 23-24",
+      "title": "The c-pawn versus e-pawn comparison",
+      "locator": {
+        "pdfPageStart": 23,
+        "pdfPageEnd": 24,
+        "printedPages": "22-23",
+        "section": "Complete Short comment between games; stop before Simacek–Jobava on PDF 24",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-isolani-missing-e-pawn",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "King exposure without the e-pawn: Simacek–Jobava; pp. 23-25; PDF 24-26",
+      "title": "King exposure without the e-pawn: Simacek–Jobava",
+      "locator": {
+        "pdfPageStart": 24,
+        "pdfPageEnd": 26,
+        "printedPages": "23-25",
+        "section": "Complete Simacek–Jobava game and final remarks; stop before Bacrot–Edouard on PDF 26",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-isolani-practical-attack",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Sound pressure versus a practical sacrifice: Bacrot–Edouard; pp. 25-28; PDF 26-29",
+      "title": "Sound pressure versus a practical sacrifice: Bacrot–Edouard",
+      "locator": {
+        "pdfPageStart": 26,
+        "pdfPageEnd": 29,
+        "printedPages": "25-28",
+        "section": "Complete Bacrot–Edouard game and final remarks; stop before Vitiugov–Bologan on PDF 29",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-isolani-bishop-absent",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "When the useful bishop is missing: Vitiugov–Bologan; pp. 28-30; PDF 29-31",
+      "title": "When the useful bishop is missing: Vitiugov–Bologan",
+      "locator": {
+        "pdfPageStart": 29,
+        "pdfPageEnd": 31,
+        "printedPages": "28-30",
+        "section": "Complete Vitiugov–Bologan game and final remarks",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-isolani-bishop-present",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Activity with the useful bishop retained: Carlsen–Wang Yue; pp. 31-34; PDF 32-35",
+      "title": "Activity with the useful bishop retained: Carlsen–Wang Yue",
+      "locator": {
+        "pdfPageStart": 32,
+        "pdfPageEnd": 35,
+        "printedPages": "31-34",
+        "section": "Complete Carlsen–Wang Yue game and final remarks; stop before Final Comment on PDF 35",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-isolani-fifth-rank",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "An isolani advanced to the fifth rank; pp. 34-35; PDF 35-36",
+      "title": "An isolani advanced to the fifth rank",
+      "locator": {
+        "pdfPageStart": 35,
+        "pdfPageEnd": 36,
+        "printedPages": "34-35",
+        "section": "Complete Final Comment: Isolani on the Fifth Rank, Narciso Dublan–Gonzales Vidal fragment, through the end of Chapter 1",
+        "ebookLocation": null
+      }
     }
   ]
 }

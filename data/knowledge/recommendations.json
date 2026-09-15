@@ -743,6 +743,87 @@
         "rook-endings--silman-rook-cutoff-defense",
         "rook-endings--amateurs-rook-active-defense"
       ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-break",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-break"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-sacrifice",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-sacrifice"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-second-front",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-second-front"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-queenside-target",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-queenside-target"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-pawn-variant",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-pawn-variant"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-missing-e-pawn",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-missing-e-pawn"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-practical-attack",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-practical-attack"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-bishop-absent",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-bishop-absent"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-bishop-present",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-bishop-present"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-fifth-rank",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-fifth-rank"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-both-colors",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-break",
+        "isolated-pawns--flores-isolani-sacrifice"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-flores-c-e-comparison",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-queenside-target",
+        "isolated-pawns--flores-isolani-pawn-variant"
+      ]
+    },
+    {
+      "id": "study-good-and-bad-bishops-flores-bishop-comparison",
+      "crossrefIds": [
+        "good-and-bad-bishops--flores-isolani-bishop-absent",
+        "good-and-bad-bishops--flores-isolani-bishop-present"
+      ]
     }
   ]
 }
