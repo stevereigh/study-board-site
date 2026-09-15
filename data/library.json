@@ -1521,6 +1521,20 @@
         "playReminders": [
           "Which file can I use, where can I enter, and what will I threaten?"
         ]
+      },
+      {
+        "id": "study-open-files-two-books-entry",
+        "concept": "Open files",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Compare Silman’s diagram 94 with My System’s file-entry goal. For one attacking and one defending example, identify the intended entry square and what makes it usable or unavailable.",
+        "successCheck": "State a single practical entry-square test that works from both sides, using the exact positions rather than a slogan.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
       }
     ]
   },
@@ -1740,6 +1754,21 @@
         ],
         "instructions": "Review one completed game in which a rook entered, or could enter, the opponent’s second rank. Identify a target, the king’s escape route and the opponent’s strongest counterplay. Compare with the source’s seventh-rank principles.",
         "successCheck": "Write a short plan tied to an actual position; if the position offers no sound entry, explain the obstacle rather than forcing the pattern.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      },
+      {
+        "id": "study-seventh-rank-rooks-defender-view",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Revisit My System’s seventh-rank target lesson, then read Silman’s entry-denial example. Explain the defensive condition that must change before an invasion can be useful.",
+        "successCheck": "Distinguish a rook merely controlling a file from a rook that can reach a target; do not claim diagram 94 is itself a seventh-rank combination.",
         "playReminders": [
           "What is my rook targeting, and which piece must stay to block the king’s escape?"
         ]
@@ -2425,6 +2454,305 @@
         "successCheck": "Explain outposts using the position’s concrete squares and targets, and name a reason the general rule could fail.",
         "playReminders": [
           "Check stability, access and useful targets."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-rook-file-preparation",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Prepare a pawn break that gives the rooks useful work; pp. 245-247; PDF 249-251",
+    "title": "Prepare a pawn break that gives the rooks useful work",
+    "tags": [
+      "open-files",
+      "pawn-breaks",
+      "piece-activity",
+      "planning"
+    ],
+    "note": "Silman begins with rooks that have little to do because their own pawns obstruct them. The practical response is to prepare a useful pawn break rather than wait for a file to appear. In diagram 92, he compares reinforcing the e-pawn with d3 against playing d4 and preparing to bring the remaining pieces into cooperation along the d-file. The subsequent bishop, queen and rook moves are a proposed arrangement, not a forced sequence with the opponent&#x27;s replies supplied.\n\nA closed center does not remove the need for rook activity. In diagram 93, Black repositions a knight to prepare the f-pawn advance, while White repositions a knight to support a queenside break. Each plan connects the prospective file to the side of the board where its pieces and pawn structure offer useful chances. Opening a random file can waste time or give the opponent the more valuable route.\n\nFor study, identify the break, the preparation it needs and the rook that benefits. Then ask who can occupy or contest the resulting file first. These examples illustrate plan selection; independent analysis need not choose the exact teaching move at every turn. The lesson complements My System&#x27;s explanation of how exchanges create files by adding a practical test of whether that new access serves the rest of the position.",
+    "keyIdeas": [
+      "Prepare file-opening pawn contact deliberately.",
+      "Match the prospective file to useful piece placement and pawn structure.",
+      "Check who benefits before opening the route."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-silman-opening",
+        "concept": "Open files",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "At diagram 92 compare d3 and d4. Name the rook that needs work and explain the later piece arrangement without treating it as a forced sequence.",
+        "successCheck": "Describe the intended file, necessary preparation and one opposing reply that would need calculation.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      },
+      {
+        "id": "study-open-files-silman-closed",
+        "concept": "Open files",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "At diagram 93, explain ...Nd7 and Nd3 from each side. Identify the pawn break each move prepares and which rook could benefit.",
+        "successCheck": "Give a coherent plan for both colors and explain why the prospective file fits the pawn structure.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-rook-entry-denial",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Defend the entry squares instead of contesting every file; pp. 247-248; PDF 251-252",
+    "title": "Defend the entry squares instead of contesting every file",
+    "tags": [
+      "open-files",
+      "entry-squares",
+      "restriction",
+      "defense"
+    ],
+    "note": "An opponent can control a file without being able to use it effectively. Silman&#x27;s fourth rule asks the defender to inspect the entry squares before spending time trying to exchange or oppose the rooks. If the important squares are covered, the apparent pressure may not require an immediate contest for the file itself.\n\nDiagram 94 makes the distinction concrete. Black has doubled rooks on the b-file, but White&#x27;s pieces and pawns cover b5, b4, b3, b2 and b1. The source therefore treats the file as ineffective under the current arrangement. The audit checks the stated control of each square; that static check is not a guarantee that White can ignore every future change in the position. A trade, a pawn move or a displacement of a defender can create an entry point later.\n\nCompare this with My System&#x27;s instruction to identify an invasion square before exploiting an open file. The two viewpoints meet at the same question: where can the rook actually enter and achieve something? For practice, mark each useful destination and its defender, then consider which supporting piece could be exchanged or chased. Defending squares is an active task that can buy time for your own plan; it is not permission to stop monitoring the opponent&#x27;s play.",
+    "keyIdeas": [
+      "Distinguish control of a file from useful access along it.",
+      "Name the defenders of the entry squares.",
+      "Recheck the arrangement after exchanges or pawn moves."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-silman-entry-map",
+        "concept": "Open files",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Mark the five b-file entry squares named in diagram 94 and identify White’s control of each. Then consider one defender that could be exchanged or displaced.",
+        "successCheck": "Account for b5, b4, b3, b2 and b1, and explain why the control map must be checked again after a change.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      },
+      {
+        "id": "study-open-files-two-books-entry",
+        "concept": "Open files",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Compare Silman’s diagram 94 with My System’s file-entry goal. For one attacking and one defending example, identify the intended entry square and what makes it usable or unavailable.",
+        "successCheck": "State a single practical entry-square test that works from both sides, using the exact positions rather than a slogan.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      },
+      {
+        "id": "study-seventh-rank-rooks-defender-view",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Revisit My System’s seventh-rank target lesson, then read Silman’s entry-denial example. Explain the defensive condition that must change before an invasion can be useful.",
+        "successCheck": "Distinguish a rook merely controlling a file from a rook that can reach a target; do not claim diagram 94 is itself a seventh-rank combination.",
+        "playReminders": [
+          "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-rook-master-plan",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Restrict the opponent’s rooks before opening your own file; pp. 248-250; PDF 252-254",
+    "title": "Restrict the opponent’s rooks before opening your own file",
+    "tags": [
+      "open-files",
+      "restriction",
+      "favorable-exchanges",
+      "conversion"
+    ],
+    "note": "The Karpov-Andersson example shows a plan developing in stages. White first limits the opponent&#x27;s queenside expansion and accepts the opening of one file while preventing another from appearing. He then arranges his pieces to cover the useful b-file entry squares. This reduces the urgency of the apparent race between attacks on opposite wings.\n\nWith Black&#x27;s rooks contained, White improves the minor-piece arrangement and exchanges a bishop before preparing the f-pawn break. The rook move and pawn advance serve an established plan: the new file will give White&#x27;s pieces access to the position. The game therefore links restraint, favorable exchanges and rook activity instead of treating them as separate rules to apply automatically.\n\nFor study, replay the main line in stages. Stop after Nd2 and identify the controls that keep the rooks out; stop again before f4 and explain why opening a file now helps White. The complete printed main line legally replays, but this does not certify every annotation or make every move uniquely best. The useful comparison with the next student game is the order of tasks: reduce the opponent&#x27;s effective play, improve the pieces, then open the route those pieces are ready to use.",
+    "keyIdeas": [
+      "Prevent useful penetration before assuming a race is necessary.",
+      "Improve the supporting pieces before opening the final route.",
+      "Judge the pawn break in the position that preparation produces."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-silman-master",
+        "concept": "Open files",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Replay the Karpov-Andersson main line in stages. Stop at Nd2 and before f4; explain what has been prepared at each checkpoint.",
+        "successCheck": "Connect entry-square defense, the minor-piece exchange and the eventual file opening.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      },
+      {
+        "id": "study-open-files-silman-comparison",
+        "concept": "Open files",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Compare diagrams 95 and 96 from the identical starting board. Focus on Nxg5, g4 and the later exchanges in the student game.",
+        "successCheck": "Identify two decisions that change the original plan and explain the resulting pawn structure or rook activity.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-rook-plan-discipline",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Keep the file-opening plan in view when threats distract you; pp. 251-254; PDF 255-258",
+    "title": "Keep the file-opening plan in view when threats distract you",
+    "tags": [
+      "open-files",
+      "planning",
+      "threat-assessment",
+      "favorable-exchanges"
+    ],
+    "note": "Silman gives the same initial position to a student, making the comparison about decisions rather than different starting advantages. The student recognizes several useful features but treats the position as an urgent race and begins exchanging on the kingside before securing the opponent&#x27;s entry squares. That change also makes the intended file-opening advance harder to arrange.\n\nA later pawn push tries to prevent an enemy idea but closes the very wing the student hoped to open. The student then pursues exchanges without adequately weighing the material deficit and the resulting passed pawns. Silman&#x27;s criticism is about losing the connection between individual moves and the position&#x27;s main requirements. His observations of a student&#x27;s thought process are teaching examples, not evidence about this dashboard user&#x27;s habits.\n\nCompare each turning point with the master game: which useful task is being advanced, and what opportunity is being given to the opponent? Defensive attention should test whether a threat is real and serious; it should not automatically cancel your own plan. Likewise, exchanging an awkward piece may help, but the full resulting position still matters. The main teaching-game continuation is legally replayed through its stopping point. It illustrates the consequences of the decisions without presenting the student&#x27;s comments as recommended play.",
+    "keyIdeas": [
+      "Check how a move affects the intended pawn break.",
+      "Assess threats concretely before abandoning your plan.",
+      "Evaluate the whole ending before choosing exchanges."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-silman-comparison",
+        "concept": "Open files",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Compare diagrams 95 and 96 from the identical starting board. Focus on Nxg5, g4 and the later exchanges in the student game.",
+        "successCheck": "Identify two decisions that change the original plan and explain the resulting pawn structure or rook activity.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-rook-active-defense",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Choose which pawn to save while keeping the rook active; pp. 255-257; PDF 259-261",
+    "title": "Choose which pawn to save while keeping the rook active",
+    "tags": [
+      "rook-endings",
+      "rook-activity",
+      "defense",
+      "passed-pawns"
+    ],
+    "note": "A difficult rook ending may require choosing which pawn to surrender. Silman&#x27;s example asks the defender to compare the resulting pawn structure and the rook&#x27;s activity, rather than protect the nearest pawn by reflex. Losing the a-pawn allows connected outside passed pawns, while a rook tied to defending that pawn may have little useful freedom.\n\nThe first student retreats into a pessimistic assessment and chooses a king move that does not solve the activity problem. The second looks for a more purposeful defense: advance the a-pawn and allow the d-pawn to go, avoiding both immediate passivity and the pair of connected passers. Even that promising idea needs accurate follow-up. The later king move allows White&#x27;s rook to improve, and the resulting defense remains unpleasant.\n\nFor practice, describe the position after each proposed concession. Which pawns become passed, where can the rook attack from, and can the king actually become useful? The source&#x27;s encouragement to keep defending is valuable, but its broad sayings about rook endings are not mathematical rules. The checked lines are short comparisons and stopping positions, not proofs that all similar endings win or draw. The following section supplies the more active continuation from the same board.",
+    "keyIdeas": [
+      "Compare pawn concessions by the structure they leave.",
+      "Keep the defending rook available for counterplay.",
+      "A king move must improve its actual role."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-silman-pawn-choice",
+        "concept": "Rook endings",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "From diagram 97, compare the king move with the a-pawn advance. For each, list the resulting passed pawns and the defending rook’s useful squares.",
+        "successCheck": "Explain why protecting every pawn is not the only goal and why the follow-up after ...a5 still matters.",
+        "playReminders": [
+          "After this exchange, what useful job will my rook have, and which pawns become passed?"
+        ]
+      },
+      {
+        "id": "study-rook-endings-silman-liquidation",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Compare the two source branches after ...a5 Rxd6 a4. Recount the pawns after the exchanges and name a useful job for each rook.",
+        "successCheck": "Reach the four-versus-three position legally, locate all remaining pawns, and distinguish the agreed draw from a general proof.",
+        "playReminders": [
+          "After this exchange, what useful job will my rook have, and which pawns become passed?"
+        ]
+      },
+      {
+        "id": "study-rook-endings-own-ending",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Review a completed rook ending, or replay diagram 97 if none is available. Compare one passive defense with one attempt at activity, including the resulting pawn structure.",
+        "successCheck": "Describe the concrete compensation for any pawn concession and identify the opponent’s strongest reply; keep uncertain evaluations marked as such.",
+        "playReminders": [
+          "After this exchange, what useful job will my rook have, and which pawns become passed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-rook-defensive-liquidation",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Use an active pawn break to simplify the defensive task; pp. 257-258; PDF 261-262",
+    "title": "Use an active pawn break to simplify the defensive task",
+    "tags": [
+      "rook-endings",
+      "liquidation",
+      "counterplay",
+      "rook-activity"
+    ],
+    "note": "The strongest student starts from the same rook ending but follows the a-pawn advance with another active push. The purpose is to remove White&#x27;s queenside pawns or provoke a structure in which Black&#x27;s rook has useful counterplay. The defender is willing to lose central pawns because the resulting task can be easier than defending connected outside passers with a passive rook.\n\nIn the played line, exchanges eliminate the queenside pawns and leave four White pawns against three Black pawns on the kingside. Black&#x27;s rook remains active, and the players eventually agree a draw. Silman also gives a more testing alternative in which White keeps practical winning chances. These distinctions matter: the reported agreement does not prove that every four-against-three ending is drawn, nor that the defender&#x27;s move order is universally forced.\n\nSet the position up and compare the active a-pawn continuation with the earlier king move. After each capture, recount the pawns and identify the rook&#x27;s next useful job. Then inspect the alternative in which White captures the a-pawn instead of taking on f6. This lesson is a practical introduction to active rook defense and liquidation. Formal Lucena and Philidor methods are outside the chapter and remain for the next study cycle.",
+    "keyIdeas": [
+      "Use counterplay to change the defensive task.",
+      "Recount the pawns after liquidation and identify the rook’s next job.",
+      "Distinguish practical drawing chances from a proven theoretical draw."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-silman-liquidation",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Compare the two source branches after ...a5 Rxd6 a4. Recount the pawns after the exchanges and name a useful job for each rook.",
+        "successCheck": "Reach the four-versus-three position legally, locate all remaining pawns, and distinguish the agreed draw from a general proof.",
+        "playReminders": [
+          "After this exchange, what useful job will my rook have, and which pawns become passed?"
         ]
       }
     ]

@@ -502,6 +502,70 @@
       "crossrefIds": [
         "seventh-rank-rooks--nimzovich-seventh-rank-targets"
       ]
+    },
+    {
+      "id": "study-open-files-silman-opening",
+      "crossrefIds": [
+        "open-files--amateurs-rook-file-preparation"
+      ]
+    },
+    {
+      "id": "study-open-files-silman-closed",
+      "crossrefIds": [
+        "open-files--amateurs-rook-file-preparation"
+      ]
+    },
+    {
+      "id": "study-open-files-silman-entry-map",
+      "crossrefIds": [
+        "open-files--amateurs-rook-entry-denial"
+      ]
+    },
+    {
+      "id": "study-open-files-silman-master",
+      "crossrefIds": [
+        "open-files--amateurs-rook-master-plan"
+      ]
+    },
+    {
+      "id": "study-open-files-silman-comparison",
+      "crossrefIds": [
+        "open-files--amateurs-rook-plan-discipline",
+        "open-files--amateurs-rook-master-plan"
+      ]
+    },
+    {
+      "id": "study-rook-endings-silman-pawn-choice",
+      "crossrefIds": [
+        "rook-endings--amateurs-rook-active-defense"
+      ]
+    },
+    {
+      "id": "study-rook-endings-silman-liquidation",
+      "crossrefIds": [
+        "rook-endings--amateurs-rook-defensive-liquidation",
+        "rook-endings--amateurs-rook-active-defense"
+      ]
+    },
+    {
+      "id": "study-open-files-two-books-entry",
+      "crossrefIds": [
+        "open-files--amateurs-rook-entry-denial",
+        "open-files--nimzovich-file-entry-goal"
+      ]
+    },
+    {
+      "id": "study-seventh-rank-rooks-defender-view",
+      "crossrefIds": [
+        "seventh-rank-rooks--amateurs-rook-entry-denial",
+        "seventh-rank-rooks--nimzovich-seventh-rank-targets"
+      ]
+    },
+    {
+      "id": "study-rook-endings-own-ending",
+      "crossrefIds": [
+        "rook-endings--amateurs-rook-active-defense"
+      ]
     }
   ]
 }

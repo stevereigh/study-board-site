@@ -780,6 +780,84 @@
         "section": "Chapter 3 closing diagram 40, Nimzovich-Bernstein, Vilna 1912: from its introduction on PDF 70 through the resignation on PDF 71; stop before diagram 41 and its separate game",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "amateurs-rook-file-preparation",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Prepare a pawn break that gives the rooks useful work; pp. 245-247; PDF 249-251",
+      "title": "Prepare a pawn break that gives the rooks useful work",
+      "locator": {
+        "pdfPageStart": 249,
+        "pdfPageEnd": 251,
+        "printedPages": "245-247",
+        "section": "Using the Rooks introduction and rules 1-3, diagrams 92-93; stop before rule 4 on PDF 251",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-rook-entry-denial",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Defend the entry squares instead of contesting every file; pp. 247-248; PDF 251-252",
+      "title": "Defend the entry squares instead of contesting every file",
+      "locator": {
+        "pdfPageStart": 251,
+        "pdfPageEnd": 252,
+        "printedPages": "247-248",
+        "section": "Using the Rooks rule 4 and diagram 94 on PDF 251 through its first paragraph conclusion on PDF 252; stop before the separate diagram 95 game",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-rook-master-plan",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Restrict the opponent’s rooks before opening your own file; pp. 248-250; PDF 252-254",
+      "title": "Restrict the opponent’s rooks before opening your own file",
+      "locator": {
+        "pdfPageStart": 252,
+        "pdfPageEnd": 254,
+        "printedPages": "248-250",
+        "section": "Using the Rooks diagram 95, Karpov-Andersson, Stockholm 1969, from its introduction on PDF 252 through the game conclusion on PDF 254",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-rook-plan-discipline",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Keep the file-opening plan in view when threats distract you; pp. 251-254; PDF 255-258",
+      "title": "Keep the file-opening plan in view when threats distract you",
+      "locator": {
+        "pdfPageStart": 255,
+        "pdfPageEnd": 258,
+        "printedPages": "251-254",
+        "section": "Using the Rooks diagram 96, student comparison from its introduction on PDF 255 through the Tips box on PDF 258; stop before the rook-ending introduction on PDF 259",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-rook-active-defense",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Choose which pawn to save while keeping the rook active; pp. 255-257; PDF 259-261",
+      "title": "Choose which pawn to save while keeping the rook active",
+      "locator": {
+        "pdfPageStart": 259,
+        "pdfPageEnd": 261,
+        "printedPages": "255-257",
+        "section": "Using the Rooks diagram 97 and the first two student responses, PDF 259-260 through the opening stopping-point sentence on PDF 261; stop before diagram 98",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-rook-defensive-liquidation",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Use an active pawn break to simplify the defensive task; pp. 257-258; PDF 261-262",
+      "title": "Use an active pawn break to simplify the defensive task",
+      "locator": {
+        "pdfPageStart": 261,
+        "pdfPageEnd": 262,
+        "printedPages": "257-258",
+        "section": "Using the Rooks diagram 98 and third student response through the final Tips box on PDF 262; next chapter begins PDF 263",
+        "ebookLocation": null
+      }
     }
   ]
 }
