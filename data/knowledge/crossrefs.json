@@ -836,6 +836,127 @@
         "section": "Complete Chapter 4 explanation and Willemze-Erwich worked example through PDF 145 left; stop before exercise 242 on the right",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "pins--erwich-pin-exploitation",
+      "chapterId": "erwich-pin-exploitation",
+      "locator": {
+        "pdfPageStart": 164,
+        "pdfPageEnd": 164,
+        "printedPages": null,
+        "section": "Chapter 5 definition and complete Caruana-Bacrot example on PDF 164",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pins--erwich-pin-accuracy-defense",
+      "chapterId": "erwich-pin-accuracy-defense",
+      "locator": {
+        "pdfPageStart": 165,
+        "pdfPageEnd": 166,
+        "printedPages": null,
+        "section": "Complete Naiditsch-Vachier-Lagrave example, PDF 165 through PDF 166 left; stop before the Petrosian heading on the right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pins--erwich-pin-preparation",
+      "chapterId": "erwich-pin-preparation",
+      "locator": {
+        "pdfPageStart": 166,
+        "pdfPageEnd": 168,
+        "printedPages": null,
+        "section": "Petrosian-L Ami heading on PDF 166 right through the complete Petrosian and Thakurta-Harutiunyan examples, ending on PDF 168 before the cross-pin introduction",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pins--erwich-cross-pin",
+      "chapterId": "erwich-cross-pin",
+      "locator": {
+        "pdfPageStart": 168,
+        "pdfPageEnd": 169,
+        "printedPages": null,
+        "section": "Cross-pin introduction and complete Godart-Beukema example, PDF 168-169, including the closing chapter guidance before exercise 278",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pins--erwich-pin-practice-278",
+      "chapterId": "erwich-pin-practice-278",
+      "locator": {
+        "pdfPageStart": 170,
+        "pdfPageEnd": 170,
+        "printedPages": null,
+        "section": "Only exercise 278 on PDF 170 left; exclude exercise 279 on the right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pins--erwich-pin-practice-280",
+      "chapterId": "erwich-pin-practice-280",
+      "locator": {
+        "pdfPageStart": 171,
+        "pdfPageEnd": 171,
+        "printedPages": null,
+        "section": "Only exercise 280 on PDF 171 left; exclude exercise 281 on the right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pins--nimzovich-unpinning-options",
+      "chapterId": "nimzovich-unpinning-options",
+      "locator": {
+        "pdfPageStart": 139,
+        "pdfPageEnd": 140,
+        "printedPages": "116-117",
+        "section": "Chapter 7 section 4 opening discussion and diagram 95, starting at the section heading on PDF 139 and ending before subsection (a) The Question on PDF 140",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "unpinning--erwich-pin-accuracy-defense",
+      "chapterId": "erwich-pin-accuracy-defense",
+      "locator": {
+        "pdfPageStart": 165,
+        "pdfPageEnd": 166,
+        "printedPages": null,
+        "section": "Complete Naiditsch-Vachier-Lagrave example, PDF 165 through PDF 166 left; stop before the Petrosian heading on the right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "unpinning--nimzovich-unpinning-options",
+      "chapterId": "nimzovich-unpinning-options",
+      "locator": {
+        "pdfPageStart": 139,
+        "pdfPageEnd": 140,
+        "printedPages": "116-117",
+        "section": "Chapter 7 section 4 opening discussion and diagram 95, starting at the section heading on PDF 139 and ending before subsection (a) The Question on PDF 140",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "candidate-moves--erwich-pin-accuracy-defense",
+      "chapterId": "erwich-pin-accuracy-defense",
+      "locator": {
+        "pdfPageStart": 165,
+        "pdfPageEnd": 166,
+        "printedPages": null,
+        "section": "Complete Naiditsch-Vachier-Lagrave example, PDF 165 through PDF 166 left; stop before the Petrosian heading on the right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "intermediate-moves--erwich-cross-pin",
+      "chapterId": "erwich-cross-pin",
+      "locator": {
+        "pdfPageStart": 168,
+        "pdfPageEnd": 169,
+        "printedPages": null,
+        "section": "Cross-pin introduction and complete Godart-Beukema example, PDF 168-169, including the closing chapter guidance before exercise 278",
+        "ebookLocation": null
+      }
     }
   ]
 }

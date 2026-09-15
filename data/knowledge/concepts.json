@@ -232,6 +232,10 @@
     {
       "id": "double-check",
       "name": "Double check"
+    },
+    {
+      "id": "unpinning",
+      "name": "Unpinning"
     }
   ]
 }

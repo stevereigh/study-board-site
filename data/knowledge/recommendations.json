@@ -318,6 +318,61 @@
       "crossrefIds": [
         "skewers--erwich-skewer-practice-245"
       ]
+    },
+    {
+      "id": "study-pins-restricted-defender",
+      "crossrefIds": [
+        "pins--erwich-pin-exploitation"
+      ]
+    },
+    {
+      "id": "study-unpinning-counterplay",
+      "crossrefIds": [
+        "unpinning--erwich-pin-accuracy-defense"
+      ]
+    },
+    {
+      "id": "study-pins-create-the-pin",
+      "crossrefIds": [
+        "pins--erwich-pin-preparation"
+      ]
+    },
+    {
+      "id": "study-pins-arrange-targets",
+      "crossrefIds": [
+        "pins--erwich-pin-preparation"
+      ]
+    },
+    {
+      "id": "study-pins-cross-pin",
+      "crossrefIds": [
+        "pins--erwich-cross-pin"
+      ]
+    },
+    {
+      "id": "study-pins-practice-278",
+      "crossrefIds": [
+        "pins--erwich-pin-practice-278"
+      ]
+    },
+    {
+      "id": "study-pins-practice-280",
+      "crossrefIds": [
+        "pins--erwich-pin-practice-280"
+      ]
+    },
+    {
+      "id": "study-unpinning-candidate-plans",
+      "crossrefIds": [
+        "unpinning--nimzovich-unpinning-options"
+      ]
+    },
+    {
+      "id": "study-unpinning-source-comparison",
+      "crossrefIds": [
+        "unpinning--nimzovich-unpinning-options",
+        "unpinning--erwich-pin-accuracy-defense"
+      ]
     }
   ]
 }

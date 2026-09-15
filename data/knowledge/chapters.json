@@ -228,6 +228,48 @@
       "bookId": "erwich-club-exercises-2019",
       "ref": "Skewer practice: exercise 245 from Black's side; PDF 147-147",
       "title": "Skewer practice: exercise 245 from Black's side"
+    },
+    {
+      "id": "erwich-pin-exploitation",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Pins: restrictions and attacking the pinned piece; PDF 164-164",
+      "title": "Pins: restrictions and attacking the pinned piece"
+    },
+    {
+      "id": "erwich-pin-accuracy-defense",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Pins and unpinning: accurate pressure and counterplay; PDF 165-166",
+      "title": "Pins and unpinning: accurate pressure and counterplay"
+    },
+    {
+      "id": "erwich-pin-preparation",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Pins: preparing the front and rear targets; PDF 166-168",
+      "title": "Pins: preparing the front and rear targets"
+    },
+    {
+      "id": "erwich-cross-pin",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Cross-pins: two restrictions and intermediate checks; PDF 168-169",
+      "title": "Cross-pins: two restrictions and intermediate checks"
+    },
+    {
+      "id": "nimzovich-unpinning-options",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Unpinning: compare the defensive choices; pp. 116-117; PDF 139-140",
+      "title": "Unpinning: compare the defensive choices"
+    },
+    {
+      "id": "erwich-pin-practice-278",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Pin practice: exercise 278 and legal movement along a pin; PDF 170-170",
+      "title": "Pin practice: exercise 278 and legal movement along a pin"
+    },
+    {
+      "id": "erwich-pin-practice-280",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Pin practice: exercise 280 and a rook drawn onto the diagonal; PDF 171-171",
+      "title": "Pin practice: exercise 280 and a rook drawn onto the diagonal"
     }
   ]
 }

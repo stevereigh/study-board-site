@@ -641,6 +641,233 @@
     ]
   },
   {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Pins: restrictions and attacking the pinned piece; PDF 164-164",
+    "title": "Pins: restrictions and attacking the pinned piece",
+    "tags": [
+      "pins",
+      "exploitation",
+      "defenders"
+    ],
+    "note": "A pin restrains a piece because moving it exposes a more important target behind it. Erwich distinguishes a pin to the king from a relative pin involving material or a critical square. The useful practical question is what the defender would expose by moving. An absolute pin forbids moves that leave the king in check; it does not forbid a legal move along the pinning line or a capture that removes the attacker.\n\nCaruana-Bacrot combines two restrictions. Rf4 pins Black&#x27;s bishop to the queen along the fourth rank. Capturing the rook with the e-pawn would open the queen&#x27;s route to g7 and allow mate. Black can protect the bishop with h5, but h3 adds a fresh attack on the restricted bishop. The apparent defender cannot be counted without checking the tactical consequence of using it.\n\nFor study, identify the piece being pinned, the attacker and the target behind it. Then identify the separate reason the e-pawn cannot safely capture. Close the book and explain how the pawn advance increases pressure without releasing the existing restriction. The successful rook move is an analytical improvement from the source, not the move played in the game. This lesson begins the pin material; broader defensive choices appear in the following sections.",
+    "keyIdeas": [
+      "Identify the attacker, pinned piece and rear target.",
+      "A pinned or tactically restricted defender may not be usable.",
+      "An absolute pin forbids exposing the king, not every possible move."
+    ],
+    "activities": [
+      {
+        "id": "study-pins-restricted-defender",
+        "concept": "Pins",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Skewers"
+        ],
+        "instructions": "Read Caruana-Bacrot on PDF 164. Explain Rf4 and why exf4 fails, then follow h5 and h3. Identify both restricted defenders.",
+        "successCheck": "Show the mate after exf4 and explain why h3 increases pressure.",
+        "playReminders": [
+          "What does this piece expose if it moves, and can it create a stronger threat?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Pins and unpinning: accurate pressure and counterplay; PDF 165-166",
+    "title": "Pins and unpinning: accurate pressure and counterplay",
+    "tags": [
+      "pins",
+      "unpinning",
+      "candidate-moves",
+      "counterplay"
+    ],
+    "note": "Attacking a pinned piece is useful only if the pin survives long enough. Naiditsch-Vachier-Lagrave compares four ways to increase pressure and shows why the destination of the attacking bishop matters. The move Bb6 keeps a useful follow-up available. After the defender blocks the e-file in one line, White can still attack the newly pinned bishop in time. Other natural candidates allow Black to reorganize or expose White&#x27;s own rook.\n\nThe continuation also requires choosing the correct capturing piece. Rxd4 preserves the winning sequence, whereas Bxd4 permits a rook move that pins White&#x27;s bishop in return. A slower pawn attack can allow the black king to move and the bishop to escape with a discovered counterattack. Treat a relative pin as a tactical relationship, not a physical prohibition: the front piece may move if the new threat outweighs what it exposes.\n\nUse the example from both sides. As White, compare candidate moves and the next attack each makes possible. As Black, search for a block, protection of the rear piece, king relocation or a forcing counterattack. Explain why each defense succeeds against one move order and fails against another. The source branches were checked, but the engine may prefer a different way to concede material.",
+    "keyIdeas": [
+      "Check whether the next attack arrives before the defender reorganizes.",
+      "Choosing the wrong capturing piece can create a counter-pin.",
+      "Blocks, king moves and counterattacks can change the pin."
+    ],
+    "activities": [
+      {
+        "id": "study-unpinning-counterplay",
+        "concept": "Unpinning",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins"
+        ],
+        "instructions": "Compare Bb6 with Bc3 and c3 in Naiditsch-Vachier-Lagrave, PDF 165-166. Play defender in each branch: look for a block, king move or counterattack.",
+        "successCheck": "Explain one defense that works against an inaccurate move and why Bb6 changes its effectiveness.",
+        "playReminders": [
+          "Can I break the pin, protect what is behind it, or counterattack in time?"
+        ]
+      },
+      {
+        "id": "study-unpinning-source-comparison",
+        "concept": "Unpinning",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins"
+        ],
+        "instructions": "Compare Nimzowitsch&#x27;s opening candidate list with Erwich&#x27;s Naiditsch-Vachier-Lagrave example. Explain when immediate tactical pressure limits the choice of a positional plan.",
+        "successCheck": "State the immediate threat, propose two defensive methods and check whether each has time to work.",
+        "playReminders": [
+          "Can I break the pin, protect what is behind it, or counterattack in time?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Pins: preparing the front and rear targets; PDF 166-168",
+    "title": "Pins: preparing the front and rear targets",
+    "tags": [
+      "pins",
+      "preparation",
+      "decoy"
+    ],
+    "note": "When a useful pin is absent, forcing moves can arrange the targets. Petrosian-L Ami offers the queen to draw the b-pawn away and gain access to the back rank. After the king is driven to f7, Rb7 pins the queen to it. If the knight blocks the earlier check instead, the bishop can attack that pinned knight. The preparation creates different exploitable restrictions depending on the defense.\n\nThe source also considers declining the queen capture. That branch keeps the b-pawn restricted by the rook and requires a different continuation. The attractive accepting line is therefore an illustration of the mechanism, not a sequence the defender must choose.\n\nThakurta-Harutiunyan constructs a pin by drawing a rook and king onto a diagonal. After Black captures the bishop, a sequence of checks and recaptures can place White&#x27;s rook on c4 and king on f1. Ba6 then pins the rook. The engine can prefer a refusal of the first recapture; calculate that as a separate way to concede material. During study, work backward from the final pin, then replay the preparation forward and name what each forcing move changes. Both examples teach the creation of a restriction before its exploitation.",
+    "keyIdeas": [
+      "Work backward from the desired pinning line.",
+      "Checks and sacrifices can arrange both targets.",
+      "Different defensive replies can create different pins or concessions."
+    ],
+    "activities": [
+      {
+        "id": "study-pins-create-the-pin",
+        "concept": "Pins",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Skewers"
+        ],
+        "instructions": "Study Petrosian-L Ami on PDF 166-167. Cover the continuation, find the queen sacrifice and explain the different pins after Kf7 or Ne8. Also review declining the sacrifice with Qd8.",
+        "successCheck": "Name the rear target in both accepting branches and keep the refusal separate.",
+        "playReminders": [
+          "What does this piece expose if it moves, and can it create a stronger threat?"
+        ]
+      },
+      {
+        "id": "study-pins-arrange-targets",
+        "concept": "Pins",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Skewers"
+        ],
+        "instructions": "Study Thakurta-Harutiunyan on PDF 167-168. Follow the accepting recaptures through Ba6; identify where the king and rook were drawn. Consider a refusal of Rxc4 as well.",
+        "successCheck": "Reconstruct the final diagonal and explain each preparatory check.",
+        "playReminders": [
+          "What does this piece expose if it moves, and can it create a stronger threat?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Cross-pins: two restrictions and intermediate checks; PDF 168-169",
+    "title": "Cross-pins: two restrictions and intermediate checks",
+    "tags": [
+      "pins",
+      "cross-pin",
+      "intermediate-moves"
+    ],
+    "note": "A piece can be constrained in two directions at once. In Godart-Beukema, Rad8 creates a file restriction while the queen supplies pressure along the seventh rank. Capturing the queen immediately permits mate, while capturing the rook can expose White&#x27;s queen. Erwich uses this arrangement to introduce the cross-pin.\n\nThe defender&#x27;s intermediate bishop check is important. Black must answer it accurately: a king move maintains the pressure, whereas a tempting recapture can give White a tactical escape. Later, a second rook move to d8 renews a pin against the queen. The front piece and rear target have changed, but the calculation question is the same: what becomes exposed if the constrained piece moves or captures?\n\nStudy this as a sequence of changing restrictions rather than memorize a shape. At each stage, identify both lines and test the most forcing defensive move. The source&#x27;s detailed alternatives were legally replayed, and the initial move was independently checked. The chapter mentions further named cross-pin forms and later exercises, but their explanations are in material missing from this supplied file or outside the selected batch. Those references are not promoted into additional lessons here. The chapter&#x27;s closing emphasis is on winning material through preparation and pins; a mate threat may serve that purpose without forcing mate itself.",
+    "keyIdeas": [
+      "A piece may be restricted along two different lines.",
+      "Search for intermediate checks before accepting a tactical loss.",
+      "Reidentify the pinned piece and rear target after every exchange."
+    ],
+    "activities": [
+      {
+        "id": "study-pins-cross-pin",
+        "concept": "Pins",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Skewers"
+        ],
+        "instructions": "Study Godart-Beukema on PDF 168-169. After Rad8, compare capturing the queen, capturing the rook and Bxf7+. Track both restrictions after the reply.",
+        "successCheck": "Show why the intermediate check requires an accurate answer and identify the renewed pin after the later Rd8.",
+        "playReminders": [
+          "What does this piece expose if it moves, and can it create a stronger threat?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Pin practice: exercise 278 and legal movement along a pin; PDF 170-170",
+    "title": "Pin practice: exercise 278 and legal movement along a pin",
+    "tags": [
+      "pins",
+      "practice",
+      "absolute-pin"
+    ],
+    "note": "Exercise 278 draws a queen onto a diagonal leading to its king. Try the position before reading the guidance. Black&#x27;s Nxe3 captures the bishop; after Qxe3, Bg5 pins the queen to the king on c1. The line runs from g5 through f4, e3 and d2 to c1.\n\nThis is a useful test of the phrase &#x27;cannot move.&#x27; White&#x27;s queen cannot leave the diagonal and expose its king, but Qxg5 is legal because it captures the pinning bishop along that line. Black replies Qxg5+, so the legal move still loses material. Legality and tactical success are different questions. The queen&#x27;s earlier recapture is not forced either: independent analysis also checks fxe6, followed by fxe6 and a later capture of the rook by the knight.\n\nSpend five minutes finding the lure and the bishop move. Then explicitly test Qxg5 and explain why it is legal but insufficient. Finally, examine declining Qxe3. These continuations are independent analysis because the supplied PDF lacks the book&#x27;s answer key. Only this numbered exercise is assigned in the section; the checks do not prove a unique solution or cover every defensive branch.",
+    "keyIdeas": [
+      "Nxe3 can draw the queen onto the king diagonal.",
+      "Qxg5 legally removes the pinning bishop but permits Qxg5+.",
+      "Distinguish a legal pinned-piece move from a good one."
+    ],
+    "activities": [
+      {
+        "id": "study-pins-practice-278",
+        "concept": "Pins",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Skewers"
+        ],
+        "instructions": "Attempt exercise 278, PDF 170 left. Independent check: Nxe3 Qxe3 Bg5 Qxg5 Qxg5+. Also examine Nxe3 fxe6 fxe6 Kb1 Nxd1. The answer key is absent.",
+        "successCheck": "Explain why Qxg5 is legal despite the absolute pin, then calculate its cost.",
+        "playReminders": [
+          "What does this piece expose if it moves, and can it create a stronger threat?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Pin practice: exercise 280 and a rook drawn onto the diagonal; PDF 171-171",
+    "title": "Pin practice: exercise 280 and a rook drawn onto the diagonal",
+    "tags": [
+      "pins",
+      "unpinning",
+      "practice"
+    ],
+    "note": "Exercise 280 combines a knight sacrifice with a queen move that creates an absolute pin. White starts with Nxb5. If Black recaptures with the b7-rook, Qxa4 attacks that rook on b5 along the diagonal to the king on e8. The rook cannot move off the diagonal while the king remains exposed behind it.\n\nA king move can remove the formal pin, but that does not necessarily save the position. After Kf8, White can take on b5 and follow the rook exchanges through to the final material balance. Black can instead try a queen move such as Qa7, changing the form of the concession. Do not equate the existence of a pin with a single forced capture sequence.\n\nSolve the preparation first, then identify the exact diagonal and calculate what happens after the king steps off it. This exercise connects tactical exploitation with defensive unpinning: a defense may restore legal movement yet arrive too late to avoid a loss. The guidance is independent analysis of the visually checked diagram because the source answer key is absent. The exercise is one bounded practice case; nearby diagrams and the remaining chapter bank are not included.",
+    "keyIdeas": [
+      "Nxb5 Rxb5 Qxa4 creates a pin along a4-e8.",
+      "Moving the king can end the pin without saving the material.",
+      "Complete the rook exchanges before evaluating the result."
+    ],
+    "activities": [
+      {
+        "id": "study-pins-practice-280",
+        "concept": "Pins",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Skewers"
+        ],
+        "instructions": "Attempt exercise 280, PDF 171 left. Independent check: Nxb5 Rxb5 Qxa4 Kf8 Rxb5 Rxb5 Rxb5. Compare Qa7 after Qxa4.",
+        "successCheck": "Identify the pinning diagonal and show why stepping the king away does not save the material.",
+        "playReminders": [
+          "What does this piece expose if it moves, and can it create a stronger threat?"
+        ]
+      }
+    ]
+  },
+  {
     "book": "Chess Structures: A Grandmaster Guide",
     "author": "Mauricio Flores Rios",
     "ref": "Studying pawn structures across openings; pp. 9-11; PDF 10-12",
@@ -1043,6 +1270,53 @@
         "successCheck": "Explain why a central capture and a flank pawn hunt can have different strategic consequences.",
         "playReminders": [
           "Which piece still needs a useful job, and can I develop it safely?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Unpinning: compare the defensive choices; pp. 116-117; PDF 139-140",
+    "title": "Unpinning: compare the defensive choices",
+    "tags": [
+      "pins",
+      "unpinning",
+      "development"
+    ],
+    "note": "Nimzowitsch opens the unpinning discussion with a familiar developing position and several competing defenses. After White pins the f6-knight with Bg5, Black can consider questioning the bishop with pawns, developing another bishop, making a counter-pin, centralizing a knight or castling. The point of the introduction is the breadth of the decision; it does not establish that all these candidates are equally good.\n\nCompare this with Erwich&#x27;s immediate tactical examples. In a forcing position, a block or counterattack may be the only way to preserve material. In Nimzowitsch&#x27;s opening position, the defender must also consider development, the center and the consequences of changing the pawn structure. Moving the pinning bishop away is one objective among several, not an instruction to push pawns automatically.\n\nReconstruct diagram 95 from the supplied opening moves, list three candidate plans and explain what each changes. Treat their evaluation as a study question. This section covers only the opening discussion and its diagram; the later subsections on pawn advances, ignoring the pin, reserves, maneuvering and the corridor are not yet synthesized. The comparison supplies a defensive checklist, not a complete reading of the chapter or a forced solution to the opening position.",
+    "keyIdeas": [
+      "List several defensive plans before committing to a pawn chase.",
+      "Include development and the center in the decision.",
+      "The candidate list is not a claim of equal move quality."
+    ],
+    "activities": [
+      {
+        "id": "study-unpinning-candidate-plans",
+        "concept": "Unpinning",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins"
+        ],
+        "instructions": "Read My System section 4 opening, printed 116-117 / PDF 139-140, stopping before subsection (a). Reconstruct diagram 95 and compare a pawn chase, a developing move and a central knight move.",
+        "successCheck": "Give three legal candidate plans and one benefit or cost to investigate for each.",
+        "playReminders": [
+          "Can I break the pin, protect what is behind it, or counterattack in time?"
+        ]
+      },
+      {
+        "id": "study-unpinning-source-comparison",
+        "concept": "Unpinning",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins"
+        ],
+        "instructions": "Compare Nimzowitsch&#x27;s opening candidate list with Erwich&#x27;s Naiditsch-Vachier-Lagrave example. Explain when immediate tactical pressure limits the choice of a positional plan.",
+        "successCheck": "State the immediate threat, propose two defensive methods and check whether each has time to work.",
+        "playReminders": [
+          "Can I break the pin, protect what is behind it, or counterattack in time?"
         ]
       }
     ]
