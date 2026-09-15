@@ -2651,6 +2651,314 @@
         "section": "Complete Part I Chapter 6, introductory section through The Collective Advance and the closing file/rank example; stop before Chapter 7 on PDF 127",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "isolated-pawns--nimzowitsch-hanging-pawns",
+      "chapterId": "nimzowitsch-hanging-pawns",
+      "locator": {
+        "pdfPageStart": 235,
+        "pdfPageEnd": 249,
+        "printedPages": "213-227",
+        "section": "Part II Chapter 3, The Isolated Queen's Pawn and His Descendants, through the complete hanging-pawns discussion; stop before Chapter 4 on PDF 250",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "isolated-pawns--shereshevsky-iqp-byelavyenets-rauzer",
+      "chapterId": "shereshevsky-iqp-byelavyenets-rauzer",
+      "locator": {
+        "pdfPageStart": 116,
+        "pdfPageEnd": 117,
+        "printedPages": "108-109",
+        "section": "Chapter 10 opening and complete Byelavyenets-Rauzer example; continue through the concluding bishop-versus-knight note before Flohr-Capablanca on PDF 118",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--shereshevsky-iqp-byelavyenets-rauzer",
+      "chapterId": "shereshevsky-iqp-byelavyenets-rauzer",
+      "locator": {
+        "pdfPageStart": 116,
+        "pdfPageEnd": 117,
+        "printedPages": "108-109",
+        "section": "Chapter 10 opening and complete Byelavyenets-Rauzer example; continue through the concluding bishop-versus-knight note before Flohr-Capablanca on PDF 118",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--shereshevsky-iqp-byelavyenets-rauzer",
+      "chapterId": "shereshevsky-iqp-byelavyenets-rauzer",
+      "locator": {
+        "pdfPageStart": 116,
+        "pdfPageEnd": 117,
+        "printedPages": "108-109",
+        "section": "Chapter 10 opening and complete Byelavyenets-Rauzer example; continue through the concluding bishop-versus-knight note before Flohr-Capablanca on PDF 118",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "isolated-pawns--shereshevsky-iqp-flohr-capablanca",
+      "chapterId": "shereshevsky-iqp-flohr-capablanca",
+      "locator": {
+        "pdfPageStart": 118,
+        "pdfPageEnd": 119,
+        "printedPages": "110-111",
+        "section": "Complete Flohr-Capablanca example, ending with the agreed draw before Karpov-Hort on PDF 119",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--shereshevsky-iqp-flohr-capablanca",
+      "chapterId": "shereshevsky-iqp-flohr-capablanca",
+      "locator": {
+        "pdfPageStart": 118,
+        "pdfPageEnd": 119,
+        "printedPages": "110-111",
+        "section": "Complete Flohr-Capablanca example, ending with the agreed draw before Karpov-Hort on PDF 119",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--shereshevsky-iqp-flohr-capablanca",
+      "chapterId": "shereshevsky-iqp-flohr-capablanca",
+      "locator": {
+        "pdfPageStart": 118,
+        "pdfPageEnd": 119,
+        "printedPages": "110-111",
+        "section": "Complete Flohr-Capablanca example, ending with the agreed draw before Karpov-Hort on PDF 119",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--shereshevsky-iqp-flohr-capablanca",
+      "chapterId": "shereshevsky-iqp-flohr-capablanca",
+      "locator": {
+        "pdfPageStart": 118,
+        "pdfPageEnd": 119,
+        "printedPages": "110-111",
+        "section": "Complete Flohr-Capablanca example, ending with the agreed draw before Karpov-Hort on PDF 119",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "isolated-pawns--shereshevsky-iqp-karpov-hort",
+      "chapterId": "shereshevsky-iqp-karpov-hort",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": "111-112",
+        "section": "Complete Karpov-Hort example from its diagram through Black's resignation before Szabo-Korensky on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--shereshevsky-iqp-karpov-hort",
+      "chapterId": "shereshevsky-iqp-karpov-hort",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": "111-112",
+        "section": "Complete Karpov-Hort example from its diagram through Black's resignation before Szabo-Korensky on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--shereshevsky-iqp-karpov-hort",
+      "chapterId": "shereshevsky-iqp-karpov-hort",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": "111-112",
+        "section": "Complete Karpov-Hort example from its diagram through Black's resignation before Szabo-Korensky on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--shereshevsky-iqp-karpov-hort",
+      "chapterId": "shereshevsky-iqp-karpov-hort",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": "111-112",
+        "section": "Complete Karpov-Hort example from its diagram through Black's resignation before Szabo-Korensky on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "isolated-pawns--shereshevsky-iqp-szabo-korensky",
+      "chapterId": "shereshevsky-iqp-szabo-korensky",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "112-114",
+        "section": "Complete Szabo-Korensky example and the published correction; stop before Polugayevsky-Mecking on PDF 122",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--shereshevsky-iqp-szabo-korensky",
+      "chapterId": "shereshevsky-iqp-szabo-korensky",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "112-114",
+        "section": "Complete Szabo-Korensky example and the published correction; stop before Polugayevsky-Mecking on PDF 122",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--shereshevsky-iqp-szabo-korensky",
+      "chapterId": "shereshevsky-iqp-szabo-korensky",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "112-114",
+        "section": "Complete Szabo-Korensky example and the published correction; stop before Polugayevsky-Mecking on PDF 122",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--shereshevsky-iqp-szabo-korensky",
+      "chapterId": "shereshevsky-iqp-szabo-korensky",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "112-114",
+        "section": "Complete Szabo-Korensky example and the published correction; stop before Polugayevsky-Mecking on PDF 122",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "isolated-pawns--shereshevsky-iqp-polugayevsky-mecking",
+      "chapterId": "shereshevsky-iqp-polugayevsky-mecking",
+      "locator": {
+        "pdfPageStart": 122,
+        "pdfPageEnd": 124,
+        "printedPages": "114-116",
+        "section": "Complete Polugayevsky-Mecking example and Timman's defensive analysis; stop before Ribli-Pinter on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--shereshevsky-iqp-polugayevsky-mecking",
+      "chapterId": "shereshevsky-iqp-polugayevsky-mecking",
+      "locator": {
+        "pdfPageStart": 122,
+        "pdfPageEnd": 124,
+        "printedPages": "114-116",
+        "section": "Complete Polugayevsky-Mecking example and Timman's defensive analysis; stop before Ribli-Pinter on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--shereshevsky-iqp-polugayevsky-mecking",
+      "chapterId": "shereshevsky-iqp-polugayevsky-mecking",
+      "locator": {
+        "pdfPageStart": 122,
+        "pdfPageEnd": 124,
+        "printedPages": "114-116",
+        "section": "Complete Polugayevsky-Mecking example and Timman's defensive analysis; stop before Ribli-Pinter on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--shereshevsky-iqp-polugayevsky-mecking",
+      "chapterId": "shereshevsky-iqp-polugayevsky-mecking",
+      "locator": {
+        "pdfPageStart": 122,
+        "pdfPageEnd": 124,
+        "printedPages": "114-116",
+        "section": "Complete Polugayevsky-Mecking example and Timman's defensive analysis; stop before Ribli-Pinter on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "isolated-pawns--shereshevsky-iqp-ribli-pinter",
+      "chapterId": "shereshevsky-iqp-ribli-pinter",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 125,
+        "printedPages": "116-117",
+        "section": "Complete Ribli-Pinter example through Black's resignation before Averbakh-Keres on PDF 125",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--shereshevsky-iqp-ribli-pinter",
+      "chapterId": "shereshevsky-iqp-ribli-pinter",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 125,
+        "printedPages": "116-117",
+        "section": "Complete Ribli-Pinter example through Black's resignation before Averbakh-Keres on PDF 125",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--shereshevsky-iqp-ribli-pinter",
+      "chapterId": "shereshevsky-iqp-ribli-pinter",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 125,
+        "printedPages": "116-117",
+        "section": "Complete Ribli-Pinter example through Black's resignation before Averbakh-Keres on PDF 125",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--shereshevsky-iqp-ribli-pinter",
+      "chapterId": "shereshevsky-iqp-ribli-pinter",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 125,
+        "printedPages": "116-117",
+        "section": "Complete Ribli-Pinter example through Black's resignation before Averbakh-Keres on PDF 125",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "isolated-pawns--shereshevsky-iqp-averbakh-keres",
+      "chapterId": "shereshevsky-iqp-averbakh-keres",
+      "locator": {
+        "pdfPageStart": 125,
+        "pdfPageEnd": 128,
+        "printedPages": "117-120",
+        "section": "Complete final Chapter 10 example and analysis; stop at the chapter end before Chapter 11 on PDF 129",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--shereshevsky-iqp-averbakh-keres",
+      "chapterId": "shereshevsky-iqp-averbakh-keres",
+      "locator": {
+        "pdfPageStart": 125,
+        "pdfPageEnd": 128,
+        "printedPages": "117-120",
+        "section": "Complete final Chapter 10 example and analysis; stop at the chapter end before Chapter 11 on PDF 129",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--shereshevsky-iqp-averbakh-keres",
+      "chapterId": "shereshevsky-iqp-averbakh-keres",
+      "locator": {
+        "pdfPageStart": 125,
+        "pdfPageEnd": 128,
+        "printedPages": "117-120",
+        "section": "Complete final Chapter 10 example and analysis; stop at the chapter end before Chapter 11 on PDF 129",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--shereshevsky-iqp-averbakh-keres",
+      "chapterId": "shereshevsky-iqp-averbakh-keres",
+      "locator": {
+        "pdfPageStart": 125,
+        "pdfPageEnd": 128,
+        "printedPages": "117-120",
+        "section": "Complete final Chapter 10 example and analysis; stop at the chapter end before Chapter 11 on PDF 129",
+        "ebookLocation": null
+      }
     }
   ]
 }

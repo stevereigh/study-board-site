@@ -960,6 +960,24 @@
         "playReminders": [
           "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
         ]
+      },
+      {
+        "id": "study-isolated-pawns-three-book-lifecycle",
+        "concept": "Isolated pawns",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Build a one-page lifecycle from the private sources: Nimzowitsch PDF 235-249 for structural descendants, Flores Rios PDF 13-36 for middlegame activity and restraint, and Shereshevsky PDF 116-128 for endgame conversion and defense. For each stage, record the pawn break, best piece, desired exchange, and counterplay.",
+        "successCheck": "Produce a three-stage decision guide that explains when the isolani is a dynamic asset, when it transforms, and when it becomes an endgame target requiring a second weakness.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
+        ]
       }
     ]
   },
@@ -2652,6 +2670,24 @@
           "Can I blockade both pawns without conceding activity elsewhere?",
           "What structure remains after the central exchange?"
         ]
+      },
+      {
+        "id": "study-isolated-pawns-three-book-lifecycle",
+        "concept": "Isolated pawns",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Build a one-page lifecycle from the private sources: Nimzowitsch PDF 235-249 for structural descendants, Flores Rios PDF 13-36 for middlegame activity and restraint, and Shereshevsky PDF 116-128 for endgame conversion and defense. For each stage, record the pawn break, best piece, desired exchange, and counterplay.",
+        "successCheck": "Produce a three-stage decision guide that explains when the isolani is a dynamic asset, when it transforms, and when it becomes an endgame target requiring a second weakness.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
+        ]
       }
     ]
   },
@@ -3318,6 +3354,297 @@
           "Can this majority create a passer before the opponent becomes active?",
           "Which king, rook, or minor piece supports or blocks the advance?",
           "Would a minority attack neutralize the larger group?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-iqp-byelavyenets-rauzer",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Byelavyenets-Rauzer: manufacture the second weakness; pp. 108-109; PDF 116-117",
+    "title": "Byelavyenets-Rauzer: manufacture the second weakness",
+    "tags": [
+      "isolated-pawns",
+      "two-weaknesses",
+      "knight-versus-bishop",
+      "conversion"
+    ],
+    "note": "The first ending begins with a strong knight against a restricted bishop and Black&#x27;s isolated d-pawn. Shereshevsky cautions that this alone probably does not win. White first clears d4 for the king, places the knight on b4, and stabilizes the queenside. The real conversion attempt begins only when White creates another weakness on the kingside with g4-g5 and h3-h4-h5-h6.\n\nBlack&#x27;s defensive opportunity is equally instructive. A timely ...f6 would have prevented White from fixing h7 so easily. Once Black delays it, the kingside pawns become targets and the knight can threaten sacrifices that clear the king&#x27;s route. The source variations show that superficially natural move orders can still let Black stop h4-h5; White&#x27;s precise h3 first preserves the plan.\n\nThe lesson is a sequence rather than a slogan: neutralize counterplay, improve the king and knight, create a separate target, and only then convert. The isolated pawn ties Black to the center, while the new kingside weakness stretches the defense. The game also demonstrates that favorable piece quality and an isolani do not by themselves establish a forced win.",
+    "keyIdeas": [
+      "An isolated pawn may need a second weakness before it can be converted.",
+      "Prepare the king route and piece placement before opening the second front.",
+      "The defender should make useful pawn moves before they become impossible."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-paired-endgames",
+        "concept": "Isolated pawns",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Compare Byelavyenets-Rauzer with Flohr-Capablanca in the private book, PDF 116-119. Make two columns for pawn colors, bishop duties, knight route, king route, and the timely defensive pawn move.",
+        "successCheck": "Explain why White creates a second weakness in the first game while Black preserves the draw in the second, without treating the isolani alone as the result.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-iqp-flohr-capablanca",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Flohr-Capablanca: active defense in the matching structure; pp. 110-111; PDF 118-119",
+    "title": "Flohr-Capablanca: active defense in the matching structure",
+    "tags": [
+      "isolated-pawns",
+      "active-defense",
+      "favorable-exchanges",
+      "pawn-colors"
+    ],
+    "note": "Shereshevsky places this ending beside the preceding game because the structures look almost identical. Capablanca changes the result by treating defense as an active task. He puts his pawns on dark squares against White&#x27;s light-squared bishop, keeps the bishop ready to deny the knight&#x27;s route to h4 and f4, and challenges White before a clean second weakness can be fixed.\n\nWhite&#x27;s g3 plan signals a kingside expansion, but ...h5 disrupts the intended setup. Later, Black&#x27;s bishop continues to guard the useful entry squares. Flohr eventually exchanges into a pawn ending, yet Black&#x27;s active king and reserve tempi preserve the draw. The annotations emphasize that the move ...h5 also carried risk and required concrete judgment; the broader lesson is flexibility, not imitation.\n\nCompare this game with Byelavyenets-Rauzer. The same isolated d-pawn is present in both, but Black&#x27;s pawn colors, bishop activity, timing, and king access differ. A structural label identifies the strategic problem. The available defensive operations decide whether the problem can be solved.",
+    "keyIdeas": [
+      "Nearly identical pawn structures can produce different results through active defense.",
+      "Keep the defending bishop able to deny the knight&#x27;s ideal route.",
+      "Judge a transition to a pawn ending by king access and reserve tempi."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-paired-endgames",
+        "concept": "Isolated pawns",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Compare Byelavyenets-Rauzer with Flohr-Capablanca in the private book, PDF 116-119. Make two columns for pawn colors, bishop duties, knight route, king route, and the timely defensive pawn move.",
+        "successCheck": "Explain why White creates a second weakness in the first game while Black preserves the draw in the second, without treating the isolani alone as the result.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-iqp-karpov-hort",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Karpov-Hort: the isolani plus queenside targets; pp. 111-112; PDF 119-120",
+    "title": "Karpov-Hort: the isolani plus queenside targets",
+    "tags": [
+      "isolated-pawns",
+      "two-weaknesses",
+      "favorable-exchanges",
+      "passed-pawns"
+    ],
+    "note": "Black&#x27;s difficulty is larger than the isolated d-pawn. Weak queenside pawns, especially c5, give White a second point of entry. Karpov exchanges rooks, centralizes the king, and fixes the queenside before beginning g-pawn play. The rook exchange makes the static weaknesses easier to attack because Black loses active counterplay.\n\nThe source then follows a transition into a bishop ending. Black&#x27;s pawns stand on the color of his bishop, so the bishop is burdened by their defense while White&#x27;s king and bishop can invade. Karpov&#x27;s kingside advance creates a passed pawn that diverts Black from the queenside. Once the weaknesses lie on both wings, the defense can no longer hold both.\n\nThe practical lesson is to inventory all weaknesses before choosing an exchange. Here simplification helps because White retains the more active king, useful entry squares, and a pawn break on the far wing. A player who sees only the d-pawn misses why the conversion is so difficult to resist.",
+    "keyIdeas": [
+      "Count the additional weak pawns and entry squares around the isolani.",
+      "Exchange active defensive pieces when the remaining king and bishop can reach both wings.",
+      "A remote passed pawn can convert pressure on the original central target."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-second-target-and-save",
+        "concept": "Isolated pawns",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Read Karpov-Hort and Szabo-Korensky, PDF 119-122. For each, mark the original isolani, the additional weakness, the exchange chosen, and the entry square. Then study the published defensive correction to Szabo-Korensky.",
+        "successCheck": "Name the conversion mechanism in both games and the precise defensive setup that prevents one source game from being a forced win.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-iqp-szabo-korensky",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Szabo-Korensky: fixing pawns and preserving the drawing setup; pp. 112-114; PDF 120-122",
+    "title": "Szabo-Korensky: fixing pawns and preserving the drawing setup",
+    "tags": [
+      "isolated-pawns",
+      "zugzwang",
+      "good-and-bad-bishops",
+      "active-defense"
+    ],
+    "note": "White appears to have limited prospects because the doubled b-pawns reduce queenside mobility. Black nevertheless creates new weaknesses with ...b6 and ...g6, then places the bishop passively. White fixes the kingside pawns, gains access to d4, and reaches a bishop ending in which a waiting maneuver produces zugzwang. The bishop transfers to b3 so that e3-e4 wins the isolated d-pawn.\n\nShereshevsky includes later analysis showing that the game continuation was not a forced conversion. Black could hold with a more accurate bishop placement and by delaying occupation of e6 until White committed the bishop. That correction matters: the model plan explains how White exploited the game errors, while the drawing setup shows the defender&#x27;s resources.\n\nUse the example to separate a desirable plan from a proven result. Fixing pawns and arranging e3-e4 are strategically coherent, but move order and the defender&#x27;s bishop squares determine whether the plan actually wins. Doubled pawns can also remove the spare entry square that would otherwise make the conversion straightforward.",
+    "keyIdeas": [
+      "Pawn moves can create the extra weakness that the position previously lacked.",
+      "A bishop transfer and pawn break can exploit zugzwang against the isolani.",
+      "Later analysis may reveal a drawing setup inside a model conversion game."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-second-target-and-save",
+        "concept": "Isolated pawns",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Read Karpov-Hort and Szabo-Korensky, PDF 119-122. For each, mark the original isolani, the additional weakness, the exchange chosen, and the entry square. Then study the published defensive correction to Szabo-Korensky.",
+        "successCheck": "Name the conversion mechanism in both games and the precise defensive setup that prevents one source game from being a forced win.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-iqp-polugayevsky-mecking",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Polugayevsky-Mecking: calculate before entering the bishop ending; pp. 114-116; PDF 122-124",
+    "title": "Polugayevsky-Mecking: calculate before entering the bishop ending",
+    "tags": [
+      "isolated-pawns",
+      "favorable-exchanges",
+      "good-and-bad-bishops",
+      "counterplay"
+    ],
+    "note": "White first fixes Black&#x27;s queenside pawns with a4-a5, then faces a critical exchange decision. Entering a bishop ending looks attractive because Black&#x27;s pawns occupy the bishop&#x27;s color. The exchange is highly committing, however, because Black can unite the central pawns and create counterplay. Shereshevsky uses Timman&#x27;s analysis to show several drawing routes that are easy to miss at the board.\n\nThe game continuation allows White to activate the king and threaten e3-e4 while Black&#x27;s bishop remains tied to the long diagonal. A later pawn breakthrough succeeds after Black loses the ability to keep every entry square covered. Yet the variations demonstrate that a different bishop retreat or king route could have changed the result.\n\nThe study lesson is to compare the exchange with retaining both minor pieces. Evaluate the isolani, the adjacent central pawn, king access, and the bishop&#x27;s defensive diagonal in the resulting ending. A favorable static picture does not remove the need to calculate the defender&#x27;s freeing break.",
+    "keyIdeas": [
+      "A favorable-looking bishop ending can release central counterplay.",
+      "Before exchanging, calculate the defender&#x27;s king route and pawn union.",
+      "The long defensive diagonal may matter more than the bishop&#x27;s current activity."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-exchange-audit",
+        "concept": "Isolated pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "At the first diagram on PDF 122, compare 5.Nxe6 with retaining both minor pieces. Before reading Timman&#x27;s variations, list Black&#x27;s central counterplay, both king routes, and the bishop&#x27;s best defensive diagonal.",
+        "successCheck": "Explain why the bishop ending is committing and identify at least one drawing resource from the source analysis.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-iqp-ribli-pinter",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Ribli-Pinter: turn restraint into a concrete break; pp. 116-117; PDF 124-125",
+    "title": "Ribli-Pinter: turn restraint into a concrete break",
+    "tags": [
+      "isolated-pawns",
+      "pawn-breaks",
+      "king-activity",
+      "conversion"
+    ],
+    "note": "White&#x27;s bishop controls the route by which Black&#x27;s knight might defend the isolated d-pawn, leaving the rooks tied to it. White begins with g4 and king centralization. Black&#x27;s ...f5 restrains one advance, but opens the long diagonal and creates targets for White&#x27;s rooks. The apparent defensive gain therefore carries a larger positional cost.\n\nAfter Black advances ...g6, White uses h4-h5 and then the central e3-e4 break. The king moves forward with tempo because the d-pawn capture gives check; this detail makes the raid concrete. White then simplifies and wins material. The operation works because the restraining moves have prepared both the line and the king route.\n\nThe game connects endgame planning with calculation. Restricting the isolani and tying down its defenders create the conditions, but the final result comes from an accurately timed pawn break and an active king. Before copying the plan, verify whether the central capture really opens with tempo and whether the opposing rook has counterplay.",
+    "keyIdeas": [
+      "A restraining pawn move can open a more important diagonal or file.",
+      "Prepare the king route before playing the central break.",
+      "Conversion becomes concrete when the break gains time and permits simplification."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-break-and-king-route",
+        "concept": "Isolated pawns",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Study Ribli-Pinter, PDF 124-125. After ...f5, identify the new diagonal and rook targets. Before 8.e4, calculate how the capture changes the king route and which simplification follows.",
+        "successCheck": "Connect the long-term bind to the concrete e3-e4 break and state which tactical detail makes the king invasion work.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-iqp-averbakh-keres",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Averbakh-Keres: exchanges, counterplay, and the golden mean; pp. 117-120; PDF 125-128",
+    "title": "Averbakh-Keres: exchanges, counterplay, and the golden mean",
+    "tags": [
+      "isolated-pawns",
+      "favorable-exchanges",
+      "counterplay",
+      "patient-maneuvering"
+    ],
+    "note": "Black&#x27;s first task is to centralize the king and blockade the isolated d-pawn. White&#x27;s early simplification is questionable because a rook exchange would leave a drawable ending if Black cannot create another weakness. Keres keeps enough activity on the board, provokes a queenside concession, and prepares ...b5 only after arranging the king and supporting pawn moves.\n\nWhite then chooses a risky attempt to force a draw. The resulting pawn-ending analysis contains resources for both sides, including counter-races and surprising drawing ideas. Black later captures the d-pawn too quickly and allows White&#x27;s bishop to activate, then delays a simple winning continuation in search of an even cleaner result. Shereshevsky uses these reversals to qualify the instruction not to hurry.\n\nThe lesson is the balance between patience and action. The defender needs active counterplay and should welcome an exchange that removes the attacker&#x27;s second target. The stronger side should prepare the second weakness, but once a clear operation is available, further maneuvering can restore defensive chances. Every exchange must be judged from the concrete pawn ending it produces.",
+    "keyIdeas": [
+      "A rook exchange may draw when the isolani is the only remaining weakness.",
+      "Prepare the second front before the pawn break, then act when the moment arrives.",
+      "Calculate the resulting pawn ending instead of relying on a general exchange rule."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-exchange-and-counterplay",
+        "concept": "Isolated pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Read Averbakh-Keres, PDF 125-128. Track every proposed rook or pawn-ending transition. Label the moments when patience prepares ...b5, when immediate action is required, and when White&#x27;s counterplay changes the evaluation.",
+        "successCheck": "Explain why the isolani alone does not win, identify the defender&#x27;s active drawing idea, and distinguish useful preparation from over-maneuvering.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
+        ]
+      },
+      {
+        "id": "study-isolated-pawns-three-book-lifecycle",
+        "concept": "Isolated pawns",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Build a one-page lifecycle from the private sources: Nimzowitsch PDF 235-249 for structural descendants, Flores Rios PDF 13-36 for middlegame activity and restraint, and Shereshevsky PDF 116-128 for endgame conversion and defense. For each stage, record the pawn break, best piece, desired exchange, and counterplay.",
+        "successCheck": "Produce a three-stage decision guide that explains when the isolani is a dynamic asset, when it transforms, and when it becomes an endgame target requiring a second weakness.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully now?",
+          "Which piece is tied to attacking or defending it?",
+          "Would this exchange remove counterplay or remove my second target?",
+          "Where can the defender create active play before the structure is fixed?"
         ]
       }
     ]

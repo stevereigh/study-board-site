@@ -938,6 +938,46 @@
       "crossrefIds": [
         "pawn-majorities--kotov-ending-formula"
       ]
+    },
+    {
+      "id": "study-isolated-pawns-paired-endgames",
+      "crossrefIds": [
+        "isolated-pawns--shereshevsky-iqp-byelavyenets-rauzer",
+        "isolated-pawns--shereshevsky-iqp-flohr-capablanca"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-second-target-and-save",
+      "crossrefIds": [
+        "isolated-pawns--shereshevsky-iqp-karpov-hort",
+        "isolated-pawns--shereshevsky-iqp-szabo-korensky"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-exchange-audit",
+      "crossrefIds": [
+        "isolated-pawns--shereshevsky-iqp-polugayevsky-mecking"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-break-and-king-route",
+      "crossrefIds": [
+        "isolated-pawns--shereshevsky-iqp-ribli-pinter"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-exchange-and-counterplay",
+      "crossrefIds": [
+        "isolated-pawns--shereshevsky-iqp-averbakh-keres"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-three-book-lifecycle",
+      "crossrefIds": [
+        "isolated-pawns--nimzowitsch-hanging-pawns",
+        "isolated-pawns--flores-isolani-primer",
+        "isolated-pawns--shereshevsky-iqp-averbakh-keres"
+      ]
     }
   ]
 }

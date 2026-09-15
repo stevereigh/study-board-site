@@ -1508,6 +1508,97 @@
         "section": "Complete 3-3 vs. 4-2 section in Chapter 22, overview and Nguyen Van Huy-Le Quang Liem; stop before The Panov Structure on PDF 404",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "shereshevsky-iqp-byelavyenets-rauzer",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Byelavyenets-Rauzer: manufacture the second weakness; pp. 108-109; PDF 116-117",
+      "title": "Byelavyenets-Rauzer: manufacture the second weakness",
+      "locator": {
+        "pdfPageStart": 116,
+        "pdfPageEnd": 117,
+        "printedPages": "108-109",
+        "section": "Chapter 10 opening and complete Byelavyenets-Rauzer example; continue through the concluding bishop-versus-knight note before Flohr-Capablanca on PDF 118",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-iqp-flohr-capablanca",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Flohr-Capablanca: active defense in the matching structure; pp. 110-111; PDF 118-119",
+      "title": "Flohr-Capablanca: active defense in the matching structure",
+      "locator": {
+        "pdfPageStart": 118,
+        "pdfPageEnd": 119,
+        "printedPages": "110-111",
+        "section": "Complete Flohr-Capablanca example, ending with the agreed draw before Karpov-Hort on PDF 119",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-iqp-karpov-hort",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Karpov-Hort: the isolani plus queenside targets; pp. 111-112; PDF 119-120",
+      "title": "Karpov-Hort: the isolani plus queenside targets",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": "111-112",
+        "section": "Complete Karpov-Hort example from its diagram through Black's resignation before Szabo-Korensky on PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-iqp-szabo-korensky",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Szabo-Korensky: fixing pawns and preserving the drawing setup; pp. 112-114; PDF 120-122",
+      "title": "Szabo-Korensky: fixing pawns and preserving the drawing setup",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 122,
+        "printedPages": "112-114",
+        "section": "Complete Szabo-Korensky example and the published correction; stop before Polugayevsky-Mecking on PDF 122",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-iqp-polugayevsky-mecking",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Polugayevsky-Mecking: calculate before entering the bishop ending; pp. 114-116; PDF 122-124",
+      "title": "Polugayevsky-Mecking: calculate before entering the bishop ending",
+      "locator": {
+        "pdfPageStart": 122,
+        "pdfPageEnd": 124,
+        "printedPages": "114-116",
+        "section": "Complete Polugayevsky-Mecking example and Timman's defensive analysis; stop before Ribli-Pinter on PDF 124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-iqp-ribli-pinter",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Ribli-Pinter: turn restraint into a concrete break; pp. 116-117; PDF 124-125",
+      "title": "Ribli-Pinter: turn restraint into a concrete break",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 125,
+        "printedPages": "116-117",
+        "section": "Complete Ribli-Pinter example through Black's resignation before Averbakh-Keres on PDF 125",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-iqp-averbakh-keres",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Averbakh-Keres: exchanges, counterplay, and the golden mean; pp. 117-120; PDF 125-128",
+      "title": "Averbakh-Keres: exchanges, counterplay, and the golden mean",
+      "locator": {
+        "pdfPageStart": 125,
+        "pdfPageEnd": 128,
+        "printedPages": "117-120",
+        "section": "Complete final Chapter 10 example and analysis; stop at the chapter end before Chapter 11 on PDF 129",
+        "ebookLocation": null
+      }
     }
   ]
 }
