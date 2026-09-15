@@ -2860,5 +2860,589 @@
         ]
       }
     ]
+  },
+  {
+    "chapterId": "silman-distant-opposition",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Distant and diagonal opposition; PDF 102-104",
+    "title": "Distant and diagonal opposition",
+    "tags": [
+      "opposition",
+      "king-activity"
+    ],
+    "note": "Opposition can begin before the kings face one another at close range. Silman first stretches the familiar arrangement along a file: the player can preserve the relevant parity as the kings approach, eventually reaching direct opposition. The point is to understand whose turn will require a concession when the kings meet, rather than memorize a single starting square.\n\nDiagonal opposition extends the same access problem to a diagonal. The combined illustration on PDF 104 places two examples on one board. Read each pair separately; it is not a legal position containing four kings. Likewise, the exercises with only one king per side teach movement geometry. An actual chess game with only kings is already drawn, so gaining the opposition there is not winning the game.\n\nFor practice, identify the two kings, whose turn it is, and the line joining them. Follow the source approach until a close opposition appears, then explain which access squares are controlled. In a position containing pawns, add the practical objective: reaching a useful square or keeping the other king out. Geometry becomes useful only when it supports that objective.",
+    "keyIdeas": [
+      "Track whose turn it will be when the kings meet.",
+      "Read the two diagonal examples separately.",
+      "Connect geometry to a useful entry square."
+    ],
+    "activities": [
+      {
+        "id": "study-opposition-geometry",
+        "concept": "Opposition",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "King activity"
+        ],
+        "instructions": "Read PDF 102-104. Use diagram 55 as a king-movement drill, then examine each pair in diagram 56 separately. Name the side to move and the squares that become inaccessible.",
+        "successCheck": "Reach a direct or diagonal opposition and explain the access relationship; explicitly distinguish the drill from winning a bare-king game.",
+        "playReminders": [
+          "What useful square does this opposition let me reach or deny?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-indirect-opposition",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Indirect opposition and connecting rectangles; PDF 105-108",
+    "title": "Indirect opposition and connecting rectangles",
+    "tags": [
+      "opposition",
+      "visualization"
+    ],
+    "note": "When the kings do not share a file, rank or diagonal, Silman uses a rectangle to help recognize an indirect opposition relationship. The kings occupy opposite corners, and the other corners complete a rectangle whose corner squares have the same color. His sequence repeatedly changes that rectangle until a direct or diagonal relationship becomes visible.\n\nThe method is easiest to learn by pausing after each king move and naming the four corners. A move that preserves the pattern need not make the rectangle smaller immediately. The relevant question is whether the opponent can avoid the later relationship as the kings approach. The diagrams show successive stages of one geometry demonstration, rather than separate endgames to win.\n\nUse the device as a calculation aid, with a stated access goal. Pawns, occupied squares, reserve moves and urgent threats can change which king route matters. The later Part Four example is an explicit warning that taking an indirect opposition can be useless if it prevents the king from getting ahead of its own pawn. Learn the geometry here, then test its purpose in the linked practical reading.",
+    "keyIdeas": [
+      "Name all four connecting corners.",
+      "Recognize transitions into direct or diagonal opposition.",
+      "An attractive rectangle must serve a practical goal."
+    ],
+    "activities": [
+      {
+        "id": "study-opposition-rectangles",
+        "concept": "Opposition",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "King activity"
+        ],
+        "instructions": "Read PDF 105-108 and follow diagrams 57-60. Before revealing each next move, name the four rectangle corners and show the transition into direct or diagonal opposition.",
+        "successCheck": "Identify the four corners at three successive stages and explain why an actual pawn ending also needs a useful king destination.",
+        "playReminders": [
+          "What useful square does this opposition let me reach or deny?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-pawn-corner",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "A king in front does not solve the rook-pawn exception; PDF 110-112",
+    "title": "A king in front does not solve the rook-pawn exception",
+    "tags": [
+      "rook-pawn-endings",
+      "stalemate"
+    ],
+    "note": "Getting the king ahead of a pawn is a useful starting aim, but the rook-pawn example shows why it cannot be treated as an unconditional winning rule. White has an advanced king and plenty of time to push the h-pawn. Black can nevertheless keep access to the promotion corner and use the edge of the board as a defensive resource.\n\nIn the demonstrated line the pawn eventually reaches h7, leaving the black king on h8 without a legal move and without being in check. That is stalemate. If the defender voluntarily leaves the corner at the wrong moment, the outcome changes; the lesson is the availability of a drawing defense, not that every move in the position draws.\n\nCompare this with the existing introductory rook-pawn reading before applying the following non-rook-pawn rules. State the actual king squares and inspect legal moves at the end of the variation. Do not stop calculating just because promotion is one step away. A useful practice explanation should identify the corner the defender needs, the pawn push that ends the game, and why the advanced attacking king cannot manufacture an escape square beyond the board.",
+    "keyIdeas": [
+      "Check the pawn file before using king-placement rules.",
+      "Corner access can outweigh the attacking king’s advance.",
+      "Verify stalemate with legal moves."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-pawn-endings-corner-defense",
+        "concept": "Rook-pawn endings",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "King activity",
+          "Opposition"
+        ],
+        "instructions": "Read PDF 110-112, diagram 61. Set White Kh6, Ph2; Black Kh8; White to move. Follow the source defense, stopping before the last pawn push to count Black’s legal replies.",
+        "successCheck": "Recognize the final stalemate and explain which corner the defender must retain.",
+        "playReminders": [
+          "Can the defender reach the corner, and would my pawn push stalemate it?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-king-one-square",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "King one square ahead: compare both sides to move; PDF 112-117",
+    "title": "King one square ahead: compare both sides to move",
+    "tags": [
+      "pawn-endings",
+      "opposition"
+    ],
+    "note": "With the king immediately ahead of a non-rook-pawn, the side to move can determine whether the defender must give way. Silman presents one starting arrangement twice in effect: with White to move, Black can keep the barrier; with Black to move, White can use the conceded side to make progress. The pieces alone do not specify the problem.\n\nThe winning technique alternates king access with timely pawn support. When the defender retreats, the attacking king should consider advancing instead of automatically seeking another opposition. When the defender approaches the pawn, a pawn move can secure the progress already made. Walking away from the pawn in pursuit of a king maneuver can simply lose it.\n\nReconstruct the starting position with White’s king on d3, pawn on d2 and Black’s king on d5. Play it from each side with each turn assignment, explaining every change of plan. The verified branches illustrate the method and the starting win/draw contrast; they are not a demand to reproduce a single forced script. This elementary case should be learned before generalizing to other ranks, the sixth-rank exception or positions with additional pawns.",
+    "keyIdeas": [
+      "The side to move is part of the position.",
+      "Take safe king access when it is offered.",
+      "Keep the pawn protected while the king advances."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-endings-both-turns",
+        "concept": "Pawn endings",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Opposition"
+        ],
+        "instructions": "Read PDF 112-117, diagrams 62-64. Set White Kd3, Pd2; Black Kd5. Play once with White to move and once with Black to move; practise the defense and winning technique.",
+        "successCheck": "Explain why White-to-move is drawn and Black-to-move permits a White win; keep the pawn safe during the king’s advance.",
+        "playReminders": [
+          "After the trade, where are both kings, whose move is it, and can the pawn promote?"
+        ]
+      },
+      {
+        "id": "study-king-activity-access-or-opposition",
+        "concept": "King activity",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Revisit diagram 62’s winning line. At each retreat by the black king, compare advancing the king with mechanically taking opposition. At the pawn attack, explain the required change of plan.",
+        "successCheck": "Identify a useful king advance and a moment when pawn support takes priority.",
+        "playReminders": [
+          "Can my king safely become useful now?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-reserve-pawn-tempo",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "King two squares ahead and a reserve pawn move; PDF 117-118",
+    "title": "King two squares ahead and a reserve pawn move",
+    "tags": [
+      "pawn-endings",
+      "opposition",
+      "tempo"
+    ],
+    "note": "The distance between king and pawn can provide a useful extra move. In Silman’s example the white king is on d4, the pawn remains on d2 and the black king is on d6. If Black must move, the familiar access technique is available. If White must move, advancing the pawn only to d3 passes the decision to Black while preserving the king arrangement.\n\nThe important resource is the unused pawn move. Advancing a pawn changes the position permanently; spending two squares at once can discard a tempo that would be useful later. The example explains why a king farther ahead can be more effective than a king directly in front, even though the board initially looks similar.\n\nCompare the same board with White and Black to move, then compare it with the previous one-square case. Describe exactly what the pawn move changes and why the resulting position is familiar. Keep the scope of the rule clear: this is king and a non-rook-pawn against a lone king in the reviewed arrangement. The rook-pawn corner exception and the safety of the pawn still need separate attention in actual play.",
+    "keyIdeas": [
+      "Preserve useful pawn waiting moves.",
+      "A one-square push can transfer the move without moving the kings.",
+      "Compare the resulting position with a known pattern."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-endings-spare-move",
+        "concept": "Pawn endings",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Opposition"
+        ],
+        "instructions": "Read PDF 117-118. Set White Kd4, Pd2; Black Kd6. Analyze both turn assignments and explain the role of d3 when White must move. Compare diagram 62.",
+        "successCheck": "Show why both assignments are White wins and identify the reserve pawn move that removes the earlier turn-dependent problem.",
+        "playReminders": [
+          "After the trade, where are both kings, whose move is it, and can the pawn promote?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-king-route-before-opposition",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Choose the useful king route before claiming opposition; PDF 153-154",
+    "title": "Choose the useful king route before claiming opposition",
+    "tags": [
+      "pawn-endings",
+      "king-activity",
+      "opposition"
+    ],
+    "note": "Silman begins this practical test with an apparent contradiction: White can take an indirect opposition and still lose the chance to win. The reason is that the chosen route fails to get the king ahead of its pawn. Recognizing the geometry correctly is not enough when it serves the wrong destination.\n\nWith White’s king on f1, pawn on d4 and Black’s king on h8, White should consider the route through e2, d3 and c4. It advances toward the pawn while avoiding an early confrontation with the enemy king on the kingside. The source’s contrasting f2 route allows Black to establish the familiar drawing barrier. The starting position and those first-move outcomes have been checked against a tablebase.\n\nBefore applying an opposition pattern, name the square the king needs and compare at least two routes toward it. Ask where the opposing king can arrive in response. This is a practical bridge from the abstract rectangle drill: a useful technique must answer the actual promotion problem. The listed route illustrates the defender’s natural response; it is not the only legal sequence in the position.",
+    "keyIdeas": [
+      "Choose a destination before a geometric pattern.",
+      "Approach on the side that offers useful access.",
+      "Compare the resulting pawn ending."
+    ],
+    "activities": [
+      {
+        "id": "study-king-activity-choose-route",
+        "concept": "King activity",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read PDF 153-154, diagram 88. Set White Kf1, Pd4; Black Kh8; White to move. Compare Ke2 and Kf2 before reading the continuations.",
+        "successCheck": "Explain why Ke2 keeps a win and Kf2 permits a draw, naming the useful route ahead of the pawn.",
+        "playReminders": [
+          "Can my king safely become useful now?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-sixth-rank-king",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Retreat squares and the sixth-rank king; PDF 155-158",
+    "title": "Retreat squares and the sixth-rank king",
+    "tags": [
+      "pawn-endings",
+      "opposition",
+      "stalemate"
+    ],
+    "note": "The defender’s available retreat squares explain why similar-looking pawn endings have different results. In the first comparison, Black can retreat straight back as the pawn advances and use a final stalemate. In the next case, correct king placement restores the same defensive pattern. Looking only at who appears to have opposition misses the reason the defense works.\n\nWhen White’s king has reached the sixth rank ahead of a non-rook-pawn, the defender can run out of the retreat needed to maintain that barrier. Silman contrasts this with the earlier positions so the student can see what changed on the board. The winning method depends on controlling the pawn’s path and the remaining escape squares, rather than invoking a slogan about opposition.\n\nThe final example requires an accurate approach to an advanced pawn. One king route keeps the win; a tempting alternative lets the defender rebuild the drawing position. Practice the comparison by naming the defender’s intended retreat after each pawn push. Count legal moves at the alleged stalemate, and retain the rook-pawn exception when moving these patterns to the edge.",
+    "keyIdeas": [
+      "Identify the defender’s needed retreat square.",
+      "A sixth-rank king changes the available defensive space.",
+      "Test the approach before pushing an advanced pawn."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-endings-retreat-squares",
+        "concept": "Pawn endings",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Opposition"
+        ],
+        "instructions": "Read PDF 155-158, diagrams 89-92. Compare the defender’s straight retreat in 89 with the king on the sixth rank in 91. Then solve the king approach in 92.",
+        "successCheck": "Show the stalemate in 89, the winning access in 91 and why Kf6 rather than Ke6 is needed at diagram 92’s stated decision.",
+        "playReminders": [
+          "After the trade, where are both kings, whose move is it, and can the pawn promote?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-opposition-transition",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Preserve the right opposition during the approach; PDF 159-162",
+    "title": "Preserve the right opposition during the approach",
+    "tags": [
+      "pawn-endings",
+      "opposition"
+    ],
+    "note": "A correct opposition relationship at the start is not a license to respond mechanically for the rest of the ending. Silman compares the kings on e1 and e8 with a white pawn on e2, first with White to move and then with Black to move. The change of turn alters the result, but the defender still has to navigate the transition accurately.\n\nIn the defensive branch, a later position places White’s king on d2 and Black’s on e6. Black needs to preserve the relationship that blocks the approaching king. The source’s d6 move maintains the drawing route; several neighboring king moves allow White to obtain a useful opposition and advance. The practice comparison checks selected alternatives rather than assuming all sensible-looking moves are equivalent.\n\nUse the starting position to predict the outcome, then pause again at the intermediate decision. Explain why the next move contributes to the same defensive aim. The exercise should test understanding of transitions, not only recognition of a diagram. An available pawn move also belongs in the calculation, because it can transfer the move without changing the placement of the kings.",
+    "keyIdeas": [
+      "Reassess the relationship after every approach move.",
+      "Neighboring king squares can have different outcomes.",
+      "Include the pawn’s waiting move."
+    ],
+    "activities": [
+      {
+        "id": "study-opposition-transition-defense",
+        "concept": "Opposition",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "King activity"
+        ],
+        "instructions": "Read PDF 159-162. Play diagrams 93 and 94 with their stated turns. At diagram 95, compare Black’s Kd6 with Kf6 and Ke5.",
+        "successCheck": "Retain a draw with Kd6 and demonstrate why each selected alternative gives White a winning king relationship.",
+        "playReminders": [
+          "What useful square does this opposition let me reach or deny?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-trebuchet",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Mutual zugzwang and the trebuchet; PDF 163-165",
+    "title": "Mutual zugzwang and the trebuchet",
+    "tags": [
+      "pawn-endings",
+      "zugzwang",
+      "tempo"
+    ],
+    "note": "A trebuchet is a mutual zugzwang: each king is tied to protecting its pawn, and the side forced to move loses that protection. Silman’s compact example has White’s king on g5 and pawn on f4 against Black’s king on e4 and pawn on f5. Either turn assignment loses for the player who must move.\n\nThat result makes timing essential when more pawns are present. In the following example, both kings collect peripheral pawns and approach the central contact. Rushing directly to the apparently natural square can give the opponent the favorable version of the same mutual dependency. The successful route arranges for the other player to make the unwanted king move.\n\nFor study, first learn the four-piece mechanism without the distraction of the outer pawns. Then return to the longer example and identify the move that determines who will be tied down. A pawn capture can gain material while giving away the critical tempo. Calculate through the resulting king-and-pawn ending; do not stop at the capture or assume that an active-looking king move must improve the position.",
+    "keyIdeas": [
+      "Mutual zugzwang makes the move a liability.",
+      "Time the approach so the opponent must yield.",
+      "Evaluate a capture through the resulting ending."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-endings-mutual-zugzwang",
+        "concept": "Pawn endings",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Opposition"
+        ],
+        "instructions": "Read PDF 163-165. Set White Kg5, Pf4; Black Ke4, Pf5. Test both turns, then find the decisive approach in diagram 97.",
+        "successCheck": "Explain why either player loses when forced to move in the four-piece position, and which tempo arranges the favorable version in the longer example.",
+        "playReminders": [
+          "After the trade, where are both kings, whose move is it, and can the pawn promote?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-pawn-liquidation",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Choose the pawn ending left after the capture; PDF 166-169",
+    "title": "Choose the pawn ending left after the capture",
+    "tags": [
+      "pawn-endings",
+      "favorable-exchanges",
+      "stalemate"
+    ],
+    "note": "When a pawn cannot be saved, the defender may still choose a king square that makes the remaining single-pawn ending drawable. Silman’s first example shows Black abandoning a pawn while arranging to meet White’s recapture with the right opposition. A neighboring retreat loses because it leaves a different king relationship after the same capture.\n\nThe comparison one rank farther up the board demonstrates the limit of that resource. The attacking king is sufficiently advanced that the defender cannot reproduce the earlier barrier. A third example places the pawn ahead of its king and restores a drawing pattern. These are decisions about the position after liquidation, not a general instruction to surrender pawns or exchange whenever behind.\n\nBefore making the capture, place the remaining pawn and both kings mentally on their final squares and state whose turn follows. Compare that position with a verified single-pawn pattern. In practice, replay the drawing branches to their stalemate finish and the winning branch to a secure promotion route. This joins the earlier study of favorable exchanges to a concrete endgame test: the value of the trade depends on what remains.",
+    "keyIdeas": [
+      "Calculate the position after the recapture.",
+      "A one-rank change can remove the drawing defense.",
+      "Use known KPK positions to judge liquidation."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-endings-after-capture",
+        "concept": "Pawn endings",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Opposition"
+        ],
+        "instructions": "Read PDF 166-169, diagrams 98-100. Before each pawn capture, write the resulting king squares, remaining pawn square and side to move.",
+        "successCheck": "Distinguish the two drawing cases from the advanced-king win; replay each claimed stalemate to a position with no legal move.",
+        "playReminders": [
+          "After the trade, where are both kings, whose move is it, and can the pawn promote?"
+        ]
+      },
+      {
+        "id": "study-favorable-exchanges-endgame-trade",
+        "concept": "Favorable exchanges",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Use diagrams 98 and 99 as an exchange-decision comparison. Explain why conceding the same kind of pawn can lead to different results after the capture.",
+        "successCheck": "Base the verdict on the resulting king placement and side to move, rather than material count alone.",
+        "playReminders": [
+          "Who benefits from the pieces that will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-doubled-pawn-tempi",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Doubled pawns as reserve moves; PDF 170-172",
+    "title": "Doubled pawns as reserve moves",
+    "tags": [
+      "pawn-endings",
+      "doubled-pawns",
+      "stalemate"
+    ],
+    "note": "Doubled pawns are not automatically a liability in a simplified ending. In Silman’s examples, the rear pawn can supply a waiting move that the leading pawn and king need. Its usefulness depends on survival, timing and the resulting legal moves, rather than the visual appearance of two pawns on one file.\n\nThe first position changes outcome with the turn. White can bring the king forward to protect the advanced pawn; if Black moves first, that pawn can be attacked before the same arrangement is secured. In the winning version, the rear pawn is preserved until its move transfers the opposition at the decisive moment.\n\nThe second example adds a promotion sacrifice. Allowing the defender to capture the new queen can leave a familiar winning king-and-pawn ending with the remaining pawn. A natural-looking king move instead produces stalemate. Practice both continuations and count the defender’s legal moves before choosing. These are specific non-rook-pawn endings; they do not establish a verdict on doubled pawns in the middlegame, nor do extra rook-pawns necessarily cure the board-edge stalemate problem.",
+    "keyIdeas": [
+      "Evaluate the rear pawn’s usable tempi.",
+      "Protect the advanced pawn before relying on it.",
+      "Check stalemate before a king move or promotion plan."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-endings-rear-pawn",
+        "concept": "Pawn endings",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Opposition"
+        ],
+        "instructions": "Read PDF 170-172, diagrams 101-102. Compare both turns in 101. In 102, contrast the promotion sacrifice with the premature king move.",
+        "successCheck": "Identify the useful rear-pawn tempo and show why the alternative king move stalemates Black.",
+        "playReminders": [
+          "After the trade, where are both kings, whose move is it, and can the pawn promote?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-pawn-self-stalemate",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rook-pawn endings can stalemate the stronger side; PDF 173-178",
+    "title": "Rook-pawn endings can stalemate the stronger side",
+    "tags": [
+      "rook-pawn-endings",
+      "stalemate"
+    ],
+    "note": "The defending king does not always have to occupy the promotion corner. Silman shows a second drawing mechanism: the attacking king can be trapped on the rook-pawn’s file while the defender controls its exit. When the pawn can no longer move, the player with the extra pawn may be the one stalemated.\n\nThe contrast between an attacking king on g7 and one on h7 makes the escape route visible. In the h7 example, Black to move can establish the barrier; with White to move, the king can escape to g7 and preserve a win. Adding more h-pawns only provides additional waiting moves if the same trap survives. The source follows three rook-pawns until White has no legal move.\n\nFor practice, identify whose king lacks an exit and whose turn it will be when the pawn moves run out. The final marked-square diagram is a schematic, not a fully specified legal position; do not invent kings and call it an additional puzzle. Apply the lesson to exchanges by asking whether the attacking king can leave the edge before the defender closes the route.",
+    "keyIdeas": [
+      "Check whether the attacking king can leave the edge.",
+      "Extra rook-pawns may only delay stalemate.",
+      "State which player is stalemated."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-pawn-endings-trapped-attacker",
+        "concept": "Rook-pawn endings",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "King activity",
+          "Opposition"
+        ],
+        "instructions": "Read PDF 173-178. Compare diagrams 103 and 104, then follow the three-pawn line in 105 until diagram 106. Treat 107 only as a marked-square illustration.",
+        "successCheck": "Identify White as the stalemated player and explain why extra h-pawns do not open a king escape route.",
+        "playReminders": [
+          "Can the defender reach the corner, and would my pawn push stalemate it?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-square-of-pawn",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "The square rule and the move that changes the race; PDF 179-182",
+    "title": "The square rule and the move that changes the race",
+    "tags": [
+      "pawn-endings",
+      "passed-pawns"
+    ],
+    "note": "The square rule gives a quick first answer to a simple race between an unescorted pawn and a king. Build a square from the pawn to its promotion rank, extending toward the pursuing king. If the king can enter that square in time, it can catch the pawn in the unobstructed case shown by Silman. If it cannot, the pawn can promote before the chase succeeds.\n\nThe source compares a white a-pawn on a4 with the black king on f7. With Black to move, the king can enter the square; with White to move, a5 shrinks the square before Black can enter. The separate a5 diagram makes the change visible. Whose turn it is therefore belongs in the shortcut, just as it does in opposition.\n\nUse the square to predict the result, then confirm it by counting legal pawn pushes and king steps. The supplied position has no obstruction or supporting white king near the race. Other pieces, controlled squares or a different pawn move option require a fresh calculation. This section is the foundation for later pawn races; the book’s outside-passers and diversion examples remain for future reading.",
+    "keyIdeas": [
+      "Draw the square to the promotion rank.",
+      "Account for the move before deciding whether the king can enter.",
+      "Verify that the route is legal and unobstructed."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-endings-race-turn",
+        "concept": "Pawn endings",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Opposition"
+        ],
+        "instructions": "Read PDF 179-182. Set White Kh1, Pa4; Black Kf7. Draw the pawn’s square and compare both turns; then push the pawn to a5 as in diagram 110.",
+        "successCheck": "Predict and explain the draw with Black to move at a4 and the White win after a5; confirm by counting legal steps.",
+        "playReminders": [
+          "After the trade, where are both kings, whose move is it, and can the pawn promote?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-lucena-start",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Recognize Lucena and cut off the defending king; PDF 207-209",
+    "title": "Recognize Lucena and cut off the defending king",
+    "tags": [
+      "rook-endings",
+      "lucena",
+      "king-activity"
+    ],
+    "note": "Lucena provides a concrete target for converting an extra non-rook-pawn in a rook ending. The pawn has reached the seventh rank and its king occupies the promotion square. The defender’s rook prevents a convenient exit while the defending king remains close enough to restrict the other side. The attacker must coordinate king and rook to clear the pawn’s path safely.\n\nIn Silman’s example, the first useful operation is a rook check that pushes the defending king farther away and keeps it cut off. Repeated checks on the neighboring file do not produce the same improvement. Count the access gained by the check rather than treating any forcing move as progress.\n\nStudy the position as an arrangement of jobs: the pawn needs a free promotion square, the king needs shelter after leaving it, and the rook must limit the enemy king while preparing that shelter. The checked starting position is won, but a win still needs a procedure. This is a specific non-rook-pawn pattern; it does not imply that every rook and seventh-rank pawn ending is automatically won, or that the defender’s rook placement can be ignored.",
+    "keyIdeas": [
+      "Identify the pawn, king exit and checking barrier.",
+      "Drive the defending king away while keeping it cut off.",
+      "Judge checks by the access they create."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-recognition-cutoff",
+        "concept": "Rook endings",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 207-209. Set White Kd8, Pd7, Re2; Black Kf7, Rc1; White to move. Explain the obstacles to promotion and compare Rf2+ with repeated checks on the e-file.",
+        "successCheck": "Identify how the f-file check improves king access and why the pawn cannot simply promote yet.",
+        "playReminders": [
+          "After this exchange, what useful job will my rook have, and which pawns become passed?",
+          "Can my king leave cover while keeping the pawn safe and blocking the next checks?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-lucena-false-starts",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Lucena: distinguish a detour from losing the win; PDF 210-211",
+    "title": "Lucena: distinguish a detour from losing the win",
+    "tags": [
+      "rook-endings",
+      "lucena",
+      "calculation"
+    ],
+    "note": "After the defending king has been pushed aside, it is tempting to move the attacking king immediately. Silman follows those attempts to show why a bare escape is insufficient. Checks can send the king back, or drive it away from the pawn until the defending rook attacks that pawn and forces the king to return.\n\nThe source describes these choices as wrong for its teaching plan. Exact tablebase checks of the supplied position show an important distinction: the candidate king moves and the extra rook check still retain a theoretical win. Their illustrated continuations fail to demonstrate progress; they are not immediate drawing blunders. A student should understand how to improve the plan without being told the result has changed when it has not.\n\nBy contrast, moving the king far enough to abandon protection allows the rook to capture the pawn and draw in the explicit branch. Compare the positions after the checks and identify whether the pawn remains safe. The central question is not simply whether the king escapes, but whether it can remain usefully near the pawn with an answer to the next check. This prepares the purpose of the bridge-building rook move.",
+    "keyIdeas": [
+      "Escaping checks must preserve pawn support.",
+      "A non-progress detour can still retain a theoretical win.",
+      "Losing the pawn is a different kind of error."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-candidate-diagnosis",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 210-211 after Rf2+ Kg7. Compare Ke8, Ke7, Rg2+ and Rf4. Follow the source checks and say whether each line demonstrates progress or loses the pawn.",
+        "successCheck": "Distinguish the still-winning detours from a drawing pawn-loss error; explain the practical reason to prepare Rf4.",
+        "playReminders": [
+          "After this exchange, what useful job will my rook have, and which pawns become passed?",
+          "Can my king leave cover while keeping the pawn safe and blocking the next checks?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-lucena-bridge",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Build the bridge before exposing the king; PDF 211-213",
+    "title": "Build the bridge before exposing the king",
+    "tags": [
+      "rook-endings",
+      "lucena",
+      "conversion"
+    ],
+    "note": "The bridge is a rook placement that will later block checks while the king remains close enough to protect it. In Silman’s example, the rook prepares on the fourth rank before the king leaves the promotion square. The move’s value becomes clear only after the defender begins checking the exposed king.\n\nThe king then approaches the prepared rook through squares that keep the pawn protected. Once it reaches the appropriate square, the rook steps onto the checking file and interposes. The king protects that rook, so simply capturing the bridge does not solve the defender’s problem. This converts the rook from a tool that cuts off the enemy king into a shelter for its own king.\n\nPractice the procedure in stages: cutoff, preparation, supported king route and interposition. At each check, name the pawn’s defender before moving. The source’s premature king step lets the checking rook take the pawn and draw; the correct route preserves the winning material and reaches the bridge. The reviewed line is a model against the shown defense, not a claim that every legal defending move follows the same script. Philidor and other defensive positions are separate future readings.",
+    "keyIdeas": [
+      "Prepare the rook before the king leaves shelter.",
+      "Keep the pawn defended at each check.",
+      "Block with a rook protected by the king."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-endings-build-bridge",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "King activity",
+          "Open files"
+        ],
+        "instructions": "Read PDF 211-213. From diagram 125, practise the cutoff, fourth-rank rook preparation and king route until Rd4 blocks the checking rook. Repeat with the explanation hidden.",
+        "successCheck": "Reach a protected bridge while keeping the pawn safe at every check; explain why the premature Ke5 allows Rxd7 and a draw.",
+        "playReminders": [
+          "After this exchange, what useful job will my rook have, and which pawns become passed?",
+          "Can my king leave cover while keeping the pawn safe and blocking the next checks?"
+        ]
+      },
+      {
+        "id": "study-converting-advantages-purpose-of-preparation",
+        "concept": "Converting advantages",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Revisit diagrams 128-129. Before moving the king, name the rook’s future blocking square and the king square that will protect it. Compare with the unprepared king excursion.",
+        "successCheck": "Explain the purpose of the quiet rook move and show how the final interposition answers the defender’s checks.",
+        "playReminders": [
+          "What preparation makes the winning operation work, and what counterplay is available?"
+        ]
+      }
+    ]
   }
 ]

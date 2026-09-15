@@ -1496,6 +1496,281 @@
         "section": "Using the Rooks diagram 95, Karpov-Andersson, Stockholm 1969, from its introduction on PDF 252 through the game conclusion on PDF 254",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "opposition--silman-distant-opposition",
+      "chapterId": "silman-distant-opposition",
+      "locator": {
+        "pdfPageStart": 102,
+        "pdfPageEnd": 104,
+        "printedPages": null,
+        "section": "Beyond Basic Opposition, distant and diagonal forms, through PDF 104; Indirect Opposition begins on PDF 105",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-indirect-opposition",
+      "chapterId": "silman-indirect-opposition",
+      "locator": {
+        "pdfPageStart": 105,
+        "pdfPageEnd": 108,
+        "printedPages": null,
+        "section": "Indirect Opposition heading on PDF 105 through diagram 60 and the conclusion on PDF 108",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-rook-pawn-corner",
+      "chapterId": "silman-rook-pawn-corner",
+      "locator": {
+        "pdfPageStart": 110,
+        "pdfPageEnd": 112,
+        "printedPages": null,
+        "section": "King in Front introduction and Another Rook-Pawn Endgame; stop before King One Square in Front on PDF 112",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-king-one-square",
+      "chapterId": "silman-king-one-square",
+      "locator": {
+        "pdfPageStart": 112,
+        "pdfPageEnd": 117,
+        "printedPages": null,
+        "section": "King One Square in Front of its Pawn, diagrams 62-64; stop before King Two Squares in Front on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-reserve-pawn-tempo",
+      "chapterId": "silman-reserve-pawn-tempo",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 118,
+        "printedPages": null,
+        "section": "King Two Squares in Front of its Pawn, diagram 65 through its conclusion",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-king-one-square",
+      "chapterId": "silman-king-one-square",
+      "locator": {
+        "pdfPageStart": 112,
+        "pdfPageEnd": 117,
+        "printedPages": null,
+        "section": "King One Square in Front of its Pawn, diagrams 62-64; stop before King Two Squares in Front on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-reserve-pawn-tempo",
+      "chapterId": "silman-reserve-pawn-tempo",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 118,
+        "printedPages": null,
+        "section": "King Two Squares in Front of its Pawn, diagram 65 through its conclusion",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-king-one-square",
+      "chapterId": "silman-king-one-square",
+      "locator": {
+        "pdfPageStart": 112,
+        "pdfPageEnd": 117,
+        "printedPages": null,
+        "section": "King One Square in Front of its Pawn, diagrams 62-64; stop before King Two Squares in Front on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-king-route-before-opposition",
+      "chapterId": "silman-king-route-before-opposition",
+      "locator": {
+        "pdfPageStart": 153,
+        "pdfPageEnd": 154,
+        "printedPages": null,
+        "section": "Quick Tussle for Opposition opening and diagram 88 through its winning route",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-king-route-before-opposition",
+      "chapterId": "silman-king-route-before-opposition",
+      "locator": {
+        "pdfPageStart": 153,
+        "pdfPageEnd": 154,
+        "printedPages": null,
+        "section": "Quick Tussle for Opposition opening and diagram 88 through its winning route",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-king-route-before-opposition",
+      "chapterId": "silman-king-route-before-opposition",
+      "locator": {
+        "pdfPageStart": 153,
+        "pdfPageEnd": 154,
+        "printedPages": null,
+        "section": "Quick Tussle for Opposition opening and diagram 88 through its winning route",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-sixth-rank-king",
+      "chapterId": "silman-sixth-rank-king",
+      "locator": {
+        "pdfPageStart": 155,
+        "pdfPageEnd": 158,
+        "printedPages": null,
+        "section": "Quick Tussle for Opposition, diagrams 89-92 and their complete explanations",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-opposition-transition",
+      "chapterId": "silman-opposition-transition",
+      "locator": {
+        "pdfPageStart": 159,
+        "pdfPageEnd": 162,
+        "printedPages": null,
+        "section": "Quick Tussle for Opposition concluding diagrams 93-95 and final sentence",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-opposition-transition",
+      "chapterId": "silman-opposition-transition",
+      "locator": {
+        "pdfPageStart": 159,
+        "pdfPageEnd": 162,
+        "printedPages": null,
+        "section": "Quick Tussle for Opposition concluding diagrams 93-95 and final sentence",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-trebuchet",
+      "chapterId": "silman-trebuchet",
+      "locator": {
+        "pdfPageStart": 163,
+        "pdfPageEnd": 165,
+        "printedPages": null,
+        "section": "Sneaking into a Winning King and Pawn vs. Lone King Endgame, diagrams 96-97",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-pawn-liquidation",
+      "chapterId": "silman-pawn-liquidation",
+      "locator": {
+        "pdfPageStart": 166,
+        "pdfPageEnd": 169,
+        "printedPages": null,
+        "section": "Sneaking into a Winning KPK concluding diagrams 98-100 and their explanations",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--silman-pawn-liquidation",
+      "chapterId": "silman-pawn-liquidation",
+      "locator": {
+        "pdfPageStart": 166,
+        "pdfPageEnd": 169,
+        "printedPages": null,
+        "section": "Sneaking into a Winning KPK concluding diagrams 98-100 and their explanations",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-doubled-pawn-tempi",
+      "chapterId": "silman-doubled-pawn-tempi",
+      "locator": {
+        "pdfPageStart": 170,
+        "pdfPageEnd": 172,
+        "printedPages": null,
+        "section": "Doubled Pawns subsection, diagrams 101-102 through its concluding variation",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-rook-pawn-self-stalemate",
+      "chapterId": "silman-rook-pawn-self-stalemate",
+      "locator": {
+        "pdfPageStart": 173,
+        "pdfPageEnd": 178,
+        "printedPages": null,
+        "section": "Rook-Pawn Endgames: Stalemating the Stronger Side, diagrams 103-107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-square-of-pawn",
+      "chapterId": "silman-square-of-pawn",
+      "locator": {
+        "pdfPageStart": 179,
+        "pdfPageEnd": 182,
+        "printedPages": null,
+        "section": "The Square of the Pawn, diagrams 108-110; ends before Outside Passed Pawns",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-lucena-start",
+      "chapterId": "silman-lucena-start",
+      "locator": {
+        "pdfPageStart": 207,
+        "pdfPageEnd": 209,
+        "printedPages": null,
+        "section": "Lucena heading, diagram 125 and Rf2+ explanation through diagram 126; response and choices continue on PDF 210",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-lucena-false-starts",
+      "chapterId": "silman-lucena-false-starts",
+      "locator": {
+        "pdfPageStart": 210,
+        "pdfPageEnd": 211,
+        "printedPages": null,
+        "section": "Lucena four candidate moves after Rf2+ Kg7; through the selection of Rf4 on PDF 211",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-lucena-bridge",
+      "chapterId": "silman-lucena-bridge",
+      "locator": {
+        "pdfPageStart": 211,
+        "pdfPageEnd": 213,
+        "printedPages": null,
+        "section": "Rf4 selection on PDF 211, diagrams 128-129 and the Lucena conclusion; stop before Philidor",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--silman-lucena-bridge",
+      "chapterId": "silman-lucena-bridge",
+      "locator": {
+        "pdfPageStart": 211,
+        "pdfPageEnd": 213,
+        "printedPages": null,
+        "section": "Rf4 selection on PDF 211, diagrams 128-129 and the Lucena conclusion; stop before Philidor",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-lucena-start",
+      "chapterId": "silman-lucena-start",
+      "locator": {
+        "pdfPageStart": 207,
+        "pdfPageEnd": 209,
+        "printedPages": null,
+        "section": "Lucena heading, diagram 125 and Rf2+ explanation through diagram 126; response and choices continue on PDF 210",
+        "ebookLocation": null
+      }
     }
   ]
 }

@@ -566,6 +566,120 @@
       "crossrefIds": [
         "rook-endings--amateurs-rook-active-defense"
       ]
+    },
+    {
+      "id": "study-opposition-geometry",
+      "crossrefIds": [
+        "opposition--silman-distant-opposition"
+      ]
+    },
+    {
+      "id": "study-opposition-rectangles",
+      "crossrefIds": [
+        "opposition--silman-indirect-opposition"
+      ]
+    },
+    {
+      "id": "study-rook-pawn-endings-corner-defense",
+      "crossrefIds": [
+        "rook-pawn-endings--silman-rook-pawn-corner"
+      ]
+    },
+    {
+      "id": "study-pawn-endings-both-turns",
+      "crossrefIds": [
+        "pawn-endings--silman-king-one-square"
+      ]
+    },
+    {
+      "id": "study-king-activity-access-or-opposition",
+      "crossrefIds": [
+        "king-activity--silman-king-one-square"
+      ]
+    },
+    {
+      "id": "study-pawn-endings-spare-move",
+      "crossrefIds": [
+        "pawn-endings--silman-reserve-pawn-tempo"
+      ]
+    },
+    {
+      "id": "study-king-activity-choose-route",
+      "crossrefIds": [
+        "king-activity--silman-king-route-before-opposition"
+      ]
+    },
+    {
+      "id": "study-pawn-endings-retreat-squares",
+      "crossrefIds": [
+        "pawn-endings--silman-sixth-rank-king"
+      ]
+    },
+    {
+      "id": "study-opposition-transition-defense",
+      "crossrefIds": [
+        "opposition--silman-opposition-transition"
+      ]
+    },
+    {
+      "id": "study-pawn-endings-mutual-zugzwang",
+      "crossrefIds": [
+        "pawn-endings--silman-trebuchet"
+      ]
+    },
+    {
+      "id": "study-pawn-endings-after-capture",
+      "crossrefIds": [
+        "pawn-endings--silman-pawn-liquidation"
+      ]
+    },
+    {
+      "id": "study-favorable-exchanges-endgame-trade",
+      "crossrefIds": [
+        "favorable-exchanges--silman-pawn-liquidation"
+      ]
+    },
+    {
+      "id": "study-pawn-endings-rear-pawn",
+      "crossrefIds": [
+        "pawn-endings--silman-doubled-pawn-tempi"
+      ]
+    },
+    {
+      "id": "study-rook-pawn-endings-trapped-attacker",
+      "crossrefIds": [
+        "rook-pawn-endings--silman-rook-pawn-self-stalemate"
+      ]
+    },
+    {
+      "id": "study-pawn-endings-race-turn",
+      "crossrefIds": [
+        "pawn-endings--silman-square-of-pawn"
+      ]
+    },
+    {
+      "id": "study-rook-endings-recognition-cutoff",
+      "crossrefIds": [
+        "rook-endings--silman-lucena-start"
+      ]
+    },
+    {
+      "id": "study-rook-endings-candidate-diagnosis",
+      "crossrefIds": [
+        "rook-endings--silman-lucena-false-starts"
+      ]
+    },
+    {
+      "id": "study-rook-endings-build-bridge",
+      "crossrefIds": [
+        "rook-endings--silman-lucena-bridge"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-purpose-of-preparation",
+      "crossrefIds": [
+        "converting-advantages--silman-lucena-bridge"
+      ]
     }
   ]
 }

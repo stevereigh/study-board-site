@@ -858,6 +858,214 @@
         "section": "Using the Rooks diagram 98 and third student response through the final Tips box on PDF 262; next chapter begins PDF 263",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "silman-distant-opposition",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Distant and diagonal opposition; PDF 102-104",
+      "title": "Distant and diagonal opposition",
+      "locator": {
+        "pdfPageStart": 102,
+        "pdfPageEnd": 104,
+        "printedPages": null,
+        "section": "Beyond Basic Opposition, distant and diagonal forms, through PDF 104; Indirect Opposition begins on PDF 105",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-indirect-opposition",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Indirect opposition and connecting rectangles; PDF 105-108",
+      "title": "Indirect opposition and connecting rectangles",
+      "locator": {
+        "pdfPageStart": 105,
+        "pdfPageEnd": 108,
+        "printedPages": null,
+        "section": "Indirect Opposition heading on PDF 105 through diagram 60 and the conclusion on PDF 108",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-pawn-corner",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "A king in front does not solve the rook-pawn exception; PDF 110-112",
+      "title": "A king in front does not solve the rook-pawn exception",
+      "locator": {
+        "pdfPageStart": 110,
+        "pdfPageEnd": 112,
+        "printedPages": null,
+        "section": "King in Front introduction and Another Rook-Pawn Endgame; stop before King One Square in Front on PDF 112",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-king-one-square",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "King one square ahead: compare both sides to move; PDF 112-117",
+      "title": "King one square ahead: compare both sides to move",
+      "locator": {
+        "pdfPageStart": 112,
+        "pdfPageEnd": 117,
+        "printedPages": null,
+        "section": "King One Square in Front of its Pawn, diagrams 62-64; stop before King Two Squares in Front on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-reserve-pawn-tempo",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "King two squares ahead and a reserve pawn move; PDF 117-118",
+      "title": "King two squares ahead and a reserve pawn move",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 118,
+        "printedPages": null,
+        "section": "King Two Squares in Front of its Pawn, diagram 65 through its conclusion",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-king-route-before-opposition",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Choose the useful king route before claiming opposition; PDF 153-154",
+      "title": "Choose the useful king route before claiming opposition",
+      "locator": {
+        "pdfPageStart": 153,
+        "pdfPageEnd": 154,
+        "printedPages": null,
+        "section": "Quick Tussle for Opposition opening and diagram 88 through its winning route",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-sixth-rank-king",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Retreat squares and the sixth-rank king; PDF 155-158",
+      "title": "Retreat squares and the sixth-rank king",
+      "locator": {
+        "pdfPageStart": 155,
+        "pdfPageEnd": 158,
+        "printedPages": null,
+        "section": "Quick Tussle for Opposition, diagrams 89-92 and their complete explanations",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-opposition-transition",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Preserve the right opposition during the approach; PDF 159-162",
+      "title": "Preserve the right opposition during the approach",
+      "locator": {
+        "pdfPageStart": 159,
+        "pdfPageEnd": 162,
+        "printedPages": null,
+        "section": "Quick Tussle for Opposition concluding diagrams 93-95 and final sentence",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-trebuchet",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Mutual zugzwang and the trebuchet; PDF 163-165",
+      "title": "Mutual zugzwang and the trebuchet",
+      "locator": {
+        "pdfPageStart": 163,
+        "pdfPageEnd": 165,
+        "printedPages": null,
+        "section": "Sneaking into a Winning King and Pawn vs. Lone King Endgame, diagrams 96-97",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-pawn-liquidation",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Choose the pawn ending left after the capture; PDF 166-169",
+      "title": "Choose the pawn ending left after the capture",
+      "locator": {
+        "pdfPageStart": 166,
+        "pdfPageEnd": 169,
+        "printedPages": null,
+        "section": "Sneaking into a Winning KPK concluding diagrams 98-100 and their explanations",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-doubled-pawn-tempi",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Doubled pawns as reserve moves; PDF 170-172",
+      "title": "Doubled pawns as reserve moves",
+      "locator": {
+        "pdfPageStart": 170,
+        "pdfPageEnd": 172,
+        "printedPages": null,
+        "section": "Doubled Pawns subsection, diagrams 101-102 through its concluding variation",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-pawn-self-stalemate",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rook-pawn endings can stalemate the stronger side; PDF 173-178",
+      "title": "Rook-pawn endings can stalemate the stronger side",
+      "locator": {
+        "pdfPageStart": 173,
+        "pdfPageEnd": 178,
+        "printedPages": null,
+        "section": "Rook-Pawn Endgames: Stalemating the Stronger Side, diagrams 103-107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-square-of-pawn",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "The square rule and the move that changes the race; PDF 179-182",
+      "title": "The square rule and the move that changes the race",
+      "locator": {
+        "pdfPageStart": 179,
+        "pdfPageEnd": 182,
+        "printedPages": null,
+        "section": "The Square of the Pawn, diagrams 108-110; ends before Outside Passed Pawns",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-lucena-start",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Recognize Lucena and cut off the defending king; PDF 207-209",
+      "title": "Recognize Lucena and cut off the defending king",
+      "locator": {
+        "pdfPageStart": 207,
+        "pdfPageEnd": 209,
+        "printedPages": null,
+        "section": "Lucena heading, diagram 125 and Rf2+ explanation through diagram 126; response and choices continue on PDF 210",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-lucena-false-starts",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Lucena: distinguish a detour from losing the win; PDF 210-211",
+      "title": "Lucena: distinguish a detour from losing the win",
+      "locator": {
+        "pdfPageStart": 210,
+        "pdfPageEnd": 211,
+        "printedPages": null,
+        "section": "Lucena four candidate moves after Rf2+ Kg7; through the selection of Rf4 on PDF 211",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-lucena-bridge",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Build the bridge before exposing the king; PDF 211-213",
+      "title": "Build the bridge before exposing the king",
+      "locator": {
+        "pdfPageStart": 211,
+        "pdfPageEnd": 213,
+        "printedPages": null,
+        "section": "Rf4 selection on PDF 211, diagrams 128-129 and the Lucena conclusion; stop before Philidor",
+        "ebookLocation": null
+      }
     }
   ]
 }
