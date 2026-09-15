@@ -36,6 +36,114 @@
       "bookId": "silman-amateurs-mind-1999",
       "ref": "Rules of the Minor Pieces, pp. 9-16; PDF 16-23",
       "title": "Rules of the Minor Pieces"
+    },
+    {
+      "id": "kotov-analysis-training",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Analysis habits and training; pp. 15-24; PDF 14-23",
+      "title": "Analysis habits and training"
+    },
+    {
+      "id": "kotov-candidate-principles",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Candidate selection: introductory principles; pp. 41-43; PDF 40-42",
+      "title": "Candidate selection: introductory principles"
+    },
+    {
+      "id": "kotov-blumenfeld-rule",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Return to the board: Blumenfeld’s rule; pp. 67-69; PDF 66-68",
+      "title": "Return to the board: Blumenfeld’s rule"
+    },
+    {
+      "id": "kotov-time-trouble",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Time-trouble; pp. 76-79; PDF 75-78",
+      "title": "Time-trouble"
+    },
+    {
+      "id": "shereshevsky-basic-principles",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Basic Principles of Endgame Play; pp. 1-3; PDF 9-11",
+      "title": "Basic Principles of Endgame Play"
+    },
+    {
+      "id": "shereshevsky-king-centralization",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Centralization of the King; pp. 4-11; PDF 12-19",
+      "title": "Centralization of the King"
+    },
+    {
+      "id": "nimzovich-development",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Development and the pawn center; pp. 3-7; PDF 28-32",
+      "title": "Development and the pawn center"
+    },
+    {
+      "id": "nimzovich-exchange-tempo",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Exchanges that gain time; pp. 7-9; PDF 32-34",
+      "title": "Exchanges that gain time"
+    },
+    {
+      "id": "nimzovich-liquidation",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Relieving central tension to finish development; pp. 9-12; PDF 34-37",
+      "title": "Relieving central tension to finish development"
+    },
+    {
+      "id": "nimzovich-mobile-center",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "The mobile center and its restraint; pp. 12-18; PDF 37-43",
+      "title": "The mobile center and its restraint"
+    },
+    {
+      "id": "nimzovich-pawn-hunting",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Pawn hunting and the central-pawn exception; pp. 18-20; PDF 43-45",
+      "title": "Pawn hunting and the central-pawn exception"
+    },
+    {
+      "id": "nunn-mate-recognition",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Learning to recognize mating patterns; pp. 6-8; PDF 7-9",
+      "title": "Learning to recognize mating patterns"
+    },
+    {
+      "id": "nunn-elementary-one-move",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Elementary mates: exercises 1-14; pp. 9-11; solutions 24; PDF 10-12",
+      "title": "Elementary mates: exercises 1-14"
+    },
+    {
+      "id": "nunn-elementary-two-move",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Elementary mates: exercises 15-24; pp. 11-12; solutions 24-25; PDF 12-13",
+      "title": "Elementary mates: exercises 15-24"
+    },
+    {
+      "id": "erwich-capture-deflect",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Eliminating defenders: capture, attack and deflection; PDF 8-11",
+      "title": "Eliminating defenders: capture, attack and deflection"
+    },
+    {
+      "id": "erwich-interference-blocking",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Interference, blocked escapes and tactical preparation; PDF 11-13",
+      "title": "Interference, blocked escapes and tactical preparation"
+    },
+    {
+      "id": "flores-structure-study",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Studying pawn structures across openings; pp. 9-11; PDF 10-12",
+      "title": "Studying pawn structures across openings"
+    },
+    {
+      "id": "flores-isolani-primer",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "The isolani: plans for both sides; pp. 12; PDF 13-13",
+      "title": "The isolani: plans for both sides"
     }
   ]
 }

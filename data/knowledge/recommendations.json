@@ -48,6 +48,162 @@
       "crossrefIds": [
         "outposts--amateurs-minor-piece-rules"
       ]
+    },
+    {
+      "id": "study-candidate-moves-list",
+      "crossrefIds": [
+        "candidate-moves--kotov-candidate-principles"
+      ]
+    },
+    {
+      "id": "study-calculation-compare",
+      "crossrefIds": [
+        "calculation--kotov-analysis-training"
+      ]
+    },
+    {
+      "id": "study-visualization-reconstruct",
+      "crossrefIds": [
+        "visualization--kotov-analysis-training"
+      ]
+    },
+    {
+      "id": "study-blunder-checking-reset",
+      "crossrefIds": [
+        "blunder-checking--kotov-blumenfeld-rule"
+      ]
+    },
+    {
+      "id": "study-time-management-clock-review",
+      "crossrefIds": [
+        "time-management--kotov-time-trouble"
+      ]
+    },
+    {
+      "id": "study-schematic-thinking-plan",
+      "crossrefIds": [
+        "schematic-thinking--shereshevsky-basic-principles"
+      ]
+    },
+    {
+      "id": "study-converting-advantages-prepare",
+      "crossrefIds": [
+        "converting-advantages--shereshevsky-basic-principles"
+      ]
+    },
+    {
+      "id": "study-king-activity-timing",
+      "crossrefIds": [
+        "king-activity--shereshevsky-king-centralization"
+      ]
+    },
+    {
+      "id": "study-piece-activity-coordination",
+      "crossrefIds": [
+        "piece-activity--shereshevsky-basic-principles",
+        "piece-activity--amateurs-imbalances"
+      ]
+    },
+    {
+      "id": "study-development-opening-audit",
+      "crossrefIds": [
+        "development--nimzovich-development"
+      ]
+    },
+    {
+      "id": "study-tempo-follow-up",
+      "crossrefIds": [
+        "tempo--nimzovich-exchange-tempo"
+      ]
+    },
+    {
+      "id": "study-center-control-two-sides",
+      "crossrefIds": [
+        "center-control--nimzovich-mobile-center"
+      ]
+    },
+    {
+      "id": "study-restriction-restrain",
+      "crossrefIds": [
+        "restriction--nimzovich-mobile-center"
+      ]
+    },
+    {
+      "id": "study-favorable-exchanges-development",
+      "crossrefIds": [
+        "favorable-exchanges--nimzovich-liquidation",
+        "favorable-exchanges--nimzovich-exchange-tempo",
+        "favorable-exchanges--amateurs-imbalances"
+      ]
+    },
+    {
+      "id": "study-development-pawn-choice",
+      "crossrefIds": [
+        "development--nimzovich-pawn-hunting"
+      ]
+    },
+    {
+      "id": "study-mating-patterns-first-six",
+      "crossrefIds": [
+        "mating-patterns--nunn-elementary-one-move",
+        "mating-patterns--nunn-mate-recognition"
+      ]
+    },
+    {
+      "id": "study-mating-patterns-next-eight",
+      "crossrefIds": [
+        "mating-patterns--nunn-elementary-one-move"
+      ]
+    },
+    {
+      "id": "study-forcing-moves-reply-check",
+      "crossrefIds": [
+        "forcing-moves--nunn-elementary-two-move"
+      ]
+    },
+    {
+      "id": "study-pins-defender-test",
+      "crossrefIds": [
+        "pins--nunn-elementary-one-move",
+        "pins--nunn-elementary-two-move"
+      ]
+    },
+    {
+      "id": "study-discovered-attacks-uncover",
+      "crossrefIds": [
+        "discovered-attacks--nunn-elementary-one-move",
+        "discovered-attacks--nunn-elementary-two-move"
+      ]
+    },
+    {
+      "id": "study-removing-the-defender-defense-map",
+      "crossrefIds": [
+        "removing-the-defender--erwich-capture-deflect"
+      ]
+    },
+    {
+      "id": "study-deflection-lure",
+      "crossrefIds": [
+        "deflection--erwich-capture-deflect"
+      ]
+    },
+    {
+      "id": "study-interference-lines",
+      "crossrefIds": [
+        "interference--erwich-interference-blocking"
+      ]
+    },
+    {
+      "id": "study-opening-to-middlegame-transition-structure-review",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--flores-structure-study"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-both-plans",
+      "crossrefIds": [
+        "isolated-pawns--flores-isolani-primer"
+      ]
     }
   ]
 }

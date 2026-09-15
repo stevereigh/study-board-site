@@ -216,6 +216,14 @@
     {
       "id": "rook-pawn-endings",
       "name": "Rook-pawn endings"
+    },
+    {
+      "id": "schematic-thinking",
+      "name": "Schematic thinking"
+    },
+    {
+      "id": "interference",
+      "name": "Interference"
     }
   ]
 }

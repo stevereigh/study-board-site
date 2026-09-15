@@ -143,6 +143,413 @@
         "section": "The Battle Between Bishops and Knights / Rules of the Minor Pieces",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "candidate-moves--kotov-candidate-principles",
+      "chapterId": "kotov-candidate-principles",
+      "locator": {
+        "pdfPageStart": 40,
+        "pdfPageEnd": 42,
+        "printedPages": "41-43",
+        "section": "From Selection of Candidate Moves on PDF 40 through introductory What is a Candidate Move? prose on PDF 42; stop before the Tartakower-Alekhine diagram and candidate list",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "candidate-moves--kotov-analysis-training",
+      "chapterId": "kotov-analysis-training",
+      "locator": {
+        "pdfPageStart": 14,
+        "pdfPageEnd": 23,
+        "printedPages": "15-24",
+        "section": "Chapter 1: Do you Know how to Analyse? and Historical Digression; stop before The Tree of Analysis heading on PDF 23",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--kotov-analysis-training",
+      "chapterId": "kotov-analysis-training",
+      "locator": {
+        "pdfPageStart": 14,
+        "pdfPageEnd": 23,
+        "printedPages": "15-24",
+        "section": "Chapter 1: Do you Know how to Analyse? and Historical Digression; stop before The Tree of Analysis heading on PDF 23",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "visualization--kotov-analysis-training",
+      "chapterId": "kotov-analysis-training",
+      "locator": {
+        "pdfPageStart": 14,
+        "pdfPageEnd": 23,
+        "printedPages": "15-24",
+        "section": "Chapter 1: Do you Know how to Analyse? and Historical Digression; stop before The Tree of Analysis heading on PDF 23",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "blunder-checking--kotov-blumenfeld-rule",
+      "chapterId": "kotov-blumenfeld-rule",
+      "locator": {
+        "pdfPageStart": 66,
+        "pdfPageEnd": 68,
+        "printedPages": "67-69",
+        "section": "From Through the Eyes of a Patzer: Blumenfeld’s Rule on PDF 66 to its conclusion on PDF 68, before More Practical Advice",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "time-management--kotov-time-trouble",
+      "chapterId": "kotov-time-trouble",
+      "locator": {
+        "pdfPageStart": 75,
+        "pdfPageEnd": 78,
+        "printedPages": "76-79",
+        "section": "Time-trouble heading on PDF 75 through its final paragraph on PDF 78; stop before Exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "schematic-thinking--shereshevsky-basic-principles",
+      "chapterId": "shereshevsky-basic-principles",
+      "locator": {
+        "pdfPageStart": 9,
+        "pdfPageEnd": 11,
+        "printedPages": "1-3",
+        "section": "Complete Chapter 1, the essay credited to S. Byelavyenets; Capablanca-Ragozin, Moscow 1936",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--shereshevsky-basic-principles",
+      "chapterId": "shereshevsky-basic-principles",
+      "locator": {
+        "pdfPageStart": 9,
+        "pdfPageEnd": 11,
+        "printedPages": "1-3",
+        "section": "Complete Chapter 1, the essay credited to S. Byelavyenets; Capablanca-Ragozin, Moscow 1936",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--shereshevsky-king-centralization",
+      "chapterId": "shereshevsky-king-centralization",
+      "locator": {
+        "pdfPageStart": 12,
+        "pdfPageEnd": 19,
+        "printedPages": "4-11",
+        "section": "Complete Chapter 2, including Capablanca-Reshevsky, Em. Lasker-Ed. Lasker, Fyedorov-Chernikov, Dvoretsky-Smyslov and Roizman-Mikhalevsky examples",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--shereshevsky-king-centralization",
+      "chapterId": "shereshevsky-king-centralization",
+      "locator": {
+        "pdfPageStart": 12,
+        "pdfPageEnd": 19,
+        "printedPages": "4-11",
+        "section": "Complete Chapter 2, including Capablanca-Reshevsky, Em. Lasker-Ed. Lasker, Fyedorov-Chernikov, Dvoretsky-Smyslov and Roizman-Mikhalevsky examples",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--shereshevsky-basic-principles",
+      "chapterId": "shereshevsky-basic-principles",
+      "locator": {
+        "pdfPageStart": 9,
+        "pdfPageEnd": 11,
+        "printedPages": "1-3",
+        "section": "Complete Chapter 1, the essay credited to S. Byelavyenets; Capablanca-Ragozin, Moscow 1936",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "development--nimzovich-development",
+      "chapterId": "nimzovich-development",
+      "locator": {
+        "pdfPageStart": 28,
+        "pdfPageEnd": 32,
+        "printedPages": "3-7",
+        "section": "Chapter 1 introduction and sections 1-3; ends before section 4 on PDF 32",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "development--nimzovich-pawn-hunting",
+      "chapterId": "nimzovich-pawn-hunting",
+      "locator": {
+        "pdfPageStart": 43,
+        "pdfPageEnd": 45,
+        "printedPages": "18-20",
+        "section": "Chapter 1 sections 7 and 7a, through the chapter conclusion; later illustrative games are not included",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--nimzovich-exchange-tempo",
+      "chapterId": "nimzovich-exchange-tempo",
+      "locator": {
+        "pdfPageStart": 32,
+        "pdfPageEnd": 34,
+        "printedPages": "7-9",
+        "section": "Chapter 1 section 4; stop before section 5 on PDF 34",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "center-control--nimzovich-mobile-center",
+      "chapterId": "nimzovich-mobile-center",
+      "locator": {
+        "pdfPageStart": 37,
+        "pdfPageEnd": 43,
+        "printedPages": "12-18",
+        "section": "Chapter 1 sections 6 and 6a; stop before section 7 on PDF 43",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "center-control--nimzovich-pawn-hunting",
+      "chapterId": "nimzovich-pawn-hunting",
+      "locator": {
+        "pdfPageStart": 43,
+        "pdfPageEnd": 45,
+        "printedPages": "18-20",
+        "section": "Chapter 1 sections 7 and 7a, through the chapter conclusion; later illustrative games are not included",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--nimzovich-mobile-center",
+      "chapterId": "nimzovich-mobile-center",
+      "locator": {
+        "pdfPageStart": 37,
+        "pdfPageEnd": 43,
+        "printedPages": "12-18",
+        "section": "Chapter 1 sections 6 and 6a; stop before section 7 on PDF 43",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--nimzovich-exchange-tempo",
+      "chapterId": "nimzovich-exchange-tempo",
+      "locator": {
+        "pdfPageStart": 32,
+        "pdfPageEnd": 34,
+        "printedPages": "7-9",
+        "section": "Chapter 1 section 4; stop before section 5 on PDF 34",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--nimzovich-liquidation",
+      "chapterId": "nimzovich-liquidation",
+      "locator": {
+        "pdfPageStart": 34,
+        "pdfPageEnd": 37,
+        "printedPages": "9-12",
+        "section": "Chapter 1 section 5; stop before section 6 on PDF 37",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--nimzovich-development",
+      "chapterId": "nimzovich-development",
+      "locator": {
+        "pdfPageStart": 28,
+        "pdfPageEnd": 32,
+        "printedPages": "3-7",
+        "section": "Chapter 1 introduction and sections 1-3; ends before section 4 on PDF 32",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "mating-patterns--nunn-mate-recognition",
+      "chapterId": "nunn-mate-recognition",
+      "locator": {
+        "pdfPageStart": 7,
+        "pdfPageEnd": 9,
+        "printedPages": "6-8",
+        "section": "Complete Introduction and the Elementary Mates introductory prose; Nunn-Portisch illustration reviewed",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "mating-patterns--nunn-elementary-one-move",
+      "chapterId": "nunn-elementary-one-move",
+      "locator": {
+        "pdfPageStart": 10,
+        "pdfPageEnd": 12,
+        "printedPages": "9-11; solutions 24",
+        "section": "Exercises 1-14 only, PDF 10-12, and their matching solution entries on PDF 25; exercises 15-18 sharing PDF 12 belong to the next record",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "mating-patterns--nunn-elementary-two-move",
+      "chapterId": "nunn-elementary-two-move",
+      "locator": {
+        "pdfPageStart": 12,
+        "pdfPageEnd": 13,
+        "printedPages": "11-12; solutions 24-25",
+        "section": "Exercises 15-24 only, PDF 12-13, with corresponding solution entries on PDF 25-26; later entries on those solution pages are excluded",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forcing-moves--nunn-elementary-two-move",
+      "chapterId": "nunn-elementary-two-move",
+      "locator": {
+        "pdfPageStart": 12,
+        "pdfPageEnd": 13,
+        "printedPages": "11-12; solutions 24-25",
+        "section": "Exercises 15-24 only, PDF 12-13, with corresponding solution entries on PDF 25-26; later entries on those solution pages are excluded",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pins--nunn-elementary-one-move",
+      "chapterId": "nunn-elementary-one-move",
+      "locator": {
+        "pdfPageStart": 10,
+        "pdfPageEnd": 12,
+        "printedPages": "9-11; solutions 24",
+        "section": "Exercises 1-14 only, PDF 10-12, and their matching solution entries on PDF 25; exercises 15-18 sharing PDF 12 belong to the next record",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pins--nunn-elementary-two-move",
+      "chapterId": "nunn-elementary-two-move",
+      "locator": {
+        "pdfPageStart": 12,
+        "pdfPageEnd": 13,
+        "printedPages": "11-12; solutions 24-25",
+        "section": "Exercises 15-24 only, PDF 12-13, with corresponding solution entries on PDF 25-26; later entries on those solution pages are excluded",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "discovered-attacks--nunn-elementary-one-move",
+      "chapterId": "nunn-elementary-one-move",
+      "locator": {
+        "pdfPageStart": 10,
+        "pdfPageEnd": 12,
+        "printedPages": "9-11; solutions 24",
+        "section": "Exercises 1-14 only, PDF 10-12, and their matching solution entries on PDF 25; exercises 15-18 sharing PDF 12 belong to the next record",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "discovered-attacks--nunn-elementary-two-move",
+      "chapterId": "nunn-elementary-two-move",
+      "locator": {
+        "pdfPageStart": 12,
+        "pdfPageEnd": 13,
+        "printedPages": "11-12; solutions 24-25",
+        "section": "Exercises 15-24 only, PDF 12-13, with corresponding solution entries on PDF 25-26; later entries on those solution pages are excluded",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "removing-the-defender--erwich-capture-deflect",
+      "chapterId": "erwich-capture-deflect",
+      "locator": {
+        "pdfPageStart": 8,
+        "pdfPageEnd": 11,
+        "printedPages": null,
+        "section": "Chapter 1 explanatory examples Anna Muzychuk-Cmilyte, Andreikin-Karjakin and Grischuk-Caruana; end after the Grischuk-Caruana conclusion at the top of PDF 11",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "removing-the-defender--erwich-interference-blocking",
+      "chapterId": "erwich-interference-blocking",
+      "locator": {
+        "pdfPageStart": 11,
+        "pdfPageEnd": 13,
+        "printedPages": null,
+        "section": "From Besides capturing... on PDF 11 through the Chapter 1 exercise instructions on PDF 13; Anand-Kulaots and Li Chao-Short explanatory examples included; stop before numbered exercises on PDF 14",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "deflection--erwich-capture-deflect",
+      "chapterId": "erwich-capture-deflect",
+      "locator": {
+        "pdfPageStart": 8,
+        "pdfPageEnd": 11,
+        "printedPages": null,
+        "section": "Chapter 1 explanatory examples Anna Muzychuk-Cmilyte, Andreikin-Karjakin and Grischuk-Caruana; end after the Grischuk-Caruana conclusion at the top of PDF 11",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "interference--erwich-interference-blocking",
+      "chapterId": "erwich-interference-blocking",
+      "locator": {
+        "pdfPageStart": 11,
+        "pdfPageEnd": 13,
+        "printedPages": null,
+        "section": "From Besides capturing... on PDF 11 through the Chapter 1 exercise instructions on PDF 13; Anand-Kulaots and Li Chao-Short explanatory examples included; stop before numbered exercises on PDF 14",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "mating-patterns--erwich-interference-blocking",
+      "chapterId": "erwich-interference-blocking",
+      "locator": {
+        "pdfPageStart": 11,
+        "pdfPageEnd": 13,
+        "printedPages": null,
+        "section": "From Besides capturing... on PDF 11 through the Chapter 1 exercise instructions on PDF 13; Anand-Kulaots and Li Chao-Short explanatory examples included; stop before numbered exercises on PDF 14",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-structure-study",
+      "chapterId": "flores-structure-study",
+      "locator": {
+        "pdfPageStart": 10,
+        "pdfPageEnd": 12,
+        "printedPages": "9-11",
+        "section": "Complete Introduction: What you will find in this book through Prior works; no structure chapter games included",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "isolated-pawns--flores-isolani-primer",
+      "chapterId": "flores-isolani-primer",
+      "locator": {
+        "pdfPageStart": 13,
+        "pdfPageEnd": 13,
+        "printedPages": "12",
+        "section": "Chapter 1 The Isolani opening structural diagram and plan overview only; stop before the first annotated game on PDF 14",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-isolani-primer",
+      "chapterId": "flores-isolani-primer",
+      "locator": {
+        "pdfPageStart": 13,
+        "pdfPageEnd": 13,
+        "printedPages": "12",
+        "section": "Chapter 1 The Isolani opening structural diagram and plan overview only; stop before the first annotated game on PDF 14",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-isolani-primer",
+      "chapterId": "flores-isolani-primer",
+      "locator": {
+        "pdfPageStart": 13,
+        "pdfPageEnd": 13,
+        "printedPages": "12",
+        "section": "Chapter 1 The Isolani opening structural diagram and plan overview only; stop before the first annotated game on PDF 14",
+        "ebookLocation": null
+      }
     }
   ]
 }

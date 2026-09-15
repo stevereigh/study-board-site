@@ -10,7 +10,762 @@
       "planning",
       "attack"
     ],
-    "note": "Chernev presents the book as a way to learn the purpose behind moves. He begins with the apparent ease of a master giving a simultaneous exhibition and argues that the useful lesson is not a gigantic stock of memorized opening variations or an ability to calculate every possibility. The reader should instead follow how a strong player recognizes relevant positional features and chooses moves that serve them.\n\nThe promised method is repeated explanation within complete games. Effective piece placement, central influence, useful files, and restricting the opponent are meant to become recognizable through examples. This repeated exposure should build judgment, while retaining the need to recognize exceptions to general principles. Chernev also connects positional preparation with combinations: an attack should grow out of a position that supplies opportunities.\n\nThis introduction supports a study method and a broad link between positional play and attacking chances. It does not verify any particular game’s variations. The supplied TXT loses diagrams and many figurine symbols later in the book, so detailed game ingestion requires a visual source. Once one is available, a useful activity is to predict a move’s purpose before reading the explanation."
+    "note": "Chernev presents the book as a way to learn the purpose behind moves. He begins with the apparent ease of a master giving a simultaneous exhibition and argues that the useful lesson is not a gigantic stock of memorized opening variations or an ability to calculate every possibility. The reader should instead follow how a strong player recognizes relevant positional features and chooses moves that serve them.\n\nThe promised method is repeated explanation within complete games. Effective piece placement, central influence, useful files, and restricting the opponent are meant to become recognizable through examples. This repeated exposure should build judgment, while retaining the need to recognize exceptions to general principles. Chernev also connects positional preparation with combinations: an attack should grow out of a position that supplies opportunities.\n\nThis introduction supports a study method and a broad link between positional play and attacking chances. It does not verify any particular game’s variations. The supplied TXT loses diagrams and many figurine symbols later in the book, so detailed game ingestion requires a visual source. Once one is available, a useful activity is to predict a move’s purpose before reading the explanation.",
+    "keyIdeas": [
+      "Study why a move is played.",
+      "Repeated annotated examples develop recognition.",
+      "General principles have exceptions.",
+      "Positional preparation can create tactical opportunities."
+    ],
+    "activities": []
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Eliminating defenders: capture, attack and deflection; PDF 8-11",
+    "title": "Eliminating defenders: capture, attack and deflection",
+    "tags": [
+      "removing-the-defender",
+      "deflection",
+      "overloading",
+      "calculation"
+    ],
+    "note": "Erwich begins with a practical question: what is defending the target, and can that defense be removed? Capturing the defender is one method, but chasing it away or enticing it onto another square can work as well. A piece with more than one essential responsibility may be overloaded, so answering one threat abandons another.\n\nThe Muzychuk-Cmilyte example contrasts ways to disturb a queen that must defend two targets. Andreikin-Karjakin combines several tactical mechanisms, showing why the important operation may need preparation and why a sacrifice must be followed through against alternatives. The Grischuk-Caruana analysis uses an overloaded bishop and changing defensive duties to explain deflection.\n\nThe outcome is not necessarily mate. Removing a king&#x27;s defender may force the opponent to concede material instead, and a superficially similar capture can fail because the remaining position is unfavorable. For study, draw a simple mental map of target and defender, identify the proposed method of separation, and calculate what the defender can do if it refuses the invitation. These are reviewed explanatory examples rather than an imported exercise bank. The public catalog supplies original descriptions and references, while the source diagrams and variations remain in the private book.",
+    "keyIdeas": [
+      "Identify the target and the piece or pawn defending it.",
+      "A defender can be captured, chased away or lured away.",
+      "Check refusal and alternative replies to a sacrifice."
+    ],
+    "activities": [
+      {
+        "id": "study-removing-the-defender-defense-map",
+        "concept": "Removing the defender",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Read the Muzychuk-Cmilyte and Andreikin-Karjakin examples (PDF 8-9). For each, map the targets to their defenders and compare capturing, chasing or luring the defender.",
+        "successCheck": "Explain the defensive duty disrupted and one serious alternative reply to the proposed operation.",
+        "playReminders": [
+          "Which defender prevents the tactic, and can I disrupt its job?"
+        ]
+      },
+      {
+        "id": "study-deflection-lure",
+        "concept": "Deflection",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Removing the defender"
+        ],
+        "instructions": "Study the Grischuk-Caruana analysis (PDF 9-11). Cover the continuation, identify the overloaded defender and explain why the preparatory move is needed before following the line.",
+        "successCheck": "Name the original duty, the lure and the concrete consequence; explain why the tempting alternative is inferior.",
+        "playReminders": [
+          "If the defender leaves its post, what becomes possible?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Interference, blocked escapes and tactical preparation; PDF 11-13",
+    "title": "Interference, blocked escapes and tactical preparation",
+    "tags": [
+      "interference",
+      "removing-the-defender",
+      "mating-patterns",
+      "calculation"
+    ],
+    "note": "Erwich distinguishes removing a defending piece from interrupting the line along which it works. In the Anand-Kulaots example, a move interferes with the connection between defensive rooks. The same discussion examines blocking a king&#x27;s escape with its own forces: the attacker may gain by inducing a capture that puts a defender on an inconvenient square.\n\nThe Li Chao-Short example illustrates a more complex interference sacrifice. Different captures obstruct different defensive lines, so the idea must be checked against the actual alternatives rather than described only by its motif name. The text also makes clear that a defender-removal operation may need preparation, or may require further work after the first tactical point.\n\nThe exercise instructions warn against assuming that a reference to mate means the result must be checkmate. Sometimes the threat wins material because the defender chooses another concession. For dashboard study, explain which line or escape square is affected, then follow the opponent&#x27;s strongest available response through to a concrete result. This record covers the explanatory chapter introduction through its exercise guidance. The numbered exercise collection and its answer section remain outside the verified scope of this batch.",
+    "keyIdeas": [
+      "Interference interrupts a defending line.",
+      "A defender’s own piece can obstruct a king escape.",
+      "A motif may need preparation and may win material rather than mate."
+    ],
+    "activities": [
+      {
+        "id": "study-interference-lines",
+        "concept": "Interference",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Removing the defender"
+        ],
+        "instructions": "Read the Anand-Kulaots and Li Chao-Short examples (PDF 11-13). Mark the defensive lines mentally and compare what happens after different captures on the interruption square.",
+        "successCheck": "Explain one interference mechanism and distinguish it from blocking a king’s escape square.",
+        "playReminders": [
+          "Can a move interrupt the line that holds the defense together?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Studying pawn structures across openings; pp. 9-11; PDF 10-12",
+    "title": "Studying pawn structures across openings",
+    "tags": [
+      "pawn-structure",
+      "opening-to-middlegame-transition",
+      "study-method"
+    ],
+    "note": "Flores Rios organizes strategic study around pawn structures because similar middlegame plans can arise from different openings. He groups related structures and explains that positions can transform from one family member into another. Knowing only the opening name may therefore leave a player unprepared for the plan that becomes relevant after an exchange or pawn break.\n\nThe introduction explains the book&#x27;s emphasis on structures with strategic content, practical frequency and relative stability. It also explains the selection of games intended to show ideas clearly, including mistakes by strong players. These choices frame the teaching material; they are not a statistical diagnosis of the dashboard user&#x27;s repertoire.\n\nFor a reader with limited time, the chapters allow attention to familiar structures while preserving connections to related ones. The author nevertheless encourages broadening that familiarity, since new structures offer new possibilities and may arise through transformations. A useful dashboard adaptation is to compare the pawn skeletons of two completed games, identify the differences that matter for plans, and then select a verified structure passage that actually matches. This record covers the introduction only. Listing a family in the introduction does not make its detailed plans or annotated games verified material.",
+    "keyIdeas": [
+      "Similar pawn structures can arise from different openings.",
+      "A pawn transformation can require a different plan.",
+      "Study familiar structures while learning their nearby alternatives."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-to-middlegame-transition-structure-review",
+        "concept": "Opening to middlegame transition",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Development",
+          "Center control"
+        ],
+        "instructions": "Read the Introduction, PDF 10-12. Compare the central pawn skeletons after development in two completed games. Describe a transformation caused by an exchange or pawn advance.",
+        "successCheck": "Explain one plan that can transfer between structures and one difference requiring reassessment.",
+        "playReminders": [
+          "Did the pawn structure change enough that my plan should change?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "The isolani: plans for both sides; pp. 12; PDF 13-13",
+    "title": "The isolani: plans for both sides",
+    "tags": [
+      "isolated-pawns",
+      "pawn-structure",
+      "pawn-breaks",
+      "restriction",
+      "exchanges"
+    ],
+    "note": "The isolani is an isolated queen&#x27;s pawn: in the displayed structure White has the d-pawn without neighboring friendly pawns able to support it. Flores Rios frames its practical value as a balance between activity in the middlegame and the risk of a lasting target in a simplified position. The structure can arise through several openings and with colors reversed.\n\nFor the side with the pawn, the overview emphasizes active piece play, a possible kingside attack, and a well-prepared central advance that trades pawns and opens lines. The pawn&#x27;s value cannot be judged separately from the initiative that the pieces can generate. For the opponent, the outline includes exchanges, pressure on the pawn and occupation of the square in front of it to restrain the central break.\n\nThese are starting plans, not automatic instructions. The text explicitly warns that practical judgment and calculation are needed to decide whether activity compensates for the pawn&#x27;s weakness. In study, explain both sides&#x27; aims from the pawn diagram, then identify which additional piece-placement facts would be needed to choose a move. This record covers the plan primer only; the following annotated games and the chapter&#x27;s advanced-pawn example remain outside the verified coverage.",
+    "keyIdeas": [
+      "Weigh middlegame activity against the isolated pawn’s long-term weakness.",
+      "For the pawn side, investigate active pieces and a sound central break.",
+      "For the opponent, investigate restraint, exchanges and pressure.",
+      "Piece placement and tactics decide whether a general plan works."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-both-plans",
+        "concept": "Isolated pawns",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Center control"
+        ],
+        "instructions": "Read only the Isolani plan primer, PDF 13. Using its pawn skeleton, describe both sides’ aims and list the missing piece-placement facts needed before choosing a move.",
+        "successCheck": "Explain the activity-versus-target tradeoff, the central break and a restraining plan without claiming the skeleton proves a forced result.",
+        "playReminders": [
+          "Can the isolated pawn advance usefully, or can it be restrained and targeted?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Analysis habits and training; pp. 15-24; PDF 14-23",
+    "title": "Analysis habits and training",
+    "tags": [
+      "calculation",
+      "visualization",
+      "candidate-moves",
+      "training"
+    ],
+    "note": "Kotov describes a recognizable failure: a player moves between attractive variations, revisits the same work without resolving it, and finally plays a new move that has received less scrutiny than the rejected candidates. The practical issue is how thinking is organized, not simply whether the player thinks for a long time. His self-critical account also shows the danger of trusting a broad positional impression when a forcing reply changes the situation.\n\nThe training method is to stop at a demanding position in an annotated game, hide the continuation, and calculate without moving the pieces. Record the conclusions afterward and compare them with the source analysis. Look separately for missed candidates, inadequate replies, inaccurate board visualization, and wasted repetition. A long line is useful only when it answers a real question about the position.\n\nKotov uses difficult master examples and substantial study sessions. For this dashboard, shorter practice sessions are an adaptation for manageable weekly study, not a claim that the original examples are elementary. Accuracy, sufficient coverage, and economical use of time are complementary training goals. The later formal discussion of the analysis tree is outside this section.",
+    "keyIdeas": [
+      "Separate missed candidates from errors inside a chosen line.",
+      "Calculate with the pieces stationary, then compare your conclusions.",
+      "A favorable positional impression does not cancel concrete threats."
+    ],
+    "activities": [
+      {
+        "id": "study-calculation-compare",
+        "concept": "Calculation",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Read the analysis-training section. Cover the continuation of one reviewed annotated position, calculate for eight minutes without moving pieces, then record and compare your conclusions.",
+        "successCheck": "Classify discrepancies as missing candidate, missed reply, visualization error, or mistaken evaluation.",
+        "playReminders": [
+          "What is the opponent’s strongest reply, and what position results?"
+        ]
+      },
+      {
+        "id": "study-visualization-reconstruct",
+        "concept": "Visualization",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Use a short line from a completed-game review. Keep the pieces still while following three to five plies, describe the resulting board, then replay and check. This short drill adapts Kotov’s longer method.",
+        "successCheck": "Reconstruct two short lines without retaining captured pieces or missing newly opened lines.",
+        "playReminders": [
+          "Which pieces and lines changed in the position I am imagining?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Candidate selection: introductory principles; pp. 41-43; PDF 40-42",
+    "title": "Candidate selection: introductory principles",
+    "tags": [
+      "candidate-moves",
+      "calculation",
+      "decision-making"
+    ],
+    "note": "Candidate selection determines which possibilities receive serious calculation. Kotov contrasts the preferences of different strong players to show that attention is selective: one player may notice coordination while another immediately searches for a sacrifice. A productive search needs enough breadth to include an unfamiliar but relevant idea, without pretending that every legal move deserves equal time.\n\nThis selection problem returns at later positions inside a variation. Finding sensible first moves for yourself is insufficient if you then assign the opponent an accommodating reply. At each important branch, reconsider what the side to move can actually do. The number of candidates depends on the position; this introductory passage does not justify imposing a fixed quota on every move.\n\nA useful study adaptation is to write a short candidate list before examining the published continuation, then compare which ideas you noticed and which you excluded too quickly. Keep the reason for including a move separate from the calculation that establishes whether it works. This record covers the introductory principles only. The following Tartakower-Alekhine position and the remainder of Kotov&#x27;s candidate-selection examples have not been included in this verified section.",
+    "keyIdeas": [
+      "Candidate choice reflects habits that can be broadened.",
+      "Choose serious replies for both sides inside variations.",
+      "Let the position determine the number of candidates."
+    ],
+    "activities": [
+      {
+        "id": "study-candidate-moves-list",
+        "concept": "Candidate moves",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read the introductory candidate-selection prose. At two positions from a completed game, list serious moves for both sides before using analysis. Explain why each move deserves attention.",
+        "successCheck": "Identify one omitted candidate or justify why the position has few serious choices.",
+        "playReminders": [
+          "What serious alternative or opposing reply have I left out?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Return to the board: Blumenfeld’s rule; pp. 67-69; PDF 66-68",
+    "title": "Return to the board: Blumenfeld’s rule",
+    "tags": [
+      "blunder-checking",
+      "threat-recognition",
+      "calculation"
+    ],
+    "note": "Deep calculation can pull attention away from the simple features of the position actually on the board. Kotov presents Blumenfeld&#x27;s rule as a deliberate return to that present position before committing to a move. A player may understand a distant continuation and still overlook an immediate mate or an undefended piece at the start of the line.\n\nThe useful distinction is between evaluating a candidate through calculation and checking that the intended first move survives elementary objections. After reaching a conclusion, pause and inspect the opponent&#x27;s immediate threats, the safety of the king, and pieces or pawns that can simply be taken. This final inspection should test the move you are about to make, including any last-minute change of plan.\n\nThe source describes an old score-sheet procedure for interrupting the train of thought. The dashboard adapts the attentional reset into a mental pause and does not recommend writing a move before playing it. Practice the reset during post-game review until it is brief enough to use consistently. It is a supplement to calculation, not a promise that a short checklist will detect every combination or make a risky move safe.",
+    "keyIdeas": [
+      "Reset attention from imagined future positions to the actual board.",
+      "Check the intended first move for elementary tactical objections.",
+      "A last-minute alternative still needs its own check."
+    ],
+    "activities": [
+      {
+        "id": "study-blunder-checking-reset",
+        "concept": "Blunder checking",
+        "minutes": 10,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read Blumenfeld’s rule. Revisit three completed-game decisions: select a move, pause, and check immediate mates and hanging material before revealing the continuation. Use a mental reset.",
+        "successCheck": "Perform the same brief inspection on all three intended moves, including any changed choice.",
+        "playReminders": [
+          "After my move, is there an immediate mate or a piece hanging?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Time-trouble; pp. 76-79; PDF 75-78",
+    "title": "Time-trouble",
+    "tags": [
+      "time-management",
+      "calculation",
+      "training"
+    ],
+    "note": "Kotov treats repeated time trouble as something to examine honestly rather than a ready-made excuse for the result. The chapter describes how anxiety, inefficient calculation, and reactions to an opponent&#x27;s pace can disrupt decisions. The aim is to preserve a workable thinking process as the clock becomes short.\n\nHis practical advice includes remaining calm when either player is short of time and resisting the impulse to match an opponent&#x27;s hurried moves. Even a prepared sequence needs attention to what has actually changed on the board. Methodical calculation can make thinking faster because it reduces pointless repetition; speed without this discipline can simply make errors arrive sooner.\n\nTraining under a limited clock is suggested as a way to practise the situation before it occurs in an important game. For a rapid player, compare a small set of reviewed positions under two modest time budgets and record whether the lost accuracy came from missing candidates, missing replies, or rushing the final decision. Those budgets are dashboard study adaptations. Historical tournament time controls and score-sheet devices in the source are not copied as universal instructions for online play.",
+    "keyIdeas": [
+      "Review how time was spent instead of using the clock as an excuse.",
+      "Do not let the opponent’s pace dictate your decisions.",
+      "Practise a consistent process under a modest time limit."
+    ],
+    "activities": [
+      {
+        "id": "study-time-management-clock-review",
+        "concept": "Time management",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read Time-trouble. Review one rapid game’s longest thinks and two rushed decisions. Record which time use answered a concrete question; practise two familiar positions with a short timer.",
+        "successCheck": "Name one avoidable source of wasted time and one decision that deserved more attention.",
+        "playReminders": [
+          "Use my own pace; check what changed before continuing."
+        ]
+      }
+    ]
+  },
+  {
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Development and the pawn center; pp. 3-7; PDF 28-32",
+    "title": "Development and the pawn center",
+    "tags": [
+      "development",
+      "center-control",
+      "opening-principles",
+      "tempo"
+    ],
+    "note": "Nimzovich presents development as a collective task. Bringing one piece into play repeatedly does not compensate for leaving the rest of the army inactive. In the open positions used here, a developing move should contribute to mobilizing the whole position efficiently rather than begin an isolated adventure.\n\nPawn moves support that work by establishing or challenging the center and allowing pieces to emerge. The author explains why developing pieces without accounting for an opposing mobile pawn center can leave them vulnerable to being driven away. His examples connect the central squares with the practical ability of pieces to remain useful after they develop.\n\nA lead in development is relative. A move that develops a piece while attacking an already moved enemy piece may improve the comparison by making the opponent spend another turn responding. These are introductory principles framed mainly around open games; the source itself qualifies the pace of development in closed positions. Treat its strong numerical prescriptions about pawn moves as teaching simplifications, not a universal opening recipe. In review, ask which move improved the whole position and whether a repeated piece move or pawn advance had a concrete purpose.",
+    "keyIdeas": [
+      "Mobilize the whole army.",
+      "Use pawn moves to support development and the center.",
+      "Compare development with the opponent’s position."
+    ],
+    "activities": [
+      {
+        "id": "study-development-opening-audit",
+        "concept": "Development",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read Chapter 1 through section 3. Review the first ten moves of one completed game and label each move’s useful contribution to development or the center.",
+        "successCheck": "Explain two purposeful moves and one delay, including any concrete tactical reason for that delay.",
+        "playReminders": [
+          "Which piece still needs a useful job, and can I develop it safely?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Exchanges that gain time; pp. 7-9; PDF 32-34",
+    "title": "Exchanges that gain time",
+    "tags": [
+      "tempo",
+      "favorable-exchanges",
+      "development"
+    ],
+    "note": "This section explains a two-step way to gain time: an exchange brings an opposing piece onto a square where it can be attacked by a useful developing move. The practical gain comes from the resulting position, not from the fact that a capture occurred. If the opponent can recapture while developing effectively, the expected gain may disappear.\n\nNimzovich also considers the time already invested in a piece. Exchanging a piece that has moved several times for an undeveloped opponent can leave little on the board to show for those earlier turns. Conversely, developing while creating a real threat may improve both mobilization and initiative. The examples include an intermediate check, showing that a temporary interruption need not overturn the original idea if the response remains useful.\n\nFor study, compare the position before the exchange with the position after the recapture and follow-up. Name the useful task accomplished by the attacking move and the concession forced from the opponent. Do not count every attack as a gain of time: verify that the target must respond and cannot exploit a stronger threat. The historical examples illustrate a concept, not a current opening repertoire or independently engine-checked theoretical verdict.",
+    "keyIdeas": [
+      "Evaluate the exchange together with the follow-up.",
+      "A developing recapture can change the tempo calculation.",
+      "Count what useful work remains on the board."
+    ],
+    "activities": [
+      {
+        "id": "study-tempo-follow-up",
+        "concept": "Tempo",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Development"
+        ],
+        "instructions": "Study section 4 and diagram 4. For each exchange, identify the recapturing piece, the useful follow-up, and whether the opponent must respond.",
+        "successCheck": "Explain a real tempo gain and a case where an apparently forcing move fails to gain useful time.",
+        "playReminders": [
+          "Does this threat improve my position while making the opponent respond?"
+        ]
+      },
+      {
+        "id": "study-favorable-exchanges-development",
+        "concept": "Favorable exchanges",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Development"
+        ],
+        "instructions": "Compare sections 4 and 5 of My System with The Imbalances in The Amateur’s Mind. Explain one trade that gains time, one that frees development, and one that changes a piece’s task.",
+        "successCheck": "Describe the benefit in the position after each trade without relying only on equal material values.",
+        "playReminders": [
+          "Who benefits from the pieces that will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Relieving central tension to finish development; pp. 9-12; PDF 34-37",
+    "title": "Relieving central tension to finish development",
+    "tags": [
+      "development",
+      "favorable-exchanges",
+      "center-control",
+      "defensive-exchanges"
+    ],
+    "note": "When development is held up by uncomfortable central tension, Nimzovich recommends considering exchanges that remove the underlying obstacle. His examples contrast a concrete sequence of liquidation with protective or retreating moves that leave the same difficulty unresolved. The purpose is to make the remaining position easier to develop, not to exchange material simply because the position feels complicated.\n\nThe defender may need to settle more than one source of tension in the correct order. A partial solution can leave a queen exposed or preserve a central threat that costs another turn. The resulting freedom matters more than an isolated judgment that an individual retreat or exchange looks attractive.\n\nThe section finishes by warning against unmotivated exchanges, particularly spending several moves with a piece and then exchanging it for an opponent that has done little. This provides a useful bridge to Silman&#x27;s instruction to judge a trade through the jobs of the remaining pieces. In a completed-game review, identify the actual obstacle to development, compare one exchange sequence with a protective move, and explain which resulting position allows the army to coordinate. Concrete threats still determine whether the simplifying sequence is sound.",
+    "keyIdeas": [
+      "Remove the cause of a development problem.",
+      "Check the entire exchange sequence and its move order.",
+      "An exchange needs a positional or tactical purpose."
+    ],
+    "activities": [
+      {
+        "id": "study-favorable-exchanges-development",
+        "concept": "Favorable exchanges",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Development"
+        ],
+        "instructions": "Compare sections 4 and 5 of My System with The Imbalances in The Amateur’s Mind. Explain one trade that gains time, one that frees development, and one that changes a piece’s task.",
+        "successCheck": "Describe the benefit in the position after each trade without relying only on equal material values.",
+        "playReminders": [
+          "Who benefits from the pieces that will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "The mobile center and its restraint; pp. 12-18; PDF 37-43",
+    "title": "The mobile center and its restraint",
+    "tags": [
+      "center-control",
+      "restriction",
+      "pawn-breaks",
+      "development"
+    ],
+    "note": "A mobile pawn center can make an opponent&#x27;s development unstable by threatening to drive pieces from their useful squares. Nimzovich examines both sides of that struggle: the player with central pawns wants productive mobility, while the opponent needs reliable squares and a way to restrain or challenge the advance. The threat to advance can itself influence play even before a pawn moves.\n\nKeeping a central pawn formation intact is often useful when it can be done without a serious concession. If the center is exchanged or surrendered, the remaining mobile enemy pawn still demands a plan. The section describes restraining its advance and preparing a pawn challenge as related methods. Piece placement, pressure and timely exchanges support that work.\n\nThe examples show why the instruction is not simply to push the center whenever possible or to occupy it at any cost. A knight may find a stable square, or a counterstroke may undermine the advanced pawns. In practice, identify the threatened pawn advance, the pieces it would displace, and the opponent&#x27;s best response. The suggested source training alternates sides in a central struggle, helping the student understand both mobility and restraint rather than memorize a single attacking plan.",
+    "keyIdeas": [
+      "A pawn advance can threaten the stability of developed pieces.",
+      "Restrain a mobile enemy center or prepare a sound challenge.",
+      "Study the central struggle from both sides."
+    ],
+    "activities": [
+      {
+        "id": "study-center-control-two-sides",
+        "concept": "Center control",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Development"
+        ],
+        "instructions": "Read sections 6 and 6a. At diagram 10, write a plan for the side with the central pawn and a plan for the opponent before reading the explanation.",
+        "successCheck": "Identify the pawn advance, the piece squares it affects, and the main restraining or freeing response.",
+        "playReminders": [
+          "What changes in the center, and which pieces benefit?"
+        ]
+      },
+      {
+        "id": "study-restriction-restrain",
+        "concept": "Restriction",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Center control"
+        ],
+        "instructions": "Revisit the central struggle in diagram 10. State how the pawn advance is restrained, then switch sides and search for preparation that restores its mobility.",
+        "successCheck": "Name the restricting pieces and one concrete way the other side can challenge the arrangement.",
+        "playReminders": [
+          "What useful move does the opponent want, and can I limit it?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Pawn hunting and the central-pawn exception; pp. 18-20; PDF 43-45",
+    "title": "Pawn hunting and the central-pawn exception",
+    "tags": [
+      "development",
+      "center-control",
+      "material",
+      "tempo"
+    ],
+    "note": "Nimzovich warns that pursuing a small material gain can distract from mobilization during the opening. A pawn on the flank may tempt a piece into repeated moves while the opponent develops with threats. His discussion of gambits asks the defender to compare the material on offer with development, central control and the activity left after the next few moves.\n\nHe then distinguishes a central pawn from a peripheral target. Removing a central pawn can have strategic value by reducing the opponent&#x27;s mobility and creating room for one&#x27;s own forces. Even here the capture is qualified by the danger involved; the lesson is not that every central pawn should be taken regardless of tactics. Keeping an extra pawn can be less important than using the change in the center effectively.\n\nThe chapter&#x27;s examples are a basis for asking better questions in a game review. What does the capture cost in useful moves? What central break becomes available? Can the opponent gain tempi by attacking the capturing piece? Treat the specific opening lines as historical illustrations. The dashboard extracts the decision criteria and does not present the author&#x27;s strong beginner rules as universal modern opening theory.",
+    "keyIdeas": [
+      "Compare a pawn gain with the development it costs.",
+      "A central capture can change mobility as well as material.",
+      "Do not make keeping the extra pawn the entire plan."
+    ],
+    "activities": [
+      {
+        "id": "study-development-pawn-choice",
+        "concept": "Development",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read sections 7 and 7a. Review one opening capture from a completed game: compare the pawn gained, the useful moves spent, the center and the safety of the capturing piece.",
+        "successCheck": "Explain why a central capture and a flank pawn hunt can have different strategic consequences.",
+        "playReminders": [
+          "Which piece still needs a useful job, and can I develop it safely?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Learning to recognize mating patterns; pp. 6-8; PDF 7-9",
+    "title": "Learning to recognize mating patterns",
+    "tags": [
+      "mating-patterns",
+      "calculation",
+      "threat-recognition"
+    ],
+    "note": "Nunn explains mating-pattern study as a way to recognize opportunities and dangers that may be easy to overlook when unfamiliar. A position can share a useful attacking arrangement with a previous example while still requiring careful calculation of the details. The introductory Nunn-Portisch illustration shows why even strong players can miss a mating mechanism.\n\nThe book builds experience through exercises and deliberate recurrence of related ideas, sometimes adding a subtlety to a familiar pattern. The introductory chapter begins with short mates before later chapters organize more specific types. Recognizing a pattern is useful for defense as well as attack: it helps a player notice what the opponent may be preparing.\n\nNunn asks the reader to find a forced mate rather than merely a material gain. His introduction also notes that printed solutions may omit checks or interpositions that only delay the result. For dashboard practice, keep a record of the mechanism and the defensive replies you checked, rather than treating a correct first move as the whole answer. The broader chapter list describes the book&#x27;s organization; this record does not mark those later chapters or all 1001 exercises as read.",
+    "keyIdeas": [
+      "Use recurring arrangements to generate ideas, then calculate.",
+      "Learn mating patterns for defense as well as attack.",
+      "A correct first move still needs a forced continuation."
+    ],
+    "activities": [
+      {
+        "id": "study-mating-patterns-first-six",
+        "concept": "Mating patterns",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read Nunn’s introduction, then solve exercises 1-6 in the private book (PDF 10). For every answer explain why no legal response saves the king, then check the matching entries on PDF 25.",
+        "successCheck": "Explain all six mating arrangements after correction and record any initially missed mechanism.",
+        "playReminders": [
+          "What checks or mating threats does this arrangement make possible?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Elementary mates: exercises 1-14; pp. 9-11; solutions 24; PDF 10-12",
+    "title": "Elementary mates: exercises 1-14",
+    "tags": [
+      "mating-patterns",
+      "pins",
+      "discovered-attacks",
+      "forcing-moves"
+    ],
+    "note": "The first fourteen elementary exercises develop the habit of verifying mate across varied piece arrangements. The defender&#x27;s king is sometimes sheltered by its own pieces and sometimes exposed in the center. Looking only for a familiar queen-and-rook pattern would miss useful contributions from knights, bishops, pawns and discovered lines.\n\nSeveral examples also show that geometric threats must be checked against legal responses. A pinned piece may appear able to capture the checking piece but cannot legally move away from its king. A discovered or double check changes which defensive resources remain. Moving a piece away can be decisive because it reveals another piece&#x27;s line rather than because the moving piece itself gives the check.\n\nThe recommended practice is to inspect each diagram in the private book, choose the mating move, and explain why the king has no safe escape, capture or interposition. Then compare with the corresponding answer entry. This record covers exercises 1-14 and their solutions only; it does not reproduce the exercise set. Source diagrams and notation were read visually, and the database provides study references rather than independently certified puzzle positions or an exported answer key.",
+    "keyIdeas": [
+      "Check all legal ways of answering the check.",
+      "Notice pinned defenders and newly uncovered lines.",
+      "Account for the king’s escape squares."
+    ],
+    "activities": [
+      {
+        "id": "study-mating-patterns-first-six",
+        "concept": "Mating patterns",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read Nunn’s introduction, then solve exercises 1-6 in the private book (PDF 10). For every answer explain why no legal response saves the king, then check the matching entries on PDF 25.",
+        "successCheck": "Explain all six mating arrangements after correction and record any initially missed mechanism.",
+        "playReminders": [
+          "What checks or mating threats does this arrangement make possible?"
+        ]
+      },
+      {
+        "id": "study-mating-patterns-next-eight",
+        "concept": "Mating patterns",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Mating patterns"
+        ],
+        "instructions": "Solve exercises 7-14 (PDF 11-12), with answers covered. Identify the checking piece and how every king escape is denied; check only entries 7-14 on PDF 25.",
+        "successCheck": "Give a complete mate explanation for each reviewed exercise, including the ones initially missed.",
+        "playReminders": [
+          "What checks or mating threats does this arrangement make possible?"
+        ]
+      },
+      {
+        "id": "study-pins-defender-test",
+        "concept": "Pins",
+        "minutes": 10,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Compare Nunn exercises 1 and 17 and their solutions (PDF 10, 12 and 25). Identify the pinning line, pinned defender and king. Explain why the apparent defensive move is unavailable.",
+        "successCheck": "Explain both pins using the board’s legal responses, then say what sort of change could remove the pin.",
+        "playReminders": [
+          "Can that defender actually move without exposing its king or a critical target?"
+        ]
+      },
+      {
+        "id": "study-discovered-attacks-uncover",
+        "concept": "Discovered attacks",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Review Nunn exercise 5 (PDF 10) and its explanation (PDF 25). Identify the queen line uncovered by the knight move and both checking pieces. Contrast it with exercise 24 (PDF 13; solution PDF 26), where moving the knight clears the rook’s file before the final mating move.",
+        "successCheck": "Identify both attackers in the double check and explain why ordinary capture or interposition cannot answer it.",
+        "playReminders": [
+          "What line opens when this piece moves?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Elementary mates: exercises 15-24; pp. 11-12; solutions 24-25; PDF 12-13",
+    "title": "Elementary mates: exercises 15-24",
+    "tags": [
+      "mating-patterns",
+      "forcing-moves",
+      "pins",
+      "discovered-attacks"
+    ],
+    "note": "This next group extends recognition into short forced continuations. The useful move may reposition a major piece, clear a line, exploit a pinned defender, or create a mating threat that cannot be met. A move that gives check can reduce the reply choices, but the examples also show that the first move need not always be a check.\n\nThe study task is to connect the first move with the final mating arrangement. For each candidate, inspect the defender&#x27;s legal replies rather than assuming that the most natural king move is forced. In one of the reviewed examples, an interposition can delay the mate; the source explicitly mentions the delay. That is a useful reminder to distinguish the central mechanism from an exact claim about the maximum length against every defense.\n\nWork in small groups and describe what changed between the initial and final positions: which line opened, which flight square disappeared, or which defender was unable to act. Compare against only the corresponding solution entries. This bounded set ends at exercise 24. The private book remains the place to view the diagrams and answers; the dashboard offers original study guidance and references without reproducing the positions.",
+    "keyIdeas": [
+      "Connect the first move to the final mating arrangement.",
+      "Search for defensive replies and delaying interpositions.",
+      "Include quiet threats among serious candidates when the position supports them."
+    ],
+    "activities": [
+      {
+        "id": "study-forcing-moves-reply-check",
+        "concept": "Forcing moves",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Solve exercises 15-24 (PDF 12-13). Write the main defensive replies before checking corresponding solutions on PDF 25-26. Note the delaying interposition discussed in solution 22.",
+        "successCheck": "Distinguish a forcing check from a quiet threat and identify any reply that delays the result.",
+        "playReminders": [
+          "What legal replies does the opponent have to this threat?"
+        ]
+      },
+      {
+        "id": "study-pins-defender-test",
+        "concept": "Pins",
+        "minutes": 10,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Compare Nunn exercises 1 and 17 and their solutions (PDF 10, 12 and 25). Identify the pinning line, pinned defender and king. Explain why the apparent defensive move is unavailable.",
+        "successCheck": "Explain both pins using the board’s legal responses, then say what sort of change could remove the pin.",
+        "playReminders": [
+          "Can that defender actually move without exposing its king or a critical target?"
+        ]
+      },
+      {
+        "id": "study-discovered-attacks-uncover",
+        "concept": "Discovered attacks",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Review Nunn exercise 5 (PDF 10) and its explanation (PDF 25). Identify the queen line uncovered by the knight move and both checking pieces. Contrast it with exercise 24 (PDF 13; solution PDF 26), where moving the knight clears the rook’s file before the final mating move.",
+        "successCheck": "Identify both attackers in the double check and explain why ordinary capture or interposition cannot answer it.",
+        "playReminders": [
+          "What line opens when this piece moves?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Basic Principles of Endgame Play; pp. 1-3; PDF 9-11",
+    "title": "Basic Principles of Endgame Play",
+    "tags": [
+      "endgame-planning",
+      "piece-activity",
+      "conversion",
+      "counterplay"
+    ],
+    "note": "The opening essay, credited to S. Byelavyenets and reproduced by Shereshevsky, explains a change of emphasis after substantial exchanges. In many practical endings, the player should first picture an effective arrangement of the remaining forces and then work out a route to it. This does not eliminate calculation: the route must survive the opponent&#x27;s available threats and counterplay.\n\nThe Capablanca-Ragozin example shows pieces improving their coordination before a pawn advance converts that coordination into a concrete gain. A plan includes the opponent&#x27;s freeing move, the king&#x27;s route, and the useful posts for the rook and knight. A sequence of quiet improvements can therefore be purposeful even when no immediate material gain appears.\n\nThe discussion also qualifies patient play. Some endings are primarily combinational and demand exact action now. Do not turn patience into a command to postpone a necessary move, or interpret a general scheme as a forced variation. For study, pause before the pawn expansion, name the desired arrangement, and explain what the defender would like to achieve. Compare your move order with the source, concentrating on why preparation makes the later advance more effective.",
+    "keyIdeas": [
+      "Picture useful piece placement before calculating a long quiet sequence.",
+      "Improve coordination and account for the defender’s freeing move.",
+      "Distinguish quiet improvement from urgent tactical endings."
+    ],
+    "activities": [
+      {
+        "id": "study-schematic-thinking-plan",
+        "concept": "Schematic thinking",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Read Chapter 1 and pause in Capablanca-Ragozin before the pawn expansion. Describe the desired king, rook and knight arrangement and Black’s freeing idea before following the moves.",
+        "successCheck": "Explain how three preparatory moves contribute to the same feasible plan.",
+        "playReminders": [
+          "Where should my pieces be, and what can interrupt that plan?"
+        ]
+      },
+      {
+        "id": "study-converting-advantages-prepare",
+        "concept": "Converting advantages",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Study Capablanca-Ragozin. Separate piece improvement, prevention of counterplay, and the pawn operation. Explain what would make waiting inappropriate in a tactical ending.",
+        "successCheck": "Give a concrete reason for preparation and a concrete condition requiring immediate calculation.",
+        "playReminders": [
+          "What preparation makes the winning operation work, and what counterplay is available?"
+        ]
+      },
+      {
+        "id": "study-piece-activity-coordination",
+        "concept": "Piece activity",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Compare the jobs of the pieces in The Amateur’s Mind, The Imbalances, with Capablanca-Ragozin in Shereshevsky Chapter 1. Identify useful posts, targets and responsibilities.",
+        "successCheck": "Explain how a piece’s job changes between the middlegame example and the practical ending.",
+        "playReminders": [
+          "What useful job will this piece perform, and what job will it leave behind?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Centralization of the King; pp. 4-11; PDF 12-19",
+    "title": "Centralization of the King",
+    "tags": [
+      "king-activity",
+      "endgame-planning",
+      "exchanges",
+      "counterplay"
+    ],
+    "note": "Shereshevsky develops king activity through practical endings where timing and destination matter as much as the instruction to centralize. In the Capablanca-Reshevsky discussion, he compares a kingside operation with a route toward the center. The defender must judge which plan meets the position&#x27;s needs, rather than choose an energetic-looking pawn advance automatically.\n\nThe Lasker ending shows the defensive value of a king that can reach either wing and support counterplay. Other examples examine the transition into an ending: exchanging queens can expose a serious difference between the kings, so useful king placement may need preparation before the trade. The later knight ending connects king penetration with the critical squares needed to support a passed pawn.\n\nThe Fyedorov-Chernikov example supplies an essential exception. A natural king move misses a more urgent sequence that would restrict the opponent; the general rule should have been postponed. Together these cases extend Silman&#x27;s elementary activation lesson into a decision about timing. In study, identify the king&#x27;s useful destination, a safe route, and the strongest reason to delay that route. Exact tactical details remain necessary when the opponent can check, exchange, or create a dangerous passer.",
+    "keyIdeas": [
+      "Centralization is a positional decision, not an automatic move.",
+      "Prepare king activity when considering a transition by exchanges.",
+      "A central king can support defense and counterplay on either wing.",
+      "An urgent restricting operation can take priority over activation."
+    ],
+    "activities": [
+      {
+        "id": "study-king-activity-timing",
+        "concept": "King activity",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "King activity",
+          "Position evaluation"
+        ],
+        "instructions": "After Silman’s basic king lesson, compare Capablanca-Reshevsky with Fyedorov-Chernikov in Shereshevsky Chapter 2. For each, name a king route and the strongest reason to take or delay it.",
+        "successCheck": "Explain one position where king activity matters and one where an urgent operation takes priority.",
+        "playReminders": [
+          "Can my king safely become useful now?"
+        ]
+      }
+    ]
   },
   {
     "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
@@ -23,7 +778,70 @@
       "exchanges",
       "piece-activity"
     ],
-    "note": "Silman introduces imbalances as the differences between the two sides that should determine a plan. His checklist covers minor pieces, pawn structure, space, material, files and squares, development, and initiative. The point is to compare what each player can realistically use, rather than choose a familiar attack and hope the position cooperates. A lead in development is temporary; a pawn weakness can remain a target after pieces are exchanged.\n\nThe chapter works through a position from Dzindzichashvili–Yermolinsky, U.S. Championship 1993. White’s advanced e-pawn gives space but also needs defense. Black organizes pressure against that pawn while limiting useful knight outposts. A bishop exchange and later queen exchange are explained in relation to this continuing target, rather than automatic rules about keeping the bishop pair or avoiding simplification.\n\nFor study, pause at diagram 1, list the relevant differences for both colors, and state a plan before reading the explanation. Then explain how each exchange serves that plan. This chapter introduces a planning method; it does not replace checking immediate tactical threats."
+    "note": "Silman introduces imbalances as the differences between the two sides that should determine a plan. His checklist covers minor pieces, pawn structure, space, material, files and squares, development, and initiative. The point is to compare what each player can realistically use, rather than choose a familiar attack and hope the position cooperates. A lead in development is temporary; a pawn weakness can remain a target after pieces are exchanged.\n\nThe chapter works through a position from Dzindzichashvili–Yermolinsky, U.S. Championship 1993. White’s advanced e-pawn gives space but also needs defense. Black organizes pressure against that pawn while limiting useful knight outposts. A bishop exchange and later queen exchange are explained in relation to this continuing target, rather than automatic rules about keeping the bishop pair or avoiding simplification.\n\nFor study, pause at diagram 1, list the relevant differences for both colors, and state a plan before reading the explanation. Then explain how each exchange serves that plan. This chapter introduces a planning method; it does not replace checking immediate tactical threats.",
+    "keyIdeas": [
+      "Compare both sides before choosing a plan.",
+      "Distinguish temporary advantages from lasting targets.",
+      "Judge an exchange by the jobs of the remaining pieces.",
+      "A strong-looking square must be practically usable."
+    ],
+    "activities": [
+      {
+        "id": "study-position-evaluation-first",
+        "concept": "Position evaluation",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read The Imbalances. Before diagram 1’s explanation, write the differences for both sides and propose each side’s plan. Compare with the author, then follow the continuation.",
+        "successCheck": "Explain why e5 gives White space but also becomes Black’s target.",
+        "playReminders": [
+          "What does this position give each side a reason to do?"
+        ]
+      },
+      {
+        "id": "study-favorable-exchanges-first",
+        "concept": "Favorable exchanges",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Revisit the bishop and queen exchanges. Before each, name the target and the jobs of the pieces that remain.",
+        "successCheck": "Explain an exchange by positional purpose rather than nominal piece values alone.",
+        "playReminders": [
+          "Who benefits from the pieces that will remain?"
+        ]
+      },
+      {
+        "id": "study-piece-activity-coordination",
+        "concept": "Piece activity",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Compare the jobs of the pieces in The Amateur’s Mind, The Imbalances, with Capablanca-Ragozin in Shereshevsky Chapter 1. Identify useful posts, targets and responsibilities.",
+        "successCheck": "Explain how a piece’s job changes between the middlegame example and the practical ending.",
+        "playReminders": [
+          "What useful job will this piece perform, and what job will it leave behind?"
+        ]
+      },
+      {
+        "id": "study-favorable-exchanges-development",
+        "concept": "Favorable exchanges",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Development"
+        ],
+        "instructions": "Compare sections 4 and 5 of My System with The Imbalances in The Amateur’s Mind. Explain one trade that gains time, one that frees development, and one that changes a piece’s task.",
+        "successCheck": "Describe the benefit in the position after each trade without relying only on equal material values.",
+        "playReminders": [
+          "Who benefits from the pieces that will remain?"
+        ]
+      }
+    ]
   },
   {
     "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
@@ -37,7 +855,60 @@
       "outposts",
       "pawn-structure"
     ],
-    "note": "Silman compares bishops and knights through the pawn structure, available squares and actual tasks in a position. Their nominal material values are only a starting point. Open diagonals and races involving widely separated passed pawns can favor a bishop’s range; locked positions and secure advanced squares can let a knight dominate. These are guides to investigation rather than guarantees that replace checking the position.\n\nThe discussion separates the conventional label of a bad bishop from its usefulness. A bishop restricted by pawns on its own color may be exchanged, freed by a change in the pawns, or activated outside the chain. A bishop that remains bad by the structural definition can still do important work. The bishop pair reduces the limitation of controlling only one color.\n\nFor knights, Silman emphasizes mobility, access to both wings and protected support points. The point of improving a knight is to give it relevant targets, while a player facing knights should consider denying those squares. Study diagrams 2-9 by explaining each piece’s job and the structural features that enable it. The following detailed game examples belong to later reading."
+    "note": "Silman compares bishops and knights through the pawn structure, available squares and actual tasks in a position. Their nominal material values are only a starting point. Open diagonals and races involving widely separated passed pawns can favor a bishop’s range; locked positions and secure advanced squares can let a knight dominate. These are guides to investigation rather than guarantees that replace checking the position.\n\nThe discussion separates the conventional label of a bad bishop from its usefulness. A bishop restricted by pawns on its own color may be exchanged, freed by a change in the pawns, or activated outside the chain. A bishop that remains bad by the structural definition can still do important work. The bishop pair reduces the limitation of controlling only one color.\n\nFor knights, Silman emphasizes mobility, access to both wings and protected support points. The point of improving a knight is to give it relevant targets, while a player facing knights should consider denying those squares. Study diagrams 2-9 by explaining each piece’s job and the structural features that enable it. The following detailed game examples belong to later reading.",
+    "keyIdeas": [
+      "Compare the pieces through the structure and their jobs.",
+      "Bad by pawn-color definition does not necessarily mean inactive.",
+      "Give knights usable support points and deny them to opposing knights.",
+      "Consider whether play spans one wing or both."
+    ],
+    "activities": [
+      {
+        "id": "study-knight-versus-bishop-first",
+        "concept": "Knight versus bishop",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read Rules of the Minor Pieces, pp. 9-16. For the relevant diagrams, explain each minor piece’s useful job, the pawn constraints, and one way to improve or restrict it.",
+        "successCheck": "Explain knight versus bishop using the position’s concrete squares and targets, and name a reason the general rule could fail.",
+        "playReminders": [
+          "Compare range, mobility and relevant targets."
+        ]
+      },
+      {
+        "id": "study-good-and-bad-bishops-first",
+        "concept": "Good and bad bishops",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read Rules of the Minor Pieces, pp. 9-16. For the relevant diagrams, explain each minor piece’s useful job, the pawn constraints, and one way to improve or restrict it.",
+        "successCheck": "Explain good and bad bishops using the position’s concrete squares and targets, and name a reason the general rule could fail.",
+        "playReminders": [
+          "Separate pawn-color classification from actual activity."
+        ]
+      },
+      {
+        "id": "study-outposts-first",
+        "concept": "Outposts",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read Rules of the Minor Pieces, pp. 9-16. For the relevant diagrams, explain each minor piece’s useful job, the pawn constraints, and one way to improve or restrict it.",
+        "successCheck": "Explain outposts using the position’s concrete squares and targets, and name a reason the general rule could fail.",
+        "playReminders": [
+          "Check stability, access and useful targets."
+        ]
+      }
+    ]
   },
   {
     "book": "Silman’s Complete Endgame Course: From Beginner to Master",
@@ -49,7 +920,26 @@
       "pawn-endings",
       "conversion"
     ],
-    "note": "This section addresses a common carryover from the opening: treating the king only as something to shelter. Silman contrasts the danger created by a large attacking force with the demands of a simplified ending, where the king becomes an essential active unit. When the remaining pieces no longer present a serious mating threat, bringing the king toward the action helps use the material that is still on the board.\n\nThe discussion then narrows to king and pawn against king. An extra pawn cannot mate by itself; the relevant objective is promotion, which requires king and pawn to cooperate. Diagram 43 follows a pawn toward the last rank but ends in stalemate, illustrating why advancing a pawn is not the same as making progress. The defender’s king prevents the attacking king from gaining the access it needs.\n\nThis is a bridge into opposition rather than a complete pawn-ending method. A useful study exercise is to identify the king’s job before choosing a pawn move: supporting promotion, denying entry, or approaching relevant squares. Apply the active-king principle in the context of the remaining threats."
+    "note": "This section addresses a common carryover from the opening: treating the king only as something to shelter. Silman contrasts the danger created by a large attacking force with the demands of a simplified ending, where the king becomes an essential active unit. When the remaining pieces no longer present a serious mating threat, bringing the king toward the action helps use the material that is still on the board.\n\nThe discussion then narrows to king and pawn against king. An extra pawn cannot mate by itself; the relevant objective is promotion, which requires king and pawn to cooperate. Diagram 43 follows a pawn toward the last rank but ends in stalemate, illustrating why advancing a pawn is not the same as making progress. The defender’s king prevents the attacking king from gaining the access it needs.\n\nThis is a bridge into opposition rather than a complete pawn-ending method. A useful study exercise is to identify the king’s job before choosing a pawn move: supporting promotion, denying entry, or approaching relevant squares. Apply the active-king principle in the context of the remaining threats.",
+    "keyIdeas": [
+      "Reassess the king’s role when material is reduced.",
+      "Use the king to support promotion or deny access.",
+      "An extra pawn is useful only if it can be converted."
+    ],
+    "activities": [
+      {
+        "id": "study-king-activity-first",
+        "concept": "King activity",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read Understanding the King and Use Your King! Set up diagram 43 and identify each side’s objective. Continue to Opposition for the defensive explanation.",
+        "successCheck": "Explain why an extra pawn needs king support and why pushing alone may not win.",
+        "playReminders": [
+          "Can my king safely become useful now?"
+        ]
+      }
+    ]
   },
   {
     "book": "Silman’s Complete Endgame Course: From Beginner to Master",
@@ -62,7 +952,29 @@
       "tempo",
       "defense"
     ],
-    "note": "Silman explains direct opposition as a contest over the squares that let a king advance. When two kings face one another with a square between them, the player who must move may have to yield an entry square. The bare-king illustration isolates that geometry; it does not suggest that opposition alone can win without other material.\n\nThe section then returns to king and pawn against king. The defender aims to keep the attacking king from reaching the front of its pawn. In the specific example, stepping directly backward when necessary and taking opposition at the right moment maintains that barrier. Similar-looking positions can have opposite outcomes because the side to move has changed. Near promotion, that single tempo decides whether the defender must concede the queening square or the attacker must accept stalemate or lose the pawn.\n\nConnect opposition to a concrete objective: entry, exclusion, or control of a promotion square. Replay diagrams 44–47 with the side to move explicitly stated, and explain the entry squares before moving. The defensive rules are taught through this particular elementary pawn ending; more complex configurations require fresh calculation."
+    "note": "Silman explains direct opposition as a contest over the squares that let a king advance. When two kings face one another with a square between them, the player who must move may have to yield an entry square. The bare-king illustration isolates that geometry; it does not suggest that opposition alone can win without other material.\n\nThe section then returns to king and pawn against king. The defender aims to keep the attacking king from reaching the front of its pawn. In the specific example, stepping directly backward when necessary and taking opposition at the right moment maintains that barrier. Similar-looking positions can have opposite outcomes because the side to move has changed. Near promotion, that single tempo decides whether the defender must concede the queening square or the attacker must accept stalemate or lose the pawn.\n\nConnect opposition to a concrete objective: entry, exclusion, or control of a promotion square. Replay diagrams 44–47 with the side to move explicitly stated, and explain the entry squares before moving. The defensive rules are taught through this particular elementary pawn ending; more complex configurations require fresh calculation.",
+    "keyIdeas": [
+      "The side to move is part of the position.",
+      "Use opposition to gain entry or prevent it.",
+      "In the example, keep the attacking king from getting ahead of its pawn.",
+      "Check for stalemate near promotion."
+    ],
+    "activities": [
+      {
+        "id": "study-opposition-first",
+        "concept": "Opposition",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "King activity"
+        ],
+        "instructions": "Read Opposition and replay diagrams 44-47. State the side to move, entry squares and defender’s objective. Compare the source’s move-order alternatives.",
+        "successCheck": "Explain why the same arrangement can have a different outcome when the side to move changes.",
+        "playReminders": [
+          "Which entry square will the side to move have to give up?"
+        ]
+      }
+    ]
   },
   {
     "book": "Silman’s Complete Endgame Course: From Beginner to Master",
@@ -75,6 +987,28 @@
       "pawn-endings",
       "defense"
     ],
-    "note": "This section shows why an edge pawn can give the defender drawing chances that a central or knight pawn does not. A king in front of an a- or h-pawn has fewer directions in which to move. That restriction can produce stalemate before the attacker controls a usable promotion route.\n\nSilman compares an h-pawn position with the same arrangement shifted to the g-file. In the edge-pawn example, advancing the pawn leaves the defending king with no legal move while it is not in check. In the neighboring-file example, the defender has an escape square, allowing the attacking king to improve its position and secure promotion. The comparison makes the board edge, king locations, and side to move concrete parts of the evaluation.\n\nFor this elementary king-and-rook-pawn versus king ending, reaching the front of the pawn is the defender’s key drawing resource. This does not mean that every ending containing a rook-pawn is drawn. Compare diagrams 48 and 49 and explain the difference in legal king moves. Before exchanging into a pawn ending, identify whether the passed pawn can actually promote."
+    "note": "This section shows why an edge pawn can give the defender drawing chances that a central or knight pawn does not. A king in front of an a- or h-pawn has fewer directions in which to move. That restriction can produce stalemate before the attacker controls a usable promotion route.\n\nSilman compares an h-pawn position with the same arrangement shifted to the g-file. In the edge-pawn example, advancing the pawn leaves the defending king with no legal move while it is not in check. In the neighboring-file example, the defender has an escape square, allowing the attacking king to improve its position and secure promotion. The comparison makes the board edge, king locations, and side to move concrete parts of the evaluation.\n\nFor this elementary king-and-rook-pawn versus king ending, reaching the front of the pawn is the defender’s key drawing resource. This does not mean that every ending containing a rook-pawn is drawn. Compare diagrams 48 and 49 and explain the difference in legal king moves. Before exchanging into a pawn ending, identify whether the passed pawn can actually promote.",
+    "keyIdeas": [
+      "The board edge reduces available king moves.",
+      "A pawn push may stalemate the defender.",
+      "Compare legal escape squares before judging promotion."
+    ],
+    "activities": [
+      {
+        "id": "study-rook-pawn-endings-first",
+        "concept": "Rook-pawn endings",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "King activity",
+          "Opposition"
+        ],
+        "instructions": "Read Rook-Pawns. Compare diagrams 48 and 49, preserving the side to move. List the defender’s legal moves after the pawn advances.",
+        "successCheck": "Explain the stalemate difference between the h-pawn and g-pawn examples.",
+        "playReminders": [
+          "Can the defender reach the corner, and would my pawn push stalemate it?"
+        ]
+      }
+    ]
   }
 ]
