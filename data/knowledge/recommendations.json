@@ -240,6 +240,54 @@
       "crossrefIds": [
         "forks--erwich-double-attack-practice"
       ]
+    },
+    {
+      "id": "study-discovered-attacks-battery-scan",
+      "crossrefIds": [
+        "discovered-attacks--erwich-discovered-batteries"
+      ]
+    },
+    {
+      "id": "study-discovered-attacks-king-decoy",
+      "crossrefIds": [
+        "discovered-attacks--erwich-discovered-decoy"
+      ]
+    },
+    {
+      "id": "study-intermediate-moves-save-the-knight",
+      "crossrefIds": [
+        "intermediate-moves--erwich-discovered-follow-through"
+      ]
+    },
+    {
+      "id": "study-discovered-attacks-build-the-battery",
+      "crossrefIds": [
+        "discovered-attacks--erwich-discovered-setup"
+      ]
+    },
+    {
+      "id": "study-double-check-king-responses",
+      "crossrefIds": [
+        "double-check--erwich-discovered-setup"
+      ]
+    },
+    {
+      "id": "study-double-check-practice-196",
+      "crossrefIds": [
+        "double-check--erwich-discovered-practice-196"
+      ]
+    },
+    {
+      "id": "study-double-check-practice-217",
+      "crossrefIds": [
+        "double-check--erwich-double-check-practice-217"
+      ]
+    },
+    {
+      "id": "study-discovered-attacks-follow-through",
+      "crossrefIds": [
+        "discovered-attacks--erwich-discovered-follow-through"
+      ]
     }
   ]
 }

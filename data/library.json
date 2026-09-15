@@ -264,6 +264,235 @@
     ]
   },
   {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Discovered attacks: batteries and counterattacks; PDF 116-117",
+    "title": "Discovered attacks: batteries and counterattacks",
+    "tags": [
+      "discovered-attacks",
+      "batteries",
+      "counterattack"
+    ],
+    "note": "A discovered attack uses a moving piece to uncover a second piece&#x27;s line. Erwich calls the aligned pair a battery: the front piece moves and the back piece supplies the newly opened attack. Name the job of each piece before deciding that the tactic wins. A discovered check specifically means that the uncovered piece checks the king; a check by the moving piece alone is a different arrangement.\n\nThe Erwich-Kuijf example makes the defensive side memorable. Bg6+ seems to win Black&#x27;s queen, but the pawn capture opens the h-file. After White takes the queen, Black inserts a bishop check, then moves that bishop again to uncover the rook&#x27;s check while attacking White&#x27;s queen. The apparent winner has become the target of another battery.\n\nThe game&#x27;s Nb5 avoids this particular trap. Capturing that knight allows a different discovered attack, while the queen&#x27;s retreats require separate calculation. This is a comparison of candidates, not a promise that a discovered attack always wins a queen. During study, reconstruct both batteries and identify the line opened by each move. Do not stop at the first material gain: look for the opponent&#x27;s forcing reply in the changed position.",
+    "keyIdeas": [
+      "Name the front piece, back piece and target.",
+      "A capture can open a dangerous line for the opponent.",
+      "Calculate beyond the first apparent material gain."
+    ],
+    "activities": [
+      {
+        "id": "study-discovered-attacks-battery-scan",
+        "concept": "Discovered attacks",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Double attacks"
+        ],
+        "instructions": "Read PDF 116-117. Mark the front piece, back piece and target in both sides&#x27; batteries. Explain why Bg6+ followed by Qxd4 fails, then compare Nb5.",
+        "successCheck": "Show the h-file counterattack through Be5+ and explain what changed.",
+        "playReminders": [
+          "What line opens when this piece moves?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Discovered attacks: decoying the king onto a file; PDF 117-118",
+    "title": "Discovered attacks: decoying the king onto a file",
+    "tags": [
+      "discovered-attacks",
+      "decoy",
+      "calculation"
+    ],
+    "note": "A battery may already exist but lack a forcing target. In Nieuwenhuis-de Groote, White&#x27;s bishop stands in front of the d-file rook, while another rook faces Black&#x27;s queen across the third rank. The queen sacrifice Qxd8+ draws the black king onto the d-file. Moving the bishop then reveals the rook&#x27;s check and clears the other rook&#x27;s attack on the queen.\n\nThis example asks for more than recognizing a sacrifice. Identify what changes when the king recaptures, and why moving the bishop is now forcing. The source gives Be2+ and Bf1+ as winning continuations. They uncover the same main lines, but the defender&#x27;s available interpositions differ. Independent checks show why a queen block or a rook block does not rescue the material balance. The precise capture sequence matters; the queen need not disappear on the very next move against every defense.\n\nFor practice, cover the continuation and work backward from the desired discovered check. Name the obstacle, the move that removes it, and the opponent&#x27;s strongest answer. Then replay a defensive block until the material accounting is clear. This lesson covers the worked example, not the rest of the chapter&#x27;s decoy exercises.",
+    "keyIdeas": [
+      "A sacrifice can put the king onto the battery line.",
+      "Track both files and ranks cleared by one move.",
+      "Test interpositions before claiming an immediate win."
+    ],
+    "activities": [
+      {
+        "id": "study-discovered-attacks-king-decoy",
+        "concept": "Discovered attacks",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Double attacks"
+        ],
+        "instructions": "Study Nieuwenhuis-de Groote on PDF 117-118. Cover the moves and find the king decoy. Compare Be2+ and Bf1+ after the sacrifice; include a defensive interposition.",
+        "successCheck": "Explain both opened lines and calculate a block until the material balance is clear.",
+        "playReminders": [
+          "What line opens when this piece moves?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Discovered attacks: finishing with an intermediate check; PDF 118-119",
+    "title": "Discovered attacks: finishing with an intermediate check",
+    "tags": [
+      "discovered-attacks",
+      "intermediate-moves",
+      "calculation"
+    ],
+    "note": "Winning material with a discovered attack can leave the attacking pieces exposed. In Nordahl-Kveinys, the knight move Nd2 uncovers the bishop&#x27;s attack on White&#x27;s rook while attacking the other rook itself. White can capture the knight and lose the c-file rook, but the more instructive alternative captures Black&#x27;s rook first.\n\nAfter the checking knight capture on f3, White&#x27;s king can move to g2 and attack the knight. Immediately recapturing on c8 would allow that knight to be taken. The intermediate check Ne1+ changes the order: Black saves the knight with tempo before recapturing the rook. The gain depends on completing the sequence, not merely on spotting the first double threat.\n\nUse this as a calculation discipline exercise. After each capture, inventory both sides&#x27; loose pieces and search for checks before taking the next tempting piece. Compare the immediate recapture with the inserted check and explain their different material outcomes. The source&#x27;s game continuation and illustrative alternative are checked branches, not an assertion that the defender must choose them. This also extends the existing intermediate-move material with a second kind of practical example.",
+    "keyIdeas": [
+      "After a tactical gain, check whether your own attacker is loose.",
+      "An intermediate check can save a piece before recapturing.",
+      "Recount material at the end of the sequence."
+    ],
+    "activities": [
+      {
+        "id": "study-intermediate-moves-save-the-knight",
+        "concept": "Intermediate moves",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Forcing moves"
+        ],
+        "instructions": "Use Nordahl-Kveinys on PDF 118-119. After Nd2 Rxc8 Nxf3+ Kg2, compare immediate Rxc8 with Ne1+ before recapturing.",
+        "successCheck": "Explain which knight is otherwise lost and why the inserted check saves it.",
+        "playReminders": [
+          "Before recapturing, check for a forcing move in between."
+        ]
+      },
+      {
+        "id": "study-discovered-attacks-follow-through",
+        "concept": "Discovered attacks",
+        "minutes": 10,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Double attacks"
+        ],
+        "instructions": "Replay the Nordahl-Kveinys example without moving pieces. At each capture, list loose pieces for both sides and check for an intermediate move.",
+        "successCheck": "Finish the sequence with an accurate material count and record any missed counterplay.",
+        "playReminders": [
+          "What line opens when this piece moves?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Discovered attacks: building a battery and distinguishing double check; PDF 119-120",
+    "title": "Discovered attacks: building a battery and distinguishing double check",
+    "tags": [
+      "discovered-attacks",
+      "double-check",
+      "batteries",
+      "skewers"
+    ],
+    "note": "A discovered attack may need preparation before the front piece can move effectively. In So-Gupta, Rd1 places the back piece on the useful file behind the bishop. The threat is now a bishop check that uncovers pressure down the d-file. Moving the queen does not necessarily solve the problem, because the king&#x27;s response can leave the rook undefended.\n\nAgainst the king move Kb8, White changes the bishop&#x27;s destination to c2. That move protects the rook while uncovering the attack along the file, where the queen stands in front of the other rook. The continuation illustrates how a discovered attack can lead into a skewer. The important habit is to update the front piece&#x27;s job after the actual reply rather than repeat the originally intended check.\n\nThe chapter then distinguishes double check: the moving piece and the uncovered piece both attack the king. Every legal reply must be a king move; blocking just one line or capturing one checker with another piece cannot answer both checks. This restriction can help win material as well as deliver mate, but it does not by itself prove a win. Study the legal escape squares and the position that follows. The later mating chapter remains outside this reading batch.",
+    "keyIdeas": [
+      "Prepare the back piece before releasing the front piece.",
+      "Change the front-piece move when the defense changes.",
+      "Double check requires a legal king move; it does not automatically mean mate."
+    ],
+    "activities": [
+      {
+        "id": "study-discovered-attacks-build-the-battery",
+        "concept": "Discovered attacks",
+        "minutes": 15,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Double attacks"
+        ],
+        "instructions": "Read So-Gupta on PDF 119-120 left. Explain Rd1, then compare Qe5 and Kb8. Find the bishop&#x27;s different job against each defense.",
+        "successCheck": "Show why Ba6+ fits one branch while Bc2 protects the rook in the other.",
+        "playReminders": [
+          "What line opens when this piece moves?"
+        ]
+      },
+      {
+        "id": "study-double-check-king-responses",
+        "concept": "Double check",
+        "minutes": 10,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks"
+        ],
+        "instructions": "Read the double-check explanation on PDF 120 left. Explain the difference between a discovered attack, a discovered check and double check. Use the selected exercises to name both checkers.",
+        "successCheck": "State why blocking just one line fails and why double check need not be mate.",
+        "playReminders": [
+          "If both pieces check, where can the king go and what follows?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Discovered-attack practice: exercise 196; PDF 120-120",
+    "title": "Discovered-attack practice: exercise 196",
+    "tags": [
+      "discovered-attacks",
+      "double-check",
+      "practice",
+      "decoy"
+    ],
+    "note": "Exercise 196 connects a queen sacrifice to a double check. Try the position before reading the following guidance. The supplied book file has no solution chapter, so this continuation is independent analysis of the visually checked diagram.\n\nBlack&#x27;s Qxf2+ removes the rook and invites the king onto the f-file. After Kxf2, Nxe4+ both checks with the knight and uncovers the rook&#x27;s check from f7. Because White must move the king, Black can next take the queen on g5. Identify both checking pieces and the queen target before calculating a king destination.\n\nWhite is not compelled to accept the sacrifice: a king retreat such as Kh1 must also be examined. Independent analysis supports Rxd5 against that refusal, rather than pretending the attractive capture line is forced. Spend five minutes finding the preparation and another five checking the refusal. Record whether you missed the rook&#x27;s newly opened file, the knight&#x27;s own check or the queen target. The finite-depth checks support this selected practice line, not a claim of a unique solution or a complete analysis of every continuation.",
+    "keyIdeas": [
+      "After Qxf2+ Kxf2, Nxe4+ checks with both knight and rook.",
+      "The forced king move leaves the queen on g5 vulnerable.",
+      "Check a refusal of the sacrifice as well as its acceptance."
+    ],
+    "activities": [
+      {
+        "id": "study-double-check-practice-196",
+        "concept": "Double check",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks"
+        ],
+        "instructions": "Attempt diagram 196, PDF 120 right, before viewing guidance. Independent check: Qxf2+ Kxf2 Nxe4+ Ke3 Nxg5. Also examine Qxf2+ Kh1 Rxd5. The book answer key is absent.",
+        "successCheck": "Name both checkers after Nxe4+ and show the queen capture plus one refusal branch.",
+        "playReminders": [
+          "If both pieces check, where can the king go and what follows?"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Double-check practice: exercise 217; PDF 131-131",
+    "title": "Double-check practice: exercise 217",
+    "tags": [
+      "discovered-attacks",
+      "double-check",
+      "practice",
+      "removing-the-defender"
+    ],
+    "note": "Exercise 217 combines removal of a defender, a lure and double check. Cover the guidance and first identify the white bishop Black can capture, the c-pawn shielding White&#x27;s king and the black bishop blocking the c8-rook&#x27;s file. The solution guidance here is independently checked analysis, not the missing book answer key.\n\nBlack begins with Rxf4, removing the bishop. If White accepts with Qxf4, the knight check Nd3+ offers a second lure. After cxd3, Be3+ moves the bishop away from the c-file while checking along the diagonal to c1. The c8-rook also checks, so the king must move and the bishop can capture the queen on f4. The knight sacrifice changes the pawn&#x27;s defensive coverage before the final double check.\n\nDo not describe the whole capture sequence as forced. White can decline the first sacrifice with Kb1; independent analysis still favors Black after Ng6, but through a different continuation. During review, explain the purpose of each preparation and name both checkers at the decisive moment. An answer that only gives Rxf4 misses the main learning goal. Other exercises on neighboring pages are unassigned and have not been promoted into verified practice.",
+    "keyIdeas": [
+      "Removing the bishop and drawing away the c-pawn prepare the final tactic.",
+      "After Be3+, both bishop and c8-rook check the king.",
+      "Acceptance and refusal of a sacrifice need separate calculation."
+    ],
+    "activities": [
+      {
+        "id": "study-double-check-practice-217",
+        "concept": "Double check",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks"
+        ],
+        "instructions": "Attempt diagram 217, PDF 131 left. Independent check: Rxf4 Qxf4 Nd3+ cxd3 Be3+ Kb1 Bxf4. Compare refusal Rxf4 Kb1 Ng6. Explain every preparation before consulting the line.",
+        "successCheck": "Name both checkers after Be3+, explain the c-pawn lure, and distinguish the accepting branch from a forced sequence.",
+        "playReminders": [
+          "If both pieces check, where can the king go and what follows?"
+        ]
+      }
+    ]
+  },
+  {
     "book": "Chess Structures: A Grandmaster Guide",
     "author": "Mauricio Flores Rios",
     "ref": "Studying pawn structures across openings; pp. 9-11; PDF 10-12",

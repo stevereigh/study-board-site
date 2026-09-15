@@ -168,6 +168,42 @@
       "bookId": "erwich-club-exercises-2019",
       "ref": "Double-attack practice: exercises 123-124; PDF 79-80",
       "title": "Double-attack practice: exercises 123-124"
+    },
+    {
+      "id": "erwich-discovered-batteries",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Discovered attacks: batteries and counterattacks; PDF 116-117",
+      "title": "Discovered attacks: batteries and counterattacks"
+    },
+    {
+      "id": "erwich-discovered-decoy",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Discovered attacks: decoying the king onto a file; PDF 117-118",
+      "title": "Discovered attacks: decoying the king onto a file"
+    },
+    {
+      "id": "erwich-discovered-follow-through",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Discovered attacks: finishing with an intermediate check; PDF 118-119",
+      "title": "Discovered attacks: finishing with an intermediate check"
+    },
+    {
+      "id": "erwich-discovered-setup",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Discovered attacks: building a battery and distinguishing double check; PDF 119-120",
+      "title": "Discovered attacks: building a battery and distinguishing double check"
+    },
+    {
+      "id": "erwich-discovered-practice-196",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Discovered-attack practice: exercise 196; PDF 120-120",
+      "title": "Discovered-attack practice: exercise 196"
+    },
+    {
+      "id": "erwich-double-check-practice-217",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Double-check practice: exercise 217; PDF 131-131",
+      "title": "Double-check practice: exercise 217"
     }
   ]
 }

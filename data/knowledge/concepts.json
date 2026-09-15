@@ -228,6 +228,10 @@
     {
       "id": "double-attacks",
       "name": "Double attacks"
+    },
+    {
+      "id": "double-check",
+      "name": "Double check"
     }
   ]
 }

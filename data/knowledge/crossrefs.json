@@ -660,6 +660,116 @@
         "section": "Exercise 123 on PDF 79 right and exercise 124 on PDF 80 left only; diagram numbers take precedence over the misleading link text below them",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "discovered-attacks--erwich-discovered-batteries",
+      "chapterId": "erwich-discovered-batteries",
+      "locator": {
+        "pdfPageStart": 116,
+        "pdfPageEnd": 117,
+        "printedPages": null,
+        "section": "Chapter 3 opening and complete Marc Erwich-Marinus Kuijf example, ending before the Nieuwenhuis-de Groote heading on PDF 117",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "discovered-attacks--erwich-discovered-decoy",
+      "chapterId": "erwich-discovered-decoy",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 118,
+        "printedPages": null,
+        "section": "Nieuwenhuis-de Groote heading on PDF 117 through its diagram and explanation on PDF 118 left; stop before Nordahl-Kveinys",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "discovered-attacks--erwich-discovered-follow-through",
+      "chapterId": "erwich-discovered-follow-through",
+      "locator": {
+        "pdfPageStart": 118,
+        "pdfPageEnd": 119,
+        "printedPages": null,
+        "section": "Complete Nordahl-Kveinys example from PDF 118 left heading through PDF 119 opening; stop before the Wesley So-Abhijeet Gupta heading",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "intermediate-moves--erwich-discovered-follow-through",
+      "chapterId": "erwich-discovered-follow-through",
+      "locator": {
+        "pdfPageStart": 118,
+        "pdfPageEnd": 119,
+        "printedPages": null,
+        "section": "Complete Nordahl-Kveinys example from PDF 118 left heading through PDF 119 opening; stop before the Wesley So-Abhijeet Gupta heading",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "discovered-attacks--erwich-discovered-setup",
+      "chapterId": "erwich-discovered-setup",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": null,
+        "section": "So-Gupta heading and complete worked example on PDF 119-120 left, then complete double-check explanation; stop before exercise 196 on PDF 120 right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "double-check--erwich-discovered-setup",
+      "chapterId": "erwich-discovered-setup",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": null,
+        "section": "So-Gupta heading and complete worked example on PDF 119-120 left, then complete double-check explanation; stop before exercise 196 on PDF 120 right",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "discovered-attacks--erwich-discovered-practice-196",
+      "chapterId": "erwich-discovered-practice-196",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 120,
+        "printedPages": null,
+        "section": "Only diagram 196 on PDF 120 right; the Exercise 197 hyperlink beneath it labels the next exercise",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "double-check--erwich-discovered-practice-196",
+      "chapterId": "erwich-discovered-practice-196",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 120,
+        "printedPages": null,
+        "section": "Only diagram 196 on PDF 120 right; the Exercise 197 hyperlink beneath it labels the next exercise",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "discovered-attacks--erwich-double-check-practice-217",
+      "chapterId": "erwich-double-check-practice-217",
+      "locator": {
+        "pdfPageStart": 131,
+        "pdfPageEnd": 131,
+        "printedPages": null,
+        "section": "Only diagram 217 on PDF 131 left; exclude diagram 218 on the right and all intervening exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "double-check--erwich-double-check-practice-217",
+      "chapterId": "erwich-double-check-practice-217",
+      "locator": {
+        "pdfPageStart": 131,
+        "pdfPageEnd": 131,
+        "printedPages": null,
+        "section": "Only diagram 217 on PDF 131 left; exclude diagram 218 on the right and all intervening exercises",
+        "ebookLocation": null
+      }
     }
   ]
 }
