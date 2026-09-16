@@ -6743,6 +6743,305 @@
     "activities": []
   },
   {
+    "chapterId": "flores-training-map",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Training map: solve by structure, candidates and consequences; pp. 424-459; PDF 425-460",
+    "title": "Training map: solve by structure, candidates and consequences",
+    "tags": [
+      "mixed-test",
+      "spaced-review",
+      "structure-recognition",
+      "candidate-moves",
+      "calculation"
+    ],
+    "note": "The final training section tests the structures from the whole book without naming the topic in advance. Fifty positions are divided into four levels: 1-6, 7-21, 22-45 and 46-50. Prompts alternate among finding a move, evaluating a decision, explaining a transformation and proposing a plan. The solutions therefore test recognition and judgment as much as calculation.\n\nA repeatable method works across the set. First identify the pawn skeleton and the plan each side would normally want. Next locate the mismatch: an uncastled king, a bad bishop, a blocked break, an exposed file, an undefended target or a favorable structural transition. Generate at least two candidates, calculate the forcing one, and state the resulting structure before comparing the source answer.\n\nFor spaced review, tag a miss by decision type rather than by opening name. Revisit recognition misses after one day, calculation misses after three days and evaluation misses after one week. A position is learned only when you can explain why the move fits the structure and what changes afterward.",
+    "keyIdeas": [
+      "Classify the structure before searching for a move.",
+      "Generate candidates from breaks, targets and piece quality.",
+      "State the resulting structure before judging a transformation.",
+      "Schedule misses by decision type for spaced review."
+    ],
+    "activities": [
+      {
+        "id": "study-position-evaluation-training-method",
+        "concept": "Position evaluation",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read the training method, then choose six positions without looking at their level. For each, write the structure, the opponent&#x27;s intended plan, two candidates and the resulting structure before checking the source solution.",
+        "successCheck": "For at least five of six positions, your notes identify the same decisive structural issue as the source answer.",
+        "playReminders": [
+          "What does this position give each side a reason to do?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-training-level1",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Training Level 1: forcing breaks and immediate positional moves; pp. 424-439; PDF 425-440",
+    "title": "Training Level 1: forcing breaks and immediate positional moves",
+    "tags": [
+      "mixed-test",
+      "forcing-moves",
+      "pawn-breaks",
+      "king-safety",
+      "attacking-prerequisites"
+    ],
+    "note": "Level 1 begins with six positions where the structural clue points to a forcing operation. Exercise 1 uses Bxf6 and Ne4 to prevent Black&#x27;s central freeing breaks. Exercise 2 calls for f5 while the black king lacks defenders. Exercise 3 uses d5 to open lines against weak coordination. Exercise 4 starts a direct kingside operation with g4. Exercise 5 uses a bishop sacrifice on h7 to bring the rook and queen into the attack. Exercise 6 removes a key defender with Bxf7 and then converts the coordination advantage.\n\nThe shared lesson is timing. Each move is justified by what the opponent cannot complete: a freeing break, development, king defense or consolidation. Before calculating, name that missing defensive resource. Then compare the immediate break with one quiet improving move so the forcing choice is made for a reason rather than because it gives check or captures material.",
+    "keyIdeas": [
+      "Exploit the opponent&#x27;s missing defensive resource immediately.",
+      "A pawn break is strongest before the defender consolidates.",
+      "Sacrifices require open lines and arriving pieces.",
+      "Compare a forcing move with one quiet candidate."
+    ],
+    "activities": [
+      {
+        "id": "study-forcing-moves-training-level1",
+        "concept": "Forcing moves",
+        "minutes": 45,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Candidate moves"
+        ],
+        "instructions": "Solve exercises 1-6 from PDF 425-426 before reading PDF 438-440. Give yourself six minutes per position and record the defensive resource that is missing.",
+        "successCheck": "Match at least four source moves and explain the timing of all six without quoting the solution.",
+        "playReminders": [
+          "What legal replies does the opponent have to this threat?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-training-level2a",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Training Level 2A: counterplay, breaks and piece improvement; pp. 425-442; PDF 426-443",
+    "title": "Training Level 2A: counterplay, breaks and piece improvement",
+    "tags": [
+      "mixed-test",
+      "counterplay",
+      "pawn-breaks",
+      "improving-the-worst-piece",
+      "hanging-pawns"
+    ],
+    "note": "Exercises 7-14 mix defense and attack. Exercise 7 finds ...b4 to gain time and hold a difficult ending. Exercise 8 uses e5 to undermine the c5-knight. Exercise 9 opens the center with d5 before Black coordinates. Exercise 10 begins queenside play with ...a4 and contests the c-file. Exercise 11 answers ...b5 with c5, fixing c6 and restricting the light bishop. Exercise 12 improves the Stonewall bishop with ...Ba6. Exercise 13 uses d5 against active hanging pawns. Exercise 14 sacrifices on f3 to remove the key defender and seize the attack.\n\nThe set punishes automatic play. A thematic move works only when its follow-up is available: ...b4 must gain a useful tempo, c5 must leave a target, ...Ba6 must improve the worst piece, and d5 must open lines for ready pieces. Record both the move and the new weakness or square it creates.",
+    "keyIdeas": [
+      "Defensive counterplay can be the most accurate plan.",
+      "A break should create a target or open a useful line.",
+      "Improve the worst piece before launching a wing plan.",
+      "Hanging pawns must advance before they become fixed targets."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-training-level2a",
+        "concept": "Counterplay",
+        "minutes": 55,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Solve exercises 7-14 from PDF 426-428, then compare PDF 440-443. Label each answer break, counterplay, piece improvement or sacrifice.",
+        "successCheck": "Classify all eight answers and correctly explain at least six source choices.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-training-level2b",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Training Level 2B: recognize favorable transformations; pp. 427-445; PDF 428-446",
+    "title": "Training Level 2B: recognize favorable transformations",
+    "tags": [
+      "mixed-test",
+      "opening-to-middlegame-transition",
+      "isolated-pawns",
+      "hanging-pawns",
+      "blockade"
+    ],
+    "note": "Exercises 15-21 focus on structural change. Exercise 15 plays e5 in an Asymmetric Benoni before Black is ready. Exercise 16 fixes c5 and follows with b4-a5 to restrict the bad bishop. Exercise 17 activates Black&#x27;s isolated-pawn position through ...Ra8, ...g5 and ...Rc4 while White must connect the rooks. Exercise 18 exploits White&#x27;s delayed development with ...Bc4, attacking both e4 and c2. Exercise 19 breaks hanging pawns with e4. Exercise 20 answers Black&#x27;s premature ...d5 by exchanging and then using e5 to open the attack. Exercise 21 shows why White&#x27;s e5 advance can be mistimed: Black blockades d5 and creates a queenside passer.\n\nA transformation is favorable only after comparing the resulting piece placement. Before moving the pawn, identify the square that becomes weak, the bishop that opens or closes, and which side gains the next useful tempo. The same e-pawn advance can be strong in one position and a lasting concession in another.",
+    "keyIdeas": [
+      "Judge the resulting structure, not the appearance of the break.",
+      "Development can decide whether a central exchange works.",
+      "Blockade the square created by an opponent&#x27;s advance.",
+      "Use active piece play to compensate for an isolated pawn."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-to-middlegame-transition-training-level2b",
+        "concept": "Opening to middlegame transition",
+        "minutes": 50,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Development",
+          "Center control"
+        ],
+        "instructions": "Solve exercises 15-21 from PDF 428-430. Before checking PDF 443-446, write the structure that each central pawn move would create.",
+        "successCheck": "Name the resulting structure or key square for all seven and match at least five source evaluations.",
+        "playReminders": [
+          "What structure exists now?",
+          "Which central exchange created it?",
+          "What old plan lost its prerequisite?",
+          "Which new file, target or break matters first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-training-level3a",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Training Level 3A: passed pawns, dynamic material and initiative; pp. 429-450; PDF 430-451",
+    "title": "Training Level 3A: passed pawns, dynamic material and initiative",
+    "tags": [
+      "mixed-test",
+      "passed-pawns",
+      "sacrifices",
+      "counterplay",
+      "position-evaluation"
+    ],
+    "note": "Exercises 22-30 require longer comparison. Exercise 22 rejects a4 in favor of c3, because the game continuation gives Black a dangerous passed a-pawn. Exercise 23 uses Nxc5 as a thematic piece sacrifice for two connected passers. Exercise 24 gains time with Qa5 and turns the queenside pawns into the decisive factor. Exercise 25 meets the bishop pair with ...Qa5 and ...e5, forcing hanging-pawn weaknesses. Exercise 26 finds ...Qh3 as a last practical threat; White must meet it accurately rather than grab material. Exercise 27 fixes c5 and supports it with b4, locking the light bishop out. Exercise 28 prepares the Najdorf Type II break with ...Bd7 and ...d5. Exercise 29 uses the difficult but timely ...d5 break in the Open King&#x27;s Indian. Exercise 30 changes the structure with c5 and leaves d6 permanently weak.\n\nMaterial counting alone fails throughout this set. Passed pawns, trapped pieces, initiative and irreversible weak squares change the value of exchanges. Write a one-sentence material evaluation and a separate activity evaluation before choosing the move.",
+    "keyIdeas": [
+      "Connected passers can justify a piece investment.",
+      "Meet a practical threat accurately before pursuing your own plan.",
+      "Prepare central breaks with the required piece placement.",
+      "Evaluate activity separately from material."
+    ],
+    "activities": [
+      {
+        "id": "study-position-evaluation-training-level3a",
+        "concept": "Position evaluation",
+        "minutes": 70,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Solve exercises 22-30 from PDF 430-432, then check PDF 446-451. Keep separate material and activity evaluations for every position.",
+        "successCheck": "Explain why the source can accept or reject the material change in at least seven of nine positions.",
+        "playReminders": [
+          "What does this position give each side a reason to do?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-training-level3b",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Training Level 3B: attack the chain and open the right lines; pp. 431-453; PDF 432-454",
+    "title": "Training Level 3B: attack the chain and open the right lines",
+    "tags": [
+      "mixed-test",
+      "pawn-chains",
+      "pawn-breaks",
+      "opening-lines",
+      "sacrifices"
+    ],
+    "note": "Exercises 31-39 revolve around pawn-chain surgery. Exercise 31 uses ...h5 to create kingside weaknesses. Exercise 32 answers White&#x27;s intended e4-e5 with ...g5, taking dark-square control. Exercise 33 transforms a locked center with e4 so the c4-bishop enters the game. Exercise 34 finds the tactical Qxg2 check in a decisive attack. Exercise 35 accepts the h3 pawn and follows the forced attacking line instead of retreating. Exercise 36 challenges the French Type III chain with ...f6, then exploits White&#x27;s inaccurate king defense. Exercise 37 gains queenside counterplay with ...b5. Exercise 38 uses e5 as a positional pawn sacrifice and later returns the pawn to free the pieces. Exercise 39 equalizes a Slav structure with ...e5 before White consolidates.\n\nThe recurring question is which pawn is doing the restricting. Attack the base when possible; otherwise challenge the head or sacrifice a pawn to open the blocked piece. A break is ready when the lines it opens favor your developed pieces and the opponent cannot close them again.",
+    "keyIdeas": [
+      "Attack the pawn that restricts your worst piece.",
+      "Wing breaks can prepare control of central dark squares.",
+      "A pawn sacrifice can release a blocked bishop.",
+      "Do not delay the freeing break until consolidation is complete."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-training-level3b",
+        "concept": "Pawn breaks",
+        "minutes": 70,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Solve exercises 31-39 from PDF 432-434 and check PDF 451-454. For each break, note the pawn being challenged and the piece released.",
+        "successCheck": "Identify both the challenged pawn and released line or piece in at least seven positions.",
+        "playReminders": [
+          "What does this break attack?",
+          "Which pieces can use the opened line?",
+          "What is the opponent&#x27;s strongest counterbreak?",
+          "What new structure will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-training-level3c",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Training Level 3C: restriction, prophylaxis and tactical conversion; pp. 434-456; PDF 435-457",
+    "title": "Training Level 3C: restriction, prophylaxis and tactical conversion",
+    "tags": [
+      "mixed-test",
+      "prophylaxis",
+      "restriction",
+      "intermediate-moves",
+      "doubled-pawns"
+    ],
+    "note": "Exercises 40-45 begin with prevention and end with tactics. Exercise 40 plays b4 to stop Black&#x27;s queenside expansion before improving elsewhere. Exercise 41 punishes an unprepared a3 with ...a4, forcing the destruction of White&#x27;s queenside. Exercise 42 uses Bb6 to open lines and make the advanced a4-pawn vulnerable. Exercise 43 combines Bxf6, Nd5 and the intermediate Nxf6 check to force damaging doubled pawns and a favorable ending. Exercise 44 opens the f-file with ...g3 and finishes with the tactical ...Nxf2 blow. Exercise 45 uses Qb3 to attack b7, disrupt Black&#x27;s setup and expose a concrete tactical point.\n\nProphylaxis and tactics are connected here. The preventive move changes what the opponent can defend; the tactical move works because a pawn advance or piece placement has already overloaded that defense. State the opponent&#x27;s intended operation before selecting your candidate.",
+    "keyIdeas": [
+      "Stop the opponent&#x27;s expansion before starting a slower plan.",
+      "An advanced pawn can become a hook after lines open.",
+      "Use intermediate moves to control the recapture structure.",
+      "A tactical blow often rests on an earlier restricting move."
+    ],
+    "activities": [
+      {
+        "id": "study-prophylaxis-training-level3c",
+        "concept": "Prophylaxis",
+        "minutes": 50,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Solve exercises 40-45 from PDF 435-436 and check PDF 454-457. State the opponent&#x27;s threat before proposing your move.",
+        "successCheck": "Find the preventive idea or tactical consequence in at least five of six positions.",
+        "playReminders": []
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-training-level4",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Training Level 4: integrate evaluation, transformation and timing; pp. 435-459; PDF 436-460",
+    "title": "Training Level 4: integrate evaluation, transformation and timing",
+    "tags": [
+      "mixed-test",
+      "position-evaluation",
+      "structure-transformation",
+      "minority-attack",
+      "opening-to-middlegame-transition"
+    ],
+    "note": "The final five positions integrate the book. Exercise 46 selects cxd5 because Black cannot achieve ...b5 or contest e4, leaving White a stable edge. Exercise 47 transforms the symmetric center with c5 and e5, then attacks with h4-h5 while Black&#x27;s bishop remains passive. Exercise 48 rejects routine Carlsbad plans and uses h4-h5 followed by g4-g5, including a positional pawn sacrifice, because Black lacks counterplay. Exercise 49 uses ...Nxd5 to choose the favorable recapture and steer into a Najdorf Type I where White&#x27;s queenside play is too slow. Exercise 50 plays exd5, enters a King&#x27;s Indian Type I structure, and targets d6 with a bishop exchange and knight route to c4.\n\nThese answers cannot be found from a single motif. Compare at least two plausible transformations, name both resulting structures and evaluate the active plans after each. The best move often accepts a new weakness because it removes the opponent&#x27;s only counterplay or gives a better target first.",
+    "keyIdeas": [
+      "Compare multiple resulting structures before exchanging.",
+      "A quiet structural edge can be more valuable than an immediate tactic.",
+      "Attack on the wing where the opponent lacks counterplay.",
+      "Accept a nominal weakness when you gain the first usable target."
+    ],
+    "activities": [
+      {
+        "id": "study-position-evaluation-training-level4",
+        "concept": "Position evaluation",
+        "minutes": 60,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Solve exercises 46-50 from PDF 436-437 and check PDF 457-460. Compare two structural transformations in every position, then schedule each miss for one-day, three-day or one-week review.",
+        "successCheck": "Match at least three source choices and produce a dated review assignment for every miss.",
+        "playReminders": [
+          "What does this position give each side a reason to do?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",

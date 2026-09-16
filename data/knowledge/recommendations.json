@@ -1533,6 +1533,54 @@
       "crossrefIds": [
         "opening-to-middlegame-transition--flores-various-structures-map"
       ]
+    },
+    {
+      "id": "study-position-evaluation-training-method",
+      "crossrefIds": [
+        "position-evaluation--flores-training-map"
+      ]
+    },
+    {
+      "id": "study-forcing-moves-training-level1",
+      "crossrefIds": [
+        "forcing-moves--flores-training-level1"
+      ]
+    },
+    {
+      "id": "study-counterplay-training-level2a",
+      "crossrefIds": [
+        "counterplay--flores-training-level2a"
+      ]
+    },
+    {
+      "id": "study-opening-to-middlegame-transition-training-level2b",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--flores-training-level2b"
+      ]
+    },
+    {
+      "id": "study-position-evaluation-training-level3a",
+      "crossrefIds": [
+        "position-evaluation--flores-training-level3a"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-training-level3b",
+      "crossrefIds": [
+        "pawn-breaks--flores-training-level3b"
+      ]
+    },
+    {
+      "id": "study-prophylaxis-training-level3c",
+      "crossrefIds": [
+        "prophylaxis--flores-training-level3c"
+      ]
+    },
+    {
+      "id": "study-position-evaluation-training-level4",
+      "crossrefIds": [
+        "position-evaluation--flores-training-level4"
+      ]
     }
   ]
 }

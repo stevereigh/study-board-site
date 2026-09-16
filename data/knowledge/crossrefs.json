@@ -6534,6 +6534,193 @@
         "section": "Complete game and Chapter 22 final remarks; stop before Chapter 23 on PDF 425",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "position-evaluation--flores-training-map",
+      "chapterId": "flores-training-map",
+      "locator": {
+        "pdfPageStart": 425,
+        "pdfPageEnd": 460,
+        "printedPages": "424-459",
+        "section": "Complete Chapters 23-24: all 50 exercises on PDF 425-437 and all matching solutions on PDF 438-460; stop before the Name Index on PDF 461",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "candidate-moves--flores-training-map",
+      "chapterId": "flores-training-map",
+      "locator": {
+        "pdfPageStart": 425,
+        "pdfPageEnd": 460,
+        "printedPages": "424-459",
+        "section": "Complete Chapters 23-24: all 50 exercises on PDF 425-437 and all matching solutions on PDF 438-460; stop before the Name Index on PDF 461",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--flores-training-map",
+      "chapterId": "flores-training-map",
+      "locator": {
+        "pdfPageStart": 425,
+        "pdfPageEnd": 460,
+        "printedPages": "424-459",
+        "section": "Complete Chapters 23-24: all 50 exercises on PDF 425-437 and all matching solutions on PDF 438-460; stop before the Name Index on PDF 461",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forcing-moves--flores-training-level1",
+      "chapterId": "flores-training-level1",
+      "locator": {
+        "pdfPageStart": 425,
+        "pdfPageEnd": 440,
+        "printedPages": "424-439",
+        "section": "Exercises 1-6 on PDF 425-426 with matching solutions on PDF 438-440",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-training-level1",
+      "chapterId": "flores-training-level1",
+      "locator": {
+        "pdfPageStart": 425,
+        "pdfPageEnd": 440,
+        "printedPages": "424-439",
+        "section": "Exercises 1-6 on PDF 425-426 with matching solutions on PDF 438-440",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-training-level2a",
+      "chapterId": "flores-training-level2a",
+      "locator": {
+        "pdfPageStart": 426,
+        "pdfPageEnd": 443,
+        "printedPages": "425-442",
+        "section": "Exercises 7-14 on PDF 426-428 with matching solutions on PDF 440-443",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "improving-the-worst-piece--flores-training-level2a",
+      "chapterId": "flores-training-level2a",
+      "locator": {
+        "pdfPageStart": 426,
+        "pdfPageEnd": 443,
+        "printedPages": "425-442",
+        "section": "Exercises 7-14 on PDF 426-428 with matching solutions on PDF 440-443",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-training-level2b",
+      "chapterId": "flores-training-level2b",
+      "locator": {
+        "pdfPageStart": 428,
+        "pdfPageEnd": 446,
+        "printedPages": "427-445",
+        "section": "Exercises 15-21 on PDF 428-430 with matching solutions on PDF 443-446",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "isolated-pawns--flores-training-level2b",
+      "chapterId": "flores-training-level2b",
+      "locator": {
+        "pdfPageStart": 428,
+        "pdfPageEnd": 446,
+        "printedPages": "427-445",
+        "section": "Exercises 15-21 on PDF 428-430 with matching solutions on PDF 443-446",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--flores-training-level3a",
+      "chapterId": "flores-training-level3a",
+      "locator": {
+        "pdfPageStart": 430,
+        "pdfPageEnd": 451,
+        "printedPages": "429-450",
+        "section": "Exercises 22-30 on PDF 430-432 with matching solutions on PDF 446-451",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-training-level3a",
+      "chapterId": "flores-training-level3a",
+      "locator": {
+        "pdfPageStart": 430,
+        "pdfPageEnd": 451,
+        "printedPages": "429-450",
+        "section": "Exercises 22-30 on PDF 430-432 with matching solutions on PDF 446-451",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-training-level3b",
+      "chapterId": "flores-training-level3b",
+      "locator": {
+        "pdfPageStart": 432,
+        "pdfPageEnd": 454,
+        "printedPages": "431-453",
+        "section": "Exercises 31-39 on PDF 432-434 with matching solutions on PDF 451-454",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--flores-training-level3b",
+      "chapterId": "flores-training-level3b",
+      "locator": {
+        "pdfPageStart": 432,
+        "pdfPageEnd": 454,
+        "printedPages": "431-453",
+        "section": "Exercises 31-39 on PDF 432-434 with matching solutions on PDF 451-454",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--flores-training-level3c",
+      "chapterId": "flores-training-level3c",
+      "locator": {
+        "pdfPageStart": 435,
+        "pdfPageEnd": 457,
+        "printedPages": "434-456",
+        "section": "Exercises 40-45 on PDF 435-436 with matching solutions on PDF 454-457",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "intermediate-moves--flores-training-level3c",
+      "chapterId": "flores-training-level3c",
+      "locator": {
+        "pdfPageStart": 435,
+        "pdfPageEnd": 457,
+        "printedPages": "434-456",
+        "section": "Exercises 40-45 on PDF 435-436 with matching solutions on PDF 454-457",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--flores-training-level4",
+      "chapterId": "flores-training-level4",
+      "locator": {
+        "pdfPageStart": 436,
+        "pdfPageEnd": 460,
+        "printedPages": "435-459",
+        "section": "Exercises 46-50 on PDF 436-437 with matching solutions on PDF 457-460; stop before the Name Index on PDF 461",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-training-level4",
+      "chapterId": "flores-training-level4",
+      "locator": {
+        "pdfPageStart": 436,
+        "pdfPageEnd": 460,
+        "printedPages": "435-459",
+        "section": "Exercises 46-50 on PDF 436-437 with matching solutions on PDF 457-460; stop before the Name Index on PDF 461",
+        "ebookLocation": null
+      }
     }
   ]
 }
