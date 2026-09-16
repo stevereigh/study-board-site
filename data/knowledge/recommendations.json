@@ -1483,6 +1483,56 @@
         "counterplay--flores-french3-zhigalko-radulski",
         "counterplay--flores-french3-babaev-burmakin"
       ]
+    },
+    {
+      "id": "study-pawn-majorities-various-majorities",
+      "crossrefIds": [
+        "pawn-majorities--flores-three-versus-two-majority"
+      ]
+    },
+    {
+      "id": "study-counterplay-various-panov",
+      "crossrefIds": [
+        "counterplay--flores-panov-models"
+      ]
+    },
+    {
+      "id": "study-king-safety-various-dragon",
+      "crossrefIds": [
+        "king-safety--flores-dragon-overview",
+        "king-safety--flores-dragon-hracek-cebalo"
+      ]
+    },
+    {
+      "id": "study-opening-to-middlegame-transition-various-scheveningen",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--flores-scheveningen-overview"
+      ]
+    },
+    {
+      "id": "study-counterplay-various-benko",
+      "crossrefIds": [
+        "counterplay--flores-benko-overview",
+        "counterplay--flores-benko-ortiz-leon"
+      ]
+    },
+    {
+      "id": "study-restriction-various-closed-ruy",
+      "crossrefIds": [
+        "restriction--flores-closed-ruy-overview"
+      ]
+    },
+    {
+      "id": "study-opening-to-middlegame-transition-various-lopez",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--flores-lopez-formation-overview"
+      ]
+    },
+    {
+      "id": "study-opening-to-middlegame-transition-various-comparison",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--flores-various-structures-map"
+      ]
     }
   ]
 }

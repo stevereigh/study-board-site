@@ -3159,6 +3159,175 @@
         "section": "Complete game and Chapter 21 final remarks; stop before Chapter 22 on PDF 401",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "flores-various-structures-map",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Chapter 22 map: recognize the structure before choosing the plan; pp. 400-423; PDF 401-424",
+      "title": "Chapter 22 map: recognize the structure before choosing the plan",
+      "locator": {
+        "pdfPageStart": 401,
+        "pdfPageEnd": 424,
+        "printedPages": "400-423",
+        "section": "Complete Chapter 22 comparative map covering all seven short structures; section-specific records contain the bounded teaching and examples; stop before Chapter 23 on PDF 425",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-panov-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Panov structure: queenside passer against pressure on the chain; pp. 403; PDF 404-404",
+      "title": "Panov structure: queenside passer against pressure on the chain",
+      "locator": {
+        "pdfPageStart": 404,
+        "pdfPageEnd": 404,
+        "printedPages": "403",
+        "section": "Complete Panov formation diagram and plans for both colors; Dreev-Galic begins on PDF 405",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-panov-models",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Panov models: advance the majority or dismantle it; pp. 404-407; PDF 405-408",
+      "title": "Panov models: advance the majority or dismantle it",
+      "locator": {
+        "pdfPageStart": 405,
+        "pdfPageEnd": 408,
+        "printedPages": "404-407",
+        "section": "Complete Dreev-Galic model game, Black's d4 and ...b6 counterplay fragments, and Carlsbad-to-Panov transformation; stop before Dragon Formation on PDF 409",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-dragon-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Dragon formation: castling choice defines the wing race; pp. 408; PDF 409-409",
+      "title": "Dragon formation: castling choice defines the wing race",
+      "locator": {
+        "pdfPageStart": 409,
+        "pdfPageEnd": 409,
+        "printedPages": "408",
+        "section": "Complete Dragon formation diagram and plans for both colors; Hracek-Cebalo begins on PDF 410",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-dragon-hracek-cebalo",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Hracek-Cebalo: ...Rxc3 removes White's queenside defense; pp. 409-410; PDF 410-411",
+      "title": "Hracek-Cebalo: ...Rxc3 removes White's queenside defense",
+      "locator": {
+        "pdfPageStart": 410,
+        "pdfPageEnd": 411,
+        "printedPages": "409-410",
+        "section": "Complete game and Dragon final remarks; stop before Scheveningen Structure on PDF 412",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-scheveningen-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Scheveningen structure: central breaks and flexible king placement; pp. 411-412; PDF 412-413",
+      "title": "Scheveningen structure: central breaks and flexible king placement",
+      "locator": {
+        "pdfPageStart": 412,
+        "pdfPageEnd": 413,
+        "printedPages": "411-412",
+        "section": "Complete Scheveningen formation diagram, plans and transformation map; Flores Rios-Vasquez begins on PDF 413",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-scheveningen-models",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Scheveningen models: delay castling, calculate ...d5 and use ...g5; pp. 412-414; PDF 413-415",
+      "title": "Scheveningen models: delay castling, calculate ...d5 and use ...g5",
+      "locator": {
+        "pdfPageStart": 413,
+        "pdfPageEnd": 415,
+        "printedPages": "412-414",
+        "section": "Complete Flores Rios-Vasquez game, ...g7-g5 example and final remarks; stop before Benko Structure on PDF 416",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-benko-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Benko structure: a pawn for files, targets and initiative; pp. 415; PDF 416-416",
+      "title": "Benko structure: a pawn for files, targets and initiative",
+      "locator": {
+        "pdfPageStart": 416,
+        "pdfPageEnd": 416,
+        "printedPages": "415",
+        "section": "Complete Benko formation diagram and plans for both colors; Ortiz Suarez-Leon Hoyos begins on PDF 416",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-benko-ortiz-leon",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Ortiz Suarez-Leon Hoyos: failure to build the fortress; pp. 415-417; PDF 416-418",
+      "title": "Ortiz Suarez-Leon Hoyos: failure to build the fortress",
+      "locator": {
+        "pdfPageStart": 416,
+        "pdfPageEnd": 418,
+        "printedPages": "415-417",
+        "section": "Complete game and Benko final remarks; stop before Closed Ruy Lopez on PDF 418",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-closed-ruy-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Closed Ruy Lopez: close the queenside before attacking the king; pp. 417-418; PDF 418-419",
+      "title": "Closed Ruy Lopez: close the queenside before attacking the king",
+      "locator": {
+        "pdfPageStart": 418,
+        "pdfPageEnd": 419,
+        "printedPages": "417-418",
+        "section": "Complete Closed Ruy formation diagram, plans for both colors and Karpov-Unzicker model fragment; Morovic-Fadi begins on PDF 419",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-closed-ruy-morovic-fadi",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Morovic-Fadi: neutralize the queenside, then win the center; pp. 418-420; PDF 419-421",
+      "title": "Morovic-Fadi: neutralize the queenside, then win the center",
+      "locator": {
+        "pdfPageStart": 419,
+        "pdfPageEnd": 421,
+        "printedPages": "418-420",
+        "section": "Complete game and Closed Ruy final remarks; stop before Lopez Formation on PDF 422",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-lopez-formation-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Lopez formation: a flexible center with six structural branches; pp. 421; PDF 422-422",
+      "title": "Lopez formation: a flexible center with six structural branches",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 422,
+        "printedPages": "421",
+        "section": "Complete Lopez formation diagram and six transformation branches; Navara-Sokolov begins on PDF 422",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-lopez-navara-sokolov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Navara-Sokolov: central counterplay after the double trade on d4; pp. 421-423; PDF 422-424",
+      "title": "Navara-Sokolov: central counterplay after the double trade on d4",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 424,
+        "printedPages": "421-423",
+        "section": "Complete game and Chapter 22 final remarks; stop before Chapter 23 on PDF 425",
+        "ebookLocation": null
+      }
     }
   ]
 }

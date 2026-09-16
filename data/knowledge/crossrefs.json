@@ -6237,6 +6237,303 @@
         "section": "Complete game and Chapter 21 final remarks; stop before Chapter 22 on PDF 401",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-various-structures-map",
+      "chapterId": "flores-various-structures-map",
+      "locator": {
+        "pdfPageStart": 401,
+        "pdfPageEnd": 424,
+        "printedPages": "400-423",
+        "section": "Complete Chapter 22 comparative map covering all seven short structures; section-specific records contain the bounded teaching and examples; stop before Chapter 23 on PDF 425",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-various-structures-map",
+      "chapterId": "flores-various-structures-map",
+      "locator": {
+        "pdfPageStart": 401,
+        "pdfPageEnd": 424,
+        "printedPages": "400-423",
+        "section": "Complete Chapter 22 comparative map covering all seven short structures; section-specific records contain the bounded teaching and examples; stop before Chapter 23 on PDF 425",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-panov-overview",
+      "chapterId": "flores-panov-overview",
+      "locator": {
+        "pdfPageStart": 404,
+        "pdfPageEnd": 404,
+        "printedPages": "403",
+        "section": "Complete Panov formation diagram and plans for both colors; Dreev-Galic begins on PDF 405",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-panov-models",
+      "chapterId": "flores-panov-models",
+      "locator": {
+        "pdfPageStart": 405,
+        "pdfPageEnd": 408,
+        "printedPages": "404-407",
+        "section": "Complete Dreev-Galic model game, Black's d4 and ...b6 counterplay fragments, and Carlsbad-to-Panov transformation; stop before Dragon Formation on PDF 409",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "backward-pawns--flores-panov-models",
+      "chapterId": "flores-panov-models",
+      "locator": {
+        "pdfPageStart": 405,
+        "pdfPageEnd": 408,
+        "printedPages": "404-407",
+        "section": "Complete Dreev-Galic model game, Black's d4 and ...b6 counterplay fragments, and Carlsbad-to-Panov transformation; stop before Dragon Formation on PDF 409",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-panov-models",
+      "chapterId": "flores-panov-models",
+      "locator": {
+        "pdfPageStart": 405,
+        "pdfPageEnd": 408,
+        "printedPages": "404-407",
+        "section": "Complete Dreev-Galic model game, Black's d4 and ...b6 counterplay fragments, and Carlsbad-to-Panov transformation; stop before Dragon Formation on PDF 409",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-dragon-overview",
+      "chapterId": "flores-dragon-overview",
+      "locator": {
+        "pdfPageStart": 409,
+        "pdfPageEnd": 409,
+        "printedPages": "408",
+        "section": "Complete Dragon formation diagram and plans for both colors; Hracek-Cebalo begins on PDF 410",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-dragon-overview",
+      "chapterId": "flores-dragon-overview",
+      "locator": {
+        "pdfPageStart": 409,
+        "pdfPageEnd": 409,
+        "printedPages": "408",
+        "section": "Complete Dragon formation diagram and plans for both colors; Hracek-Cebalo begins on PDF 410",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-dragon-hracek-cebalo",
+      "chapterId": "flores-dragon-hracek-cebalo",
+      "locator": {
+        "pdfPageStart": 410,
+        "pdfPageEnd": 411,
+        "printedPages": "409-410",
+        "section": "Complete game and Dragon final remarks; stop before Scheveningen Structure on PDF 412",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-dragon-hracek-cebalo",
+      "chapterId": "flores-dragon-hracek-cebalo",
+      "locator": {
+        "pdfPageStart": 410,
+        "pdfPageEnd": 411,
+        "printedPages": "409-410",
+        "section": "Complete game and Dragon final remarks; stop before Scheveningen Structure on PDF 412",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-scheveningen-overview",
+      "chapterId": "flores-scheveningen-overview",
+      "locator": {
+        "pdfPageStart": 412,
+        "pdfPageEnd": 413,
+        "printedPages": "411-412",
+        "section": "Complete Scheveningen formation diagram, plans and transformation map; Flores Rios-Vasquez begins on PDF 413",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-scheveningen-overview",
+      "chapterId": "flores-scheveningen-overview",
+      "locator": {
+        "pdfPageStart": 412,
+        "pdfPageEnd": 413,
+        "printedPages": "411-412",
+        "section": "Complete Scheveningen formation diagram, plans and transformation map; Flores Rios-Vasquez begins on PDF 413",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-scheveningen-overview",
+      "chapterId": "flores-scheveningen-overview",
+      "locator": {
+        "pdfPageStart": 412,
+        "pdfPageEnd": 413,
+        "printedPages": "411-412",
+        "section": "Complete Scheveningen formation diagram, plans and transformation map; Flores Rios-Vasquez begins on PDF 413",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-scheveningen-models",
+      "chapterId": "flores-scheveningen-models",
+      "locator": {
+        "pdfPageStart": 413,
+        "pdfPageEnd": 415,
+        "printedPages": "412-414",
+        "section": "Complete Flores Rios-Vasquez game, ...g7-g5 example and final remarks; stop before Benko Structure on PDF 416",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-scheveningen-models",
+      "chapterId": "flores-scheveningen-models",
+      "locator": {
+        "pdfPageStart": 413,
+        "pdfPageEnd": 415,
+        "printedPages": "412-414",
+        "section": "Complete Flores Rios-Vasquez game, ...g7-g5 example and final remarks; stop before Benko Structure on PDF 416",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-benko-overview",
+      "chapterId": "flores-benko-overview",
+      "locator": {
+        "pdfPageStart": 416,
+        "pdfPageEnd": 416,
+        "printedPages": "415",
+        "section": "Complete Benko formation diagram and plans for both colors; Ortiz Suarez-Leon Hoyos begins on PDF 416",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-benko-overview",
+      "chapterId": "flores-benko-overview",
+      "locator": {
+        "pdfPageStart": 416,
+        "pdfPageEnd": 416,
+        "printedPages": "415",
+        "section": "Complete Benko formation diagram and plans for both colors; Ortiz Suarez-Leon Hoyos begins on PDF 416",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-benko-ortiz-leon",
+      "chapterId": "flores-benko-ortiz-leon",
+      "locator": {
+        "pdfPageStart": 416,
+        "pdfPageEnd": 418,
+        "printedPages": "415-417",
+        "section": "Complete game and Benko final remarks; stop before Closed Ruy Lopez on PDF 418",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-benko-ortiz-leon",
+      "chapterId": "flores-benko-ortiz-leon",
+      "locator": {
+        "pdfPageStart": 416,
+        "pdfPageEnd": 418,
+        "printedPages": "415-417",
+        "section": "Complete game and Benko final remarks; stop before Closed Ruy Lopez on PDF 418",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--flores-closed-ruy-overview",
+      "chapterId": "flores-closed-ruy-overview",
+      "locator": {
+        "pdfPageStart": 418,
+        "pdfPageEnd": 419,
+        "printedPages": "417-418",
+        "section": "Complete Closed Ruy formation diagram, plans for both colors and Karpov-Unzicker model fragment; Morovic-Fadi begins on PDF 419",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-closed-ruy-overview",
+      "chapterId": "flores-closed-ruy-overview",
+      "locator": {
+        "pdfPageStart": 418,
+        "pdfPageEnd": 419,
+        "printedPages": "417-418",
+        "section": "Complete Closed Ruy formation diagram, plans for both colors and Karpov-Unzicker model fragment; Morovic-Fadi begins on PDF 419",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--flores-closed-ruy-morovic-fadi",
+      "chapterId": "flores-closed-ruy-morovic-fadi",
+      "locator": {
+        "pdfPageStart": 419,
+        "pdfPageEnd": 421,
+        "printedPages": "418-420",
+        "section": "Complete game and Closed Ruy final remarks; stop before Lopez Formation on PDF 422",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "space--flores-closed-ruy-morovic-fadi",
+      "chapterId": "flores-closed-ruy-morovic-fadi",
+      "locator": {
+        "pdfPageStart": 419,
+        "pdfPageEnd": 421,
+        "printedPages": "418-420",
+        "section": "Complete game and Closed Ruy final remarks; stop before Lopez Formation on PDF 422",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-to-middlegame-transition--flores-lopez-formation-overview",
+      "chapterId": "flores-lopez-formation-overview",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 422,
+        "printedPages": "421",
+        "section": "Complete Lopez formation diagram and six transformation branches; Navara-Sokolov begins on PDF 422",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "center-control--flores-lopez-formation-overview",
+      "chapterId": "flores-lopez-formation-overview",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 422,
+        "printedPages": "421",
+        "section": "Complete Lopez formation diagram and six transformation branches; Navara-Sokolov begins on PDF 422",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "backward-pawns--flores-lopez-navara-sokolov",
+      "chapterId": "flores-lopez-navara-sokolov",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 424,
+        "printedPages": "421-423",
+        "section": "Complete game and Chapter 22 final remarks; stop before Chapter 23 on PDF 425",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--flores-lopez-navara-sokolov",
+      "chapterId": "flores-lopez-navara-sokolov",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 424,
+        "printedPages": "421-423",
+        "section": "Complete game and Chapter 22 final remarks; stop before Chapter 23 on PDF 425",
+        "ebookLocation": null
+      }
     }
   ]
 }

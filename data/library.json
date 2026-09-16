@@ -1571,6 +1571,24 @@
           "Which king, rook, or minor piece supports or blocks the advance?",
           "Would a minority attack neutralize the larger group?"
         ]
+      },
+      {
+        "id": "study-pawn-majorities-various-majorities",
+        "concept": "Pawn majorities",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn chains",
+          "Passed pawns",
+          "Pawn breaks"
+        ],
+        "instructions": "Review PDF 401-403 and rebuild the 3-3 versus 4-2 card. Mark the d-file, White&#x27;s majority, Black&#x27;s ...a5/...b5-b4 minority plan and the bishop-pair question.",
+        "successCheck": "Explain which majority can move first and why the safer queenside operation outruns an unsupported king attack.",
+        "playReminders": [
+          "Which majority can advance with tempo?",
+          "Who benefits if pieces are exchanged?",
+          "Can I block the majority without surrendering central activity?"
+        ]
       }
     ]
   },
@@ -6268,6 +6286,461 @@
         ]
       }
     ]
+  },
+  {
+    "chapterId": "flores-various-structures-map",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Chapter 22 map: recognize the structure before choosing the plan; pp. 400-423; PDF 401-424",
+    "title": "Chapter 22 map: recognize the structure before choosing the plan",
+    "tags": [
+      "structure-recognition",
+      "structure-transformation",
+      "decision-making",
+      "pawn-breaks"
+    ],
+    "note": "Chapter 22 is a compact transition atlas rather than one pawn family. The 3-3 versus 4-2 structure compares competing wing majorities. The Panov starts from an isolani-like center but adds a queenside majority and can grow from a Carlsbad. Dragon and Scheveningen positions change character with castling direction, central breaks and exchange sacrifices. The Benko is a pawn-for-activity structure. Closed Ruy and Lopez formations branch into familiar King&#x27;s Indian, Benoni and center structures after d4-d5, c3-c4, ...c5-c4 or central exchanges.\n\nThe unifying skill is classification after a pawn change. A structural label gives a first list of plans, but the king locations, entry squares, active bishops and usable breaks decide which plan applies now. A position may resemble one family while one pawn on c3, c4, d4 or d5 changes the relevant target.\n\nFor study, identify the current skeleton, name the next likely transformation and state what new file, weak pawn or attacking route the exchange creates. This avoids carrying a plan from the previous structure into a position where its prerequisite has disappeared.",
+    "keyIdeas": [
+      "Classify the current pawn skeleton before recalling a plan.",
+      "Predict the next structural transformation.",
+      "King locations and entry squares can outweigh the family name.",
+      "Reclassify the position after every central exchange."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-to-middlegame-transition-various-comparison",
+        "concept": "Opening to middlegame transition",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Development",
+          "Center control"
+        ],
+        "instructions": "Compare all seven Chapter 22 cards. For each, record the defining pawn skeleton, the main break for both sides, the critical file and the most likely transformation.",
+        "successCheck": "Classify seven unlabeled skeletons from your notes and give one plan for each without using the opening name.",
+        "playReminders": [
+          "What structure exists now?",
+          "Which central exchange created it?",
+          "What old plan lost its prerequisite?",
+          "Which new file, target or break matters first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-panov-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Panov structure: queenside passer against pressure on the chain; pp. 403; PDF 404-404",
+    "title": "Panov structure: queenside passer against pressure on the chain",
+    "tags": [
+      "panov",
+      "queenside-majority",
+      "passed-pawns",
+      "isolated-pawns",
+      "pawn-breaks"
+    ],
+    "note": "The Panov structure arises after White has c- and d-pawns against Black&#x27;s e-pawn, often from the Caro-Kann Panov or from a Carlsbad after e3-e4. White&#x27;s main asset is the queenside majority. The direct plan is b2-b4-b5 and c5-c6, creating a passed pawn.\n\nBlack has two connected forms of counterplay. ...b7-b6 attacks the c5 head of White&#x27;s chain and trades it before it advances; pressure on the d4 base with a knight on c6, a bishop on f6 and ...f7-f5 can make the chain collapse. The structure is open enough that activity and speed matter more than the label alone.",
+    "keyIdeas": [
+      "White advances b4-b5 and c5-c6 to create a passer.",
+      "Black attacks c5 with ...b6.",
+      "Black pressures d4 with pieces and ...f5.",
+      "The Panov can transform from a Carlsbad."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-panov-models",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Panov models: advance the majority or dismantle it; pp. 404-407; PDF 405-408",
+    "title": "Panov models: advance the majority or dismantle it",
+    "tags": [
+      "panov",
+      "counterplay",
+      "backward-pawns",
+      "structure-transformation"
+    ],
+    "note": "Dreev-Galic shows White reaching c5 under favorable conditions, restricting Black&#x27;s pieces and preparing a passed pawn. Black accepts the structure without either ...b6 or pressure on d4 and is left passive; White&#x27;s queenside plan becomes a distraction that supports a decisive attack elsewhere.\n\nThe black examples supply the missing counterplay. Piece pressure on d4 can force White into a backward c3-pawn, while ...b7-b6 challenges c5 and can leave both c3 and a2 as targets. A Carlsbad can transpose into this structure after e3-e4 and exchanges, so both sides must recognize that the minority-attack plan has been replaced by play against the new c- and d-pawn chain.",
+    "keyIdeas": [
+      "Advance the queenside majority before it is fixed.",
+      "Use ...b6 to challenge the c5 head.",
+      "Pile pieces on d4 to create a backward c-pawn.",
+      "Abandon the old Carlsbad plan after the transformation."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-various-panov",
+        "concept": "Counterplay",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Build the Panov card from PDF 404-408. Compare White&#x27;s b4-b5/c5-c6 plan with Black&#x27;s pressure on d4 and ...b6, then trace the Carlsbad-to-Panov transformation.",
+        "successCheck": "Choose a plan for each side and state the new target created after the structural change.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-dragon-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Dragon formation: castling choice defines the wing race; pp. 408; PDF 409-409",
+    "title": "Dragon formation: castling choice defines the wing race",
+    "tags": [
+      "dragon",
+      "opposite-wing-attacks",
+      "open-files",
+      "exchange-sacrifice",
+      "king-safety"
+    ],
+    "note": "In the Dragon skeleton, White decides whether to castle long and attack with h2-h4-h5 or castle short and play more centrally with pressure on the d-file and a knight on d5. Black answers long castling with immediate queenside play on the c-file and a- and b-pawns; against short castling Black uses the c-file, a knight on c4 and piece pressure.\n\nThe exchange sacrifice ...Rxc3 is a recurring resource because doubled c-pawns can prevent White from conducting a clean kingside attack. The source treats this structure as highly tactical: the strategic card supplies the routes, but exact move order and calculation decide whether the sacrifice and wing race work.",
+    "keyIdeas": [
+      "White&#x27;s castling side determines the plan.",
+      "Black attacks long castling through the c-file and queenside pawns.",
+      "A knight on d5 or c4 can anchor the position.",
+      "The ...Rxc3 sacrifice targets coordination and king safety."
+    ],
+    "activities": [
+      {
+        "id": "study-king-safety-various-dragon",
+        "concept": "King safety",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Threat recognition",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Build the Dragon card from PDF 409-411. Separate plans after long and short castling, then test whether ...Rxc3 has enough positional compensation.",
+        "successCheck": "Name the files, knight squares and material compensation required for the exchange sacrifice.",
+        "playReminders": [
+          "Which attacking piece is still missing?",
+          "Can I close the wing or trade the key bishop?",
+          "What central break opens lines first?",
+          "Does this pawn move create an entry square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-dragon-hracek-cebalo",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Hracek-Cebalo: ...Rxc3 removes White&#x27;s queenside defense; pp. 409-410; PDF 410-411",
+    "title": "Hracek-Cebalo: ...Rxc3 removes White&#x27;s queenside defense",
+    "tags": [
+      "dragon",
+      "exchange-sacrifice",
+      "attacking-prerequisites",
+      "king-safety"
+    ],
+    "note": "Black sacrifices the exchange on c3 before White can organize the kingside attack. The doubled c-pawns and damaged coordination force White into passive queenside defense, while Black&#x27;s pieces keep the initiative and the e5-knight covers critical squares. White&#x27;s material edge never becomes usable.\n\nThe game makes the sacrifice&#x27;s positional prerequisites visible: Black gains multiple pawns, destroys the defender&#x27;s structure, controls the key files and retains an active king attack. The motif is not a license to sacrifice automatically; without those compensating features, the material loss would remain a loss.",
+    "keyIdeas": [
+      "Use ...Rxc3 to damage structure and coordination, not by reflex.",
+      "Keep the initiative after the sacrifice.",
+      "The e5-knight supports both attack and defense.",
+      "Material matters only if White can reorganize."
+    ],
+    "activities": [
+      {
+        "id": "study-king-safety-various-dragon",
+        "concept": "King safety",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Threat recognition",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Build the Dragon card from PDF 409-411. Separate plans after long and short castling, then test whether ...Rxc3 has enough positional compensation.",
+        "successCheck": "Name the files, knight squares and material compensation required for the exchange sacrifice.",
+        "playReminders": [
+          "Which attacking piece is still missing?",
+          "Can I close the wing or trade the key bishop?",
+          "What central break opens lines first?",
+          "Does this pawn move create an entry square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-scheveningen-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Scheveningen structure: central breaks and flexible king placement; pp. 411-412; PDF 412-413",
+    "title": "Scheveningen structure: central breaks and flexible king placement",
+    "tags": [
+      "scheveningen",
+      "d5-break",
+      "opposite-wing-attacks",
+      "structure-transformation",
+      "counterplay"
+    ],
+    "note": "White attacks with g2-g4-g5 and h-pawns, builds f2-f4-f5 pressure on e6, or combines f2-f4 with a long-castled attack. Black&#x27;s primary freeing move is ...d6-d5. Black also uses the c-file, a knight on c4, queenside expansion against a long-castled king and sometimes ...g7-g5 against f2-f4. Exchange sacrifices on c3 can resemble Dragon play.\n\nThe structure can transpose into French Type II, the 3-3 versus 4-2 center, Najdorf Type II or a Hedgehog depending on ...d5, captures and c2-c4. These branches make the Scheveningen a clear test of transformation awareness: central exchanges can end one plan and create another structure&#x27;s targets.",
+    "keyIdeas": [
+      "White combines kingside space with pressure on e6.",
+      "Black seeks ...d5 and c-file activity.",
+      "Castling direction changes the wing plan.",
+      "Central exchanges transpose into several known structures."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-to-middlegame-transition-various-scheveningen",
+        "concept": "Opening to middlegame transition",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Development",
+          "Center control"
+        ],
+        "instructions": "Build the Scheveningen card from PDF 412-415. Map ...d5, ...g5, c-file play and every listed transformation into French, majority, Najdorf and Hedgehog structures.",
+        "successCheck": "Given a central capture, name the resulting family and replace the old plan with the correct break or target.",
+        "playReminders": [
+          "What structure exists now?",
+          "Which central exchange created it?",
+          "What old plan lost its prerequisite?",
+          "Which new file, target or break matters first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-scheveningen-models",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Scheveningen models: delay castling, calculate ...d5 and use ...g5; pp. 412-414; PDF 413-415",
+    "title": "Scheveningen models: delay castling, calculate ...d5 and use ...g5",
+    "tags": [
+      "scheveningen",
+      "d5-break",
+      "g5-break",
+      "king-safety",
+      "outposts"
+    ],
+    "note": "Flores Rios-Vasquez shows Black playing ...d6-d5 while the king remains in the center. White&#x27;s pieces and pawn storm are ready, so the opening of lines produces sharp complications favorable to White. The source warns that the break is dangerous before castling unless Black has calculated the consequences precisely.\n\nThe contrasting ...g7-g5 example challenges White&#x27;s f4 setup and establishes a knight on c5. Black controls open files and key squares while White&#x27;s c4-pawn and bishop become ineffective. The break succeeds because Black&#x27;s pieces are coordinated and the king can remain safe enough in the center.",
+    "keyIdeas": [
+      "Calculate ...d5 carefully when the king remains central.",
+      "Use ...g5 to contest e5 and disrupt f4.",
+      "A knight on c5 can dominate both wings.",
+      "Central king safety depends on open lines, not a slogan."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-benko-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Benko structure: a pawn for files, targets and initiative; pp. 415; PDF 416-416",
+    "title": "Benko structure: a pawn for files, targets and initiative",
+    "tags": [
+      "benko",
+      "pawn-sacrifice",
+      "open-files",
+      "counterplay",
+      "fortress"
+    ],
+    "note": "Black gives the a-pawn to obtain lasting pressure on the open a- and b-files, targets against White&#x27;s queenside pawns and time while White untangles. White has two broad defensive strategies: build a queenside fortress with b3 and a4 supported by minor pieces, or create a central break with e4-e5 or f4-f5 before Black&#x27;s pressure settles.\n\nIf White simply protects the extra pawn, b2 or the advanced b-pawn can become fixed targets. Black&#x27;s compensation is positional rather than a forced tactical recovery, so White&#x27;s success depends on coordination and on generating active play before the files become permanent invasion routes.",
+    "keyIdeas": [
+      "Black exchanges a pawn for the a- and b-files.",
+      "White can build a queenside fortress or break in the center.",
+      "Passive pawn protection creates fixed targets.",
+      "Black&#x27;s initiative matters more than immediate pawn recovery."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-various-benko",
+        "concept": "Counterplay",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Build the Benko card from PDF 416-418. Compare White&#x27;s b3/a4 fortress and central breaks with Black&#x27;s a- and b-file pressure in Ortiz Suarez-Leon Hoyos.",
+        "successCheck": "Explain what Black receives for the pawn and how White must use the extra time before the files dominate.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-benko-ortiz-leon",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Ortiz Suarez-Leon Hoyos: failure to build the fortress; pp. 415-417; PDF 416-418",
+    "title": "Ortiz Suarez-Leon Hoyos: failure to build the fortress",
+    "tags": [
+      "benko",
+      "restriction",
+      "counterplay",
+      "queen-traps",
+      "open-files"
+    ],
+    "note": "White prepares b2-b3 and a2-a4 but never completes a stable queenside setup or creates a central break. Black regains the pawn while preserving pressure, attacks a4 and d5, and eventually traps White&#x27;s queen and collapses the position.\n\nThe source notes that once Black recovers the pawn, even a nearly symmetric material structure can favor Black because the active pieces, open files and fixed targets remain. White must use the time bought by the extra pawn; a passive holding operation lets Black improve without risk.",
+    "keyIdeas": [
+      "Complete the fortress before Black invades.",
+      "Use a central break if the queenside cannot be held.",
+      "Regaining the pawn does not end Black&#x27;s initiative.",
+      "Do not spend tempi defending every pawn separately."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-various-benko",
+        "concept": "Counterplay",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Build the Benko card from PDF 416-418. Compare White&#x27;s b3/a4 fortress and central breaks with Black&#x27;s a- and b-file pressure in Ortiz Suarez-Leon Hoyos.",
+        "successCheck": "Explain what Black receives for the pawn and how White must use the extra time before the files dominate.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-closed-ruy-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Closed Ruy Lopez: close the queenside before attacking the king; pp. 417-418; PDF 418-419",
+    "title": "Closed Ruy Lopez: close the queenside before attacking the king",
+    "tags": [
+      "closed-ruy-lopez",
+      "restriction",
+      "opposite-wing-attacks",
+      "king-safety",
+      "structure-comparison"
+    ],
+    "note": "This structure is closely related to King&#x27;s Indian Type III, but the missing c-pawns make queenside play less automatic. White may attack with g2-g4, knight maneuvers and f2-f4-f5, or use b2-b4 and the a-file against Black&#x27;s queenside. Black plays ...a7-a5 and ...b7-b5-b4, or expands with ...f7-f6-f4.\n\nThe model Karpov-Unzicker position shows White blocking the queenside with a bishop on a7, then attacking on the kingside. This works because Black cannot open useful queenside files. The strategic order is essential: secure the wing where the opponent has play, then move the pieces to the attack.",
+    "keyIdeas": [
+      "The absent c-pawns change the usual King&#x27;s Indian race.",
+      "White can close the queenside before attacking the king.",
+      "Black seeks ...b5-b4 or ...f6-f4.",
+      "A bishop blockade can neutralize queenside files."
+    ],
+    "activities": [
+      {
+        "id": "study-restriction-various-closed-ruy",
+        "concept": "Restriction",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Space",
+          "Pawn breaks"
+        ],
+        "instructions": "Build the Closed Ruy card from PDF 418-421. Compare the blocked-queenside Karpov model with Morovic-Fadi and the related King&#x27;s Indian Type III plans.",
+        "successCheck": "Explain how White neutralizes ...b5-b4 before transferring pieces to the center or kingside.",
+        "playReminders": [
+          "What useful operation does the opponent want, and how can I limit it?",
+          "Does my restricting move create a target the opponent can attack?",
+          "Which exchange removes the opponent&#x27;s best release?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-closed-ruy-morovic-fadi",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Morovic-Fadi: neutralize the queenside, then win the center; pp. 418-420; PDF 419-421",
+    "title": "Morovic-Fadi: neutralize the queenside, then win the center",
+    "tags": [
+      "closed-ruy-lopez",
+      "prophylaxis",
+      "restriction",
+      "space",
+      "protected-passed-pawn"
+    ],
+    "note": "White closes the center, forces Black to abandon kingside ambitions and restrains the queenside. A repeated a-pawn advance and the c-file pressure eventually cost Black the b5-pawn. With the wing plans contained, White&#x27;s central space and protected d5-pawn become decisive.\n\nThe game resembles King&#x27;s Indian Type I after exchanges, but White&#x27;s queenside containment is the key. Black&#x27;s premature ...c4 gives White control of c6 and removes the best counterplay. White uses prophylaxis first, then opens lines only when Black cannot generate threats.",
+    "keyIdeas": [
+      "Use a4 to restrain ...b5-b4.",
+      "Preserve the protected d5-pawn while improving pieces.",
+      "Do not release queenside tension with ...c4 prematurely.",
+      "Open the position only after counterplay is neutralized."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-lopez-formation-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Lopez formation: a flexible center with six structural branches; pp. 421; PDF 422-422",
+    "title": "Lopez formation: a flexible center with six structural branches",
+    "tags": [
+      "lopez-formation",
+      "structure-transformation",
+      "center-control",
+      "opening-to-middlegame-transition"
+    ],
+    "note": "The Lopez formation is a flexible Ruy Lopez center with White pawns on c3, d4 and e4 against Black pawns on c5, d6 and e5. It can transform into King&#x27;s Indian Type II after d4-d5 and c3-c4; a Closed Ruy after d4-d5 and ...c5-c4; a KID Complex after central exchanges; an Asymmetric Benoni after ...exd4 and cxd4; or KID Type I after ...cxd4 and cxd4. A double trade on d4 creates another independent center.\n\nThe card&#x27;s purpose is prospective classification. Before choosing a plan, both sides should ask which capture order and pawn advance produces the most favorable known structure. The same position can demand different piece placement depending on the branch selected.",
+    "keyIdeas": [
+      "The formation is a branching point rather than a fixed plan.",
+      "Capture order on d4 selects different structures.",
+      "d4-d5 and c3-c4 can enter King&#x27;s Indian families.",
+      "Classify the resulting center before continuing."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-to-middlegame-transition-various-lopez",
+        "concept": "Opening to middlegame transition",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Development",
+          "Center control"
+        ],
+        "instructions": "Build the Lopez formation card from PDF 422-424. Draw all six structural branches and use Navara-Sokolov to compare the e4 and d6 targets after the double trade.",
+        "successCheck": "Given the capture order on d4, name the resulting structure and its first practical target.",
+        "playReminders": [
+          "What structure exists now?",
+          "Which central exchange created it?",
+          "What old plan lost its prerequisite?",
+          "Which new file, target or break matters first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-lopez-navara-sokolov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Navara-Sokolov: central counterplay after the double trade on d4; pp. 421-423; PDF 422-424",
+    "title": "Navara-Sokolov: central counterplay after the double trade on d4",
+    "tags": [
+      "lopez-formation",
+      "backward-pawns",
+      "central-break",
+      "piece-activity",
+      "counterplay"
+    ],
+    "note": "After both sides trade on d4, White&#x27;s e4-pawn appears to be the natural target, but Black&#x27;s d6-pawn becomes vulnerable first. White opens the position with c3-c4 and e4-e5 while Black&#x27;s pieces are poorly coordinated. The supposedly bad bishop becomes strong on the h8-a1 diagonal, and the d6 weakness decides the game.\n\nBlack&#x27;s counterplay against d4 initially works, but the recapture leaves the pieces unable to meet White&#x27;s central expansion. The lesson is to evaluate the complete resulting position: a fixed pawn is weak only if it can be attacked before the opponent&#x27;s active break arrives.",
+    "keyIdeas": [
+      "After the double trade, compare e4 and d6 as targets.",
+      "Use c4 and e5 to open the center with better coordination.",
+      "A bishop can become strong when the center opens.",
+      "A nominal weakness matters only when it can be reached in time."
+    ],
+    "activities": []
   },
   {
     "chapterId": "kotov-analysis-training",
