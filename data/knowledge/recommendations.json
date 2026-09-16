@@ -1424,6 +1424,65 @@
         "pawn-majorities--flores-asymmetric-benoni-overview",
         "pawn-majorities--flores-symmetric-benoni-overview"
       ]
+    },
+    {
+      "id": "study-pawn-chains-french1-card",
+      "crossrefIds": [
+        "pawn-chains--flores-french1-overview"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-french1-transform",
+      "crossrefIds": [
+        "pawn-breaks--flores-french1-shankland-akobian",
+        "pawn-breaks--flores-french1-areshchenko-vovk"
+      ]
+    },
+    {
+      "id": "study-pawn-chains-french2-card",
+      "crossrefIds": [
+        "pawn-chains--flores-french2-overview"
+      ]
+    },
+    {
+      "id": "study-good-and-bad-bishops-french2-bishops",
+      "crossrefIds": [
+        "good-and-bad-bishops--flores-french2-maze-ni-hua",
+        "good-and-bad-bishops--flores-french2-van-wely-karjakin",
+        "good-and-bad-bishops--flores-french2-transitions"
+      ]
+    },
+    {
+      "id": "study-king-safety-french2-race",
+      "crossrefIds": [
+        "king-safety--flores-french2-naier-jirurik"
+      ]
+    },
+    {
+      "id": "study-pawn-chains-french3-card",
+      "crossrefIds": [
+        "pawn-chains--flores-french3-overview"
+      ]
+    },
+    {
+      "id": "study-open-files-french3-entry",
+      "crossrefIds": [
+        "open-files--flores-french3-granda-narciso"
+      ]
+    },
+    {
+      "id": "study-pawn-breaks-french3-hooks",
+      "crossrefIds": [
+        "pawn-breaks--flores-french3-carlsen-wang",
+        "pawn-breaks--flores-french3-gopal-bologan"
+      ]
+    },
+    {
+      "id": "study-counterplay-french3-black",
+      "crossrefIds": [
+        "counterplay--flores-french3-zhigalko-radulski",
+        "counterplay--flores-french3-babaev-burmakin"
+      ]
     }
   ]
 }

@@ -5841,6 +5841,402 @@
         "section": "Complete Chapter 13 formation diagram and plan overview; Spassky-Fischer begins on PDF 244",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "pawn-chains--flores-french1-overview",
+      "chapterId": "flores-french1-overview",
+      "locator": {
+        "pdfPageStart": 354,
+        "pdfPageEnd": 354,
+        "printedPages": "353",
+        "section": "Complete Chapter 19 formation diagram, plans for both sides and chapter map; Areshchenko-Vovk begins on PDF 355",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-french1-overview",
+      "chapterId": "flores-french1-overview",
+      "locator": {
+        "pdfPageStart": 354,
+        "pdfPageEnd": 354,
+        "printedPages": "353",
+        "section": "Complete Chapter 19 formation diagram, plans for both sides and chapter map; Areshchenko-Vovk begins on PDF 355",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-french1-overview",
+      "chapterId": "flores-french1-overview",
+      "locator": {
+        "pdfPageStart": 354,
+        "pdfPageEnd": 354,
+        "printedPages": "353",
+        "section": "Complete Chapter 19 formation diagram, plans for both sides and chapter map; Areshchenko-Vovk begins on PDF 355",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-french1-overview",
+      "chapterId": "flores-french1-overview",
+      "locator": {
+        "pdfPageStart": 354,
+        "pdfPageEnd": 354,
+        "printedPages": "353",
+        "section": "Complete Chapter 19 formation diagram, plans for both sides and chapter map; Areshchenko-Vovk begins on PDF 355",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-french2-overview",
+      "chapterId": "flores-french2-overview",
+      "locator": {
+        "pdfPageStart": 365,
+        "pdfPageEnd": 366,
+        "printedPages": "364-365",
+        "section": "Complete Chapter 20 formation diagram, plans for both sides and chapter map; Zhigalko-Rakhmanov begins on PDF 366",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-french2-overview",
+      "chapterId": "flores-french2-overview",
+      "locator": {
+        "pdfPageStart": 365,
+        "pdfPageEnd": 366,
+        "printedPages": "364-365",
+        "section": "Complete Chapter 20 formation diagram, plans for both sides and chapter map; Zhigalko-Rakhmanov begins on PDF 366",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-french2-overview",
+      "chapterId": "flores-french2-overview",
+      "locator": {
+        "pdfPageStart": 365,
+        "pdfPageEnd": 366,
+        "printedPages": "364-365",
+        "section": "Complete Chapter 20 formation diagram, plans for both sides and chapter map; Zhigalko-Rakhmanov begins on PDF 366",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-french2-overview",
+      "chapterId": "flores-french2-overview",
+      "locator": {
+        "pdfPageStart": 365,
+        "pdfPageEnd": 366,
+        "printedPages": "364-365",
+        "section": "Complete Chapter 20 formation diagram, plans for both sides and chapter map; Zhigalko-Rakhmanov begins on PDF 366",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-chains--flores-french3-overview",
+      "chapterId": "flores-french3-overview",
+      "locator": {
+        "pdfPageStart": 384,
+        "pdfPageEnd": 385,
+        "printedPages": "383-384",
+        "section": "Complete Chapter 21 formation diagram, plans for both sides and chapter map; Granda Zuniga-Narciso Dublan begins on PDF 385",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-french3-overview",
+      "chapterId": "flores-french3-overview",
+      "locator": {
+        "pdfPageStart": 384,
+        "pdfPageEnd": 385,
+        "printedPages": "383-384",
+        "section": "Complete Chapter 21 formation diagram, plans for both sides and chapter map; Granda Zuniga-Narciso Dublan begins on PDF 385",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-french3-overview",
+      "chapterId": "flores-french3-overview",
+      "locator": {
+        "pdfPageStart": 384,
+        "pdfPageEnd": 385,
+        "printedPages": "383-384",
+        "section": "Complete Chapter 21 formation diagram, plans for both sides and chapter map; Granda Zuniga-Narciso Dublan begins on PDF 385",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-french3-overview",
+      "chapterId": "flores-french3-overview",
+      "locator": {
+        "pdfPageStart": 384,
+        "pdfPageEnd": 385,
+        "printedPages": "383-384",
+        "section": "Complete Chapter 21 formation diagram, plans for both sides and chapter map; Granda Zuniga-Narciso Dublan begins on PDF 385",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-french1-areshchenko-vovk",
+      "chapterId": "flores-french1-areshchenko-vovk",
+      "locator": {
+        "pdfPageStart": 355,
+        "pdfPageEnd": 358,
+        "printedPages": "354-357",
+        "section": "Complete game and final remarks; Paichadze-Jobava begins on PDF 359",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-french1-areshchenko-vovk",
+      "chapterId": "flores-french1-areshchenko-vovk",
+      "locator": {
+        "pdfPageStart": 355,
+        "pdfPageEnd": 358,
+        "printedPages": "354-357",
+        "section": "Complete game and final remarks; Paichadze-Jobava begins on PDF 359",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-french1-paichadze-jobava",
+      "chapterId": "flores-french1-paichadze-jobava",
+      "locator": {
+        "pdfPageStart": 359,
+        "pdfPageEnd": 361,
+        "printedPages": "358-360",
+        "section": "Complete game and final remarks; Shankland-Akobian begins on PDF 361",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-french1-shankland-akobian",
+      "chapterId": "flores-french1-shankland-akobian",
+      "locator": {
+        "pdfPageStart": 361,
+        "pdfPageEnd": 364,
+        "printedPages": "360-363",
+        "section": "Complete game and Chapter 19 final remarks; stop before Chapter 20 on PDF 365",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--flores-french1-shankland-akobian",
+      "chapterId": "flores-french1-shankland-akobian",
+      "locator": {
+        "pdfPageStart": 361,
+        "pdfPageEnd": 364,
+        "printedPages": "360-363",
+        "section": "Complete game and Chapter 19 final remarks; stop before Chapter 20 on PDF 365",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "attacking-prerequisites--flores-french2-zhigalko-rakhmanov",
+      "chapterId": "flores-french2-zhigalko-rakhmanov",
+      "locator": {
+        "pdfPageStart": 366,
+        "pdfPageEnd": 368,
+        "printedPages": "365-367",
+        "section": "Complete game and final remarks; Karjakin-Carlsen begins on PDF 369",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-french2-karjakin-carlsen",
+      "chapterId": "flores-french2-karjakin-carlsen",
+      "locator": {
+        "pdfPageStart": 369,
+        "pdfPageEnd": 371,
+        "printedPages": "368-370",
+        "section": "Complete game and final remarks; Van Wely-Karjakin begins on PDF 372",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--flores-french2-van-wely-karjakin",
+      "chapterId": "flores-french2-van-wely-karjakin",
+      "locator": {
+        "pdfPageStart": 372,
+        "pdfPageEnd": 374,
+        "printedPages": "371-373",
+        "section": "Complete game and final remarks; Maze-Ni Hua begins on PDF 375",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-french2-maze-ni-hua",
+      "chapterId": "flores-french2-maze-ni-hua",
+      "locator": {
+        "pdfPageStart": 375,
+        "pdfPageEnd": 378,
+        "printedPages": "374-377",
+        "section": "Complete game and final remarks; Naier-Jirurik begins on PDF 378",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "defensive-exchanges--flores-french2-transitions",
+      "chapterId": "flores-french2-transitions",
+      "locator": {
+        "pdfPageStart": 381,
+        "pdfPageEnd": 383,
+        "printedPages": "380-382",
+        "section": "Complete final two instructional examples and Chapter 20 discussion; stop before Chapter 21 on PDF 384",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--flores-french3-granda-narciso",
+      "chapterId": "flores-french3-granda-narciso",
+      "locator": {
+        "pdfPageStart": 385,
+        "pdfPageEnd": 388,
+        "printedPages": "384-387",
+        "section": "Complete game and final remarks; Carlsen-Wang Hao begins on PDF 389",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-french3-carlsen-wang",
+      "chapterId": "flores-french3-carlsen-wang",
+      "locator": {
+        "pdfPageStart": 389,
+        "pdfPageEnd": 391,
+        "printedPages": "388-390",
+        "section": "Complete game and final remarks; Zhigalko-Radulski begins on PDF 392",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--flores-french3-zhigalko-radulski",
+      "chapterId": "flores-french3-zhigalko-radulski",
+      "locator": {
+        "pdfPageStart": 392,
+        "pdfPageEnd": 395,
+        "printedPages": "391-394",
+        "section": "Complete game and final remarks; Gopal-Bologan begins on PDF 396",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-french3-gopal-bologan",
+      "chapterId": "flores-french3-gopal-bologan",
+      "locator": {
+        "pdfPageStart": 396,
+        "pdfPageEnd": 397,
+        "printedPages": "395-396",
+        "section": "Complete game and final remarks; Babaev-Burmakin begins on PDF 398",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--flores-french3-babaev-burmakin",
+      "chapterId": "flores-french3-babaev-burmakin",
+      "locator": {
+        "pdfPageStart": 398,
+        "pdfPageEnd": 400,
+        "printedPages": "397-399",
+        "section": "Complete game and Chapter 21 final remarks; stop before Chapter 22 on PDF 401",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-french1-shankland-akobian",
+      "chapterId": "flores-french1-shankland-akobian",
+      "locator": {
+        "pdfPageStart": 361,
+        "pdfPageEnd": 364,
+        "printedPages": "360-363",
+        "section": "Complete game and Chapter 19 final remarks; stop before Chapter 20 on PDF 365",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-french1-areshchenko-vovk",
+      "chapterId": "flores-french1-areshchenko-vovk",
+      "locator": {
+        "pdfPageStart": 355,
+        "pdfPageEnd": 358,
+        "printedPages": "354-357",
+        "section": "Complete game and final remarks; Paichadze-Jobava begins on PDF 359",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-french2-van-wely-karjakin",
+      "chapterId": "flores-french2-van-wely-karjakin",
+      "locator": {
+        "pdfPageStart": 372,
+        "pdfPageEnd": 374,
+        "printedPages": "371-373",
+        "section": "Complete game and final remarks; Maze-Ni Hua begins on PDF 375",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--flores-french2-transitions",
+      "chapterId": "flores-french2-transitions",
+      "locator": {
+        "pdfPageStart": 381,
+        "pdfPageEnd": 383,
+        "printedPages": "380-382",
+        "section": "Complete final two instructional examples and Chapter 20 discussion; stop before Chapter 21 on PDF 384",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--flores-french2-naier-jirurik",
+      "chapterId": "flores-french2-naier-jirurik",
+      "locator": {
+        "pdfPageStart": 378,
+        "pdfPageEnd": 381,
+        "printedPages": "377-380",
+        "section": "Complete game and final remarks; trading-pieces example begins on PDF 381",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-french3-carlsen-wang",
+      "chapterId": "flores-french3-carlsen-wang",
+      "locator": {
+        "pdfPageStart": 389,
+        "pdfPageEnd": 391,
+        "printedPages": "388-390",
+        "section": "Complete game and final remarks; Zhigalko-Radulski begins on PDF 392",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--flores-french3-gopal-bologan",
+      "chapterId": "flores-french3-gopal-bologan",
+      "locator": {
+        "pdfPageStart": 396,
+        "pdfPageEnd": 397,
+        "printedPages": "395-396",
+        "section": "Complete game and final remarks; Babaev-Burmakin begins on PDF 398",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-french3-zhigalko-radulski",
+      "chapterId": "flores-french3-zhigalko-radulski",
+      "locator": {
+        "pdfPageStart": 392,
+        "pdfPageEnd": 395,
+        "printedPages": "391-394",
+        "section": "Complete game and final remarks; Gopal-Bologan begins on PDF 396",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--flores-french3-babaev-burmakin",
+      "chapterId": "flores-french3-babaev-burmakin",
+      "locator": {
+        "pdfPageStart": 398,
+        "pdfPageEnd": 400,
+        "printedPages": "397-399",
+        "section": "Complete game and Chapter 21 final remarks; stop before Chapter 22 on PDF 401",
+        "ebookLocation": null
+      }
     }
   ]
 }

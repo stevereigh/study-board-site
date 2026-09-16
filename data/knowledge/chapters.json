@@ -2938,6 +2938,227 @@
         "section": "Complete game and Chapter 13 final remarks; stop before Chapter 14 on PDF 262",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "flores-french1-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "French Type I: e5 control against pressure on d4; pp. 353; PDF 354-354",
+      "title": "French Type I: e5 control against pressure on d4",
+      "locator": {
+        "pdfPageStart": 354,
+        "pdfPageEnd": 354,
+        "printedPages": "353",
+        "section": "Complete Chapter 19 formation diagram, plans for both sides and chapter map; Areshchenko-Vovk begins on PDF 355",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french1-areshchenko-vovk",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Areshchenko-Vovk: control e5, then attack; pp. 354-357; PDF 355-358",
+      "title": "Areshchenko-Vovk: control e5, then attack",
+      "locator": {
+        "pdfPageStart": 355,
+        "pdfPageEnd": 358,
+        "printedPages": "354-357",
+        "section": "Complete game and final remarks; Paichadze-Jobava begins on PDF 359",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french1-paichadze-jobava",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Paichadze-Jobava: exchange sacrifice against the pawn chain; pp. 358-360; PDF 359-361",
+      "title": "Paichadze-Jobava: exchange sacrifice against the pawn chain",
+      "locator": {
+        "pdfPageStart": 359,
+        "pdfPageEnd": 361,
+        "printedPages": "358-360",
+        "section": "Complete game and final remarks; Shankland-Akobian begins on PDF 361",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french1-shankland-akobian",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Shankland-Akobian: the ...e5 transformation; pp. 360-363; PDF 361-364",
+      "title": "Shankland-Akobian: the ...e5 transformation",
+      "locator": {
+        "pdfPageStart": 361,
+        "pdfPageEnd": 364,
+        "printedPages": "360-363",
+        "section": "Complete game and Chapter 19 final remarks; stop before Chapter 20 on PDF 365",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french2-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "French Type II: d4 control, f4-f5 and opposite-wing attacks; pp. 364-365; PDF 365-366",
+      "title": "French Type II: d4 control, f4-f5 and opposite-wing attacks",
+      "locator": {
+        "pdfPageStart": 365,
+        "pdfPageEnd": 366,
+        "printedPages": "364-365",
+        "section": "Complete Chapter 20 formation diagram, plans for both sides and chapter map; Zhigalko-Rakhmanov begins on PDF 366",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french2-zhigalko-rakhmanov",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Zhigalko-Rakhmanov: prepare f4-f5; pp. 365-367; PDF 366-368",
+      "title": "Zhigalko-Rakhmanov: prepare f4-f5",
+      "locator": {
+        "pdfPageStart": 366,
+        "pdfPageEnd": 368,
+        "printedPages": "365-367",
+        "section": "Complete game and final remarks; Karjakin-Carlsen begins on PDF 369",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french2-karjakin-carlsen",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Karjakin-Carlsen: central counterplay punishes a premature attack; pp. 368-370; PDF 369-371",
+      "title": "Karjakin-Carlsen: central counterplay punishes a premature attack",
+      "locator": {
+        "pdfPageStart": 369,
+        "pdfPageEnd": 371,
+        "printedPages": "368-370",
+        "section": "Complete game and final remarks; Van Wely-Karjakin begins on PDF 372",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french2-van-wely-karjakin",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Van Wely-Karjakin: strong knight against the wrong bishop; pp. 371-373; PDF 372-374",
+      "title": "Van Wely-Karjakin: strong knight against the wrong bishop",
+      "locator": {
+        "pdfPageStart": 372,
+        "pdfPageEnd": 374,
+        "printedPages": "371-373",
+        "section": "Complete game and final remarks; Maze-Ni Hua begins on PDF 375",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french2-maze-ni-hua",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Maze-Ni Hua: activate the bishop outside the chain; pp. 374-377; PDF 375-378",
+      "title": "Maze-Ni Hua: activate the bishop outside the chain",
+      "locator": {
+        "pdfPageStart": 375,
+        "pdfPageEnd": 378,
+        "printedPages": "374-377",
+        "section": "Complete game and final remarks; Naier-Jirurik begins on PDF 378",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french2-naier-jirurik",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Naier-Jirurik: opposite-flank storms after long castling; pp. 377-380; PDF 378-381",
+      "title": "Naier-Jirurik: opposite-flank storms after long castling",
+      "locator": {
+        "pdfPageStart": 378,
+        "pdfPageEnd": 381,
+        "printedPages": "377-380",
+        "section": "Complete game and final remarks; trading-pieces example begins on PDF 381",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french2-transitions",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "French Type II: trade pieces, break with ...g5 and free the bishop; pp. 380-382; PDF 381-383",
+      "title": "French Type II: trade pieces, break with ...g5 and free the bishop",
+      "locator": {
+        "pdfPageStart": 381,
+        "pdfPageEnd": 383,
+        "printedPages": "380-382",
+        "section": "Complete final two instructional examples and Chapter 20 discussion; stop before Chapter 21 on PDF 384",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french3-overview",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "French Type III: chain-base attacks with kings on opposite wings; pp. 383-384; PDF 384-385",
+      "title": "French Type III: chain-base attacks with kings on opposite wings",
+      "locator": {
+        "pdfPageStart": 384,
+        "pdfPageEnd": 385,
+        "printedPages": "383-384",
+        "section": "Complete Chapter 21 formation diagram, plans for both sides and chapter map; Granda Zuniga-Narciso Dublan begins on PDF 385",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french3-granda-narciso",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Granda Zuniga-Narciso Dublan: the c-file is useful only with entry points; pp. 384-387; PDF 385-388",
+      "title": "Granda Zuniga-Narciso Dublan: the c-file is useful only with entry points",
+      "locator": {
+        "pdfPageStart": 385,
+        "pdfPageEnd": 388,
+        "printedPages": "384-387",
+        "section": "Complete game and final remarks; Carlsen-Wang Hao begins on PDF 389",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french3-carlsen-wang",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Carlsen-Wang Hao: h4-h5 is stronger after ...hxg6; pp. 388-390; PDF 389-391",
+      "title": "Carlsen-Wang Hao: h4-h5 is stronger after ...hxg6",
+      "locator": {
+        "pdfPageStart": 389,
+        "pdfPageEnd": 391,
+        "printedPages": "388-390",
+        "section": "Complete game and final remarks; Zhigalko-Radulski begins on PDF 392",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french3-zhigalko-radulski",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Zhigalko-Radulski: combine ...c5-c4 with queenside safety; pp. 391-394; PDF 392-395",
+      "title": "Zhigalko-Radulski: combine ...c5-c4 with queenside safety",
+      "locator": {
+        "pdfPageStart": 392,
+        "pdfPageEnd": 395,
+        "printedPages": "391-394",
+        "section": "Complete game and final remarks; Gopal-Bologan begins on PDF 396",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french3-gopal-bologan",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Gopal-Bologan: hit the head with ...f6; pp. 395-396; PDF 396-397",
+      "title": "Gopal-Bologan: hit the head with ...f6",
+      "locator": {
+        "pdfPageStart": 396,
+        "pdfPageEnd": 397,
+        "printedPages": "395-396",
+        "section": "Complete game and final remarks; Babaev-Burmakin begins on PDF 398",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "flores-french3-babaev-burmakin",
+      "bookId": "flores-rios-chess-structures-2015",
+      "ref": "Babaev-Burmakin: the complete French Type III plan; pp. 397-399; PDF 398-400",
+      "title": "Babaev-Burmakin: the complete French Type III plan",
+      "locator": {
+        "pdfPageStart": 398,
+        "pdfPageEnd": 400,
+        "printedPages": "397-399",
+        "section": "Complete game and Chapter 21 final remarks; stop before Chapter 22 on PDF 401",
+        "ebookLocation": null
+      }
     }
   ]
 }

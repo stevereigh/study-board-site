@@ -5647,6 +5647,629 @@
     ]
   },
   {
+    "chapterId": "flores-french1-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "French Type I: e5 control against pressure on d4; pp. 353; PDF 354-354",
+    "title": "French Type I: e5 control against pressure on d4",
+    "tags": [
+      "french-type-i",
+      "e5-outpost",
+      "d4-pressure",
+      "f6-break",
+      "pawn-chains"
+    ],
+    "note": "White&#x27;s advanced d5 pawn gives space, while Black challenges it with ...f7-f6. The strategic center is e5. If White controls e5 firmly, a knight or bishop can occupy the square, the backward e6-pawn can become a target, and White may expand with f2-f4 or h2-h4-h5. Black must create counterplay before that grip becomes permanent.\n\nBlack pressures d4, uses ...c7-c5xd4, ...Nc6 and sometimes ...b6, brings the light-squared bishop to the game through d7-e8-h5 or g6, doubles on the f-file and may sacrifice ...Rxf3 to damage White&#x27;s king. The central break ...e6-e5 can isolate and pass the d-pawn, changing both its strength and its blockading requirements. The card therefore asks whether White has secured e5 and whether Black can attack d4 or the king in time.",
+    "keyIdeas": [
+      "White&#x27;s first task is firm control of e5.",
+      "Black seeks immediate pressure on d4 and counterplay on the f-file.",
+      "White may expand with f4 or h4-h5 after securing the center.",
+      "The ...e5 break transforms d5 into an isolated passed pawn."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-chains-french1-card",
+        "concept": "Pawn chains",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Pawn breaks",
+          "Opening to middlegame transition"
+        ],
+        "instructions": "Build the French Type I card from PDF 354. Record White&#x27;s e5, f4 and h5 plans; Black&#x27;s pressure on d4, bishop routes, f-file play and ...e5 transformation.",
+        "successCheck": "Identify Type I and explain whether White has secured e5 or Black can create counterplay first.",
+        "playReminders": [
+          "Where are the base and head now?",
+          "Which break changes the chain in my favor?",
+          "What square, file or passer appears after the exchange?",
+          "Did the king locations change the race?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french1-areshchenko-vovk",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Areshchenko-Vovk: control e5, then attack; pp. 354-357; PDF 355-358",
+    "title": "Areshchenko-Vovk: control e5, then attack",
+    "tags": [
+      "french-type-i",
+      "outposts",
+      "attacking-prerequisites",
+      "pawn-hooks"
+    ],
+    "note": "White prevents Black&#x27;s freeing play, reinforces e5 and uses the h-pawn to gain space before opening lines. Black&#x27;s early ...c5-c4 gives up useful pressure on d4 and leaves the e5-square without a reliable challenge. Once White&#x27;s pieces occupy their ideal squares, the kingside attack is decisive.\n\nThe source emphasizes the move order: h3 prevents ...Ng4, the bishop reaches e5, and h4-h5 becomes effective only after the center is stable. Black&#x27;s g6-pawn is a lasting hook; with a pawn on g7 instead, White would have had less to attack.",
+    "keyIdeas": [
+      "Do not release pressure on d4 without compensation.",
+      "Use h3 to secure e5 and prepare expansion.",
+      "Treat an advanced kingside pawn as a hook.",
+      "Attack only after central control is secure."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-french1-transform",
+        "concept": "Pawn breaks",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Areshchenko-Vovk and Shankland-Akobian on PDF 355-364. Track how e5 control produces an attack in one game and how ...e5 creates a passed-pawn ending in the other.",
+        "successCheck": "State the structural change caused by ...e5 and whether exchanges now favor the blockader or the passer.",
+        "playReminders": [
+          "What does this break attack?",
+          "Which pieces can use the opened line?",
+          "What is the opponent&#x27;s strongest counterbreak?",
+          "What new structure will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french1-paichadze-jobava",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Paichadze-Jobava: exchange sacrifice against the pawn chain; pp. 358-360; PDF 359-361",
+    "title": "Paichadze-Jobava: exchange sacrifice against the pawn chain",
+    "tags": [
+      "french-type-i",
+      "exchange-sacrifice",
+      "king-safety",
+      "pawn-chains"
+    ],
+    "note": "Black transfers into the Type I structure under favorable conditions, then uses ...Rxf3 to destroy White&#x27;s pawn cover and chain. White cannot organize e5 control or meet threats on both wings. The sacrifice is justified by the resulting targets, open lines and unsafe king rather than by a general rule about the f-file.\n\nThe example also shows the cost of slow development. White&#x27;s extra material cannot be coordinated while Black&#x27;s pieces arrive with tempo. A defensive bishop retreat would have preserved the structure better than accepting every material gain.",
+    "keyIdeas": [
+      "Use ...Rxf3 only when it destroys the chain and opens lines.",
+      "Development and king safety can outweigh nominal material.",
+      "A bishop may need to preserve the pawn cover.",
+      "The resulting targets must justify the exchange."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-french1-shankland-akobian",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Shankland-Akobian: the ...e5 transformation; pp. 360-363; PDF 361-364",
+    "title": "Shankland-Akobian: the ...e5 transformation",
+    "tags": [
+      "french-type-i",
+      "structure-transformation",
+      "passed-pawns",
+      "favorable-exchanges"
+    ],
+    "note": "Black achieves ...e6-e5 with tempo, turning the d5-pawn into an isolated passer. White no longer has the simple e5-outpost plan and must blockade accurately. Trading rooks favors Black because the passed pawn and king become stronger as the heavy pieces disappear.\n\nThe example corrects the automatic belief that an isolated pawn must be weak. Here the pawn advances, fixes White&#x27;s pieces and supports a winning king invasion. White needed a firm blockade before simplifying; exchanging without that control made the passer decisive.",
+    "keyIdeas": [
+      "Reclassify the d5-pawn after ...e5.",
+      "Blockade a passed pawn before trading heavy pieces.",
+      "An isolated pawn can gain strength in an ending.",
+      "Simplification is favorable only when the passer is contained."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-french1-transform",
+        "concept": "Pawn breaks",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Areshchenko-Vovk and Shankland-Akobian on PDF 355-364. Track how e5 control produces an attack in one game and how ...e5 creates a passed-pawn ending in the other.",
+        "successCheck": "State the structural change caused by ...e5 and whether exchanges now favor the blockader or the passer.",
+        "playReminders": [
+          "What does this break attack?",
+          "Which pieces can use the opened line?",
+          "What is the opponent&#x27;s strongest counterbreak?",
+          "What new structure will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french2-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "French Type II: d4 control, f4-f5 and opposite-wing attacks; pp. 364-365; PDF 365-366",
+    "title": "French Type II: d4 control, f4-f5 and opposite-wing attacks",
+    "tags": [
+      "french-type-ii",
+      "d4-outpost",
+      "f5-break",
+      "opposite-wing-attacks",
+      "good-and-bad-bishops"
+    ],
+    "note": "This mirror of a King&#x27;s Indian formation gives White more space and a strong d4-square. White places a knight on d4, attacks the e6 base with f4-f5, builds a kingside pawn storm, and may use b2-b4-b5 if Black&#x27;s king is on the queenside. Black attacks the e5 head with ...f7-f6, undermines it with ...g7-g5, trades the light-squared bishop or moves it outside the chain, and may counter on the queenside.\n\nThe side on which White castles changes the race. Short castling often supports a direct f- and g-pawn attack; long castling makes opposite-wing timing and calculation central. Black&#x27;s supposedly bad light-squared bishop may become the key attacker if it reaches g6 or h7-b1. The card therefore treats d4 control, bishop placement, king locations and the timing of ...f6 as one decision system.",
+    "keyIdeas": [
+      "White occupies d4 and attacks e6 with f4-f5.",
+      "Black challenges e5 with ...f6 or ...g5.",
+      "Castling direction determines the wing race.",
+      "The light-squared bishop may be Black&#x27;s strongest attacking piece."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-chains-french2-card",
+        "concept": "Pawn chains",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Pawn breaks",
+          "Opening to middlegame transition"
+        ],
+        "instructions": "Build the French Type II card from PDF 365-366. Include d4, f4-f5, ...f6, ...g5, castling choices, queenside counterplay and both bishop routes.",
+        "successCheck": "Identify Type II and choose each side&#x27;s break from the king locations and bishop placement.",
+        "playReminders": [
+          "Where are the base and head now?",
+          "Which break changes the chain in my favor?",
+          "What square, file or passer appears after the exchange?",
+          "Did the king locations change the race?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french2-zhigalko-rakhmanov",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Zhigalko-Rakhmanov: prepare f4-f5; pp. 365-367; PDF 366-368",
+    "title": "Zhigalko-Rakhmanov: prepare f4-f5",
+    "tags": [
+      "french-type-ii",
+      "f5-break",
+      "attacking-prerequisites",
+      "restriction"
+    ],
+    "note": "White secures d4, keeps Black&#x27;s bishop shut in and prepares f4-f5 with coordinated pieces. Black&#x27;s passive setup and misplaced knight give no queenside or central distraction. Once f5 lands under ideal conditions, the kingside attack is overwhelming.\n\nThe source warns that the natural-looking b-pawn advance is useful because it restrains Black&#x27;s queenside play while keeping the bishop on b7. White&#x27;s attack succeeds through preparation, not because f5 is automatically strong in every French chain.",
+    "keyIdeas": [
+      "Secure d4 before committing to the attack.",
+      "Restrict Black&#x27;s queenside counterplay.",
+      "Keep the bad bishop outside the game.",
+      "Play f5 only when the pieces support the opened lines."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-french2-karjakin-carlsen",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Karjakin-Carlsen: central counterplay punishes a premature attack; pp. 368-370; PDF 369-371",
+    "title": "Karjakin-Carlsen: central counterplay punishes a premature attack",
+    "tags": [
+      "french-type-ii",
+      "counterplay",
+      "f6-break",
+      "good-and-bad-bishops"
+    ],
+    "note": "White commits the queen and rook to a kingside attack before the center is secure. Black answers with ...f7-f6 and then the central ...e6-e5 operation, forcing White&#x27;s pieces into awkward squares and turning the static weaknesses into an active endgame.\n\nThe lesson is that a structurally inferior side can equalize through a well-timed break. White needed a solid center before attacking. Black&#x27;s bishop, initially labeled bad, becomes a decisive piece once the pawn chain opens.",
+    "keyIdeas": [
+      "Do not attack before securing the center.",
+      "Use ...f6 to challenge e5 and prepare central activity.",
+      "A pawn break can release a bad bishop.",
+      "Static weaknesses matter only if the opponent can exploit them."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "flores-french2-van-wely-karjakin",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Van Wely-Karjakin: strong knight against the wrong bishop; pp. 371-373; PDF 372-374",
+    "title": "Van Wely-Karjakin: strong knight against the wrong bishop",
+    "tags": [
+      "french-type-ii",
+      "outposts",
+      "good-and-bad-bishops",
+      "restriction"
+    ],
+    "note": "Black establishes a knight on d5 while White&#x27;s bishop remains trapped by its own dark-square chain. White&#x27;s queenside play runs out of targets, and Black combines the outpost with a kingside attack. The bishop on c1 never contributes.\n\nThe reversed-color comparison matters: Black&#x27;s light-squared bishop may support the attack, while White&#x27;s dark-squared bishop can be the truly bad piece. The positional edge comes from the usable outpost, the effective bishop and the absence of counterplay, not from a color-based slogan.",
+    "keyIdeas": [
+      "Judge bishops by their work, not their nominal color.",
+      "A stable knight on d5 can dominate the closed center.",
+      "Queenside expansion needs a target or break.",
+      "A useful bishop can join an opposite-wing attack."
+    ],
+    "activities": [
+      {
+        "id": "study-good-and-bad-bishops-french2-bishops",
+        "concept": "Good and bad bishops",
+        "minutes": 35,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare Van Wely-Karjakin, Maze-Ni Hua and the final bishop example on PDF 372-383. Record which bishop is restricted, how it can leave the chain and what attacking job it gains.",
+        "successCheck": "Judge both bishops by concrete squares and plans instead of their pawn color alone.",
+        "playReminders": [
+          "Separate pawn-color classification from actual activity."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french2-maze-ni-hua",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Maze-Ni Hua: activate the bishop outside the chain; pp. 374-377; PDF 375-378",
+    "title": "Maze-Ni Hua: activate the bishop outside the chain",
+    "tags": [
+      "french-type-ii",
+      "good-and-bad-bishops",
+      "piece-activity",
+      "king-safety"
+    ],
+    "note": "Black places the light-squared bishop on g6 outside the pawn chain, where it supports the attack and cannot be neutralized easily. White&#x27;s attempted kingside expansion is slow and leaves the pieces poorly coordinated. Black&#x27;s ...g5 and knight routes create the decisive threats.\n\nThe example gives a concrete remedy for a bad bishop: change its diagonal before the chain hardens. White&#x27;s long-term plan should have included a way to challenge or exchange that bishop rather than treating it as permanently ineffective.",
+    "keyIdeas": [
+      "Develop the bishop outside the chain when the route is available.",
+      "Preserve the bishop when it supports the attack.",
+      "Challenge the active bishop before launching a pawn storm.",
+      "Coordinate the pieces before opening the king."
+    ],
+    "activities": [
+      {
+        "id": "study-good-and-bad-bishops-french2-bishops",
+        "concept": "Good and bad bishops",
+        "minutes": 35,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare Van Wely-Karjakin, Maze-Ni Hua and the final bishop example on PDF 372-383. Record which bishop is restricted, how it can leave the chain and what attacking job it gains.",
+        "successCheck": "Judge both bishops by concrete squares and plans instead of their pawn color alone.",
+        "playReminders": [
+          "Separate pawn-color classification from actual activity."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french2-naier-jirurik",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Naier-Jirurik: opposite-flank storms after long castling; pp. 377-380; PDF 378-381",
+    "title": "Naier-Jirurik: opposite-flank storms after long castling",
+    "tags": [
+      "french-type-ii",
+      "opposite-wing-attacks",
+      "king-safety",
+      "sacrifices"
+    ],
+    "note": "With White castled long, both sides launch pawn storms. White&#x27;s g- and h-pawns arrive with decisive force because Black misjudges the race and cannot create enough queenside counterplay. White is willing to give material to open the g- and h-files because the attack reaches the king first.\n\nThe position demands calculation. Black&#x27;s defensive task is not passive waiting: he must run faster on the queenside, trade attacking pieces or create a forcing central response before the kingside opens.",
+    "keyIdeas": [
+      "Long castling turns the structure into an explicit wing race.",
+      "Open files only when the pieces can use them first.",
+      "Material may be secondary when mate is forcing.",
+      "The defender needs active counterplay or exchanges."
+    ],
+    "activities": [
+      {
+        "id": "study-king-safety-french2-race",
+        "concept": "King safety",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Threat recognition",
+          "Pawn breaks",
+          "Piece activity"
+        ],
+        "instructions": "Review the opposite-castling game on PDF 378-381. At three moments compare White&#x27;s kingside arrival with Black&#x27;s queenside play and list the available exchanges or counterbreaks.",
+        "successCheck": "Explain why White&#x27;s attack arrives first and name one active defensive method Black missed.",
+        "playReminders": [
+          "Which attacking piece is still missing?",
+          "Can I close the wing or trade the key bishop?",
+          "What central break opens lines first?",
+          "Does this pawn move create an entry square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french2-transitions",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "French Type II: trade pieces, break with ...g5 and free the bishop; pp. 380-382; PDF 381-383",
+    "title": "French Type II: trade pieces, break with ...g5 and free the bishop",
+    "tags": [
+      "french-type-ii",
+      "defensive-exchanges",
+      "g5-break",
+      "good-and-bad-bishops"
+    ],
+    "note": "Black can compensate for less space by trading pieces, then challenge e5 with ...g7-g5. The break may sacrifice a pawn or create a weak square, but it can free the pieces and remove White&#x27;s attack. A second example shows the light-squared bishop leaving the chain through a6-b7 and becoming useful.\n\nThe common thread is transformation before passivity. Black should reduce the cramped position or change the pawn chain while White should keep enough pieces and central control to exploit the space advantage.",
+    "keyIdeas": [
+      "Trade pieces when space limits Black&#x27;s coordination.",
+      "Use ...g5 to challenge e5 and release the position.",
+      "A bishop can leave the chain through a6-b7.",
+      "White should preserve central control and useful pieces."
+    ],
+    "activities": [
+      {
+        "id": "study-good-and-bad-bishops-french2-bishops",
+        "concept": "Good and bad bishops",
+        "minutes": 35,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare Van Wely-Karjakin, Maze-Ni Hua and the final bishop example on PDF 372-383. Record which bishop is restricted, how it can leave the chain and what attacking job it gains.",
+        "successCheck": "Judge both bishops by concrete squares and plans instead of their pawn color alone.",
+        "playReminders": [
+          "Separate pawn-color classification from actual activity."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french3-overview",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "French Type III: chain-base attacks with kings on opposite wings; pp. 383-384; PDF 384-385",
+    "title": "French Type III: chain-base attacks with kings on opposite wings",
+    "tags": [
+      "french-type-iii",
+      "pawn-chains",
+      "opposite-wing-attacks",
+      "c5-break",
+      "f5-break"
+    ],
+    "note": "White attacks the base of Black&#x27;s chain with f2-f4-f5-f6, often adds a kingside attack with pieces and may exploit h5 as a hook. Black attacks White&#x27;s d4 base with ...c7-c5-c4 and the e5 head with ...f7-f6, uses the c-file, expands with ...b7-b5-b4 and may activate the light-squared bishop on the h7-b1 diagonal.\n\nThe structure resembles a King&#x27;s Indian with colors and wing roles changed, but practical piece placement decides the race. White often castles short despite attacking on that wing; Black frequently castles long, so ...c5-c4 and the c-file can serve both attack and defense. If White can protect both d4 and the king, Black&#x27;s queenside plan may be too slow. Black then needs ...f6 or direct king play.",
+    "keyIdeas": [
+      "White attacks e6 and the king with f4-f5-f6.",
+      "Black attacks d4 with ...c5-c4 and queenside expansion.",
+      "The h5-pawn can become a hook for White.",
+      "When the c-file produces no entry, Black must change plans."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-chains-french3-card",
+        "concept": "Pawn chains",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Pawn breaks",
+          "Opening to middlegame transition"
+        ],
+        "instructions": "Build the French Type III card from PDF 384-385. Map f5/f6 and h5 for White against ...c5-c4, ...f6, the c-file and ...b5-b4 for Black.",
+        "successCheck": "Identify Type III, mark the chain base and head, and give one timed plan for each side.",
+        "playReminders": [
+          "Where are the base and head now?",
+          "Which break changes the chain in my favor?",
+          "What square, file or passer appears after the exchange?",
+          "Did the king locations change the race?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french3-granda-narciso",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Granda Zuniga-Narciso Dublan: the c-file is useful only with entry points; pp. 384-387; PDF 385-388",
+    "title": "Granda Zuniga-Narciso Dublan: the c-file is useful only with entry points",
+    "tags": [
+      "french-type-iii",
+      "open-files",
+      "space",
+      "attacking-prerequisites"
+    ],
+    "note": "Black doubles on the c-file but cannot enter on c2 because White controls the square. White patiently improves on the kingside, prepares f4-f5 and eventually opens decisive lines. Black&#x27;s apparent activity never creates a target.\n\nThe source asks why White is better despite Black&#x27;s rooks. Space lets White defend c2 and d4 while preparing the attack. Black needed ...f6 or another active change rather than continuing to occupy a file that had no entry square.",
+    "keyIdeas": [
+      "A file matters only when it offers entry or a target.",
+      "Use space to defend one wing while preparing the other.",
+      "Prepare f5 patiently when Black lacks counterplay.",
+      "Change plans when doubled rooks cannot penetrate."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-french3-entry",
+        "concept": "Open files",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Study PDF 385-388. Mark Black&#x27;s c-file entry squares, then explain why doubling rooks does not stop White&#x27;s patient f4-f5 plan.",
+        "successCheck": "Distinguish possession of a file from usable penetration and propose Black&#x27;s necessary change of plan.",
+        "playReminders": [
+          "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french3-carlsen-wang",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Carlsen-Wang Hao: h4-h5 is stronger after ...hxg6; pp. 388-390; PDF 389-391",
+    "title": "Carlsen-Wang Hao: h4-h5 is stronger after ...hxg6",
+    "tags": [
+      "french-type-iii",
+      "pawn-hooks",
+      "king-safety",
+      "structure-transformation"
+    ],
+    "note": "Black recaptures on g6 with the h-pawn, adding support to f5 but opening the h-file and fixing a hook on h6. White recognizes that h4-h5 is now stronger than the ordinary f4-f5 break and attacks before Black&#x27;s slow queenside plan arrives.\n\nThe example is a transformation lesson. A small change in the pawn cover alters the correct break and the safety of both kings. Black&#x27;s ...c5-c4 and ...b5 plan is too slow once the h-file can be opened with tempo.",
+    "keyIdeas": [
+      "Reassess the wing after every pawn recapture.",
+      "Use h4-h5 against the new h6 hook.",
+      "An open h-file may outweigh extra control of f5.",
+      "Do not continue a slow queenside plan against a direct attack."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-french3-hooks",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Carlsen-Wang Hao and Gopal-Bologan on PDF 389-397. Decide when White should use h4-h5 instead of f4-f5 and when Black should abandon queenside play for ...f6.",
+        "successCheck": "Choose the correct break from the pawn hooks, king cover and prepared pieces.",
+        "playReminders": [
+          "What does this break attack?",
+          "Which pieces can use the opened line?",
+          "What is the opponent&#x27;s strongest counterbreak?",
+          "What new structure will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french3-zhigalko-radulski",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Zhigalko-Radulski: combine ...c5-c4 with queenside safety; pp. 391-394; PDF 392-395",
+    "title": "Zhigalko-Radulski: combine ...c5-c4 with queenside safety",
+    "tags": [
+      "french-type-iii",
+      "c4-break",
+      "prophylaxis",
+      "counterplay",
+      "king-safety"
+    ],
+    "note": "Black plays ...c5-c4 to attack the base of White&#x27;s chain, then castles long only after arranging queenside safety. White cannot open the b-file in time, while Black&#x27;s bishop pin and later ...f5 create threats on both wings. Black&#x27;s queen transfer and kingside pawn advance become decisive.\n\nThe move order is central. The same ...c4 plan would be dangerous if White could open lines against the castled king. Black first prevents that counterplay, then uses the fixed c3-pawn and the bishop diagonal as lasting resources.",
+    "keyIdeas": [
+      "Prepare queenside safety before castling into the pawn storm.",
+      "Use ...c4 to change the base of White&#x27;s chain.",
+      "Exploit pins that restrict White&#x27;s maneuvering.",
+      "Combine queenside gains with ...f5 and kingside threats."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-french3-black",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare the final two black model games on PDF 392-400. Track ...c5-c4, queenside castling, ...f6, the h7-b1 bishop and ...b5-b4 in their actual order.",
+        "successCheck": "Explain how Black prevents White&#x27;s attack before creating a passed queenside pawn.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french3-gopal-bologan",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Gopal-Bologan: hit the head with ...f6; pp. 395-396; PDF 396-397",
+    "title": "Gopal-Bologan: hit the head with ...f6",
+    "tags": [
+      "french-type-iii",
+      "f6-break",
+      "good-and-bad-bishops",
+      "counterplay"
+    ],
+    "note": "Black cannot generate the usual queenside play and instead strikes the head of the chain with ...f7-f6. White&#x27;s pieces are poorly prepared for the opening of the center. Black&#x27;s light-squared bishop, placed on the h7-b1 diagonal, becomes a major attacking piece once the pawn lines open.\n\nThe game ties the two black breaks together: ...c5-c4 attacks the base, while ...f6 attacks the head. Black should choose the break that meets the actual setup, and White must not assume that a blocked queenside leaves Black without play.",
+    "keyIdeas": [
+      "Use ...f6 when queenside play is ineffective.",
+      "Attack the head of the chain when the base is secure.",
+      "Place the bishop on the h7-b1 diagonal before opening lines.",
+      "Prepare the center before starting a slow wing plan."
+    ],
+    "activities": [
+      {
+        "id": "study-pawn-breaks-french3-hooks",
+        "concept": "Pawn breaks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Piece activity",
+          "Calculation"
+        ],
+        "instructions": "Compare Carlsen-Wang Hao and Gopal-Bologan on PDF 389-397. Decide when White should use h4-h5 instead of f4-f5 and when Black should abandon queenside play for ...f6.",
+        "successCheck": "Choose the correct break from the pawn hooks, king cover and prepared pieces.",
+        "playReminders": [
+          "What does this break attack?",
+          "Which pieces can use the opened line?",
+          "What is the opponent&#x27;s strongest counterbreak?",
+          "What new structure will remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "flores-french3-babaev-burmakin",
+    "book": "Chess Structures: A Grandmaster Guide",
+    "author": "Mauricio Flores Rios",
+    "ref": "Babaev-Burmakin: the complete French Type III plan; pp. 397-399; PDF 398-400",
+    "title": "Babaev-Burmakin: the complete French Type III plan",
+    "tags": [
+      "french-type-iii",
+      "pawn-chains",
+      "minority-attack",
+      "passed-pawns",
+      "counterplay"
+    ],
+    "note": "Black first closes with ...c5-c4, later plays ...f7-f6, puts the bishop on the h7-b1 diagonal and expands with ...b7-b5-b4. The c-pawn transformation leaves c3 as the new chain base; Black fixes it, then wins the b2-pawn and creates a passed b-pawn. White&#x27;s kingside attack never becomes dangerous enough.\n\nThis final example joins the chapter&#x27;s ideas in the proper sequence. Black prevents counterplay on the c-file, challenges White&#x27;s center, and only then pursues the queenside passer. The source presents it as a model of coordinated structural play rather than a single tactical trick.",
+    "keyIdeas": [
+      "After ...c4, attack the new c3 base.",
+      "Combine ...f6 with the bishop on h7-b1.",
+      "Use ...b5-b4 to create a passed queenside pawn.",
+      "Sequence the breaks so White cannot create counterplay."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-french3-black",
+        "concept": "Counterplay",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pawn breaks",
+          "Piece activity",
+          "Threat recognition"
+        ],
+        "instructions": "Compare the final two black model games on PDF 392-400. Track ...c5-c4, queenside castling, ...f6, the h7-b1 bishop and ...b5-b4 in their actual order.",
+        "successCheck": "Explain how Black prevents White&#x27;s attack before creating a passed queenside pawn.",
+        "playReminders": [
+          "What must my opponent answer?",
+          "Which target or file appears after my break?",
+          "Is my operation faster than the opponent&#x27;s main plan?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-analysis-training",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
