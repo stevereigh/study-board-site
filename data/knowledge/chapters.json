@@ -3432,6 +3432,97 @@
         "section": "Exercises 46-50 on PDF 436-437 with matching solutions on PDF 457-460; stop before the Name Index on PDF 461",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "amateurs-center-space-rules",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Center and space rules; pp. 61-67; PDF 67-73",
+      "title": "Center and space: the rules and their limits",
+      "locator": {
+        "pdfPageStart": 67,
+        "pdfPageEnd": 73,
+        "printedPages": "61-67",
+        "section": "Opening explanation, complete Rules of the Center, complete Rules of Space and diagrams 23-26; the first student game begins on PDF 73",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-space-plan-discipline",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "1750-Silman; pp. 67-76; PDF 73-82",
+      "title": "Use the space edge to build a plan, not one-move threats",
+      "locator": {
+        "pdfPageStart": 73,
+        "pdfPageEnd": 82,
+        "printedPages": "67-76",
+        "section": "Complete 1750-Silman student game from diagram 27 through the final tips; PDF 82 ends before the next example on PDF 83",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-space-center-decisions",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Three Modern Defense cases; pp. 77-86; PDF 83-92",
+      "title": "Protect the center with a plan, then use the space it provides",
+      "locator": {
+        "pdfPageStart": 83,
+        "pdfPageEnd": 92,
+        "printedPages": "77-86",
+        "section": "Three complete Modern Defense student examples: 2000-Silman, 1600-Silman and 1950-Silman, diagrams 29-30 and all three final tip boxes; Fischer-Georghiu begins on PDF 93",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-space-restriction-squeeze",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Restriction and squeeze models; pp. 87-97; PDF 93-103",
+      "title": "Convert space by restricting pieces and preserving entry routes",
+      "locator": {
+        "pdfPageStart": 93,
+        "pdfPageEnd": 103,
+        "printedPages": "87-97",
+        "section": "Fischer-Georghiu, Reti-Carls and complete 1700-Silman, diagrams 31-33, through the final tips on PDF 103; Silman-Barkan begins on PDF 104",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-space-three-fronts",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Silman-Barkan; pp. 98-100; PDF 104-106",
+      "title": "Expand from one spatial edge into the center and the other wing",
+      "locator": {
+        "pdfPageStart": 104,
+        "pdfPageEnd": 106,
+        "printedPages": "98-100",
+        "section": "Complete Silman-Barkan, U.S. Open 1981, diagrams 34-35 and conclusion; the next example begins on PDF 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-space-race-warning",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Two amateur race warnings; pp. 101-106; PDF 107-112",
+      "title": "Do not let a space advantage become an avoidable race",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 112,
+        "printedPages": "101-106",
+        "section": "Complete 1500-Silman and 1650-Silman examples, diagrams 36-37 and final tips; stop before The Confusing Subject of Pawn Structure on PDF 113",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-space-centre-counterattack",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Space and the Centre; pp. 120-123; PDF 119-122",
+      "title": "Space, the centre and the cramped side’s counterattack",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 122,
+        "printedPages": "120-123",
+        "section": "Complete Space and the Centre section, all six diagrams and both historical examples; stop before Exercises on PDF 123",
+        "ebookLocation": null
+      }
     }
   ]
 }

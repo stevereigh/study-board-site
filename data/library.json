@@ -7226,6 +7226,44 @@
     ]
   },
   {
+    "chapterId": "kotov-space-centre-counterattack",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Space and the Centre; pp. 120-123; PDF 119-122",
+    "title": "Space, the centre and the cramped side’s counterattack",
+    "tags": [
+      "space",
+      "center",
+      "cramped-position",
+      "counterattack"
+    ],
+    "note": "Kotov links space to center control: sound territorial gain makes the opponent’s pieces harder to improve, while command of the center supports the restriction. A broad pawn center can be formidable, but it must be supported by pieces because modern defenses are designed to attack it.\n\nRespect the center without assuming it is untouchable. If the pawn mass is overextended, under-supported or slow, counterattack can force it to advance, exchange or collapse. A cramped position is unpleasant but not automatically lost while the pieces remain coordinated and a break exists. Preserve the army, identify the center’s real support, and prepare the release before the bind becomes permanent.",
+    "keyIdeas": [
+      "Space and center control reinforce each other.",
+      "A pawn center needs piece support.",
+      "Test a large center concretely.",
+      "Cramped positions remain playable with counterattack."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-kotov-cramped",
+        "concept": "Counterplay",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Read Kotov PDF 119-122. For all six diagrams, classify the center as stable, attackable or overextended and name the cramped side’s release.",
+        "successCheck": "Justify whether the defender should exchange, break, counterattack or hold in all six.",
+        "playReminders": [
+          "Is the center supported?",
+          "Where can I attack its base?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nimzovich-development",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
@@ -9586,6 +9624,234 @@
         "successCheck": "Reach the four-versus-three position legally, locate all remaining pawns, and distinguish the agreed draw from a general proof.",
         "playReminders": [
           "After this exchange, what useful job will my rook have, and which pawns become passed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-center-space-rules",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Center and space rules; pp. 61-67; PDF 67-73",
+    "title": "Center and space: the rules and their limits",
+    "tags": [
+      "center",
+      "space",
+      "pawn-breaks",
+      "restriction"
+    ],
+    "note": "A broad pawn center controls key squares and can restrict the opponent, but creating it also creates a duty: support it with pieces and expect it to be attacked. Advancing too early leaves squares behind; central exchanges open files, while a locked center redirects play toward the wing indicated by the pawn chains.\n\nSpace gives pieces room and usually improves coordination only when the territory behind the pawns is controlled. Unsupported expansion creates targets. The side with room usually keeps pieces and improves patiently; the cramped side seeks exchanges or a freeing break. Judge space by the useful squares and piece routes it creates, not by how far the pawns advanced.",
+    "keyIdeas": [
+      "Support a pawn center with pieces.",
+      "Open centers favor pieces; locked centers redirect play.",
+      "Space matters when pieces can use it.",
+      "The cramped side seeks exchanges or a freeing break."
+    ],
+    "activities": [
+      {
+        "id": "study-space-center-rules",
+        "concept": "Space",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 67-73. For three recent middlegames, mark the center as open, mobile or locked, then list the useful squares gained and the squares left behind.",
+        "successCheck": "For all three, identify one piece route and one break.",
+        "playReminders": [
+          "Which pieces can use my extra room?",
+          "What break changes the center?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-space-plan-discipline",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "1750-Silman; pp. 67-76; PDF 73-82",
+    "title": "Use the space edge to build a plan, not one-move threats",
+    "tags": [
+      "space",
+      "planning",
+      "piece-activity",
+      "counterplay"
+    ],
+    "note": "White begins with more space and development but never turns those durable advantages into a target. Reactions to harmless queen attacks cost time, an unnecessary bishop exchange surrenders a useful piece, and one-move threats create weaknesses without improving coordination. Black organizes the center and queenside until White has no constructive plan.\n\nDevelop around a goal: name a target, connect the pieces to it, and judge an opponent’s threat by its real consequence. An attacking move is useful only if it also improves the position after the attacked piece moves. If the edge disappears, switch honestly to active resistance.",
+    "keyIdeas": [
+      "Convert a durable edge into a target and route.",
+      "Do not answer ineffective attacks automatically.",
+      "One-move threats must improve the position.",
+      "Switch to active resistance when the edge is gone."
+    ],
+    "activities": [
+      {
+        "id": "study-space-plan-discipline",
+        "concept": "Space",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Review PDF 73-82. At each white decision, write the durable advantage, one real target and one move that improves the whole position.",
+        "successCheck": "Produce a coherent three-move plan whose moves remain useful after normal replies.",
+        "playReminders": [
+          "What target ties my pieces together?",
+          "Is the threat real?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-space-center-decisions",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Three Modern Defense cases; pp. 77-86; PDF 83-92",
+    "title": "Protect the center with a plan, then use the space it provides",
+    "tags": [
+      "center",
+      "space",
+      "development",
+      "king-safety"
+    ],
+    "note": "Three student games begin from large white centers. Routine development permits a timely central challenge; another player sees the center but abandons the plan for a premature wing advance; a third supports the center sensibly and then rushes into kingside play before castling.\n\nSeparate the tasks: maintain the center, develop pieces to squares serving the resulting plan, secure the king, and only then choose the wing operation. A spatial advantage is usually durable and rarely demands an immediate attack. Find the opponent’s real counterbreak and keep the plan unless the board gives a concrete reason to change it.",
+    "keyIdeas": [
+      "Development should serve the center and plan.",
+      "Do not abandon a stable center emotionally.",
+      "Secure the king before opening lines.",
+      "Distinguish real counterbreaks from harmless threats."
+    ],
+    "activities": [
+      {
+        "id": "study-center-control-space-cases",
+        "concept": "Center control",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Compare the three Modern Defense cases on PDF 83-92. Record how to support the center, where development belongs, when to castle and which wing move was premature.",
+        "successCheck": "Explain the first moment in each game when the plan should stay or change.",
+        "playReminders": [
+          "Is my center secure enough for wing play?",
+          "Does this move serve the plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-space-restriction-squeeze",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Restriction and squeeze models; pp. 87-97; PDF 93-103",
+    "title": "Convert space by restricting pieces and preserving entry routes",
+    "tags": [
+      "space",
+      "restriction",
+      "open-files",
+      "favorable-exchanges"
+    ],
+    "note": "Fischer-Georghiu develops to useful squares, restricts enemy pieces and expands only while counterplay stays limited. Reti-Carls avoids unnecessary exchanges, occupies an advanced square and opens a file on the wing where the space edge exists. A student example then closes the file needed for entry, making the space unusable and allowing queenside counterplay.\n\nConversion is often a slow squeeze. Keep enough pieces to use the room, stop the freeing plan, and preserve the line into the restricted camp. Exchange rules are guides: trade when the result strengthens the bind, and avoid trades that merely relieve the cramped side.",
+    "keyIdeas": [
+      "Use squares created by the space edge.",
+      "Prevent the opponent’s freeing plan.",
+      "Preserve the file or square needed for entry.",
+      "Judge trades by whether they strengthen the bind."
+    ],
+    "activities": [
+      {
+        "id": "study-restriction-space-squeeze",
+        "concept": "Restriction",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Study PDF 93-103. Build columns for pieces kept, squares denied and entry routes preserved.",
+        "successCheck": "For each example, explain whether an exchange helps the space holder or relieves the cramped side.",
+        "playReminders": [
+          "What file lets me enter?",
+          "What freeing plan must I stop?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-space-three-fronts",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Silman-Barkan; pp. 98-100; PDF 104-106",
+    "title": "Expand from one spatial edge into the center and the other wing",
+    "tags": [
+      "space",
+      "restriction",
+      "king-safety",
+      "counterplay"
+    ],
+    "note": "White starts with queenside space but does not expect it to win by itself. Black’s intended central expansion is met by taking central room, the king is secured, and only then does White expand on the kingside. Control across all three sectors removes Black’s counterplay and creates decisive entry squares.\n\nA pawn advance is justified when it stops an opposing plan or gives a piece a new route. Expansion on another wing is safe only when the center and king are secure and the opponent lacks a faster operation.",
+    "keyIdeas": [
+      "Stop the opponent from building a center.",
+      "Secure the king before opening another front.",
+      "Gain space where it creates a route.",
+      "Combine advantages across sectors."
+    ],
+    "activities": [
+      {
+        "id": "study-space-three-front-expansion",
+        "concept": "Space",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Review PDF 104-106. Trace the sequence from queenside space to central control, king safety and kingside expansion.",
+        "successCheck": "Explain why each advance is safe and which black plan it prevents.",
+        "playReminders": [
+          "Can I expand on a second front safely?",
+          "What weakness is left behind?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-space-race-warning",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Two amateur race warnings; pp. 101-106; PDF 107-112",
+    "title": "Do not let a space advantage become an avoidable race",
+    "tags": [
+      "space",
+      "counterplay",
+      "wing-race",
+      "king-safety"
+    ],
+    "note": "One student recognizes queenside space but lets Black create a central and kingside operation; the game becomes a race White did not need. The second sees both plans but applies the rule against exchanges mechanically, buries a piece on the rim and leaves the king in the center as lines open.\n\nExtra space does not cancel the opponent’s plan. Before expanding, identify the fastest central or wing break. Keep pieces only when they have useful squares; an exchange can be correct if it saves a bad piece, removes counterplay or simplifies the dangerous sector. Space should reduce the opponent’s choices, not start a faster attack for both sides.",
+    "keyIdeas": [
+      "Check the opponent’s fastest operation.",
+      "Avoid a race when the bind can improve safely.",
+      "Keep pieces only when they have useful work.",
+      "Do not leave the king central as lines open."
+    ],
+    "activities": [
+      {
+        "id": "study-counterplay-space-race",
+        "concept": "Counterplay",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Center control",
+          "Piece activity"
+        ],
+        "instructions": "Compare PDF 107-112. Before each pawn advance or refused exchange, write the opponent’s fastest break, the worst piece and the king-safety consequence.",
+        "successCheck": "Find two moments where preventing the race or accepting a trade is stronger.",
+        "playReminders": [
+          "What is the opponent’s fastest operation?",
+          "Does opening expose my king?"
         ]
       }
     ]

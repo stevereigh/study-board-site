@@ -1581,6 +1581,48 @@
       "crossrefIds": [
         "position-evaluation--flores-training-level4"
       ]
+    },
+    {
+      "id": "study-space-center-rules",
+      "crossrefIds": [
+        "space--amateurs-center-space-rules"
+      ]
+    },
+    {
+      "id": "study-space-plan-discipline",
+      "crossrefIds": [
+        "space--amateurs-space-plan-discipline"
+      ]
+    },
+    {
+      "id": "study-center-control-space-cases",
+      "crossrefIds": [
+        "center-control--amateurs-space-center-decisions"
+      ]
+    },
+    {
+      "id": "study-restriction-space-squeeze",
+      "crossrefIds": [
+        "restriction--amateurs-space-restriction-squeeze"
+      ]
+    },
+    {
+      "id": "study-space-three-front-expansion",
+      "crossrefIds": [
+        "space--amateurs-space-three-fronts"
+      ]
+    },
+    {
+      "id": "study-counterplay-space-race",
+      "crossrefIds": [
+        "counterplay--amateurs-space-race-warning"
+      ]
+    },
+    {
+      "id": "study-counterplay-kotov-cramped",
+      "crossrefIds": [
+        "counterplay--kotov-space-centre-counterattack"
+      ]
     }
   ]
 }
