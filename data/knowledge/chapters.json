@@ -3523,6 +3523,97 @@
         "section": "Complete Space and the Centre section, all six diagrams and both historical examples; stop before Exercises on PDF 123",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "amateurs-material-rules",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Material rules and diagram 59; pp. 145-147; PDF 151-153",
+      "title": "Material is useful only when it can participate",
+      "locator": {
+        "pdfPageStart": 151,
+        "pdfPageEnd": 153,
+        "printedPages": "145-147",
+        "section": "Material introduction, complete rules 1-4 and diagram 59; Kramer-Thomas begins on PDF 154",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-material-exchange-activity",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Kramer-Thomas and 1000-Silman; pp. 148-153; PDF 154-159",
+      "title": "An extra exchange needs an open file and a plan",
+      "locator": {
+        "pdfPageStart": 154,
+        "pdfPageEnd": 159,
+        "printedPages": "148-153",
+        "section": "Complete Kramer-Thomas example, diagram 60, and complete 1000-Silman first attempt, diagram 61; second attempt begins on PDF 160",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-material-conversion",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "1550-Silman; pp. 154-160; PDF 160-166",
+      "title": "Convert material without giving the defender active chances",
+      "locator": {
+        "pdfPageStart": 160,
+        "pdfPageEnd": 166,
+        "printedPages": "154-160",
+        "section": "Complete 1550-Silman second attempt, diagrams 62-63 and final tips; Silman-Blankenau begins on PDF 166",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-material-positional-factors",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Silman-Blankenau; pp. 160-162; PDF 166-168",
+      "title": "After winning material, rebuild the positional plan",
+      "locator": {
+        "pdfPageStart": 166,
+        "pdfPageEnd": 168,
+        "printedPages": "160-162",
+        "section": "Complete Silman-Blankenau, National Open 1989, diagram 64 and conclusion; 1700-Silman begins on PDF 168",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-material-iqp-exchanges",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "1700-Silman; pp. 162-165; PDF 168-171",
+      "title": "Choose exchanges that expose the isolated pawn",
+      "locator": {
+        "pdfPageStart": 168,
+        "pdfPageEnd": 171,
+        "printedPages": "162-165",
+        "section": "Complete 1700-Silman, diagram 65 and final tips; PDF 172 begins Development and Initiative on printed page 167",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-exchange-motives",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "On Exchanging motives; pp. 85-87; PDF 108-110",
+      "title": "Four motives: lines, defenders, time and salvage",
+      "locator": {
+        "pdfPageStart": 108,
+        "pdfPageEnd": 110,
+        "printedPages": "85-87",
+        "section": "Chapter 5 introduction and motives 1-3, including selling a condemned major piece dearly and diagram 68; motive 4 begins on PDF 111",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-exchange-timing",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "On Exchanging timing and endings; pp. 88-90; PDF 111-113",
+      "title": "When exchanges happen and what remains",
+      "locator": {
+        "pdfPageStart": 111,
+        "pdfPageEnd": 113,
+        "printedPages": "88-90",
+        "section": "Complete motive 4 and all three ending examples, diagrams 69-71; stop before Chapter 6 on PDF 114",
+        "ebookLocation": null
+      }
     }
   ]
 }

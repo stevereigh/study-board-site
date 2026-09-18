@@ -8273,6 +8273,96 @@
     ]
   },
   {
+    "chapterId": "nimzovich-exchange-motives",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "On Exchanging motives; pp. 85-87; PDF 108-110",
+    "title": "Four motives: lines, defenders, time and salvage",
+    "tags": [
+      "exchange-motives",
+      "open-files",
+      "removing-the-defender",
+      "tempo"
+    ],
+    "note": "Nimzowitsch rejects indiscriminate trading and lists concrete motives. An exchange can open a file without losing time, remove a defender of a square or route, or avoid a time-wasting retreat by trading the attacked piece. A doomed major piece should sell itself for the greatest practical return rather than disappear for nothing.\n\nA defender is defined broadly. A piece may protect territory, prevent an invasion, maintain a blockade or keep a king wing safe. Removing it is useful because of the route or target that appears afterward. The exchange and its follow-up must be evaluated together; otherwise the capture is only motion, not a strategic gain.",
+    "keyIdeas": [
+      "Open a file while preserving the initiative.",
+      "Remove the piece that guards a route or territory.",
+      "Trade an attacked piece when retreat loses useful time.",
+      "Extract value from a condemned major piece."
+    ],
+    "activities": [
+      {
+        "id": "study-defensive-exchanges-active-result",
+        "concept": "Defensive exchanges",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Compare Nimzowitsch’s condemned-piece rule with the Silman conversion failure. For three defensive trades, calculate the most active remaining rook, king or pawn route before simplifying.",
+        "successCheck": "Reject at least one passive trade and replace it with a line that creates a concrete defensive resource.",
+        "playReminders": [
+          "Does this trade reduce pressure and preserve activity?",
+          "What can my remaining pieces attack?"
+        ]
+      },
+      {
+        "id": "study-favorable-exchanges-four-motives",
+        "concept": "Favorable exchanges",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read Nimzowitsch PDF 108-110. Classify six exchanges from recent games as opening a line, removing a defender, saving time, salvaging a doomed piece or lacking a clear motive.",
+        "successCheck": "Classify all six and describe the useful follow-up for every justified exchange.",
+        "playReminders": [
+          "What concrete job does this exchange perform?",
+          "What becomes possible after the recapture?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-exchange-timing",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "On Exchanging timing and endings; pp. 88-90; PDF 111-113",
+    "title": "When exchanges happen and what remains",
+    "tags": [
+      "simplification",
+      "weak-points",
+      "open-files",
+      "endgame-transition"
+    ],
+    "note": "Simplification is often desirable with a material advantage, but Nimzowitsch also describes exchanges as battles around squares, invasions along files and trades of mutual weaknesses. The pieces disappear because a concrete objective forces or rewards the exchange, not because fewer pieces are automatically good.\n\nThe ending examples show exchanges used to clear an entry, contest a focal pawn or release a breakthrough. The final position after the sequence must still contain a route for the king, rook or pawn. Before entering a chain of exchanges, state the target and calculate who reaches the remaining weak point first.",
+    "keyIdeas": [
+      "Simplify material advantage only when the resulting position remains favorable.",
+      "Treat exchanges around a key square as a battle for control.",
+      "Use file pressure to force the defender to trade.",
+      "Calculate the remaining king, rook and pawn routes."
+    ],
+    "activities": [
+      {
+        "id": "study-favorable-exchanges-three-book-matrix",
+        "concept": "Favorable exchanges",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Build a three-book exchange matrix: Nimzowitsch for the motive, Silman for piece activity after material gain, and Shereshevsky for the destination ending. Apply all three columns to five voluntary exchanges from your games.",
+        "successCheck": "For all five exchanges, state the motive, surviving piece jobs, best defensive resource and destination ending before giving a verdict.",
+        "playReminders": [
+          "Why exchange now?",
+          "Who benefits from the pieces that remain?",
+          "What is the most active defense in the ending?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nimzowitsch-collective-pawn-mobility",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
@@ -8660,6 +8750,22 @@
         "successCheck": "For every exchange, identify what improves, what weakness disappears or appears, and the defender&#x27;s active resource.",
         "playReminders": [
           "Who benefits from the pieces that will remain?"
+        ]
+      },
+      {
+        "id": "study-favorable-exchanges-three-book-matrix",
+        "concept": "Favorable exchanges",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Build a three-book exchange matrix: Nimzowitsch for the motive, Silman for piece activity after material gain, and Shereshevsky for the destination ending. Apply all three columns to five voluntary exchanges from your games.",
+        "successCheck": "For all five exchanges, state the motive, surviving piece jobs, best defensive resource and destination ending before giving a verdict.",
+        "playReminders": [
+          "Why exchange now?",
+          "Who benefits from the pieces that remain?",
+          "What is the most active defense in the ending?"
         ]
       }
     ]
@@ -9852,6 +9958,221 @@
         "playReminders": [
           "What is the opponent’s fastest operation?",
           "Does opening expose my king?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-material-rules",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Material rules and diagram 59; pp. 145-147; PDF 151-153",
+    "title": "Material is useful only when it can participate",
+    "tags": [
+      "material",
+      "blunder-check",
+      "piece-activity",
+      "conversion"
+    ],
+    "note": "Material is a durable advantage, but it does not erase the opponent’s initiative, space or activity. Before trusting an extra pawn or exchange, neutralize forcing play and bring the extra unit into the game. Nominal values are only a starting point: an inactive rook can be worse than a centralized minor piece.\n\nA material edge often permits patience. If the pieces are uncoordinated after completing their previous task, regroup them before forcing matters. The source also pairs material awareness with a final blunder check: write the intended move, then test every opposing check, capture and direct threat before playing it.",
+    "keyIdeas": [
+      "Neutralize immediate activity before converting material.",
+      "Activate the extra unit instead of merely counting it.",
+      "Judge nominal value against the actual position.",
+      "Run a final checks-captures-threats scan."
+    ],
+    "activities": [
+      {
+        "id": "study-blunder-checking-material-scan",
+        "concept": "Blunder checking",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read PDF 151-153. From five recent games, choose one move made while materially ahead and write it down as if on a scoresheet. List every legal opposing check, capture and direct threat before judging it.",
+        "successCheck": "Complete all five scans and find either a missed reply or a written reason the move survives every forcing response.",
+        "playReminders": [
+          "What checks, captures and threats follow?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-material-exchange-activity",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Kramer-Thomas and 1000-Silman; pp. 148-153; PDF 154-159",
+    "title": "An extra exchange needs an open file and a plan",
+    "tags": [
+      "exchange-up",
+      "open-files",
+      "counterplay",
+      "piece-activity"
+    ],
+    "note": "White is materially ahead but the rooks have no useful file, while Black owns space, central pawns and an active bishop. In the model play, White restrains the pawn mass, creates an open file and accepts a pawn investment so the rooks can enter. The extra exchange matters only after the heavy pieces become active.\n\nThe student recognizes several features but reacts to every opposing move, allows the bishop outside its chain and mistakes an open file for domination while Black’s central passers grow. Material superiority does not remove the duty to calculate the opponent’s plan. If the exchange no longer provides active work, returning it to eliminate the dominant piece or pawns may be the best conversion.",
+    "keyIdeas": [
+      "Create work for the extra rook.",
+      "Restrain the opponent’s pawn mass while activating.",
+      "An open file matters only if it leads somewhere.",
+      "Return material when it removes the opponent’s active compensation."
+    ],
+    "activities": [
+      {
+        "id": "study-piece-activity-extra-exchange",
+        "concept": "Piece activity",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study diagrams 60-61 on PDF 154-159. For each position, name the file the rooks need, the pawn move that can create it and Black’s best source of counterplay.",
+        "successCheck": "Explain why the extra exchange is useful in one plan and nearly meaningless in the reactive student plan.",
+        "playReminders": [
+          "Where can my extra unit become active?",
+          "What is the opponent doing while I activate?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-material-conversion",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "1550-Silman; pp. 154-160; PDF 160-166",
+    "title": "Convert material without giving the defender active chances",
+    "tags": [
+      "conversion",
+      "rook-activity",
+      "passed-pawns",
+      "defense"
+    ],
+    "note": "The stronger student evaluates both sides’ assets, challenges the defender’s active queen and creates an open file with a temporary pawn sacrifice. Yet the conversion repeatedly drifts when a useful plan is followed by a lazy move. The defender’s rook activity and passed pawn eventually reverse the result.\n\nConversion requires continuity. Prevent the opponent’s most active resource, use the file you worked to open, and check the destination ending before exchanging rooks or pawns. Basic endgame rules—such as placing a rook behind a passed pawn—are part of the trade decision, not knowledge to recall after the trade has occurred.",
+    "keyIdeas": [
+      "Follow a good plan with accurate execution.",
+      "Use the file you created.",
+      "Check passed-pawn and king activity before simplifying.",
+      "Do not allow one active rook to erase the material edge."
+    ],
+    "activities": [
+      {
+        "id": "study-converting-material-without-drift",
+        "concept": "Converting advantages",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Review the 1550-Silman example on PDF 160-166. Mark each move as restrain, activate, open a line, convert or drift, then identify the first lazy move after a correct plan.",
+        "successCheck": "Give a continuous conversion plan that uses the open file and keeps the enemy rook passive.",
+        "playReminders": [
+          "Did my last move continue the plan?",
+          "What active resource does the defender retain?"
+        ]
+      },
+      {
+        "id": "study-defensive-exchanges-active-result",
+        "concept": "Defensive exchanges",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Compare Nimzowitsch’s condemned-piece rule with the Silman conversion failure. For three defensive trades, calculate the most active remaining rook, king or pawn route before simplifying.",
+        "successCheck": "Reject at least one passive trade and replace it with a line that creates a concrete defensive resource.",
+        "playReminders": [
+          "Does this trade reduce pressure and preserve activity?",
+          "What can my remaining pieces attack?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-material-positional-factors",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Silman-Blankenau; pp. 160-162; PDF 166-168",
+    "title": "After winning material, rebuild the positional plan",
+    "tags": [
+      "material",
+      "bishop-pair",
+      "outposts",
+      "minor-piece-quality"
+    ],
+    "note": "An extra pawn is long-term insurance, not an immediate winning mechanism. White still needs to address Black’s bishop pair, the d5 outpost, weak queenside pawns and piece coordination. Trading one pair of bishops can make the remaining knight more competitive, while an outpost must be judged by whether a pawn can challenge it.\n\nThe material winner should therefore reevaluate the entire board after the gain. Choose exchanges that reduce the opponent’s active assets, improve the remaining pieces or make the extra pawn easier to use. A nominal advantage becomes real only after the new positional problems are solved.",
+    "keyIdeas": [
+      "Reevaluate all imbalances after winning material.",
+      "Trade one bishop when it improves the remaining minor-piece matchup.",
+      "Test whether an outpost is permanent.",
+      "Turn the extra pawn into a new positional plan."
+    ],
+    "activities": [
+      {
+        "id": "study-favorable-exchanges-positional-reset",
+        "concept": "Favorable exchanges",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read Silman-Blankenau on PDF 166-168. After the pawn win, rebuild the evaluation from bishop pair, outposts, pawn targets and piece routes before choosing a trade.",
+        "successCheck": "Choose which bishop pair to exchange and explain the resulting knight’s best square.",
+        "playReminders": [
+          "What changed besides the material count?",
+          "Which surviving piece improves after the trade?"
+        ]
+      },
+      {
+        "id": "study-favorable-exchanges-three-book-matrix",
+        "concept": "Favorable exchanges",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Build a three-book exchange matrix: Nimzowitsch for the motive, Silman for piece activity after material gain, and Shereshevsky for the destination ending. Apply all three columns to five voluntary exchanges from your games.",
+        "successCheck": "For all five exchanges, state the motive, surviving piece jobs, best defensive resource and destination ending before giving a verdict.",
+        "playReminders": [
+          "Why exchange now?",
+          "Who benefits from the pieces that remain?",
+          "What is the most active defense in the ending?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-material-iqp-exchanges",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "1700-Silman; pp. 162-165; PDF 168-171",
+    "title": "Choose exchanges that expose the isolated pawn",
+    "tags": [
+      "isolated-pawns",
+      "favorable-exchanges",
+      "minor-pieces",
+      "initiative"
+    ],
+    "note": "Against an isolated queen’s pawn, exchanging minor pieces can remove the pawn’s attacking support and leave queen and rook pressure against a static target. The plan is specific: remove the active minor pieces, then double against the pawn. Exchanging the wrong piece can instead improve the opponent’s remaining bishop, weaken a pawn or concede the initiative.\n\nThe student knows the general rule but applies it without comparing the resulting pieces. The practical question is not simply whether pieces came off. Identify which piece protects the pawn, which piece attacks it, and whether the survivor can occupy a stronger square. A small material concession is unacceptable when it gives the opponent durable activity.",
+    "keyIdeas": [
+      "Remove the minor pieces that give the isolani dynamic strength.",
+      "Preserve the pieces needed to attack the pawn.",
+      "Compare the surviving bishop and knight before trading.",
+      "Do not buy simplification by conceding the initiative."
+    ],
+    "activities": [
+      {
+        "id": "study-isolated-pawns-purposeful-trades",
+        "concept": "Isolated pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study 1700-Silman on PDF 168-171. List every minor piece by its job around the isolated pawn, then choose the exchange sequence that removes the pawn’s dynamic support.",
+        "successCheck": "Explain which pieces to trade, which to keep and how queen and rook pressure will attack the pawn afterward.",
+        "playReminders": [
+          "Which minor piece gives the isolated pawn activity?",
+          "Which attacker must remain?"
         ]
       }
     ]

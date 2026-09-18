@@ -1623,6 +1623,57 @@
       "crossrefIds": [
         "counterplay--kotov-space-centre-counterattack"
       ]
+    },
+    {
+      "id": "study-blunder-checking-material-scan",
+      "crossrefIds": [
+        "blunder-checking--amateurs-material-rules"
+      ]
+    },
+    {
+      "id": "study-piece-activity-extra-exchange",
+      "crossrefIds": [
+        "piece-activity--amateurs-material-exchange-activity"
+      ]
+    },
+    {
+      "id": "study-converting-material-without-drift",
+      "crossrefIds": [
+        "converting-advantages--amateurs-material-conversion"
+      ]
+    },
+    {
+      "id": "study-favorable-exchanges-positional-reset",
+      "crossrefIds": [
+        "favorable-exchanges--amateurs-material-positional-factors"
+      ]
+    },
+    {
+      "id": "study-isolated-pawns-purposeful-trades",
+      "crossrefIds": [
+        "isolated-pawns--amateurs-material-iqp-exchanges"
+      ]
+    },
+    {
+      "id": "study-favorable-exchanges-four-motives",
+      "crossrefIds": [
+        "favorable-exchanges--nimzovich-exchange-motives"
+      ]
+    },
+    {
+      "id": "study-defensive-exchanges-active-result",
+      "crossrefIds": [
+        "defensive-exchanges--nimzovich-exchange-motives",
+        "defensive-exchanges--amateurs-material-conversion"
+      ]
+    },
+    {
+      "id": "study-favorable-exchanges-three-book-matrix",
+      "crossrefIds": [
+        "favorable-exchanges--nimzovich-exchange-timing",
+        "favorable-exchanges--amateurs-material-positional-factors",
+        "favorable-exchanges--shereshevsky-exchanging"
+      ]
     }
   ]
 }
