@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T10:26:54.321407Z",
+  "generated": "2026-09-20T10:27:06.449448Z",
   "player": "DeputyBob",
   "week": {
     "id": "2026-W38",
@@ -20,7 +20,7 @@
         null
       ],
       "rapid": [
-        1247
+        1196
       ],
       "blitz": [
         1017
@@ -32,9 +32,9 @@
   },
   "perf": {
     "overview": {
-      "games": 4,
+      "games": 5,
       "w": 2,
-      "l": 2,
+      "l": 3,
       "d": 0,
       "collapseMove": 16,
       "secsOnBlunder": 8.655000000000001,
@@ -54,9 +54,9 @@
       "confidence": "low"
     },
     "rapid": {
-      "games": 4,
+      "games": 5,
       "w": 2,
-      "l": 2,
+      "l": 3,
       "d": 0,
       "collapseMove": 16,
       "secsOnBlunder": 8.655000000000001,
@@ -87,7 +87,14 @@
       "confidence": "low"
     }
   },
-  "needsAnalysis": [],
+  "needsAnalysis": [
+    {
+      "id": "GdJ8ngSf",
+      "tc": "10+5",
+      "when": "2026-09-19",
+      "perf": "rapid"
+    }
+  ],
   "games": [
     {
       "id": "FH9CU38C",
@@ -144,6 +151,20 @@
       "collapseMove": 8,
       "secs": 31.48,
       "analysed": true
+    },
+    {
+      "id": "GdJ8ngSf",
+      "when": "2026-09-19",
+      "perf": "rapid",
+      "tc": "10+5",
+      "color": "White",
+      "opp": "melc4",
+      "oppRating": 1247,
+      "result": "l",
+      "opening": "Van Geet Opening",
+      "collapseMove": null,
+      "secs": null,
+      "analysed": false
     }
   ],
   "archive": [
@@ -155,6 +176,6 @@
   "activity": {
     "weekId": "2026-W38",
     "from": "2026-09-14T04:00:00Z",
-    "untilExclusive": "2026-09-19T10:26:54.321407Z"
+    "untilExclusive": "2026-09-20T10:27:06.449448Z"
   }
 }

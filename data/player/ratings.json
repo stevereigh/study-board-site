@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "items": [
     {
-      "date": "2026-09-19",
-      "fetchedAt": "2026-09-19T10:26:54.321407Z",
+      "date": "2026-09-20",
+      "fetchedAt": "2026-09-20T10:27:06.449448Z",
       "ratings": {
         "classical": null,
         "rapid": {
-          "rating": 1247,
-          "games": 26,
+          "rating": 1196,
+          "games": 27,
           "provisional": true
         },
         "blitz": {

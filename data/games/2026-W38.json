@@ -404,6 +404,25 @@
           "note": "Played h6; engine candidate d6. Review the position before this move. Budget: 100000 nodes per position; finite-search review cue, not a proven cause of the result."
         }
       ]
+    },
+    {
+      "id": "GdJ8ngSf",
+      "playedAt": "2026-09-19T18:13:51.165000Z",
+      "timeControl": "rapid",
+      "variant": "standard",
+      "rated": true,
+      "color": "white",
+      "opponent": "melc4",
+      "opponentRating": 1247,
+      "result": "loss",
+      "termination": "resign",
+      "initialSeconds": 600,
+      "incrementSeconds": 5,
+      "openingEco": "A00",
+      "openingName": "Van Geet Opening",
+      "movesSan": "Nc3 d5 e4 d4 Nd5 Nf6 d3 Nxd5 exd5 Qxd5 Nf3 c5 c4 Qe6+ Be2 f6 O-O Qf5 g3 e5 Nh4 Qd7 Bg4 Qc7 Bxc8 Qxc8 f4 Nc6 fxe5 Nxe5 Re1 Bd6 Bf4 O-O Nf3 Re8 Nh4 Re7 Bxe5 Rxe5 Rxe5 Bxe5 h3 Qxh3 Qf3 Bxg3 Ng2 Qh2+ Kf1 Qh1+ Ke2 Qxa1 Qd5+ Kh8 Kf3 Be5 Nh4 Qf1+ Ke4 Qe1+ Kf3 Qxh4",
+      "analysisStatus": "missing",
+      "evidence": []
     }
   ]
 }
