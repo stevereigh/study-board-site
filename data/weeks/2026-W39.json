@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-W39",
+  "generatedAt": "2026-09-21T09:30:11.966245Z",
+  "timezone": "America/New_York",
+  "studyStarts": "2026-09-21",
+  "studyEndsExclusive": "2026-09-28",
+  "gamesFrom": "2026-09-14T04:00:00Z",
+  "gamesUntilExclusive": "2026-09-21T04:00:00Z",
+  "status": "maintenance",
+  "generator": {
+    "kind": "deterministic",
+    "version": "1.1.0",
+    "model": null
+  },
+  "sample": {
+    "games": 5,
+    "analyzedGames": 5,
+    "priorWeeksCompared": [
+      "2026-W38"
+    ]
+  },
+  "summary": "5 completed games from 2026-09-14 through 2026-09-20. 22 engine review positions. 55 minutes of source-backed foundational study. Previous 1 archived weeks contained 0 games total; activity comparison only.",
+  "focus": [
+    {
+      "conceptId": "candidate-moves",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-candidate-moves-list"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read the introductory candidate-selection prose. At two positions from a completed game, list serious moves for both sides before using analysis. Explain why each move deserves attention.",
+        "Identify one omitted candidate or justify why the position has few serious choices."
+      ],
+      "playReminders": [
+        "What serious alternative or opposing reply have I left out?"
+      ],
+      "minutes": 15
+    },
+    {
+      "conceptId": "calculation",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-calculation-compare"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read the analysis-training section. Cover the continuation of one reviewed annotated position, calculate for eight minutes without moving pieces, then record and compare your conclusions.",
+        "Classify discrepancies as missing candidate, missed reply, visualization error, or mistaken evaluation."
+      ],
+      "playReminders": [
+        "What is the opponent’s strongest reply, and what position results?"
+      ],
+      "minutes": 25
+    },
+    {
+      "conceptId": "visualization",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-visualization-reconstruct"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Use a short line from a completed-game review. Keep the pieces still while following three to five plies, describe the resulting board, then replay and check. This short drill adapts Kotov’s longer method.",
+        "Reconstruct two short lines without retaining captured pieces or missing newly opened lines."
+      ],
+      "playReminders": [
+        "Which pieces and lines changed in the position I am imagining?"
+      ],
+      "minutes": 15
+    }
+  ],
+  "generalReminders": [
+    "Before moving, check both sides’ checks, captures and immediate threats.",
+    "Review flagged positions before looking at the engine candidate.",
+    "After studying, record which recommendations you completed and one lesson from your games."
+  ],
+  "limitations": [
+    "Engine score changes identify review positions, not strategic causes. No automatic weakness diagnosis is made.",
+    "Only the verified portion of the book catalog is available. Assigned reading is not marked completed automatically.",
+    "Using a provisional 60-minute weekly reading budget until you set a preference.",
+    "Only 5 games in the window; below the 30-game diagnostic minimum."
+  ],
+  "nextReview": "2026-09-28"
+}

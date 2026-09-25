@@ -1674,6 +1674,77 @@
         "favorable-exchanges--amateurs-material-positional-factors",
         "favorable-exchanges--shereshevsky-exchanging"
       ]
+    },
+    {
+      "id": "study-knight-versus-bishop-plan",
+      "crossrefIds": [
+        "knight-versus-bishop--amateurs-minor-piece-plan-and-reaction",
+        "knight-versus-bishop--amateurs-minor-piece-purposeful-play"
+      ]
+    },
+    {
+      "id": "study-outposts-steinitz-denial",
+      "crossrefIds": [
+        "outposts--amateurs-steinitz-knight-denial"
+      ]
+    },
+    {
+      "id": "study-bishop-pair-center-break",
+      "crossrefIds": [
+        "bishop-pair--amateurs-bishop-pair-structure",
+        "bishop-pair--amateurs-bishop-pair-open-center"
+      ]
+    },
+    {
+      "id": "study-minor-piece-endgame-choice",
+      "crossrefIds": [
+        "knight-versus-bishop--amateurs-minor-piece-endgames"
+      ]
+    },
+    {
+      "id": "study-bishop-pair-horwitz",
+      "crossrefIds": [
+        "bishop-pair--nimzovich-horwitz-bishops"
+      ]
+    },
+    {
+      "id": "study-bishop-pair-pawn-mass",
+      "crossrefIds": [
+        "bishop-pair--nimzovich-bishops-support-pawn-mass",
+        "bishop-pair--nimzovich-bishops-fight-pawn-mass"
+      ]
+    },
+    {
+      "id": "study-bishop-pair-endgame",
+      "crossrefIds": [
+        "bishop-pair--nimzovich-two-bishops-endgame"
+      ]
+    },
+    {
+      "id": "study-piece-activity-bad-minor",
+      "crossrefIds": [
+        "piece-activity--kotov-piece-position-minor-pieces"
+      ]
+    },
+    {
+      "id": "study-piece-activity-stranded-rook",
+      "crossrefIds": [
+        "piece-activity--kotov-piece-position-stranded-rook"
+      ]
+    },
+    {
+      "id": "study-piece-activity-queen-tempi",
+      "crossrefIds": [
+        "piece-activity--kotov-piece-position-queen"
+      ]
+    },
+    {
+      "id": "study-s11-full-comparison",
+      "crossrefIds": [
+        "knight-versus-bishop--nimzovich-two-bishops-relative-strength",
+        "knight-versus-bishop--amateurs-minor-piece-endgames",
+        "knight-versus-bishop--kotov-piece-position-minor-pieces"
+      ]
     }
   ]
 }

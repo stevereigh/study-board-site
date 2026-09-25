@@ -7293,6 +7293,325 @@
         "section": "Complete motive 4 and all three ending examples, diagrams 69-71; stop before Chapter 6 on PDF 114",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "knight-versus-bishop--amateurs-minor-piece-plan-and-reaction",
+      "chapterId": "amateurs-minor-piece-plan-and-reaction",
+      "locator": {
+        "pdfPageStart": 24,
+        "pdfPageEnd": 30,
+        "printedPages": "17-23",
+        "section": "Complete Silman-Gross model and 1000-Silman student example; diagrams 10-11",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--amateurs-minor-piece-purposeful-play",
+      "chapterId": "amateurs-minor-piece-purposeful-play",
+      "locator": {
+        "pdfPageStart": 31,
+        "pdfPageEnd": 37,
+        "printedPages": "24-30",
+        "section": "Complete 1600-Silman and 1200-Silman examples; diagrams 12-13 and first tips box",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--amateurs-bishop-majority-restriction",
+      "chapterId": "amateurs-bishop-majority-restriction",
+      "locator": {
+        "pdfPageStart": 38,
+        "pdfPageEnd": 42,
+        "printedPages": "31-35",
+        "section": "Complete Fischer-Taimanov model and 1700-Silman student example; diagrams 14-15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--amateurs-steinitz-knight-denial",
+      "chapterId": "amateurs-steinitz-knight-denial",
+      "locator": {
+        "pdfPageStart": 48,
+        "pdfPageEnd": 52,
+        "printedPages": "41-45",
+        "section": "Complete Rosenthal-Steinitz model and junior comparison; diagrams 17-18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--amateurs-minor-piece-endgames",
+      "chapterId": "amateurs-minor-piece-endgames",
+      "locator": {
+        "pdfPageStart": 58,
+        "pdfPageEnd": 66,
+        "printedPages": "51-59",
+        "section": "Complete Hort-Ciocaltea and Silman-1850 examples; diagrams 21-22 and final tips; PDF 67 begins the next chapter on printed 61",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--nimzovich-two-bishops-relative-strength",
+      "chapterId": "nimzovich-two-bishops-relative-strength",
+      "locator": {
+        "pdfPageStart": 250,
+        "pdfPageEnd": 251,
+        "printedPages": "228-229",
+        "section": "Complete introductory relative-strength section; diagrams 177-178",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--kotov-piece-position-minor-pieces",
+      "chapterId": "kotov-piece-position-minor-pieces",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 109,
+        "printedPages": "108-110",
+        "section": "Section opening through the bad-bishop and bad-knight examples; three relevant diagrams, excluding the preceding-section diagram on PDF 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--amateurs-bishop-pair-structure",
+      "chapterId": "amateurs-bishop-pair-structure",
+      "locator": {
+        "pdfPageStart": 43,
+        "pdfPageEnd": 47,
+        "printedPages": "36-40",
+        "section": "Complete Kaletski-Samalii example and tips box; the printed diagram sequence skips from 15 to 17 in the supplied scan",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--amateurs-minor-piece-endgames",
+      "chapterId": "amateurs-minor-piece-endgames",
+      "locator": {
+        "pdfPageStart": 58,
+        "pdfPageEnd": 66,
+        "printedPages": "51-59",
+        "section": "Complete Hort-Ciocaltea and Silman-1850 examples; diagrams 21-22 and final tips; PDF 67 begins the next chapter on printed 61",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--kotov-piece-position-minor-pieces",
+      "chapterId": "kotov-piece-position-minor-pieces",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 109,
+        "printedPages": "108-110",
+        "section": "Section opening through the bad-bishop and bad-knight examples; three relevant diagrams, excluding the preceding-section diagram on PDF 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--amateurs-bishop-pair-structure",
+      "chapterId": "amateurs-bishop-pair-structure",
+      "locator": {
+        "pdfPageStart": 43,
+        "pdfPageEnd": 47,
+        "printedPages": "36-40",
+        "section": "Complete Kaletski-Samalii example and tips box; the printed diagram sequence skips from 15 to 17 in the supplied scan",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--amateurs-bishop-pair-open-center",
+      "chapterId": "amateurs-bishop-pair-open-center",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 58,
+        "printedPages": "46-51",
+        "section": "Complete Longren-Silman and Silman-1700 examples; diagrams 19-20 and tips box",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--amateurs-minor-piece-endgames",
+      "chapterId": "amateurs-minor-piece-endgames",
+      "locator": {
+        "pdfPageStart": 58,
+        "pdfPageEnd": 66,
+        "printedPages": "51-59",
+        "section": "Complete Hort-Ciocaltea and Silman-1850 examples; diagrams 21-22 and final tips; PDF 67 begins the next chapter on printed 61",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--nimzovich-horwitz-bishops",
+      "chapterId": "nimzovich-horwitz-bishops",
+      "locator": {
+        "pdfPageStart": 252,
+        "pdfPageEnd": 253,
+        "printedPages": "230-231",
+        "section": "Complete Horwitz Bishops section through its example; diagram 179; section 3 starts on printed 231",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--nimzovich-bishops-support-pawn-mass",
+      "chapterId": "nimzovich-bishops-support-pawn-mass",
+      "locator": {
+        "pdfPageStart": 253,
+        "pdfPageEnd": 255,
+        "printedPages": "231-233",
+        "section": "Complete section 3 and Richtig-Tarrasch discussion; diagrams 180-182",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--nimzovich-bishops-fight-pawn-mass",
+      "chapterId": "nimzovich-bishops-fight-pawn-mass",
+      "locator": {
+        "pdfPageStart": 256,
+        "pdfPageEnd": 257,
+        "printedPages": "234-235",
+        "section": "Complete section 4 through Harmonist-Tarrasch; diagram 183; section 5 begins on printed 235",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--nimzovich-two-bishops-endgame",
+      "chapterId": "nimzovich-two-bishops-endgame",
+      "locator": {
+        "pdfPageStart": 257,
+        "pdfPageEnd": 259,
+        "printedPages": "235-237",
+        "section": "Complete section 5 and chapter ending; diagrams 184-185; PDF 260 begins Over-Protection on printed 238",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--amateurs-minor-piece-plan-and-reaction",
+      "chapterId": "amateurs-minor-piece-plan-and-reaction",
+      "locator": {
+        "pdfPageStart": 24,
+        "pdfPageEnd": 30,
+        "printedPages": "17-23",
+        "section": "Complete Silman-Gross model and 1000-Silman student example; diagrams 10-11",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--amateurs-bishop-majority-restriction",
+      "chapterId": "amateurs-bishop-majority-restriction",
+      "locator": {
+        "pdfPageStart": 38,
+        "pdfPageEnd": 42,
+        "printedPages": "31-35",
+        "section": "Complete Fischer-Taimanov model and 1700-Silman student example; diagrams 14-15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--amateurs-steinitz-knight-denial",
+      "chapterId": "amateurs-steinitz-knight-denial",
+      "locator": {
+        "pdfPageStart": 48,
+        "pdfPageEnd": 52,
+        "printedPages": "41-45",
+        "section": "Complete Rosenthal-Steinitz model and junior comparison; diagrams 17-18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "outposts--nimzovich-bishops-support-pawn-mass",
+      "chapterId": "nimzovich-bishops-support-pawn-mass",
+      "locator": {
+        "pdfPageStart": 253,
+        "pdfPageEnd": 255,
+        "printedPages": "231-233",
+        "section": "Complete section 3 and Richtig-Tarrasch discussion; diagrams 180-182",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--amateurs-minor-piece-plan-and-reaction",
+      "chapterId": "amateurs-minor-piece-plan-and-reaction",
+      "locator": {
+        "pdfPageStart": 24,
+        "pdfPageEnd": 30,
+        "printedPages": "17-23",
+        "section": "Complete Silman-Gross model and 1000-Silman student example; diagrams 10-11",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--amateurs-minor-piece-purposeful-play",
+      "chapterId": "amateurs-minor-piece-purposeful-play",
+      "locator": {
+        "pdfPageStart": 31,
+        "pdfPageEnd": 37,
+        "printedPages": "24-30",
+        "section": "Complete 1600-Silman and 1200-Silman examples; diagrams 12-13 and first tips box",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--amateurs-bishop-pair-structure",
+      "chapterId": "amateurs-bishop-pair-structure",
+      "locator": {
+        "pdfPageStart": 43,
+        "pdfPageEnd": 47,
+        "printedPages": "36-40",
+        "section": "Complete Kaletski-Samalii example and tips box; the printed diagram sequence skips from 15 to 17 in the supplied scan",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--amateurs-bishop-pair-open-center",
+      "chapterId": "amateurs-bishop-pair-open-center",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 58,
+        "printedPages": "46-51",
+        "section": "Complete Longren-Silman and Silman-1700 examples; diagrams 19-20 and tips box",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--nimzovich-two-bishops-relative-strength",
+      "chapterId": "nimzovich-two-bishops-relative-strength",
+      "locator": {
+        "pdfPageStart": 250,
+        "pdfPageEnd": 251,
+        "printedPages": "228-229",
+        "section": "Complete introductory relative-strength section; diagrams 177-178",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--kotov-piece-position-minor-pieces",
+      "chapterId": "kotov-piece-position-minor-pieces",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 109,
+        "printedPages": "108-110",
+        "section": "Section opening through the bad-bishop and bad-knight examples; three relevant diagrams, excluding the preceding-section diagram on PDF 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--kotov-piece-position-stranded-rook",
+      "chapterId": "kotov-piece-position-stranded-rook",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 112,
+        "printedPages": "110-113",
+        "section": "Complete offside-knight and trapped-rook examples through Kotov-Szabo; three relevant diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--kotov-piece-position-queen",
+      "chapterId": "kotov-piece-position-queen",
+      "locator": {
+        "pdfPageStart": 112,
+        "pdfPageEnd": 113,
+        "printedPages": "113-114",
+        "section": "Complete queen-position discussion through Gligoric-Szabo and Denker example; one relevant diagram on PDF 112 and one before the next heading on PDF 113",
+        "ebookLocation": null
+      }
     }
   ]
 }

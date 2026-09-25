@@ -3614,6 +3614,201 @@
         "section": "Complete motive 4 and all three ending examples, diagrams 69-71; stop before Chapter 6 on PDF 114",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "amateurs-minor-piece-plan-and-reaction",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Silman-Gross and 1000-Silman; pp. 17-23; PDF 24-30",
+      "title": "Turn a minor-piece edge into a plan, not a slogan",
+      "locator": {
+        "pdfPageStart": 24,
+        "pdfPageEnd": 30,
+        "printedPages": "17-23",
+        "section": "Complete Silman-Gross model and 1000-Silman student example; diagrams 10-11",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-minor-piece-purposeful-play",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "1600-Silman and 1200-Silman; pp. 24-30; PDF 31-37",
+      "title": "Purposeful play beats both drift and scattered ideas",
+      "locator": {
+        "pdfPageStart": 31,
+        "pdfPageEnd": 37,
+        "printedPages": "24-30",
+        "section": "Complete 1600-Silman and 1200-Silman examples; diagrams 12-13 and first tips box",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-bishop-majority-restriction",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Fischer-Taimanov and 1700-Silman; pp. 31-35; PDF 38-42",
+      "title": "Use the bishop while stopping the knight's ideal route",
+      "locator": {
+        "pdfPageStart": 38,
+        "pdfPageEnd": 42,
+        "printedPages": "31-35",
+        "section": "Complete Fischer-Taimanov model and 1700-Silman student example; diagrams 14-15",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-bishop-pair-structure",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Kaletski-Samalii; pp. 36-40; PDF 43-47",
+      "title": "Shape the center for the minor pieces you own",
+      "locator": {
+        "pdfPageStart": 43,
+        "pdfPageEnd": 47,
+        "printedPages": "36-40",
+        "section": "Complete Kaletski-Samalii example and tips box; the printed diagram sequence skips from 15 to 17 in the supplied scan",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-steinitz-knight-denial",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Rosenthal-Steinitz and junior comparison; pp. 41-45; PDF 48-52",
+      "title": "Drive a knight from support points without losing the whole board",
+      "locator": {
+        "pdfPageStart": 48,
+        "pdfPageEnd": 52,
+        "printedPages": "41-45",
+        "section": "Complete Rosenthal-Steinitz model and junior comparison; diagrams 17-18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-bishop-pair-open-center",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Longren-Silman and Silman-1700; pp. 46-51; PDF 53-58",
+      "title": "Open lines for bishops and reject unsupported fantasy attacks",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 58,
+        "printedPages": "46-51",
+        "section": "Complete Longren-Silman and Silman-1700 examples; diagrams 19-20 and tips box",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-minor-piece-endgames",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Hort-Ciocaltea and Silman-1850; pp. 51-59; PDF 58-66",
+      "title": "Convert minor-piece advantages by fixing targets and choosing the right ending",
+      "locator": {
+        "pdfPageStart": 58,
+        "pdfPageEnd": 66,
+        "printedPages": "51-59",
+        "section": "Complete Hort-Ciocaltea and Silman-1850 examples; diagrams 21-22 and final tips; PDF 67 begins the next chapter on printed 61",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-two-bishops-relative-strength",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "The Two Bishops section 1; pp. 228-229; PDF 250-251",
+      "title": "Compare bishop and knight through the whole position",
+      "locator": {
+        "pdfPageStart": 250,
+        "pdfPageEnd": 251,
+        "printedPages": "228-229",
+        "section": "Complete introductory relative-strength section; diagrams 177-178",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-horwitz-bishops",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "The Two Bishops section 2; pp. 230-231; PDF 252-253",
+      "title": "Horwitz bishops cooperate on neighboring diagonals",
+      "locator": {
+        "pdfPageStart": 252,
+        "pdfPageEnd": 253,
+        "printedPages": "230-231",
+        "section": "Complete Horwitz Bishops section through its example; diagram 179; section 3 starts on printed 231",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-bishops-support-pawn-mass",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "The Two Bishops section 3; pp. 231-233; PDF 253-255",
+      "title": "Bishops escort a pawn mass while hemming in knights",
+      "locator": {
+        "pdfPageStart": 253,
+        "pdfPageEnd": 255,
+        "printedPages": "231-233",
+        "section": "Complete section 3 and Richtig-Tarrasch discussion; diagrams 180-182",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-bishops-fight-pawn-mass",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "The Two Bishops section 4; pp. 234-235; PDF 256-257",
+      "title": "Restrain a pawn majority until it obstructs its own knights",
+      "locator": {
+        "pdfPageStart": 256,
+        "pdfPageEnd": 257,
+        "printedPages": "234-235",
+        "section": "Complete section 4 through Harmonist-Tarrasch; diagram 183; section 5 begins on printed 235",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-two-bishops-endgame",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "The Two Bishops section 5; pp. 235-237; PDF 257-259",
+      "title": "Transform the bishop pair into an endgame advantage",
+      "locator": {
+        "pdfPageStart": 257,
+        "pdfPageEnd": 259,
+        "printedPages": "235-237",
+        "section": "Complete section 5 and chapter ending; diagrams 184-185; PDF 260 begins Over-Protection on printed 238",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-piece-position-minor-pieces",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "The Position of the Pieces; pp. 108-110; PDF 107-109",
+      "title": "Exploit a bishop or knight that has no route back into play",
+      "locator": {
+        "pdfPageStart": 107,
+        "pdfPageEnd": 109,
+        "printedPages": "108-110",
+        "section": "Section opening through the bad-bishop and bad-knight examples; three relevant diagrams, excluding the preceding-section diagram on PDF 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-piece-position-stranded-rook",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "The Position of the Pieces; pp. 110-113; PDF 109-112",
+      "title": "Attack while a rook is stranded outside the battle",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 112,
+        "printedPages": "110-113",
+        "section": "Complete offside-knight and trapped-rook examples through Kotov-Szabo; three relevant diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-piece-position-queen",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "The Position of the Pieces; pp. 113-114; PDF 112-113",
+      "title": "Harass a queen that cannot find a stable square",
+      "locator": {
+        "pdfPageStart": 112,
+        "pdfPageEnd": 113,
+        "printedPages": "113-114",
+        "section": "Complete queen-position discussion through Gligoric-Szabo and Denker example; one relevant diagram on PDF 112 and one before the next heading on PDF 113",
+        "ebookLocation": null
+      }
     }
   ]
 }

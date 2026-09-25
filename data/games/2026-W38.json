@@ -421,8 +421,81 @@
       "openingEco": "A00",
       "openingName": "Van Geet Opening",
       "movesSan": "Nc3 d5 e4 d4 Nd5 Nf6 d3 Nxd5 exd5 Qxd5 Nf3 c5 c4 Qe6+ Be2 f6 O-O Qf5 g3 e5 Nh4 Qd7 Bg4 Qc7 Bxc8 Qxc8 f4 Nc6 fxe5 Nxe5 Re1 Bd6 Bf4 O-O Nf3 Re8 Nh4 Re7 Bxe5 Rxe5 Rxe5 Bxe5 h3 Qxh3 Qf3 Bxg3 Ng2 Qh2+ Kf1 Qh1+ Ke2 Qxa1 Qd5+ Kh8 Kf3 Be5 Nh4 Qf1+ Ke4 Qe1+ Kf3 Qxh4",
-      "analysisStatus": "missing",
-      "evidence": []
+      "analysisStatus": "complete",
+      "evidence": [
+        {
+          "id": "e-47644a386e675366-23",
+          "gameId": "GdJ8ngSf",
+          "ply": 23,
+          "fen": "rnb1kb1r/pp1q2pp/5p2/2p1p3/2Pp3N/3P2P1/PP2BP1P/R1BQ1RK1 w kq - 2 12",
+          "signal": "evaluation-drop",
+          "conceptIds": [],
+          "source": "stockfish",
+          "engineVersion": "Stockfish 16",
+          "depth": 18,
+          "scoreBeforeCp": -52,
+          "scoreAfterCp": -554,
+          "mateBefore": null,
+          "mateAfter": null,
+          "scorePerspective": "player",
+          "secondsSpent": 8.68,
+          "note": "Played Bg4; engine candidate f4. Review the position before this move. Budget: 100000 nodes per position; finite-search review cue, not a proven cause of the result."
+        },
+        {
+          "id": "e-47644a386e675366-43",
+          "gameId": "GdJ8ngSf",
+          "ply": 43,
+          "fen": "r1q3k1/pp4pp/5p2/2p1b3/2Pp3N/3P2P1/PP5P/R2Q2K1 w - - 0 22",
+          "signal": "evaluation-drop",
+          "conceptIds": [],
+          "source": "stockfish",
+          "engineVersion": "Stockfish 16",
+          "depth": 17,
+          "scoreBeforeCp": -99,
+          "scoreAfterCp": -546,
+          "mateBefore": null,
+          "mateAfter": null,
+          "scorePerspective": "player",
+          "secondsSpent": 38.76,
+          "note": "Played h3; engine candidate Qf1. Review the position before this move. Budget: 100000 nodes per position; finite-search review cue, not a proven cause of the result."
+        },
+        {
+          "id": "e-47644a386e675366-57",
+          "gameId": "GdJ8ngSf",
+          "ply": 57,
+          "fen": "r6k/pp4pp/5p2/2pQb3/2Pp4/3P1K2/PP4N1/q7 w - - 4 29",
+          "signal": "allowed-forced-mate",
+          "conceptIds": [],
+          "source": "stockfish",
+          "engineVersion": "Stockfish 16",
+          "depth": 17,
+          "scoreBeforeCp": -838,
+          "scoreAfterCp": null,
+          "mateBefore": null,
+          "mateAfter": -3,
+          "scorePerspective": "player",
+          "secondsSpent": 16.76,
+          "note": "Played Nh4; engine candidate Qxe5. Review the position before this move. Budget: 100000 nodes per position; finite-search review cue, not a proven cause of the result."
+        },
+        {
+          "id": "e-47644a386e675366-61",
+          "gameId": "GdJ8ngSf",
+          "ply": 61,
+          "fen": "r6k/pp4pp/5p2/2pQb3/2PpK2N/3P4/PP6/4q3 w - - 8 31",
+          "signal": "allowed-forced-mate",
+          "conceptIds": [],
+          "source": "stockfish",
+          "engineVersion": "Stockfish 16",
+          "depth": 16,
+          "scoreBeforeCp": -1020,
+          "scoreAfterCp": null,
+          "mateBefore": null,
+          "mateAfter": -3,
+          "scorePerspective": "player",
+          "secondsSpent": 31.08,
+          "note": "Played Kf3; engine candidate Kf5. Review the position before this move. Budget: 100000 nodes per position; finite-search review cue, not a proven cause of the result."
+        }
+      ]
     }
   ]
 }

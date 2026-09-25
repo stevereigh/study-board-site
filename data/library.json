@@ -7264,6 +7264,132 @@
     ]
   },
   {
+    "chapterId": "kotov-piece-position-minor-pieces",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "The Position of the Pieces; pp. 108-110; PDF 107-109",
+    "title": "Exploit a bishop or knight that has no route back into play",
+    "tags": [
+      "piece-activity",
+      "bad-bishop",
+      "edge-knight",
+      "restriction"
+    ],
+    "note": "Kotov treats pieces as an army whose result depends on coordination. One badly placed piece can decide the game when it has no useful route back. The first example encloses a bishop behind its own pawns and uses the king to attack the remaining wing. The second shows how a knight near the edge can become a lasting handicap even when its square looked active at first.\n\nThe practical method is to identify the trapped piece, remove its escape or exchange routes, and play on the rest of the board where you effectively have an extra unit. Do not rush to win the piece itself. If it remains cut off, every exchange of active defenders increases the relative value of your numerical advantage elsewhere.",
+    "keyIdeas": [
+      "Identify the piece with no useful route.",
+      "Close its escape and exchange routes.",
+      "Attack elsewhere while the piece remains absent.",
+      "Use exchanges to magnify the effective extra unit."
+    ],
+    "activities": [
+      {
+        "id": "study-piece-activity-bad-minor",
+        "concept": "Piece activity",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 107-109. For each bad minor piece, draw its shortest useful route back into play and explain how the opponent prevents it.",
+        "successCheck": "Show why the attack elsewhere is stronger than trying to win the bad piece directly.",
+        "playReminders": [
+          "Which enemy piece cannot reach the real battle?"
+        ]
+      },
+      {
+        "id": "study-s11-full-comparison",
+        "concept": "Knight versus bishop",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare the paired endgames on PDF 250-251, Silman&#x27;s final choice on PDF 64-66, and Kotov&#x27;s trapped minor pieces on PDF 107-109. Use one checklist: tasks, routes, target colors, pawn breaks and destination ending.",
+        "successCheck": "Correctly choose bishop or knight in all three source families and give a concrete reason each time.",
+        "playReminders": [
+          "Tasks and routes first; piece label second."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-piece-position-stranded-rook",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "The Position of the Pieces; pp. 110-113; PDF 109-112",
+    "title": "Attack while a rook is stranded outside the battle",
+    "tags": [
+      "piece-activity",
+      "coordination",
+      "attack",
+      "exchanges"
+    ],
+    "note": "Kotov&#x27;s attacking examples show how to exploit a defender stationed far from the theater of play. An edge knight or trapped rook may still be materially present, but it cannot contribute before the attack arrives. The stronger side mobilizes on the opposite wing, exchanges the defenders that can return quickly, and opens lines against the king.\n\nA stranded rook can become proportionally more important after minor pieces are exchanged: fewer active units remain, so the absent rook represents a larger share of the army. The lesson applies to both attack and defense. Before launching play, count which pieces can reach the target in time. Before simplifying, ask whether the exchange brings the opponent&#x27;s bad piece closer to relevance or makes its absence even more costly.",
+    "keyIdeas": [
+      "Count pieces that can reach the theater of play.",
+      "Exchange defenders when the opponent&#x27;s major piece remains stranded.",
+      "Reassess the value of the bad piece after simplification.",
+      "Attack the wing the offside piece cannot reach."
+    ],
+    "activities": [
+      {
+        "id": "study-piece-activity-stranded-rook",
+        "concept": "Piece activity",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 109-112. Count attackers and defenders on the active wing before and after the minor-piece exchanges; then explain why the stranded rook becomes more costly.",
+        "successCheck": "Demonstrate the effective material advantage created by distance and simplification.",
+        "playReminders": [
+          "Will this exchange make the bad piece more or less relevant?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-piece-position-queen",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "The Position of the Pieces; pp. 113-114; PDF 112-113",
+    "title": "Harass a queen that cannot find a stable square",
+    "tags": [
+      "piece-activity",
+      "queen",
+      "development",
+      "tempo"
+    ],
+    "note": "The queen&#x27;s mobility is both strength and liability. Because almost every enemy piece can attack it, an exposed queen may spend repeated tempi searching for safety while the opponent develops with threats. Kotov&#x27;s examples show how avoiding exchanges and maneuvering on one color can leave the queen with no stable post.\n\nExploit the situation by choosing developing moves that attack the queen while improving coordination. Do not chase it with arbitrary moves that weaken your position. The victim should look for a safe exchange or a square that ends the tempo loss. The section closes before &#x27;Poor Position of a Number of Pieces&#x27; begins midway through printed page 114.",
+    "keyIdeas": [
+      "Develop with tempo against the exposed queen.",
+      "Reduce the queen&#x27;s safe squares without weakening your army.",
+      "Seek a simplifying exchange when your queen is being harassed.",
+      "Distinguish useful pursuit from aimless chasing."
+    ],
+    "activities": [
+      {
+        "id": "study-piece-activity-queen-tempi",
+        "concept": "Piece activity",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read the queen-position ending on PDF 112-113. List every queen move forced by development with tempo and the safe exchange or square that would end the chase.",
+        "successCheck": "Separate improving attacks on the queen from pawn moves that merely chase it.",
+        "playReminders": [
+          "Can I attack the queen while improving a piece?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nimzovich-development",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
@@ -8435,6 +8561,188 @@
           "Can this majority create a passer before the opponent becomes active?",
           "Which king, rook, or minor piece supports or blocks the advance?",
           "Would a minority attack neutralize the larger group?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-two-bishops-relative-strength",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "The Two Bishops section 1; pp. 228-229; PDF 250-251",
+    "title": "Compare bishop and knight through the whole position",
+    "tags": [
+      "bishop-versus-knight",
+      "endgame",
+      "piece-activity"
+    ],
+    "note": "Nimzowitsch treats the two bishops as a weapon whose value depends on the position rather than an automatic element of superiority. His paired endings contrast the bishop&#x27;s ability to span distant wings with its inability to control squares of the opposite color. The long stride matters when play is separated; the knight can be superior when the important work is local and the bishop cannot touch the relevant color.\n\nThe comparison should therefore begin with tasks: which passers must be stopped, which squares must be defended, and how quickly can each piece reach them? A piece&#x27;s class does not decide the position. Its activity, the pawn layout and the opponent&#x27;s king determine whether the theoretical advantage can be used.",
+    "keyIdeas": [
+      "Evaluate the jobs on both color complexes.",
+      "Long-range power matters most when play is separated.",
+      "A knight can outperform a bishop against local targets.",
+      "Activity and structure outweigh piece labels."
+    ],
+    "activities": [
+      {
+        "id": "study-s11-full-comparison",
+        "concept": "Knight versus bishop",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare the paired endgames on PDF 250-251, Silman&#x27;s final choice on PDF 64-66, and Kotov&#x27;s trapped minor pieces on PDF 107-109. Use one checklist: tasks, routes, target colors, pawn breaks and destination ending.",
+        "successCheck": "Correctly choose bishop or knight in all three source families and give a concrete reason each time.",
+        "playReminders": [
+          "Tasks and routes first; piece label second."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-horwitz-bishops",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "The Two Bishops section 2; pp. 230-231; PDF 252-253",
+    "title": "Horwitz bishops cooperate on neighboring diagonals",
+    "tags": [
+      "bishop-pair",
+      "coordination",
+      "king-attack"
+    ],
+    "note": "Two bishops on neighboring diagonals can work like a battery with alternating jobs. One bishop forces a pawn move or fixes a weakness; the other uses the newly opened route. Nimzowitsch calls this arrangement the Horwitz bishops and illustrates how their combined pressure can reach the king even when neither bishop delivers the final blow alone.\n\nThe pattern is about cooperation, not geometry by itself. Identify the pawn move one bishop can provoke, the diagonal that opens for the other, and the supporting queen or rook. If the opponent can close both diagonals or exchange one bishop without concession, the pair has not yet become a practical force.",
+    "keyIdeas": [
+      "Use one bishop to provoke a weakness for the other.",
+      "Coordinate the pair with queen and rook pressure.",
+      "Name the diagonal that opens after the forced pawn move."
+    ],
+    "activities": [
+      {
+        "id": "study-bishop-pair-horwitz",
+        "concept": "Bishop pair",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 252-253. For diagram 179, identify what the first bishop forces, which diagonal opens for the second and which heavy piece completes the threat.",
+        "successCheck": "Describe the three-piece mechanism without referring only to &#x27;two bishops.&#x27;",
+        "playReminders": [
+          "What weakness does one bishop create for the other?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-bishops-support-pawn-mass",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "The Two Bishops section 3; pp. 231-233; PDF 253-255",
+    "title": "Bishops escort a pawn mass while hemming in knights",
+    "tags": [
+      "bishop-pair",
+      "pawn-mass",
+      "restriction",
+      "knights"
+    ],
+    "note": "A bishop pair can guide an advancing pawn mass because the bishops cover the squares the pawns leave behind and restrict the enemy knights&#x27; routes. In Nimzowitsch&#x27;s examples, the pawn advance is not a race by itself. The bishops and pawns form one system: pawns gain space, bishops protect the advance, and knights are pushed into increasingly passive stations.\n\nThe source also warns against confusing the strategic plan with a decorative move. A broad plan such as a queenside expansion remains useful only while every move serves the advance or the restraint. If a flank move permits a tactical resource or lets the opponent break the blockade, it must be rejected. Track the enemy knight&#x27;s candidate squares and the pawn contacts that can deny them.",
+    "keyIdeas": [
+      "Coordinate the pawn advance with bishop control.",
+      "Use the pawn mass to reduce knight mobility.",
+      "Reject flank moves that do not serve the strategic plan.",
+      "Track concrete knight routes during the advance."
+    ],
+    "activities": [
+      {
+        "id": "study-bishop-pair-pawn-mass",
+        "concept": "Bishop pair",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare diagrams 180-183 on PDF 253-257. Build two columns: bishops escorting their own pawn mass and bishops restraining the opponent&#x27;s. Track the knight squares removed in each case.",
+        "successCheck": "Explain how the pawns and bishops form one system in both directions.",
+        "playReminders": [
+          "Are the pawns advancing, or are they obstructing their own knights?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-bishops-fight-pawn-mass",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "The Two Bishops section 4; pp. 234-235; PDF 256-257",
+    "title": "Restrain a pawn majority until it obstructs its own knights",
+    "tags": [
+      "bishop-pair",
+      "blockade",
+      "pawn-majority",
+      "restriction"
+    ],
+    "note": "When the bishops face an enemy pawn majority, they can restrain it rather than race it. A successful blockade fixes the pawns on squares where they restrict their own knights, turning the opponent&#x27;s nominal space into congestion. The bishops then attack the fixed chain or switch to the other wing.\n\nThis method requires technical patience. The defender must maintain the blockade, avoid unnecessary exchanges that free the knights, and only open the position when the bishops can use the new lines. The key comparison is between the majority&#x27;s theoretical mobility and its actual ability to advance without conceding targets.",
+    "keyIdeas": [
+      "Blockade the majority before attacking it.",
+      "Use fixed pawns as obstacles to their own knights.",
+      "Open lines only when the bishops benefit.",
+      "Compare nominal mobility with an executable pawn advance."
+    ],
+    "activities": [
+      {
+        "id": "study-bishop-pair-pawn-mass",
+        "concept": "Bishop pair",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare diagrams 180-183 on PDF 253-257. Build two columns: bishops escorting their own pawn mass and bishops restraining the opponent&#x27;s. Track the knight squares removed in each case.",
+        "successCheck": "Explain how the pawns and bishops form one system in both directions.",
+        "playReminders": [
+          "Are the pawns advancing, or are they obstructing their own knights?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-two-bishops-endgame",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "The Two Bishops section 5; pp. 235-237; PDF 257-259",
+    "title": "Transform the bishop pair into an endgame advantage",
+    "tags": [
+      "bishop-pair",
+      "endgame",
+      "pawn-breaks",
+      "conversion"
+    ],
+    "note": "Nimzowitsch&#x27;s preferred conversion is to transform the bishop pair into a clearly strategic ending. The bishops support passers, attack weaknesses on both colors and restrict a knight or rook to passive defense. The examples show that apparently closed positions may still favor the pair when one well-timed pawn break opens the necessary route.\n\nThe pair is not invincible. A centrally posted, unassailable knight can neutralize it, and several examples elsewhere in the book show the bishops looking poor behind closed lines. Conversion therefore requires a concrete plan: improve the bishops, prepare the break, and enter an ending where the opponent cannot establish the ideal blockade.",
+    "keyIdeas": [
+      "Prepare the pawn break that releases the bishops.",
+      "Attack weaknesses on both colors.",
+      "Avoid an ending dominated by an unassailable knight.",
+      "Transform the pair only into a demonstrably better destination."
+    ],
+    "activities": [
+      {
+        "id": "study-bishop-pair-endgame",
+        "concept": "Bishop pair",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Study diagrams 184-185 on PDF 257-259. Identify the prepared pawn break, the weaknesses on both colors and the best blockade the defender seeks.",
+        "successCheck": "State when the pair can be converted and when a central knight would neutralize it.",
+        "playReminders": [
+          "Can the opponent establish a permanent blockade?"
         ]
       }
     ]
@@ -10173,6 +10481,264 @@
         "playReminders": [
           "Which minor piece gives the isolated pawn activity?",
           "Which attacker must remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-minor-piece-plan-and-reaction",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Silman-Gross and 1000-Silman; pp. 17-23; PDF 24-30",
+    "title": "Turn a minor-piece edge into a plan, not a slogan",
+    "tags": [
+      "minor-pieces",
+      "planning",
+      "restriction",
+      "prophylaxis"
+    ],
+    "note": "Silman&#x27;s model begins with a small bishop-versus-knight edge and converts it into a plan: deny the enemy knight&#x27;s support points, improve the bishop, and place the queen where it supports the same targets. None of those moves is a direct attack. Together they reduce the knight&#x27;s future and make the bishop&#x27;s range matter.\n\nThe student example shows the opposite habit. The player notices the imbalance but feeds the knight a strong square, reacts to threats that do not require a response, and abandons the position&#x27;s main idea. A positional label becomes useful only when it leads to squares, routes and restraints. Before starting your plan, also ask what the opponent wants; otherwise every new threat can pull you away from the work that made your piece superior.",
+    "keyIdeas": [
+      "Deny the inferior piece its best future square.",
+      "Coordinate several pieces around the same strategic target.",
+      "Separate real threats from moves that merely look active.",
+      "Keep the opponent&#x27;s plan inside your own calculation."
+    ],
+    "activities": [
+      {
+        "id": "study-knight-versus-bishop-plan",
+        "concept": "Knight versus bishop",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 24-37. For diagrams 10-13, write the better minor piece, the square that makes it better, the opponent&#x27;s best route, and one exchange you must avoid.",
+        "successCheck": "Produce four position cards whose plan follows directly from the named squares and routes.",
+        "playReminders": [
+          "Which minor piece has a useful route and target?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-minor-piece-purposeful-play",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "1600-Silman and 1200-Silman; pp. 24-30; PDF 31-37",
+    "title": "Purposeful play beats both drift and scattered ideas",
+    "tags": [
+      "minor-pieces",
+      "planning",
+      "exchanges",
+      "decision-making"
+    ],
+    "note": "Two student examples distinguish imperfect but purposeful play from scattered calculation. The stronger student does not fully exploit the bishop, yet keeps fighting for a central square and a passed pawn. That continuity gives the moves a shared direction. The weaker student sees many plausible ideas, exchanges away the bishop-versus-knight edge, and changes plans after every reply.\n\nThe practical lesson is to state the imbalance and a concrete goal before calculating candidate moves. An apparently active pin or attack can be strategically costly if it permits the desired exchange. A secondary plan is acceptable when it improves the position; a sequence of unrelated threats is not. Slow advantages require patience, opponent-awareness and a willingness to keep improving instead of forcing a kingside attack that the position does not support.",
+    "keyIdeas": [
+      "State the imbalance and a concrete goal before choosing moves.",
+      "Preserve the piece that your plan depends on.",
+      "Prefer a coherent secondary plan to unrelated threats.",
+      "Judge attacks by what remains after the opponent&#x27;s best reply."
+    ],
+    "activities": [
+      {
+        "id": "study-knight-versus-bishop-plan",
+        "concept": "Knight versus bishop",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 24-37. For diagrams 10-13, write the better minor piece, the square that makes it better, the opponent&#x27;s best route, and one exchange you must avoid.",
+        "successCheck": "Produce four position cards whose plan follows directly from the named squares and routes.",
+        "playReminders": [
+          "Which minor piece has a useful route and target?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-bishop-majority-restriction",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Fischer-Taimanov and 1700-Silman; pp. 31-35; PDF 38-42",
+    "title": "Use the bishop while stopping the knight&#x27;s ideal route",
+    "tags": [
+      "bishop-versus-knight",
+      "pawn-majority",
+      "restriction",
+      "outposts"
+    ],
+    "note": "In Fischer-Taimanov, the bishop works with a queenside majority while Black&#x27;s knight seeks a stable central post. White does not defend every pawn. The h-pawn is allowed to fall so the majority can advance, the bishop can cover the promotion square, and the rook can reach the correct side of the passer. A small tactic completes the positional plan.\n\nThe student position asks for the same urgency in a quieter setting: identify the knight&#x27;s ideal square and stop its route before it arrives. The student instead improves the bishop without accounting for the opposing knight, then spends several moves reacting after the post has been secured. A bishop advantage can expire. Use it to advance a relevant majority, fix targets, or deny the knight&#x27;s route while the opportunity exists.",
+    "keyIdeas": [
+      "Identify the enemy knight&#x27;s ideal square and route.",
+      "Use a mobile majority before defensive moves consume the tempi.",
+      "Let an irrelevant pawn go when the strategic race demands it.",
+      "Expect tactics to support a sound positional plan."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "amateurs-bishop-pair-structure",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Kaletski-Samalii; pp. 36-40; PDF 43-47",
+    "title": "Shape the center for the minor pieces you own",
+    "tags": [
+      "bishop-pair",
+      "pawn-structure",
+      "pawn-breaks",
+      "minor-pieces"
+    ],
+    "note": "A bishop pair is potential energy. Black must keep or create open lines for it; White&#x27;s knights want stable squares and a closed center. The game shows both players drifting away from that structural question. White voluntarily accepts exchanges and closes the center, while Black fails to challenge the center and activate the bishops.\n\nEvaluate a minor-piece edge as a contest over the pawn structure. If you own bishops, prepare a break or exchange that opens diagonals. If you own knights, close useful lines and establish support points. Kingside pressure or a single open file can be visually impressive while the real long-term edge lies elsewhere. The tips emphasize durable features, honest threat assessment and energetic use of an imbalance before it disappears.",
+    "keyIdeas": [
+      "Open the center when the bishop pair is ready to use it.",
+      "Close lines and create support points when relying on knights.",
+      "Prefer durable structural gains to one-move threats.",
+      "Use the imbalance with energy before it fades."
+    ],
+    "activities": [
+      {
+        "id": "study-bishop-pair-center-break",
+        "concept": "Bishop pair",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare PDF 43-47 with PDF 53-58. In each game, mark the central break that would open the bishops, the opponent&#x27;s best closing move and the difference between a forced attack and a fantasy attack.",
+        "successCheck": "Give a legal break, preparation move and fallback plan for both positions.",
+        "playReminders": [
+          "Which break gives both bishops useful work?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-steinitz-knight-denial",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Rosenthal-Steinitz and junior comparison; pp. 41-45; PDF 48-52",
+    "title": "Drive a knight from support points without losing the whole board",
+    "tags": [
+      "knight-restriction",
+      "outposts",
+      "blunder-check",
+      "prophylaxis"
+    ],
+    "note": "Steinitz&#x27;s method attacks the knight&#x27;s squares in sequence. Each pawn move or piece placement removes a future home until the knight is forced to the edge, where it contributes little. The useful principle is not &#x27;always chase knights,&#x27; but &#x27;restrict the piece whose advanced post would organize the opponent&#x27;s position.&#x27;\n\nThe junior comparison adds a calculation safeguard. Both students understand the strategic idea, yet fixate on a target square and overlook an immediate tactical reply. Write the intended move mentally, then test checks, captures and threats in the resulting position. Strategic restriction and tactical verification must operate together. Rules may also be broken when keeping a knight on its post creates more value than closing the center to chase it.",
+    "keyIdeas": [
+      "Remove a knight&#x27;s useful homes in a planned sequence.",
+      "Target the square that organizes the opponent&#x27;s play.",
+      "Recheck tactics after every positional move.",
+      "Break the rule when the concrete cost of restriction is too high."
+    ],
+    "activities": [
+      {
+        "id": "study-outposts-steinitz-denial",
+        "concept": "Outposts",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Study diagrams 17-18 on PDF 48-52. Trace every home denied to the knight, then find the immediate tactical reply the students had to check before following the rule.",
+        "successCheck": "Name the full denial sequence and explain where tactical verification overrides the positional rule.",
+        "playReminders": [
+          "What is the knight&#x27;s ideal square, and can I stop its route?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-bishop-pair-open-center",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Longren-Silman and Silman-1700; pp. 46-51; PDF 53-58",
+    "title": "Open lines for bishops and reject unsupported fantasy attacks",
+    "tags": [
+      "bishop-pair",
+      "open-center",
+      "attack",
+      "calculation"
+    ],
+    "note": "The first example shows a direct use of the bishop pair: reject a move that locks the center, break it open, and coordinate bishops, queen and rooks against the king. The blocked knight becomes a defender that ties down the rest of the army. Once the center opens, the long-range pieces create threats on both wings.\n\nThe student example begins with a reasonable plan to drive away a knight, then turns into a fantasy mating attack. The player assumes the opponent will miss the threat, gives up material, and blames the position when the attack fails. Positional advantages usually require controlled improvement. Expect the best defense, force tactical shots before trusting them, and keep the pieces serving the long-term feature when no forced attack exists.",
+    "keyIdeas": [
+      "Use a central break to activate both bishops.",
+      "A restricted defender can overload the rest of the army.",
+      "Assume the opponent sees an obvious threat.",
+      "Return to controlled improvement when a tactic is not forced."
+    ],
+    "activities": [
+      {
+        "id": "study-bishop-pair-center-break",
+        "concept": "Bishop pair",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare PDF 43-47 with PDF 53-58. In each game, mark the central break that would open the bishops, the opponent&#x27;s best closing move and the difference between a forced attack and a fantasy attack.",
+        "successCheck": "Give a legal break, preparation move and fallback plan for both positions.",
+        "playReminders": [
+          "Which break gives both bishops useful work?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-minor-piece-endgames",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Hort-Ciocaltea and Silman-1850; pp. 51-59; PDF 58-66",
+    "title": "Convert minor-piece advantages by fixing targets and choosing the right ending",
+    "tags": [
+      "minor-piece-endgame",
+      "bishop-pair",
+      "passed-pawns",
+      "exchanges"
+    ],
+    "note": "In the first ending, the bishop pair limits the knight&#x27;s future, but the conversion depends on accurate definitions and a plan. Fix enemy pawns on the bishop&#x27;s color, prevent the knight&#x27;s useful route, activate the king, and compare passed pawns by whether they can actually advance. Exchanging a bishop at the wrong moment can surrender the very advantage being used.\n\nThe final position requires choosing among several transitions. A remembered slogan about bishops and pawns on both wings is not enough. The resulting pawn race and the pieces&#x27; ability to stop passers decide which exchange is favorable. The source examples show how quickly an advantage can vanish through delayed planning or the wrong trade. Define the destination ending first, then calculate the route into it.",
+    "keyIdeas": [
+      "Fix targets on the bishop&#x27;s color.",
+      "Preserve the bishop pair until an exchange serves a concrete goal.",
+      "Judge passed pawns by mobility and stopping resources.",
+      "Choose the destination ending before exchanging."
+    ],
+    "activities": [
+      {
+        "id": "study-minor-piece-endgame-choice",
+        "concept": "Knight versus bishop",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Study diagrams 21-22 on PDF 58-66. Before reading the continuation, compare the passed pawns, stopping routes and three available exchanges.",
+        "successCheck": "Choose the destination ending in both positions and justify it through routes rather than a slogan.",
+        "playReminders": [
+          "What does the resulting ending require each piece to stop?"
+        ]
+      },
+      {
+        "id": "study-s11-full-comparison",
+        "concept": "Knight versus bishop",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Compare the paired endgames on PDF 250-251, Silman&#x27;s final choice on PDF 64-66, and Kotov&#x27;s trapped minor pieces on PDF 107-109. Use one checklist: tasks, routes, target colors, pawn breaks and destination ending.",
+        "successCheck": "Correctly choose bishop or knight in all three source families and give a concrete reason each time.",
+        "playReminders": [
+          "Tasks and routes first; piece label second."
         ]
       }
     ]
