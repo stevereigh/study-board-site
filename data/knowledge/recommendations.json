@@ -1745,6 +1745,45 @@
         "knight-versus-bishop--amateurs-minor-piece-endgames",
         "knight-versus-bishop--kotov-piece-position-minor-pieces"
       ]
+    },
+    {
+      "id": "study-open-files-kotov-penetration",
+      "crossrefIds": [
+        "open-files--kotov-open-lines-penetration"
+      ]
+    },
+    {
+      "id": "study-open-files-kotov-paralysis",
+      "crossrefIds": [
+        "open-files--kotov-open-lines-paralysis"
+      ]
+    },
+    {
+      "id": "study-open-files-kotov-purpose-test",
+      "crossrefIds": [
+        "open-files--kotov-modern-open-line-utility"
+      ]
+    },
+    {
+      "id": "study-opening-lines-kotov-diagonal",
+      "crossrefIds": [
+        "opening-lines--kotov-diagonal-liberation"
+      ]
+    },
+    {
+      "id": "study-opening-lines-kotov-pawn-investment",
+      "crossrefIds": [
+        "opening-lines--kotov-open-lines-pawn-sacrifice"
+      ]
+    },
+    {
+      "id": "study-open-files-s12-complete-method",
+      "crossrefIds": [
+        "open-files--nimzovich-file-entry-goal",
+        "open-files--amateurs-rook-entry-denial",
+        "open-files--kotov-modern-open-line-utility",
+        "open-files--nimzovich-exchange-motives"
+      ]
     }
   ]
 }

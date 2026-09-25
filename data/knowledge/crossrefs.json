@@ -7612,6 +7612,116 @@
         "section": "Complete queen-position discussion through Gligoric-Szabo and Denker example; one relevant diagram on PDF 112 and one before the next heading on PDF 113",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "open-files--kotov-open-lines-penetration",
+      "chapterId": "kotov-open-lines-penetration",
+      "locator": {
+        "pdfPageStart": 83,
+        "pdfPageEnd": 85,
+        "printedPages": "84-86",
+        "section": "Open Lines and Diagonals from its heading through the Alekhine-Nimzowitsch example on printed 86; four diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--kotov-open-lines-penetration",
+      "chapterId": "kotov-open-lines-penetration",
+      "locator": {
+        "pdfPageStart": 83,
+        "pdfPageEnd": 85,
+        "printedPages": "84-86",
+        "section": "Open Lines and Diagonals from its heading through the Alekhine-Nimzowitsch example on printed 86; four diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--kotov-open-lines-paralysis",
+      "chapterId": "kotov-open-lines-paralysis",
+      "locator": {
+        "pdfPageStart": 86,
+        "pdfPageEnd": 87,
+        "printedPages": "87-88",
+        "section": "Remainder of Open Lines and Diagonals from the Alekhine-Nimzowitsch conclusion through Tarrasch-Alekhine; three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--kotov-open-lines-paralysis",
+      "chapterId": "kotov-open-lines-paralysis",
+      "locator": {
+        "pdfPageStart": 86,
+        "pdfPageEnd": 87,
+        "printedPages": "87-88",
+        "section": "Remainder of Open Lines and Diagonals from the Alekhine-Nimzowitsch conclusion through Tarrasch-Alekhine; three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--kotov-modern-open-line-utility",
+      "chapterId": "kotov-modern-open-line-utility",
+      "locator": {
+        "pdfPageStart": 88,
+        "pdfPageEnd": 89,
+        "printedPages": "89-90",
+        "section": "Modern Ideas on Open Lines from its heading through the start of the Neishstadt-Kotov example; three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--kotov-modern-open-line-utility",
+      "chapterId": "kotov-modern-open-line-utility",
+      "locator": {
+        "pdfPageStart": 88,
+        "pdfPageEnd": 89,
+        "printedPages": "89-90",
+        "section": "Modern Ideas on Open Lines from its heading through the start of the Neishstadt-Kotov example; three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--kotov-diagonal-liberation",
+      "chapterId": "kotov-diagonal-liberation",
+      "locator": {
+        "pdfPageStart": 90,
+        "pdfPageEnd": 92,
+        "printedPages": "91-93",
+        "section": "Modern Ideas on Open Lines from the Neishstadt-Kotov plan through the Kotov-Lisitsyn conclusion and Rauzer setup; four diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--kotov-diagonal-liberation",
+      "chapterId": "kotov-diagonal-liberation",
+      "locator": {
+        "pdfPageStart": 90,
+        "pdfPageEnd": 92,
+        "printedPages": "91-93",
+        "section": "Modern Ideas on Open Lines from the Neishstadt-Kotov plan through the Kotov-Lisitsyn conclusion and Rauzer setup; four diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opening-lines--kotov-open-lines-pawn-sacrifice",
+      "chapterId": "kotov-open-lines-pawn-sacrifice",
+      "locator": {
+        "pdfPageStart": 93,
+        "pdfPageEnd": 94,
+        "printedPages": "94-95",
+        "section": "Modern Ideas on Open Lines from the Rauzer example through Taimanov-Bronstein and the section boundary before Pawn Structure and Weak Squares; three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "open-files--kotov-open-lines-pawn-sacrifice",
+      "chapterId": "kotov-open-lines-pawn-sacrifice",
+      "locator": {
+        "pdfPageStart": 93,
+        "pdfPageEnd": 94,
+        "printedPages": "94-95",
+        "section": "Modern Ideas on Open Lines from the Rauzer example through Taimanov-Bronstein and the section boundary before Pawn Structure and Weak Squares; three diagrams",
+        "ebookLocation": null
+      }
     }
   ]
 }

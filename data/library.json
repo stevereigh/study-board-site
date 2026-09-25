@@ -7390,6 +7390,204 @@
     ]
   },
   {
+    "chapterId": "kotov-open-lines-penetration",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Use a line to penetrate, divide the defense and reach a weakness; pp. 84-86; PDF 83-85",
+    "title": "Use a line to penetrate, divide the defense and reach a weakness",
+    "tags": [
+      "open-files",
+      "rook-activity",
+      "entry-squares",
+      "major-piece-coordination"
+    ],
+    "note": "Kotov begins with two concrete reasons for controlling a line: it can carry major pieces into the enemy camp, and it can concentrate pressure on a weakness that sits on the line. The Plater-Botvinnik example makes the first reason practical. Once the d-file is controlled, the defending forces are split and the entry route determines the rest of the plan. The Rubinstein ending adds a warning: occupying a file is not the same as finishing the job, and exchanging the last useful rook can reduce the pressure.\n\nThe Steinitz example shows the sharper version. White opens the g-file, brings the major pieces to it and uses an entry square near the king. In Alekhine-Nimzowitsch the rooks descend the c-file while the queen works behind them. The move order matters because the queen should support the penetration without occupying a square the rooks need or becoming an easy target.\n\nFor study, trace route, entry square and target separately. If the line only looks attractive, ask what the first invading piece threatens, how the second heavy piece joins, and whether an exchange improves or dissolves the pressure. A file is a road; the destination and the force that can travel it decide its value.",
+    "keyIdeas": [
+      "Connect control of a line to an entry square and target.",
+      "Coordinate rooks in front of the queen when that preserves penetration.",
+      "Reassess file pressure before exchanging the last active rook.",
+      "Use an open line to divide defenders as well as to win material."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-kotov-penetration",
+        "concept": "Open files",
+        "minutes": 30,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Read Kotov PDF 83-85 (printed 84-86). For each of the four diagrams, write the line, first usable entry square, target, and correct order for the heavy pieces.",
+        "successCheck": "Produce four route cards that distinguish merely owning a line from penetrating with a threat.",
+        "playReminders": [
+          "Which line leads to a target, where can I enter, and who gets there first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-open-lines-paralysis",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Turn file control into paralysis before collecting material; pp. 87-88; PDF 86-87",
+    "title": "Turn file control into paralysis before collecting material",
+    "tags": [
+      "open-files",
+      "rook-activity",
+      "restriction",
+      "weak-pawns"
+    ],
+    "note": "A rook that reaches the back ranks can be decisive even when it does not immediately capture anything. Kotov&#x27;s first conclusion is positional: the invading rook takes squares, forces passive defense and can create zugzwang-like conditions. Its value comes from the opponent&#x27;s lack of useful moves and the threat of a later breakthrough.\n\nStahlberg-Taimanov gives the same effect without a spectacular finish. A rook on the open c-file reaches c2 and spreads confusion, while the rest of White&#x27;s forces remain constrained. Kotov treats this as a modern form of exploiting an opening advantage: the rook&#x27;s presence makes the whole army more passive. In Tarrasch-Alekhine the file is aimed at a concrete pawn. The defender tries to blockade with a knight, but pressure removes the blocking piece and renews the attack on c2.\n\nDo not measure a rook&#x27;s success only by captured pawns. Mark the squares the rook controls, the defenders it ties down and the freeing move it prevents. When a pawn blocks entry, decide whether to attack the pawn, drive away the blocker or switch targets. Material gain is often the final consequence of restricted choices.",
+    "keyIdeas": [
+      "Count restricted squares and tied defenders as part of rook activity.",
+      "An invasion can be decisive before it wins material.",
+      "Challenge the piece that blockades the file&#x27;s target.",
+      "Keep pressure when the opponent has no useful freeing move."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-kotov-paralysis",
+        "concept": "Open files",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Piece activity",
+          "Open files"
+        ],
+        "instructions": "Read Kotov PDF 86-87 (printed 87-88). At each diagram, list the squares denied, pieces tied down and freeing move prevented before looking for a material win.",
+        "successCheck": "Explain how rook activity can be decisive while the material count stays unchanged.",
+        "playReminders": [
+          "What useful choices does this rook remove from the opponent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-modern-open-line-utility",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Prefer the useful line to the nominally open line; pp. 89-90; PDF 88-89",
+    "title": "Prefer the useful line to the nominally open line",
+    "tags": [
+      "open-files",
+      "half-open-files",
+      "targets",
+      "planning"
+    ],
+    "note": "Kotov&#x27;s modern qualification is the central test of the section: possession of an open line has no value by itself. A line matters only when it supports a strategic purpose. If every entry square is covered and no target lies nearby, doubling heavy pieces on that line can consume time without improving the position.\n\nKeres-Stahlberg contrasts three open files with a half-open f-file. Black appears to own more lines, yet the files lead nowhere useful. White&#x27;s f-file points at a real target near the king and allows the major pieces to swing toward the attack. The comparison explains why counting open files is inferior to comparing destinations, targets and access.\n\nThis is also a planning rule for defense. When the opponent owns a line, inspect whether entry is actually possible before spending moves contesting it. When choosing between lines, prefer the route that joins the rest of the army and attacks something concrete. A closed door on a strategically relevant file may be worth opening; an empty road to nowhere may be ignored.",
+    "keyIdeas": [
+      "Judge a line by purpose, entry and target rather than possession.",
+      "A half-open file with a real target can outweigh several sterile open files.",
+      "Do not spend time contesting a file the opponent cannot use.",
+      "Choose the line that coordinates with the rest of the plan."
+    ],
+    "activities": [
+      {
+        "id": "study-open-files-kotov-purpose-test",
+        "concept": "Open files",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Piece activity"
+        ],
+        "instructions": "Read Kotov PDF 88-89 (printed 89-90). Compare Black&#x27;s three open files with White&#x27;s half-open f-file in Keres-Stahlberg. Mark entry squares and real targets rather than counting lines.",
+        "successCheck": "Choose the strategically useful line and give two concrete reasons the other files are sterile.",
+        "playReminders": [
+          "Does this file lead anywhere useful?"
+        ]
+      },
+      {
+        "id": "study-open-files-s12-complete-method",
+        "concept": "Open files",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Piece activity",
+          "Open files"
+        ],
+        "instructions": "Compare My System PDF 50-53, The Amateur&#x27;s Mind PDF 249-258, and Kotov PDF 88-89. Build one checklist covering creation, purpose, entry, obstacles, coordination and the opponent&#x27;s access. Apply it to one recent game.",
+        "successCheck": "Produce one reviewed game note that names the correct file, entry square, target, obstacle and best preparatory move.",
+        "playReminders": [
+          "Which line leads to a target, where can I enter, and who gets there first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-diagonal-liberation",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Open a diagonal by removing the pawns and pieces that imprison the bishop; pp. 91-93; PDF 90-92",
+    "title": "Open a diagonal by removing the pawns and pieces that imprison the bishop",
+    "tags": [
+      "opening-lines",
+      "diagonals",
+      "bishop-activity",
+      "pawn-breaks"
+    ],
+    "note": "Open diagonals obey the same purpose test as files. In the Neishstadt-Kotov example, Black&#x27;s dark-squared bishop is shut behind its own pawns, so the plan is built in stages: displace a defender of the center, exchange a blocking pawn, then prepare the pawn break that frees the bishop. The bishop&#x27;s eventual attack is the result of preparation, not a sudden tactical accident.\n\nKotov-Lisitsyn shows a quieter form of diagonal control. A bishop can support the rooks and dominate key squares without delivering the final blow itself. White&#x27;s error is to exchange away pressure and permit the bishop to take over the board. The example warns against judging a long-range piece only by its current captures.\n\nBefore trying to activate a bishop, map the pawns on its diagonal, the defender that prevents the freeing break and the square or target the bishop will reach afterward. The Rauzer setup adds a complementary idea: control of a file and a long diagonal can reinforce one another. Coordinate the routes so that opening one does not release the opponent first.",
+    "keyIdeas": [
+      "Build a freeing break in stages when a bishop is shut behind its own pawns.",
+      "A bishop can support rook activity without making the final capture.",
+      "Name the destination and target before opening a diagonal.",
+      "Coordinate file and diagonal pressure instead of treating them separately."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-lines-kotov-diagonal",
+        "concept": "Opening lines",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Pawn breaks"
+        ],
+        "instructions": "Read Kotov PDF 90-92 (printed 91-93). For Neishstadt-Kotov, record the defender displacement, pawn exchange, freeing break and bishop target in order. Then identify how the bishop supports the rooks in Kotov-Lisitsyn.",
+        "successCheck": "Explain the full liberation sequence without skipping directly to the bishop&#x27;s final diagonal.",
+        "playReminders": [
+          "Which blocker must leave before my bishop has a useful target?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-open-lines-pawn-sacrifice",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Invest a pawn only when the opened lines give lasting piece activity; pp. 94-95; PDF 93-94",
+    "title": "Invest a pawn only when the opened lines give lasting piece activity",
+    "tags": [
+      "opening-lines",
+      "open-files",
+      "pawn-sacrifice",
+      "compensation"
+    ],
+    "note": "The closing examples show that a pawn can be traded for enduring access. Rauzer coordinates the a-file and long diagonal so the opponent&#x27;s pieces remain tied down while the attack develops. Capablanca-Nimzowitsch gives up a pawn to gain open files and positional pressure against the queenside. The compensation is not the missing pawn itself; it is the lasting restriction and the inability of the extra pawn to participate.\n\nTaimanov-Bronstein repeats the mechanism on the a- and b-files. Black&#x27;s early pawn investment activates both rooks and keeps White&#x27;s queenside under pressure. Kotov presents the plan as a recurring modern idea, but the examples do not make every line-opening sacrifice sound. The player still has to compare time, entry squares, targets and the opponent&#x27;s counterplay.\n\nUse a four-part test before investing material: which lines open, which pieces become active, what lasting targets appear, and how the opponent can return the pawn to escape. If the activity disappears after one exchange or the defending pieces can reorganize, the sacrifice may have bought only a temporary appearance of initiative.",
+    "keyIdeas": [
+      "Treat the pawn as an investment in lasting access and activity.",
+      "Identify the files, diagonals and targets gained for the pawn.",
+      "Check whether the defender can return material to untangle.",
+      "Demand coordination from several pieces before accepting positional compensation."
+    ],
+    "activities": [
+      {
+        "id": "study-opening-lines-kotov-pawn-investment",
+        "concept": "Opening lines",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Piece activity"
+        ],
+        "instructions": "Read Kotov PDF 93-94 (printed 94-95). For the Capablanca and Bronstein examples, record the pawn invested, lines opened, pieces activated, long-term targets and the defender&#x27;s possible material-return escape.",
+        "successCheck": "Write a four-part compensation test and apply it accurately to both examples.",
+        "playReminders": [
+          "What lasting access and coordination does this pawn buy?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nimzovich-development",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
@@ -7815,6 +8013,21 @@
         "successCheck": "State a single practical entry-square test that works from both sides, using the exact positions rather than a slogan.",
         "playReminders": [
           "Which file can I use, where can I enter, and does opening it help me more than the opponent?"
+        ]
+      },
+      {
+        "id": "study-open-files-s12-complete-method",
+        "concept": "Open files",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Piece activity",
+          "Open files"
+        ],
+        "instructions": "Compare My System PDF 50-53, The Amateur&#x27;s Mind PDF 249-258, and Kotov PDF 88-89. Build one checklist covering creation, purpose, entry, obstacles, coordination and the opponent&#x27;s access. Apply it to one recent game.",
+        "successCheck": "Produce one reviewed game note that names the correct file, entry square, target, obstacle and best preparatory move.",
+        "playReminders": [
+          "Which line leads to a target, where can I enter, and who gets there first?"
         ]
       }
     ]
@@ -8446,6 +8659,21 @@
         "playReminders": [
           "What concrete job does this exchange perform?",
           "What becomes possible after the recapture?"
+        ]
+      },
+      {
+        "id": "study-open-files-s12-complete-method",
+        "concept": "Open files",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Piece activity",
+          "Open files"
+        ],
+        "instructions": "Compare My System PDF 50-53, The Amateur&#x27;s Mind PDF 249-258, and Kotov PDF 88-89. Build one checklist covering creation, purpose, entry, obstacles, coordination and the opponent&#x27;s access. Apply it to one recent game.",
+        "successCheck": "Produce one reviewed game note that names the correct file, entry square, target, obstacle and best preparatory move.",
+        "playReminders": [
+          "Which line leads to a target, where can I enter, and who gets there first?"
         ]
       }
     ]
@@ -9836,6 +10064,21 @@
         "successCheck": "Distinguish a rook merely controlling a file from a rook that can reach a target; do not claim diagram 94 is itself a seventh-rank combination.",
         "playReminders": [
           "What is my rook targeting, and which piece must stay to block the king’s escape?"
+        ]
+      },
+      {
+        "id": "study-open-files-s12-complete-method",
+        "concept": "Open files",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Piece activity",
+          "Open files"
+        ],
+        "instructions": "Compare My System PDF 50-53, The Amateur&#x27;s Mind PDF 249-258, and Kotov PDF 88-89. Build one checklist covering creation, purpose, entry, obstacles, coordination and the opponent&#x27;s access. Apply it to one recent game.",
+        "successCheck": "Produce one reviewed game note that names the correct file, entry square, target, obstacle and best preparatory move.",
+        "playReminders": [
+          "Which line leads to a target, where can I enter, and who gets there first?"
         ]
       }
     ]
