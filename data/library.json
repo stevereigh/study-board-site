@@ -8266,6 +8266,21 @@
         "playReminders": [
           "What is my rook targeting, and which piece must stay to block the king’s escape?"
         ]
+      },
+      {
+        "id": "study-seventh-rank-s13-complete-method",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Compare My System PDF 60-71, Nunn PDF 108 and Silman PDF 298-303. Build a checklist for entry, target, king boundary, rook support, counterplay and conversion, then apply it to one recent game.",
+        "successCheck": "Produce one game note that either justifies an invasion with all six checks or rejects it for a concrete missing condition.",
+        "playReminders": [
+          "Can the rook enter, stay supported and accomplish a concrete job?"
+        ]
       }
     ]
   },
@@ -9133,6 +9148,167 @@
         "successCheck": "Identify both attackers in the double check and explain why ordinary capture or interposition cannot answer it.",
         "playReminders": [
           "What line opens when this piece moves?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-doubled-rooks-two-geometries",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Recognize the two basic doubled-rook mating geometries; pp. 107; PDF 108-108",
+    "title": "Recognize the two basic doubled-rook mating geometries",
+    "tags": [
+      "doubled-rooks",
+      "checkmate",
+      "seventh-rank",
+      "rook-coordination"
+    ],
+    "note": "Nunn separates doubled-rook attacks into two visual families. When the rooks operate on neighboring ranks or files against a king at the edge, they can form a closing wall and may need no help. When both rooks occupy the same line, often the seventh rank, the nearer rook is usually exposed to the king and needs support from a friendly piece or from an enemy unit that blocks the king&#x27;s approach.\n\nThis distinction is a calculation aid rather than a promise of mate. First identify the geometry, then test captures, interpositions and escape squares. A rook pair that looks impressive can fail if the king can take one rook or step through a gap. Conversely, an enemy pawn can accidentally supply the block that makes the mating net work.\n\nUse the chapter&#x27;s model and the later exercises to label the barrier rook, checking rook, supporting unit and blocked square. The labels should change as the rooks switch jobs. The goal is to recognize which arrangement is being built while still calculating every legal defense.",
+    "keyIdeas": [
+      "Distinguish adjacent-line crossfire from same-line doubled rooks.",
+      "Same-line rooks usually need support or an enemy blocker.",
+      "Check captures, blocks and king escapes before calling the pattern mate.",
+      "Track which rook forms the barrier and which rook gives check."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-nunn-geometries",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Forcing moves"
+        ],
+        "instructions": "Read Nunn PDF 108. Draw the two doubled-rook mating geometries, then label the barrier rook, checking rook, support and king escape squares.",
+        "successCheck": "Explain why adjacent-line rooks may mate unaided while same-line rooks commonly need support or a blocker.",
+        "playReminders": [
+          "Can the king capture the nearer rook?"
+        ]
+      },
+      {
+        "id": "study-seventh-rank-s13-complete-method",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Compare My System PDF 60-71, Nunn PDF 108 and Silman PDF 298-303. Build a checklist for entry, target, king boundary, rook support, counterplay and conversion, then apply it to one recent game.",
+        "successCheck": "Produce one game note that either justifies an invasion with all six checks or rejects it for a concrete missing condition.",
+        "playReminders": [
+          "Can the rook enter, stay supported and accomplish a concrete job?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-doubled-rooks-foundation-set",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Build doubled-rook recognition through the first 12 exercises; pp. 108-115; PDF 109-116",
+    "title": "Build doubled-rook recognition through the first 12 exercises",
+    "tags": [
+      "doubled-rooks",
+      "checkmate",
+      "pattern-recognition",
+      "forcing-moves"
+    ],
+    "note": "Positions 355-366 train the immediate forms of the motif. Several finishes place the rooks on adjacent ranks or files, using the board edge to remove the king&#x27;s retreat. Others double on the seventh rank and rely on a supporting piece or a blocking defender. The short solutions reward seeing the final cage before calculating a long sequence.\n\nThe exercises also show why the first forcing move may be a queen check, capture or deflection rather than a rook move. The preliminary action removes a defender, fixes the king on the edge or clears the square the rook pair needs. The mating picture explains the candidate move; it does not replace verification.\n\nWork these 12 positions without moving pieces. For each, name the intended rook arrangement and list the defender&#x27;s legal replies to the first move. After reading the source solution, record which square or piece made the net possible. This produces a reusable pattern card instead of a memorized move list.",
+    "keyIdeas": [
+      "Picture the final rook cage before choosing the first move.",
+      "Use a forcing preliminary move to clear or block the needed square.",
+      "Verify every legal reply even in short mating lines.",
+      "Explain which unit supports the same-line rook pair."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-nunn-foundation",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 40,
+        "difficulty": "introductory",
+        "prerequisites": [
+          "Forcing moves"
+        ],
+        "instructions": "Solve positions 355-366 on Nunn PDF 109-110, then check solutions on PDF 114. For each, name the final rook geometry and the square or defender changed by the first move.",
+        "successCheck": "Score all 12 and produce one pattern sentence for every missed position.",
+        "playReminders": [
+          "What final rook cage am I trying to build?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-doubled-rooks-calculation-set",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Calculate entry, deflection and counterplay in 13 harder positions; pp. 110-115; PDF 111-116",
+    "title": "Calculate entry, deflection and counterplay in 13 harder positions",
+    "tags": [
+      "doubled-rooks",
+      "checkmate",
+      "deflection",
+      "counterplay"
+    ],
+    "note": "Positions 367-379 lengthen the path to the doubled-rook finish. The first move may draw the king onto a vulnerable square, deflect a bishop or rook, or threaten discovered check so the heavy pieces can enter with tempo. Several solutions require the attacker to preserve a mating threat while the opponent has material or attacking chances of their own.\n\nThe recurring discipline is to calculate the defender&#x27;s most forcing resource. Checks against your king, captures of the nearer rook and counter-mates can overturn a pattern that would otherwise work. A sequence succeeds when every move either checks, restores the cage or removes the last defender.\n\nGroup the positions by mechanism after solving them: king attraction, defender deflection, discovered check, clearance or rook entry with check. Then choose one failed candidate in each group and state the defensive move that refutes it. This connects pattern recognition with a concrete reply tree.",
+    "keyIdeas": [
+      "Use checks and threats to enter before the defender reorganizes.",
+      "Account for counter-checks and counter-mates.",
+      "Classify the enabling mechanism, not only the final mating picture.",
+      "A failed candidate is useful when its refutation identifies the missing condition."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-nunn-calculation",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 50,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Forcing moves",
+          "Candidate moves"
+        ],
+        "instructions": "Solve positions 367-379 on Nunn PDF 111-113 and verify against PDF 114-115. Record the opponent&#x27;s strongest check, capture or counter-mate before committing to a line.",
+        "successCheck": "Classify every miss as king attraction, deflection, discovered check, clearance or counterplay oversight.",
+        "playReminders": [
+          "What is the defender&#x27;s most forcing reply?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-doubled-rooks-advanced-set",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Coordinate sacrifices and rook entry in the five advanced positions; pp. 112-115; PDF 113-116",
+    "title": "Coordinate sacrifices and rook entry in the five advanced positions",
+    "tags": [
+      "doubled-rooks",
+      "checkmate",
+      "sacrifice",
+      "move-order"
+    ],
+    "note": "Positions 380-384 combine the doubled-rook motif with deeper preparation. Queen sacrifices, knight checks and forced king moves remove control of an entry square or place the king where the rook pair can finish. The correct line often depends on move order: sacrificing too soon or entering with the wrong rook leaves a defender in place.\n\nThese positions show that the motif can be the endpoint of a combination led by another piece. Keep the final rook arrangement in view while calculating the preparatory moves. When the source gives more than one mating continuation, the shared idea matters more than memorizing a single line.\n\nFor each exercise, write the defender or square that prevents immediate doubled-rook entry, the forcing move that changes that condition, and the final division of labor between the rooks. Replay the source solution only after that explanation. The lesson is complete when the sacrifice can be justified by the resulting mating geometry.",
+    "keyIdeas": [
+      "Identify the defender that prevents immediate rook entry.",
+      "Use sacrifices only when they force the required geometry.",
+      "Preserve move order so the correct rook enters with tempo.",
+      "Explain the final jobs of both rooks."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-nunn-advanced",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Forcing moves",
+          "Candidate moves"
+        ],
+        "instructions": "Solve positions 380-384 on Nunn PDF 113 before reading PDF 115-116. Identify the defender that blocks rook entry and justify each sacrifice by the final mating geometry.",
+        "successCheck": "Give a complete explanation of the move order and both rooks&#x27; final jobs in all five positions.",
+        "playReminders": [
+          "Which defender prevents the rook pair from entering now?"
         ]
       }
     ]
@@ -10079,6 +10255,21 @@
         "successCheck": "Produce one reviewed game note that names the correct file, entry square, target, obstacle and best preparatory move.",
         "playReminders": [
           "Which line leads to a target, where can I enter, and who gets there first?"
+        ]
+      },
+      {
+        "id": "study-seventh-rank-s13-complete-method",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Compare My System PDF 60-71, Nunn PDF 108 and Silman PDF 298-303. Build a checklist for entry, target, king boundary, rook support, counterplay and conversion, then apply it to one recent game.",
+        "successCheck": "Produce one game note that either justifies an invasion with all six checks or rejects it for a concrete missing condition.",
+        "playReminders": [
+          "Can the rook enter, stay supported and accomplish a concrete job?"
         ]
       }
     ]
@@ -12118,6 +12309,95 @@
           "What is my advantage, and what is the defender&#x27;s most active resource?",
           "Which piece can improve before I force the issue?",
           "Can I create a separate second weakness without releasing counterplay?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-seventh-rank-purpose",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Judge the seventh rank by pawns attacked and king restricted; PDF 298-300",
+    "title": "Judge the seventh rank by pawns attacked and king restricted",
+    "tags": [
+      "seventh-rank",
+      "rook-endings",
+      "king-restriction",
+      "passed-pawns"
+    ],
+    "note": "Silman gives two practical reasons for placing a rook on the opponent&#x27;s second rank: the rook can attack pawns from the side, and it can confine a king that remains on the back rank. Diagram 188 demonstrates both. Black has extra material, but the defending rook and king are tied to pawns and squares while White&#x27;s king and passed pawns improve.\n\nThe continuation in diagram 189 shows why the advanced rook is part of a team. White&#x27;s king joins, the passed pawns remain dangerous and the rook preserves the barrier. A careless king route can allow checks or even a mating trick, so activity still requires calculation. The material count alone does not describe the position because one king and one rook have useful work while their counterparts remain restricted.\n\nUse a functional test before invading: what pawn can the rook attack, what king route does it stop, and which friendly unit will exploit that restriction? If none of those answers is concrete, the rank may be decorative rather than useful.",
+    "keyIdeas": [
+      "Attack pawns laterally from the advanced rank.",
+      "Confine the enemy king while activating your own king.",
+      "Coordinate the rook barrier with passed pawns and king entry.",
+      "Do not substitute rank number for a concrete job."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-silman-function",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Rook endings",
+          "King activity"
+        ],
+        "instructions": "Read Silman PDF 298-303. Compare diagrams 188-191 by listing attacked pawns, the enemy king&#x27;s boundary, your king&#x27;s route and available counterplay. Explain why Rd6 beats Rd7+ in diagram 190.",
+        "successCheck": "Choose the best rook rank by function in both examples without relying on the slogan that rooks belong on the seventh.",
+        "playReminders": [
+          "Which rank attacks targets and cages the king most effectively?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-rank-function",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Choose the rank that performs the seventh-rank jobs; PDF 301-303",
+    "title": "Choose the rank that performs the seventh-rank jobs",
+    "tags": [
+      "rook-activity",
+      "rook-endings",
+      "restriction",
+      "counterplay"
+    ],
+    "note": "Diagram 190 corrects the slogan directly. A rook on the sixth rank is stronger than a routine check on the seventh because it attacks two pawns and prevents the enemy king from crossing the third rank. The useful rank is the one that combines targets and restriction. A superficially more advanced rook move can release the king and lose the advantage.\n\nDiagram 191 turns restriction into a conversion plan. White first forces the defending king farther from the queenside, then takes pawns, activates the king and advances the passer while keeping the enemy rook short of counterplay. The rook changes files and ranks as its job changes; the strategic constant is control of the king and access to targets.\n\nWhen comparing rook moves, list targets, king boundaries, checks allowed and the next route for your own king. Prefer the square that leaves the defender without active play. Seventh-rank knowledge becomes useful when it teaches these functions, not when it produces an automatic destination.",
+    "keyIdeas": [
+      "Choose the rank that attacks targets and restricts the king.",
+      "An advanced rook move is wrong if it releases counterplay.",
+      "Change files and ranks as the rook&#x27;s job changes.",
+      "Use restriction to create time for king entry and pawn conversion."
+    ],
+    "activities": [
+      {
+        "id": "study-seventh-rank-silman-function",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Rook endings",
+          "King activity"
+        ],
+        "instructions": "Read Silman PDF 298-303. Compare diagrams 188-191 by listing attacked pawns, the enemy king&#x27;s boundary, your king&#x27;s route and available counterplay. Explain why Rd6 beats Rd7+ in diagram 190.",
+        "successCheck": "Choose the best rook rank by function in both examples without relying on the slogan that rooks belong on the seventh.",
+        "playReminders": [
+          "Which rank attacks targets and cages the king most effectively?"
+        ]
+      },
+      {
+        "id": "study-seventh-rank-s13-complete-method",
+        "concept": "Rooks on the seventh and eighth ranks",
+        "minutes": 45,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Open files",
+          "Forcing moves"
+        ],
+        "instructions": "Compare My System PDF 60-71, Nunn PDF 108 and Silman PDF 298-303. Build a checklist for entry, target, king boundary, rook support, counterplay and conversion, then apply it to one recent game.",
+        "successCheck": "Produce one game note that either justifies an invasion with all six checks or rejects it for a concrete missing condition.",
+        "playReminders": [
+          "Can the rook enter, stay supported and accomplish a concrete job?"
         ]
       }
     ]

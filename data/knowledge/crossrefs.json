@@ -7722,6 +7722,149 @@
         "section": "Modern Ideas on Open Lines from the Rauzer example through Taimanov-Bronstein and the section boundary before Pawn Structure and Weak Squares; three diagrams",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "seventh-rank-rooks--nunn-doubled-rooks-two-geometries",
+      "chapterId": "nunn-doubled-rooks-two-geometries",
+      "locator": {
+        "pdfPageStart": 108,
+        "pdfPageEnd": 108,
+        "printedPages": "107",
+        "section": "Deadly Doubled Rooks introduction and model position; next page begins the exercise set",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forcing-moves--nunn-doubled-rooks-two-geometries",
+      "chapterId": "nunn-doubled-rooks-two-geometries",
+      "locator": {
+        "pdfPageStart": 108,
+        "pdfPageEnd": 108,
+        "printedPages": "107",
+        "section": "Deadly Doubled Rooks introduction and model position; next page begins the exercise set",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--nunn-doubled-rooks-foundation-set",
+      "chapterId": "nunn-doubled-rooks-foundation-set",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 116,
+        "printedPages": "108-115",
+        "section": "Deadly Doubled Rooks positions 355-366 with their matching solutions; 12 exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forcing-moves--nunn-doubled-rooks-foundation-set",
+      "chapterId": "nunn-doubled-rooks-foundation-set",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 116,
+        "printedPages": "108-115",
+        "section": "Deadly Doubled Rooks positions 355-366 with their matching solutions; 12 exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--nunn-doubled-rooks-calculation-set",
+      "chapterId": "nunn-doubled-rooks-calculation-set",
+      "locator": {
+        "pdfPageStart": 111,
+        "pdfPageEnd": 116,
+        "printedPages": "110-115",
+        "section": "Deadly Doubled Rooks positions 367-379 with their matching solutions; 13 exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forcing-moves--nunn-doubled-rooks-calculation-set",
+      "chapterId": "nunn-doubled-rooks-calculation-set",
+      "locator": {
+        "pdfPageStart": 111,
+        "pdfPageEnd": 116,
+        "printedPages": "110-115",
+        "section": "Deadly Doubled Rooks positions 367-379 with their matching solutions; 13 exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--nunn-doubled-rooks-advanced-set",
+      "chapterId": "nunn-doubled-rooks-advanced-set",
+      "locator": {
+        "pdfPageStart": 113,
+        "pdfPageEnd": 116,
+        "printedPages": "112-115",
+        "section": "Deadly Doubled Rooks positions 380-384 with their matching solutions; five exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forcing-moves--nunn-doubled-rooks-advanced-set",
+      "chapterId": "nunn-doubled-rooks-advanced-set",
+      "locator": {
+        "pdfPageStart": 113,
+        "pdfPageEnd": 116,
+        "printedPages": "112-115",
+        "section": "Deadly Doubled Rooks positions 380-384 with their matching solutions; five exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--silman-seventh-rank-purpose",
+      "chapterId": "silman-seventh-rank-purpose",
+      "locator": {
+        "pdfPageStart": 298,
+        "pdfPageEnd": 300,
+        "printedPages": null,
+        "section": "All Hail the 7th Rank introduction and first example, diagrams 188-189",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-seventh-rank-purpose",
+      "chapterId": "silman-seventh-rank-purpose",
+      "locator": {
+        "pdfPageStart": 298,
+        "pdfPageEnd": 300,
+        "printedPages": null,
+        "section": "All Hail the 7th Rank introduction and first example, diagrams 188-189",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "seventh-rank-rooks--silman-rook-rank-function",
+      "chapterId": "silman-rook-rank-function",
+      "locator": {
+        "pdfPageStart": 301,
+        "pdfPageEnd": 303,
+        "printedPages": null,
+        "section": "All Hail the 7th Rank second example and conclusion, diagrams 190-191; Minor Piece Endgames begins on PDF 304",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-endings--silman-rook-rank-function",
+      "chapterId": "silman-rook-rank-function",
+      "locator": {
+        "pdfPageStart": 301,
+        "pdfPageEnd": 303,
+        "printedPages": null,
+        "section": "All Hail the 7th Rank second example and conclusion, diagrams 190-191; Minor Piece Endgames begins on PDF 304",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--silman-rook-rank-function",
+      "chapterId": "silman-rook-rank-function",
+      "locator": {
+        "pdfPageStart": 301,
+        "pdfPageEnd": 303,
+        "printedPages": null,
+        "section": "All Hail the 7th Rank second example and conclusion, diagrams 190-191; Minor Piece Endgames begins on PDF 304",
+        "ebookLocation": null
+      }
     }
   ]
 }

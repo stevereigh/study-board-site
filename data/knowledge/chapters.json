@@ -3874,6 +3874,84 @@
         "section": "Modern Ideas on Open Lines from the Rauzer example through Taimanov-Bronstein and the section boundary before Pawn Structure and Weak Squares; three diagrams",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "nunn-doubled-rooks-two-geometries",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Recognize the two basic doubled-rook mating geometries; pp. 107; PDF 108-108",
+      "title": "Recognize the two basic doubled-rook mating geometries",
+      "locator": {
+        "pdfPageStart": 108,
+        "pdfPageEnd": 108,
+        "printedPages": "107",
+        "section": "Deadly Doubled Rooks introduction and model position; next page begins the exercise set",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-doubled-rooks-foundation-set",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Build doubled-rook recognition through the first 12 exercises; pp. 108-115; PDF 109-116",
+      "title": "Build doubled-rook recognition through the first 12 exercises",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 116,
+        "printedPages": "108-115",
+        "section": "Deadly Doubled Rooks positions 355-366 with their matching solutions; 12 exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-doubled-rooks-calculation-set",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Calculate entry, deflection and counterplay in 13 harder positions; pp. 110-115; PDF 111-116",
+      "title": "Calculate entry, deflection and counterplay in 13 harder positions",
+      "locator": {
+        "pdfPageStart": 111,
+        "pdfPageEnd": 116,
+        "printedPages": "110-115",
+        "section": "Deadly Doubled Rooks positions 367-379 with their matching solutions; 13 exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-doubled-rooks-advanced-set",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Coordinate sacrifices and rook entry in the five advanced positions; pp. 112-115; PDF 113-116",
+      "title": "Coordinate sacrifices and rook entry in the five advanced positions",
+      "locator": {
+        "pdfPageStart": 113,
+        "pdfPageEnd": 116,
+        "printedPages": "112-115",
+        "section": "Deadly Doubled Rooks positions 380-384 with their matching solutions; five exercises",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-seventh-rank-purpose",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Judge the seventh rank by pawns attacked and king restricted; PDF 298-300",
+      "title": "Judge the seventh rank by pawns attacked and king restricted",
+      "locator": {
+        "pdfPageStart": 298,
+        "pdfPageEnd": 300,
+        "printedPages": null,
+        "section": "All Hail the 7th Rank introduction and first example, diagrams 188-189",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-rank-function",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Choose the rank that performs the seventh-rank jobs; PDF 301-303",
+      "title": "Choose the rank that performs the seventh-rank jobs",
+      "locator": {
+        "pdfPageStart": 301,
+        "pdfPageEnd": 303,
+        "printedPages": null,
+        "section": "All Hail the 7th Rank second example and conclusion, diagrams 190-191; Minor Piece Endgames begins on PDF 304",
+        "ebookLocation": null
+      }
     }
   ]
 }
