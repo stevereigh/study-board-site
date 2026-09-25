@@ -1824,6 +1824,63 @@
         "seventh-rank-rooks--silman-rook-rank-function",
         "seventh-rank-rooks--amateurs-rook-entry-denial"
       ]
+    },
+    {
+      "id": "study-development-spend-the-lead",
+      "crossrefIds": [
+        "development--amateurs-development-spend-the-lead"
+      ]
+    },
+    {
+      "id": "study-initiative-control-and-price",
+      "crossrefIds": [
+        "attacking-prerequisites--amateurs-initiative-control-and-price"
+      ]
+    },
+    {
+      "id": "study-initiative-two-plans",
+      "crossrefIds": [
+        "counterplay--amateurs-initiative-own-and-opponent-plans"
+      ]
+    },
+    {
+      "id": "study-active-defense-wing-pressure",
+      "crossrefIds": [
+        "counterplay--amateurs-initiative-answer-wing-pressure"
+      ]
+    },
+    {
+      "id": "study-king-hunt-conditions",
+      "crossrefIds": [
+        "attacking-prerequisites--amateurs-king-hunt-conditions"
+      ]
+    },
+    {
+      "id": "study-king-hunt-reject-ghosts",
+      "crossrefIds": [
+        "position-evaluation--amateurs-king-hunt-reject-ghosts"
+      ]
+    },
+    {
+      "id": "study-initiative-whole-board-targets",
+      "crossrefIds": [
+        "attacking-prerequisites--amateurs-king-hunt-whole-board-targets"
+      ]
+    },
+    {
+      "id": "study-shereshevsky-initiative-risk",
+      "crossrefIds": [
+        "counterplay--shereshevsky-initiative-courage-and-risk"
+      ]
+    },
+    {
+      "id": "study-s14-attack-or-improve-method",
+      "crossrefIds": [
+        "attacking-prerequisites--chernev-introduction",
+        "attacking-prerequisites--amateurs-development-spend-the-lead",
+        "attacking-prerequisites--amateurs-king-hunt-conditions",
+        "attacking-prerequisites--shereshevsky-initiative-courage-and-risk"
+      ]
     }
   ]
 }

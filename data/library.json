@@ -18,7 +18,25 @@
       "General principles have exceptions.",
       "Positional preparation can create tactical opportunities."
     ],
-    "activities": []
+    "activities": [
+      {
+        "id": "study-s14-attack-or-improve-method",
+        "concept": "Attacking prerequisites",
+        "minutes": 50,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Development",
+          "Counterplay"
+        ],
+        "instructions": "Compare Chernev&#x27;s introduction with Silman PDF 172-207 and 263-280 and Shereshevsky PDF 88-103. Apply the attack-or-improve checklist to one recent game: position basis, temporary window, target, routes, opponent&#x27;s plan, required prevention and intended conversion.",
+        "successCheck": "Write one review that chooses attack, improve or prevent and supports the choice with all seven checks.",
+        "playReminders": [
+          "Should I attack, improve or prevent?",
+          "What is my opponent&#x27;s fastest useful plan?"
+        ]
+      }
+    ]
   },
   {
     "chapterId": "erwich-capture-deflect",
@@ -9973,6 +9991,82 @@
     ]
   },
   {
+    "chapterId": "shereshevsky-initiative-courage-and-risk",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Take calculated risks to seize the endgame initiative; pp. 80-87; PDF 88-95",
+    "title": "Take calculated risks to seize the endgame initiative",
+    "tags": [
+      "initiative",
+      "endgame",
+      "practical-play",
+      "calculated-risk"
+    ],
+    "note": "Shereshevsky presents initiative as a practical necessity even in endgames that appear level or slightly favorable. The player who waits for a risk-free path often yields the direction of play. Schlechter-Lasker shows activity transferring from one wing to the other and punishes the moment White switches to passive defense. The Suetin games show both sides accepting structural or material risk to keep setting concrete problems.\n\nCourage is not the same as sacrifice. Several active moves preserve material while creating threats, improving the king or fixing a pawn. When material is offered, the compensation must be named: connected passers, exposed king, piece activity or a sequence of forcing moves. Persistent pressure can matter more than the initial evaluation because it makes accurate defense difficult.\n\nIn a quiet endgame, compare the best improving move with the best move that forces a useful reply. Calculate the resulting pawn structure and king safety before accepting the risk.",
+    "keyIdeas": [
+      "Do not wait for a risk-free initiative.",
+      "Name the compensation before accepting structural or material damage.",
+      "Use persistent threats to create practical defensive problems.",
+      "Transfer activity to the wing where the new weakness appears."
+    ],
+    "activities": [
+      {
+        "id": "study-shereshevsky-initiative-risk",
+        "concept": "Counterplay",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity",
+          "Counterplay"
+        ],
+        "instructions": "Read Shereshevsky PDF 88-95. For Schlechter-Lasker and both Suetin games, record the risk accepted, the compensation, the forcing problem created and the moment passive defense would concede the game.",
+        "successCheck": "Justify one active decision in each example without describing risk itself as compensation.",
+        "playReminders": [
+          "What concrete problem does this active move create?"
+        ]
+      },
+      {
+        "id": "study-s14-attack-or-improve-method",
+        "concept": "Attacking prerequisites",
+        "minutes": 50,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Development",
+          "Counterplay"
+        ],
+        "instructions": "Compare Chernev&#x27;s introduction with Silman PDF 172-207 and 263-280 and Shereshevsky PDF 88-103. Apply the attack-or-improve checklist to one recent game: position basis, temporary window, target, routes, opponent&#x27;s plan, required prevention and intended conversion.",
+        "successCheck": "Write one review that chooses attack, improve or prevent and supports the choice with all seven checks.",
+        "playReminders": [
+          "Should I attack, improve or prevent?",
+          "What is my opponent&#x27;s fastest useful plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-initiative-precision-and-conversion",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Keep the initiative through precise improvement and conversion; pp. 88-95; PDF 96-103",
+    "title": "Keep the initiative through precise improvement and conversion",
+    "tags": [
+      "initiative",
+      "endgame",
+      "conversion",
+      "piece-activity"
+    ],
+    "note": "The second half of Shereshevsky&#x27;s chapter shows initiative arising from small, timely improvements. Marshall-Lasker activates rook, bishop and king before the position settles. Chigorin creates play in a symmetrical structure by accepting an isolated pawn in exchange for open lines. Stein-Averbakh and Eingorn-Dolmatov use one move of activity to prevent consolidation, while Kindermann-Speelman shows how a single retreat can concede the tempo needed for a lasting attack.\n\nThese games also show initiative changing form. Rooks may be exchanged, the king becomes the attacker, or a dynamic edge turns into a superior pawn ending. The thread is that each move creates or preserves a problem the opponent must solve. Hurrying can spoil this: when the defender has no counterplay, another improving move may be stronger than an immediate breakthrough.\n\nTrack the initiative by writing the current threat, the improving piece and the intended conversion. If no forcing continuation exists, keep the pieces coordinated and deny the defender a simplifying move that ends the pressure.",
+    "keyIdeas": [
+      "Seize activity with the minimum structural concession required.",
+      "Let the initiative change form as pieces are exchanged.",
+      "Improve before breaking through when the defender is tied down.",
+      "Preserve a concrete problem on every move."
+    ],
+    "activities": []
+  },
+  {
     "chapterId": "amateurs-imbalances",
     "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
     "author": "Jeremy Silman",
@@ -11173,6 +11267,303 @@
         "successCheck": "Correctly choose bishop or knight in all three source families and give a concrete reason each time.",
         "playReminders": [
           "Tasks and routes first; piece label second."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-development-spend-the-lead",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Spend a development lead before it disappears; pp. 167-173; PDF 172-178",
+    "title": "Spend a development lead before it disappears",
+    "tags": [
+      "development",
+      "initiative",
+      "open-center",
+      "king-safety"
+    ],
+    "note": "A lead in development is temporary. Silman treats it as a dynamic advantage that must be used before the opponent finishes mobilizing. The practical methods are to open the center, create threats with tempo and attack an uncastled king. Quiet play can surrender the extra time without receiving anything permanent in return.\n\nThe chapter also limits the rule. Open lines help the better-developed army, while a locked center can give the lagging side time to catch up. The goal does not have to be mate. A forcing sequence can convert the temporary lead into material, a favorable exchange, a lasting weakness or another stable advantage.\n\nBefore opening the position, compare development and king safety for both sides. Then name the permanent result you expect if the opponent completes development. This prevents automatic aggression: the lead matters only when the board can be opened and the developed pieces can reach a real target.",
+    "keyIdeas": [
+      "Treat a development lead as temporary capital.",
+      "Open lines when your army is ready and the opposing king is exposed.",
+      "A locked center can neutralize a development advantage.",
+      "Convert dynamic time into a permanent gain when mate is unavailable."
+    ],
+    "activities": [
+      {
+        "id": "study-development-spend-the-lead",
+        "concept": "Development",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Development",
+          "Center control"
+        ],
+        "instructions": "Read Silman PDF 172-178 and compare diagrams 66-68. For each position, classify the center, count developed pieces and name the permanent gain expected from opening the game.",
+        "successCheck": "Explain when a development lead calls for opening lines and when a locked center makes that plan premature.",
+        "playReminders": [
+          "Can I open the position before the opponent completes development?"
+        ]
+      },
+      {
+        "id": "study-s14-attack-or-improve-method",
+        "concept": "Attacking prerequisites",
+        "minutes": 50,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Development",
+          "Counterplay"
+        ],
+        "instructions": "Compare Chernev&#x27;s introduction with Silman PDF 172-207 and 263-280 and Shereshevsky PDF 88-103. Apply the attack-or-improve checklist to one recent game: position basis, temporary window, target, routes, opponent&#x27;s plan, required prevention and intended conversion.",
+        "successCheck": "Write one review that chooses attack, improve or prevent and supports the choice with all seven checks.",
+        "playReminders": [
+          "Should I attack, improve or prevent?",
+          "What is my opponent&#x27;s fastest useful plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-initiative-control-and-price",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Control the game and account for the price of the initiative; pp. 173-183; PDF 178-188",
+    "title": "Control the game and account for the price of the initiative",
+    "tags": [
+      "initiative",
+      "dynamic-advantages",
+      "sacrifice",
+      "conversion"
+    ],
+    "note": "Silman defines the initiative as control of the game&#x27;s direction. It may arise from a static target or a dynamic lead, but in either case the opponent is responding to your threats. The important questions are whether the initiative can be retained and what was paid to obtain it. A pawn sacrifice is justified only if the resulting activity outweighs the material and survives accurate defense.\n\nThe student examples show two opposite failures. One player notices a development lead but does not act with enough energy; another loses faith when the first idea fails and abandons the position instead of finding a quieter gain. Dynamic play requires urgency, not panic. A superior ending, a recovered pawn or a lasting positional edge can be a successful conversion.\n\nChoose a goal, identify the forcing window and calculate the defender&#x27;s best reply. If the direct attack ends, reassess the position rather than assuming the initiative has vanished or forcing an unsound continuation.",
+    "keyIdeas": [
+      "The initiative makes the opponent answer your useful threats.",
+      "Record the material or structural price paid for activity.",
+      "Urgency does not require forcing mate.",
+      "Reassess calmly when the first attacking idea ends."
+    ],
+    "activities": [
+      {
+        "id": "study-initiative-control-and-price",
+        "concept": "Attacking prerequisites",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Development"
+        ],
+        "instructions": "Read Silman PDF 178-188. At diagrams 69-72, write the initiative&#x27;s source, its price, the defender&#x27;s best reply and the permanent fallback if the direct attack ends.",
+        "successCheck": "Separate urgency from panic and give a sound conversion plan for all four examples.",
+        "playReminders": [
+          "Is this advantage temporary, and what permanent gain can I force now?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-initiative-own-and-opponent-plans",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Advance your plan while stopping the opponent&#x27;s plan; pp. 184-194; PDF 189-199",
+    "title": "Advance your plan while stopping the opponent&#x27;s plan",
+    "tags": [
+      "initiative",
+      "counterplay",
+      "prophylaxis",
+      "planning"
+    ],
+    "note": "The Alekhine example combines initiative with prevention. White uses the favorable pawn majority, denies Black&#x27;s intended counterplay and keeps issuing threats until the attack is decisive. Silman&#x27;s student comparisons show why knowing only your own plan is insufficient. Several students identify White&#x27;s expansion but ignore Black&#x27;s first move, then become reactive after it appears.\n\nA strong plan includes the opponent&#x27;s best idea from the start. You can outrun it, make a move that advances your plan while limiting theirs, or stop it directly when necessary. This is not passive defense. Preventing counterplay preserves the time needed to execute your own operation.\n\nFor each candidate move, state your goal, the opponent&#x27;s most active reply and whether the move changes that reply. In open positions, control of a central file or useful square can decide who acts first. The initiative belongs to the side whose plan reaches the board while the other side keeps reacting.",
+    "keyIdeas": [
+      "Include the opponent&#x27;s best plan in your own plan.",
+      "Prevent counterplay when that preserves your attacking time.",
+      "Prefer moves that improve your position and restrict the reply.",
+      "Compare plan speed before committing to a wing operation."
+    ],
+    "activities": [
+      {
+        "id": "study-initiative-two-plans",
+        "concept": "Counterplay",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Counterplay"
+        ],
+        "instructions": "Study Silman PDF 189-199, diagrams 73-77. Before each continuation, state White&#x27;s plan, Black&#x27;s fastest plan and one move that advances one while restricting the other.",
+        "successCheck": "Produce five two-plan notes and identify the first move where each student became purely reactive.",
+        "playReminders": [
+          "What is my opponent&#x27;s fastest useful plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-initiative-answer-wing-pressure",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Answer wing pressure without abandoning your own play; pp. 195-202; PDF 200-207",
+    "title": "Answer wing pressure without abandoning your own play",
+    "tags": [
+      "initiative",
+      "wing-attack",
+      "counterplay",
+      "active-defense"
+    ],
+    "note": "In the minority-attack examples, White has a coherent queenside plan while Black builds kingside pressure. The weak response is to imagine mate, forget the queenside and spend every move on defense. This gives Black uncontested time to turn pressure into a real attack. The stronger response checks the concrete threat, makes only necessary defensive moves and continues creating targets.\n\nThe second student improves on the first by preserving the minority attack, but later changes plans impulsively and allows Black to seize the initiative. Silman&#x27;s practical message is balance: courage does not mean ignoring threats, and defense does not mean surrendering direction. An active defensive move can also support the original plan.\n\nWhen a wing attack begins, list the immediate threat, the number of moves before it becomes dangerous and your own forcing resources. Defend what is real, then keep the opponent occupied. Recheck after every exchange because removing an attacking bishop or creating a new pawn weakness can change the race.",
+    "keyIdeas": [
+      "Distinguish an immediate threat from imagined future danger.",
+      "Make the minimum necessary defense and continue your plan.",
+      "Use active defense to keep the opponent occupied.",
+      "Reassess the race after exchanges and pawn changes."
+    ],
+    "activities": [
+      {
+        "id": "study-active-defense-wing-pressure",
+        "concept": "Counterplay",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Threat recognition",
+          "Counterplay",
+          "King safety"
+        ],
+        "instructions": "Compare diagrams 78-79 on Silman PDF 200-207. List the immediate kingside threats, necessary defensive moves and queenside actions that remain available.",
+        "successCheck": "Design one line that defends the real danger without abandoning the minority attack.",
+        "playReminders": [
+          "Can my defensive move also advance or preserve my plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-king-hunt-conditions",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Require positional conditions before hunting the king; pp. 259-263; PDF 263-267",
+    "title": "Require positional conditions before hunting the king",
+    "tags": [
+      "king-attack",
+      "closed-center",
+      "development",
+      "imbalances"
+    ],
+    "note": "Silman rejects king hunting as a default plan. A kingside attack is justified when the position supplies the direction and the pieces can arrive. The chapter gives three recurring conditions: a closed center with a pawn chain pointing toward the king, a favorable imbalance on that wing, or a large development lead against an exposed king. If the center is open, central play usually outruns a slow wing attack.\n\nThe examples separate appearance from cause. More pieces near the king do not automatically create an attack; a bishop aimed at that sector, vulnerable dark squares, open lines or development with tempo supply concrete reasons. The attacker still has to calculate defensive resources.\n\nBefore choosing a king hunt, describe the central state, the favorable imbalance, the target squares and the route of each attacking piece. If those answers point elsewhere, improve the position there. This turns &#x27;attack the king&#x27; from a preference into a claim that can be tested.",
+    "keyIdeas": [
+      "Let the center and pawn direction choose the theater of play.",
+      "Require a favorable imbalance or exposed king before committing.",
+      "A development lead can justify opening lines immediately.",
+      "Count routes and targets, not pieces vaguely near the king."
+    ],
+    "activities": [
+      {
+        "id": "study-king-hunt-conditions",
+        "concept": "Attacking prerequisites",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King safety",
+          "Development"
+        ],
+        "instructions": "Read Silman PDF 263-267 and build a king-attack card from diagrams 99-102: center state, pawn direction, favorable imbalance, attacking routes and king vulnerability.",
+        "successCheck": "Approve or reject each attack from the five conditions rather than from the number of pieces near the king.",
+        "playReminders": [
+          "What exact condition makes the king vulnerable now?"
+        ]
+      },
+      {
+        "id": "study-s14-attack-or-improve-method",
+        "concept": "Attacking prerequisites",
+        "minutes": 50,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Development",
+          "Counterplay"
+        ],
+        "instructions": "Compare Chernev&#x27;s introduction with Silman PDF 172-207 and 263-280 and Shereshevsky PDF 88-103. Apply the attack-or-improve checklist to one recent game: position basis, temporary window, target, routes, opponent&#x27;s plan, required prevention and intended conversion.",
+        "successCheck": "Write one review that chooses attack, improve or prevent and supports the choice with all seven checks.",
+        "playReminders": [
+          "Should I attack, improve or prevent?",
+          "What is my opponent&#x27;s fastest useful plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-king-hunt-reject-ghosts",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Reject ghost threats and decentralizing attack moves; pp. 264-270; PDF 268-274",
+    "title": "Reject ghost threats and decentralizing attack moves",
+    "tags": [
+      "king-attack",
+      "candidate-moves",
+      "centralization",
+      "threats"
+    ],
+    "note": "The Minders-Gonzalez example shows a player abandoning a strong queenside and central position to chase a nonexistent kingside attack. Fear of a pin and imagined threats wastes tempi, breaks the tension and gives the opponent useful central play. In the repeated student position, attractive knight moves away from the center have no stable destination and allow the opponent to take over.\n\nA decentralizing move deserves suspicion because it spends time and reduces influence over the center. It can still be correct, but the destination must create a concrete gain that survives the opponent&#x27;s best response. Candidate moves should come after evaluating both sides&#x27; imbalances, loose pieces and plans.\n\nUse a three-part check for an attacking move: name the target, show the piece&#x27;s lasting job on its destination and test the opponent&#x27;s strongest central reply. If the target is imaginary or the move strands the piece, return to the position&#x27;s real advantages.",
+    "keyIdeas": [
+      "Do not spend tempi answering a threat that is not concrete.",
+      "Treat moves away from the center with extra scrutiny.",
+      "Evaluate both sides before generating attacking candidates.",
+      "Demand a lasting job and target for every attacking piece."
+    ],
+    "activities": [
+      {
+        "id": "study-king-hunt-reject-ghosts",
+        "concept": "Position evaluation",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Candidate moves",
+          "Development"
+        ],
+        "instructions": "Study Silman PDF 268-274, diagrams 103-104. For every knight move away from the center, name the target, lasting destination and opponent&#x27;s strongest central reply.",
+        "successCheck": "Reject each ghost-driven move and supply an improving move based on the real imbalance.",
+        "playReminders": [
+          "Where is my real favorable imbalance: center, queenside or kingside?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-king-hunt-whole-board-targets",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Build initiative around real targets across the whole board; pp. 270-276; PDF 274-280",
+    "title": "Build initiative around real targets across the whole board",
+    "tags": [
+      "initiative",
+      "weaknesses",
+      "conversion",
+      "whole-board-play"
+    ],
+    "note": "Silman broadens attack beyond the king. In diagram 105, the useful operation creates and pressures weaknesses, forces replies and may later switch wings. Once the attack is winning over the long term, preventing counterplay and reorganizing can be stronger than grabbing a small immediate gain. The initiative covers the whole board because the opponent must answer the threat wherever it appears.\n\nThe final example corrects the opposite error. White has extra queenside space and a semi-open file, yet the student still imagines a kingside attack. Quiet pressure on the backward pawn, preparation of a minority advance and favorable exchanges fit the position better. A player must be willing to play in the center, queenside or kingside according to the real imbalance.\n\nBefore attacking, name the weakest target and the pieces already able to pressure it. Decide whether to force, improve or switch theaters. Mate is one possible conversion; material, a permanent weakness and a favorable ending are equally valid outcomes.",
+    "keyIdeas": [
+      "Attack any real weakness, not only the king.",
+      "Force the opponent to react to targets across the board.",
+      "Stop counterplay before converting a long-term advantage.",
+      "Accept material or an ending when that is the clean conversion."
+    ],
+    "activities": [
+      {
+        "id": "study-initiative-whole-board-targets",
+        "concept": "Attacking prerequisites",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity",
+          "Converting advantages"
+        ],
+        "instructions": "Read Silman PDF 274-280, diagrams 105-106. Mark the real weakness, the best theater, the opponent&#x27;s counterplay and the cleanest material or endgame conversion.",
+        "successCheck": "Show how an initiative can attack a pawn or square without becoming a king hunt.",
+        "playReminders": [
+          "Should I attack, improve or prevent?"
         ]
       }
     ]
