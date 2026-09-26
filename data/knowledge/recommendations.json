@@ -2050,6 +2050,156 @@
         "improving-the-worst-piece--silman-side-of-board-active-plan",
         "improving-the-worst-piece--kotov-poor-pieces-single-bottleneck"
       ]
+    },
+    {
+      "id": "study-s17-01",
+      "crossrefIds": [
+        "doubled-pawns--nimzovich-doubled-pawns-restraint-and-complexes"
+      ]
+    },
+    {
+      "id": "study-s17-02",
+      "crossrefIds": [
+        "doubled-pawns--nimzovich-doubled-pawn-breaks"
+      ]
+    },
+    {
+      "id": "study-s17-03",
+      "crossrefIds": [
+        "pawn-breaks--nimzovich-true-and-spurious-freeing-moves"
+      ]
+    },
+    {
+      "id": "study-s17-04",
+      "crossrefIds": [
+        "restriction--nimzovich-restraint-review-and-removal"
+      ]
+    },
+    {
+      "id": "study-s17-05",
+      "crossrefIds": [
+        "backward-pawns--nimzovich-removing-weak-pawns"
+      ]
+    },
+    {
+      "id": "study-s17-06",
+      "crossrefIds": [
+        "doubled-pawns--amateurs-pawn-structure-static-dynamic"
+      ]
+    },
+    {
+      "id": "study-s17-07",
+      "crossrefIds": [
+        "hanging-pawns--amateurs-hanging-pawns-use-or-contain"
+      ]
+    },
+    {
+      "id": "study-s17-08",
+      "crossrefIds": [
+        "backward-pawns--amateurs-ugly-and-backward-pawn-resources"
+      ]
+    },
+    {
+      "id": "study-s17-09",
+      "crossrefIds": [
+        "pawn-chains--amateurs-pawn-direction-closed-centers"
+      ]
+    },
+    {
+      "id": "study-s17-10",
+      "crossrefIds": [
+        "weak-squares--kotov-weak-squares-and-dynamic-pawns"
+      ]
+    },
+    {
+      "id": "study-s17-11",
+      "crossrefIds": [
+        "backward-pawns--kotov-pawn-islands-and-piece-configuration"
+      ]
+    },
+    {
+      "id": "study-s17-12",
+      "crossrefIds": [
+        "weak-squares--kotov-weak-colour-complexes"
+      ]
+    },
+    {
+      "id": "study-s18-01",
+      "crossrefIds": [
+        "passed-pawns--nimzovich-passed-pawn-birth-and-candidate"
+      ]
+    },
+    {
+      "id": "study-s18-02",
+      "crossrefIds": [
+        "restriction--nimzovich-blockade-point-and-diffusion"
+      ]
+    },
+    {
+      "id": "study-s18-03",
+      "crossrefIds": [
+        "restriction--nimzovich-active-blockader"
+      ]
+    },
+    {
+      "id": "study-s18-04",
+      "crossrefIds": [
+        "passed-pawns--nimzovich-fight-the-blockader"
+      ]
+    },
+    {
+      "id": "study-s18-05",
+      "crossrefIds": [
+        "passed-pawns--nimzovich-privileged-passed-pawns"
+      ]
+    },
+    {
+      "id": "study-s18-06",
+      "crossrefIds": [
+        "passed-pawns--nimzovich-passed-pawn-timing-and-tests"
+      ]
+    },
+    {
+      "id": "study-s18-07",
+      "crossrefIds": [
+        "passed-pawns--kotov-passed-pawn-dynamic-strength"
+      ]
+    },
+    {
+      "id": "study-s19-01",
+      "crossrefIds": [
+        "pawn-chains--nimzovich-pawn-chain-base-and-theaters"
+      ]
+    },
+    {
+      "id": "study-s19-02",
+      "crossrefIds": [
+        "pawn-chains--nimzovich-pawn-chain-attack-the-base"
+      ]
+    },
+    {
+      "id": "study-s19-03",
+      "crossrefIds": [
+        "pawn-chains--nimzovich-pawn-chain-blockader-exchange"
+      ]
+    },
+    {
+      "id": "study-s19-04",
+      "crossrefIds": [
+        "pawn-chains--nimzovich-pawn-chain-movement-or-siege"
+      ]
+    },
+    {
+      "id": "study-s19-05",
+      "crossrefIds": [
+        "pawn-chains--nimzovich-pawn-chain-slow-siege"
+      ]
+    },
+    {
+      "id": "study-s19-06",
+      "crossrefIds": [
+        "pawn-chains--nimzovich-pawn-chain-transfer-attack"
+      ]
     }
   ]
 }

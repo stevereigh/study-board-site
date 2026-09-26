@@ -4381,6 +4381,331 @@
         "section": "Planning, The Centre, all five center types and exercises 19-21 through the chapter end",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "nimzovich-doubled-pawns-restraint-and-complexes",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Restrain doubled pawns before attacking them; pp. 186-195; PDF 208-217",
+      "title": "Restrain doubled pawns before attacking them",
+      "locator": {
+        "pdfPageStart": 208,
+        "pdfPageEnd": 217,
+        "printedPages": "186-195",
+        "section": "Doubled Pawn and Restraint through the first familiar complexes, diagrams 148-154",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-doubled-pawn-breaks",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Account for the doubled complex’s freeing break; pp. 196-199; PDF 218-221",
+      "title": "Account for the doubled complex’s freeing break",
+      "locator": {
+        "pdfPageStart": 218,
+        "pdfPageEnd": 221,
+        "printedPages": "196-199",
+        "section": "Doubled-pawn complexes conclusion, diagrams 155-156",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-true-and-spurious-freeing-moves",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Distinguish true and spurious freeing moves; pp. 200-204; PDF 222-226",
+      "title": "Distinguish true and spurious freeing moves",
+      "locator": {
+        "pdfPageStart": 222,
+        "pdfPageEnd": 226,
+        "printedPages": "200-204",
+        "section": "Restraint: true and spurious freeing moves, diagrams 157-161",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-restraint-review-and-removal",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Restrict, blockade, then remove the weakness; pp. 207-212; PDF 229-234",
+      "title": "Restrict, blockade, then remove the weakness",
+      "locator": {
+        "pdfPageStart": 229,
+        "pdfPageEnd": 234,
+        "printedPages": "207-212",
+        "section": "Review of restraining methods, diagrams 162-166",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-removing-weak-pawns",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Remove a weak pawn or provoke the latent weakness; pp. 244-246; PDF 266-268",
+      "title": "Remove a weak pawn or provoke the latent weakness",
+      "locator": {
+        "pdfPageStart": 266,
+        "pdfPageEnd": 268,
+        "printedPages": "244-246",
+        "section": "How to Get Rid of Weak Pawns, diagrams 190-191, before Maneuvering Against Weaknesses",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-pawn-structure-static-dynamic",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Balance pawn defects against dynamic resources; pp. 107-117; PDF 113-123",
+      "title": "Balance pawn defects against dynamic resources",
+      "locator": {
+        "pdfPageStart": 113,
+        "pdfPageEnd": 123,
+        "printedPages": "107-117",
+        "section": "The Confusing Subject of Pawn Structure introduction, diagrams 38-50",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-hanging-pawns-use-or-contain",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Use hanging pawns before they become fixed; pp. 118-127; PDF 124-133",
+      "title": "Use hanging pawns before they become fixed",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 133,
+        "printedPages": "118-127",
+        "section": "Hanging-pawn examples, diagrams 51-53",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-ugly-and-backward-pawn-resources",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Use the assets behind ugly and backward pawns; pp. 128-135; PDF 134-141",
+      "title": "Use the assets behind ugly and backward pawns",
+      "locator": {
+        "pdfPageStart": 134,
+        "pdfPageEnd": 141,
+        "printedPages": "128-135",
+        "section": "Tripled, isolated and backward-pawn examples, diagrams 54-57",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-pawn-direction-closed-centers",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Use pawn direction to choose a wing in closed centers; pp. 136-144; PDF 142-150",
+      "title": "Use pawn direction to choose a wing in closed centers",
+      "locator": {
+        "pdfPageStart": 142,
+        "pdfPageEnd": 150,
+        "printedPages": "136-144",
+        "section": "Closed-center direction and final Torre example, diagram 58, through the chapter end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-weak-squares-and-dynamic-pawns",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Occupy weak squares and test dynamic compensation; pp. 95-99; PDF 94-98",
+      "title": "Occupy weak squares and test dynamic compensation",
+      "locator": {
+        "pdfPageStart": 94,
+        "pdfPageEnd": 98,
+        "printedPages": "95-99",
+        "section": "Pawn Structure and Weak Squares through the Passed Pawns heading, five diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-pawn-islands-and-piece-configuration",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Judge pawn islands through piece access; pp. 100-103; PDF 99-102",
+      "title": "Judge pawn islands through piece access",
+      "locator": {
+        "pdfPageStart": 99,
+        "pdfPageEnd": 102,
+        "printedPages": "100-103",
+        "section": "Pawn Islands, six diagrams, ending before Weak Colour Complexes",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-weak-colour-complexes",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Exploit a weak colour complex with matching pieces; pp. 103-108; PDF 102-107",
+      "title": "Exploit a weak colour complex with matching pieces",
+      "locator": {
+        "pdfPageStart": 102,
+        "pdfPageEnd": 107,
+        "printedPages": "103-108",
+        "section": "Weak Colour Complexes, 15 diagrams across Pawn Structure and Weak Squares, Pawn Islands, and this subsection; four diagrams here",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-passed-pawn-birth-and-candidate",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Create the passer with the correct candidate pawn; pp. 50-52; PDF 73-75",
+      "title": "Create the passer with the correct candidate pawn",
+      "locator": {
+        "pdfPageStart": 73,
+        "pdfPageEnd": 75,
+        "printedPages": "50-52",
+        "section": "Passed Pawn section 1, diagrams 42-43",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-blockade-point-and-diffusion",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Blockade before the passer activates its army; pp. 53-59; PDF 76-82",
+      "title": "Blockade before the passer activates its army",
+      "locator": {
+        "pdfPageStart": 76,
+        "pdfPageEnd": 82,
+        "printedPages": "53-59",
+        "section": "Blockade sections 2a-2c, diagrams 44-48",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-active-blockader",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Choose an active, supported blockader; pp. 60-63; PDF 83-86",
+      "title": "Choose an active, supported blockader",
+      "locator": {
+        "pdfPageStart": 83,
+        "pdfPageEnd": 86,
+        "printedPages": "60-63",
+        "section": "Blockading piece and elasticity, diagrams 49-50",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-fight-the-blockader",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Remove the blockader and divert its defenders; pp. 64-66; PDF 87-89",
+      "title": "Remove the blockader and divert its defenders",
+      "locator": {
+        "pdfPageStart": 87,
+        "pdfPageEnd": 89,
+        "printedPages": "64-66",
+        "section": "Fight against the blockading piece, diagrams 51-52, ending before King and Pawn Endings",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-privileged-passed-pawns",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Coordinate connected, protected, and remote passers; pp. 71-75; PDF 94-98",
+      "title": "Coordinate connected, protected, and remote passers",
+      "locator": {
+        "pdfPageStart": 94,
+        "pdfPageEnd": 98,
+        "printedPages": "71-75",
+        "section": "Passed Pawn sections 6, diagrams 55-59, excluding King and Pawn Endings",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-passed-pawn-timing-and-tests",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Advance for promotion, king entry, or diversion; pp. 76-84; PDF 99-107",
+      "title": "Advance for promotion, king entry, or diversion",
+      "locator": {
+        "pdfPageStart": 99,
+        "pdfPageEnd": 107,
+        "printedPages": "76-84",
+        "section": "Passed Pawn sections 7-8, diagrams 60-67, through Chapter 4 end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-passed-pawn-dynamic-strength",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Judge the passer by mobility and piece support; pp. 99-100; PDF 98-99",
+      "title": "Judge the passer by mobility and piece support",
+      "locator": {
+        "pdfPageStart": 98,
+        "pdfPageEnd": 99,
+        "printedPages": "99-100",
+        "section": "Passed Pawns subsection, one Smyslov-Keres board, ending before Pawn Islands",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-pawn-chain-base-and-theaters",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Read the pawn-chain base and choose the active theater; pp. 132-135; PDF 155-158",
+      "title": "Read the pawn-chain base and choose the active theater",
+      "locator": {
+        "pdfPageStart": 155,
+        "pdfPageEnd": 158,
+        "printedPages": "132-135",
+        "section": "Pawn Chain sections 1-2, diagrams 109-111",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-pawn-chain-attack-the-base",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Attack the base and prepare the freeing break; pp. 136-139; PDF 159-162",
+      "title": "Attack the base and prepare the freeing break",
+      "locator": {
+        "pdfPageStart": 159,
+        "pdfPageEnd": 162,
+        "printedPages": "136-139",
+        "section": "Pawn Chain sections 3-4, diagrams 112-113",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-pawn-chain-blockader-exchange",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Preserve the blockade when pieces are exchanged; pp. 140-142; PDF 163-165",
+      "title": "Preserve the blockade when pieces are exchanged",
+      "locator": {
+        "pdfPageStart": 163,
+        "pdfPageEnd": 165,
+        "printedPages": "140-142",
+        "section": "Pawn Chain section 5, diagrams 114-115",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-pawn-chain-movement-or-siege",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Choose between changing the chain and besieging it; pp. 143-144; PDF 166-167",
+      "title": "Choose between changing the chain and besieging it",
+      "locator": {
+        "pdfPageStart": 166,
+        "pdfPageEnd": 167,
+        "printedPages": "143-144",
+        "section": "Pawn Chain section 6, diagram 116",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-pawn-chain-slow-siege",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Build a slow siege without releasing the chain; pp. 145-151; PDF 168-174",
+      "title": "Build a slow siege without releasing the chain",
+      "locator": {
+        "pdfPageStart": 168,
+        "pdfPageEnd": 174,
+        "printedPages": "145-151",
+        "section": "Pawn Chain sections 7-8 through the first part of PDF 174, diagrams 117-121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-pawn-chain-transfer-attack",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Transfer the attack when the chain changes; pp. 151-154; PDF 174-177",
+      "title": "Transfer the attack when the chain changes",
+      "locator": {
+        "pdfPageStart": 174,
+        "pdfPageEnd": 177,
+        "printedPages": "151-154",
+        "section": "Pawn Chain section 9 from the latter part of PDF 174 through chapter end, diagrams 122-123",
+        "ebookLocation": null
+      }
     }
   ]
 }

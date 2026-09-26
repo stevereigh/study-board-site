@@ -7845,6 +7845,146 @@
     ]
   },
   {
+    "chapterId": "kotov-weak-squares-and-dynamic-pawns",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Occupy weak squares and test dynamic compensation; pp. 95-99; PDF 94-98",
+    "title": "Occupy weak squares and test dynamic compensation",
+    "tags": [
+      "weak-squares",
+      "outposts",
+      "backward-pawns"
+    ],
+    "note": "A weak square matters when a piece can occupy it securely and use it as a base for further operations. Kotov&#x27;s examples remove the defenders, establish the outpost and then attack from it. The label alone creates no advantage if the square cannot be reached or maintained.\n\nModern structures may accept a backward or isolated pawn in exchange for central activity, an outpost or attacking chances. The evaluation depends on the current piece configuration and future breaks. A static defect can be a reasonable price when the compensation is immediate and usable.\n\nIdentify the square, the occupying piece and the defenders that must be exchanged. Then list the pawn&#x27;s dynamic resources. Compare the time required to exploit the square with the speed of the compensating play.",
+    "keyIdeas": [
+      "A weak square must be occupiable and useful.",
+      "Remove defenders before establishing the outpost.",
+      "Judge pawn defects against concrete activity and breaks.",
+      "Compare exploitation time with the speed of compensation."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-10",
+        "concept": "Weak squares",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read Think Like a Grandmaster, PDF 94-98. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for occupy weak squares and test dynamic compensation.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-pawn-islands-and-piece-configuration",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Judge pawn islands through piece access; pp. 100-103; PDF 99-102",
+    "title": "Judge pawn islands through piece access",
+    "tags": [
+      "pawn-islands",
+      "weak-pawns",
+      "exchanges"
+    ],
+    "note": "Extra pawn islands create more potential targets, especially after exchanges, but the count is not a verdict. Kotov shows positions where piece mobility, outposts and active lines outweigh the separated pawns because the opponent cannot reach them in time.\n\nSimplification often increases the importance of islands by removing counterplay and exposing fixed targets. In active middlegames, the relevant issue is whether the pieces can attack the pawns without abandoning more urgent duties.\n\nCount the islands, then name the route to each target and the defender&#x27;s active reply. Compare the position before and after the likely exchanges. Prefer an ending that makes the separated targets reachable; avoid trading into activity that compensates for them.",
+    "keyIdeas": [
+      "Pawn-island count predicts targets but not immediate exploitability.",
+      "Piece access and counterplay decide whether the targets matter.",
+      "Simplification often increases the cost of separated pawns.",
+      "Compare the post-exchange routes before trading."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-11",
+        "concept": "Backward pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read Think Like a Grandmaster, PDF 99-102. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for judge pawn islands through piece access.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-weak-colour-complexes",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Exploit a weak colour complex with matching pieces; pp. 103-108; PDF 102-107",
+    "title": "Exploit a weak colour complex with matching pieces",
+    "tags": [
+      "weak-squares",
+      "good-and-bad-bishops",
+      "colour-complex"
+    ],
+    "note": "Pawns fixed on the same colour as their remaining bishop can restrict that bishop and leave the opposite colour difficult to defend. The weakness becomes concrete when the attacker has a bishop, knight or queen that can occupy the exposed squares and the defender lacks the matching bishop.\n\nKotov combines pressure on the fixed pawns with entry through the weak colour. The verdict can change if the bad bishop is exchanged, freed by a pawn break or given an active diagonal. Colour-complex weakness is therefore a relationship among pawns, pieces and entry squares.\n\nMark the fixed pawns, unavailable colour squares and attacking piece that can occupy them. Then search for the defender&#x27;s freeing move or exchange. Exploit the complex only while the required attacking piece and access route remain.",
+    "keyIdeas": [
+      "Relate fixed pawns to the colour of the remaining bishop.",
+      "Identify the piece that can occupy the exposed colour complex.",
+      "Combine square occupation with pressure on the pawns.",
+      "Reassess after the bad bishop is freed or exchanged."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-12",
+        "concept": "Weak squares",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read Think Like a Grandmaster, PDF 102-107. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for exploit a weak colour complex with matching pieces.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-passed-pawn-dynamic-strength",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Judge the passer by mobility and piece support; pp. 99-100; PDF 98-99",
+    "title": "Judge the passer by mobility and piece support",
+    "tags": [
+      "passed-pawns",
+      "piece-activity",
+      "timing"
+    ],
+    "note": "Kotov supplies a concise qualification to the classical rule. A passed pawn is dangerous when it can move, has piece support and creates tactical demands. A nominal passer fixed by blockade or unsupported by its army may contribute little.\n\nEvaluate the immediate advance, the supporting pieces and the defender&#x27;s blockading resources. Compare the time needed to mobilize the pawn with the opponent&#x27;s play elsewhere. The dynamic passer is strong because its next move changes the position, not because its label guarantees promotion.",
+    "keyIdeas": [
+      "Mobility and support determine the passer’s practical strength.",
+      "Calculate the immediate advance and the blockading reply.",
+      "Include tactical demands created by the pawn.",
+      "Compare mobilization time with counterplay elsewhere."
+    ],
+    "activities": [
+      {
+        "id": "study-s18-07",
+        "concept": "Passed pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read Think Like a Grandmaster, PDF 98-99. For every position, record the passer’s support, blockading square, active blockader and reason to advance or wait.",
+        "successCheck": "Explain the correct creation, blockade, or advance decision for judge the passer by mobility and piece support.",
+        "playReminders": [
+          "Create, blockade, support, then time the advance."
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nimzovich-development",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
@@ -9744,6 +9884,609 @@
         "successCheck": "Build three complete maneuver plans in which every improving move has a purpose and arrival-time test.",
         "playReminders": [
           "Anchor, target, route, timing."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-doubled-pawns-restraint-and-complexes",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Restrain doubled pawns before attacking them; pp. 186-195; PDF 208-217",
+    "title": "Restrain doubled pawns before attacking them",
+    "tags": [
+      "doubled-pawns",
+      "restraint",
+      "pawn-structure"
+    ],
+    "note": "Doubled pawns carry a static defect because they cannot advance as freely as a healthy pawn pair, but a compact formation may still control useful squares and support active pieces. Nimzowitsch therefore begins with restraint. Provoke or prepare the advance that makes the weakness visible before committing pieces to attack it.\n\nThe familiar complexes show why timing matters. Immediate pressure can help the pawns undouble, open a file or gain a freeing break. The attacker should first control the useful advance squares, restrict the supporting pieces and identify the base that will remain weak after exchanges.\n\nFor each structure, list the squares controlled by the doubled pawns, the break they still possess and the piece that can blockade or attack them. Call the formation weak only when the opponent can reach it without releasing its dynamic resources.",
+    "keyIdeas": [
+      "Treat doubled pawns as a static defect with possible dynamic resources.",
+      "Restrain the useful advance before attacking the pawns.",
+      "Identify the base that remains weak after exchanges.",
+      "Do not help the pawns undouble or open a useful file."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-01",
+        "concept": "Doubled pawns",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 208-217. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for restrain doubled pawns before attacking them.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-doubled-pawn-breaks",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Account for the doubled complex’s freeing break; pp. 196-199; PDF 218-221",
+    "title": "Account for the doubled complex’s freeing break",
+    "tags": [
+      "doubled-pawns",
+      "pawn-breaks",
+      "piece-activity"
+    ],
+    "note": "A doubled-pawn complex can provide central influence, outposts and a timed freeing break. Its lack of mobility does not make it inert. If the restraining side fixes the pawns without controlling their release, the supposed target can become the source of activity.\n\nNimzowitsch&#x27;s final examples ask the attacker to distinguish a genuine weakness from a useful structural tension. The freeing move may exchange the front pawn, open a line for a rook or activate a previously poor piece. The correct plan either prevents that operation or waits until the resulting position remains favorable.\n\nBefore attacking, calculate the pawn break and the recapture structure. Mark which file or square opens and which pieces benefit. If the defender gains the more active army, keep restraining; if the break leaves a fixed target, permit or provoke it on favorable terms.",
+    "keyIdeas": [
+      "Calculate the freeing break before fixing the doubled pawns.",
+      "Judge the structure after the likely exchanges.",
+      "Count the files, outposts and piece routes the break creates.",
+      "Provoke the break only when the resulting target is usable."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-02",
+        "concept": "Doubled pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 218-221. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for account for the doubled complex’s freeing break.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-true-and-spurious-freeing-moves",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Distinguish true and spurious freeing moves; pp. 200-204; PDF 222-226",
+    "title": "Distinguish true and spurious freeing moves",
+    "tags": [
+      "pawn-breaks",
+      "prophylaxis",
+      "restriction"
+    ],
+    "note": "A true freeing move releases cramped pieces, improves coordination and changes the opponent&#x27;s control. It deserves timely prevention. A spurious freeing move merely opens lines prematurely, wastes tempi or gives the opponent better access. Spending material or several moves to stop an illusory release can be worse than allowing it.\n\nNimzowitsch shows preventive pieces occupying the line the opponent hopes to open. A rook may stand behind a still-closed file because the placement makes the pawn advance unattractive. This is active prophylaxis: the piece discourages the break while retaining future work.\n\nName the proposed freeing move, the pieces it activates and the structural result. If those gains are real, prevent or prepare against it. If the move helps your army more, continue improving instead of reacting to the label “freeing.”",
+    "keyIdeas": [
+      "A true freeing move releases pieces and improves coordination.",
+      "A spurious break may waste time or open lines for the opponent.",
+      "Occupy the future line before the pawn advance becomes urgent.",
+      "Demand a concrete benefit before treating a break as a threat."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-03",
+        "concept": "Pawn breaks",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 222-226. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for distinguish true and spurious freeing moves.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-restraint-review-and-removal",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Restrict, blockade, then remove the weakness; pp. 207-212; PDF 229-234",
+    "title": "Restrict, blockade, then remove the weakness",
+    "tags": [
+      "restriction",
+      "weak-pawns",
+      "pawn-majorities"
+    ],
+    "note": "The restraint review joins the earlier methods into an order of operations. Against a mobile center or pawn majority, first restrict the useful advances, then establish the blockading pieces, and only then attack the fixed targets. Pawn count alone does not determine the value of a majority; its useful mobility and line-opening power do.\n\nThe reviewed examples also show how pressure can combine: a passive block, rook pressure, isolation and eventual capture may all serve one plan. The pieces should not attack a pawn that can advance with tempo or dissolve the target.\n\nDescribe the opponent&#x27;s useful advance, the square that stops it and the piece that can occupy that square actively. After the structure is fixed, select the exchange or entry route that makes the weakness collectible without surrendering control.",
+    "keyIdeas": [
+      "Restrict useful advances before blockading and attacking.",
+      "Judge a majority by usable mobility rather than pawn count.",
+      "Combine blockade, line pressure and favorable exchanges.",
+      "Attack only after the target can no longer escape with tempo."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-04",
+        "concept": "Restriction",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 229-234. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for restrict, blockade, then remove the weakness.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-removing-weak-pawns",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Remove a weak pawn or provoke the latent weakness; pp. 244-246; PDF 266-268",
+    "title": "Remove a weak pawn or provoke the latent weakness",
+    "tags": [
+      "weak-pawns",
+      "piece-activity",
+      "sacrifice"
+    ],
+    "note": "A weak pawn can make its own pieces passive because they must protect it. Nimzowitsch gives two remedies: eliminate the visibly weak pawn, even by sacrifice when the resulting activity compensates, or provoke a latent weakness into advancing so that its defect becomes concrete.\n\nKeeping the pawn at any price may cost more than the pawn itself. The correct liquidation can open lines, free a square and release several pieces. Conversely, advancing a merely backward pawn without preparation can expose new squares and leave the structure worse.\n\nCount how many pieces are tied to the pawn and what jobs they gain after its removal. Compare the material cost with the activity and structural transformation. If provoking the pawn, identify the square or target that appears after it moves.",
+    "keyIdeas": [
+      "A weak pawn can imprison several defenders.",
+      "Consider sacrificing the pawn to release the army.",
+      "Provoke a latent weakness before attacking it.",
+      "Evaluate the activity gained after the structural change."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-05",
+        "concept": "Backward pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 266-268. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for remove a weak pawn or provoke the latent weakness.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-passed-pawn-birth-and-candidate",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Create the passer with the correct candidate pawn; pp. 50-52; PDF 73-75",
+    "title": "Create the passer with the correct candidate pawn",
+    "tags": [
+      "passed-pawns",
+      "pawn-majorities",
+      "candidate-pawn"
+    ],
+    "note": "A pawn is passed when no opposing pawn stands ahead on its own or neighboring files; a piece blockading it does not change that definition. In a pawn majority, the candidate pawn without a direct opposing pawn normally leads while the others support its creation.\n\nAdvancing the wrong pawn can let the defender establish a blockade or dissolve the majority. Identify the candidate, calculate the exchanges and preserve cooperation among the supporting pawns. The creation plan succeeds when the resulting passer can be supported by pieces and is not immediately fixed on a weak square.",
+    "keyIdeas": [
+      "A blockaded pawn can still be passed.",
+      "Lead a healthy majority with the candidate pawn.",
+      "Calculate the exchange structure before advancing.",
+      "Preserve support for the resulting passer."
+    ],
+    "activities": [
+      {
+        "id": "study-s18-01",
+        "concept": "Passed pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 73-75. For every position, record the passer’s support, blockading square, active blockader and reason to advance or wait.",
+        "successCheck": "Explain the correct creation, blockade, or advance decision for create the passer with the correct candidate pawn.",
+        "playReminders": [
+          "Create, blockade, support, then time the advance."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-blockade-point-and-diffusion",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Blockade before the passer activates its army; pp. 53-59; PDF 76-82",
+    "title": "Blockade before the passer activates its army",
+    "tags": [
+      "blockade",
+      "passed-pawns",
+      "outposts"
+    ],
+    "note": "A passed pawn gains force with every advance because it approaches promotion and can activate the pieces behind it. Nimzowitsch therefore urges an early blockade. The square immediately in front can shelter the blockader from pawn attack and become an outpost from which it creates threats.\n\nThe blockade can restrict more than the pawn. A central blockader may interrupt the supporting army and diffuse its energy. Choose the square before the pawn reaches it, support the blockader and test whether the attacking side can exchange or divert it. Waiting until the pawn advances may make the same setup impossible.",
+    "keyIdeas": [
+      "Blockade before the pawn gains another tempo and square.",
+      "Use the blockading square as an outpost.",
+      "Restrict the supporting army as well as the pawn.",
+      "Support the blockader against exchange and diversion."
+    ],
+    "activities": [
+      {
+        "id": "study-s18-02",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Passed pawns"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 76-82. For every position, record the passer’s support, blockading square, active blockader and reason to advance or wait.",
+        "successCheck": "Explain the correct creation, blockade, or advance decision for blockade before the passer activates its army.",
+        "playReminders": [
+          "Create, blockade, support, then time the advance."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-active-blockader",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Choose an active, supported blockader; pp. 60-63; PDF 83-86",
+    "title": "Choose an active, supported blockader",
+    "tags": [
+      "blockade",
+      "piece-activity",
+      "passed-pawns"
+    ],
+    "note": "A strong blockader performs two jobs: it stops the pawn and creates threats of its own. A merely passive piece may hold temporarily but can be tied down or driven away. Nimzowitsch compares pieces by support, elasticity and the availability of a replacement when the blockader leaves.\n\nGive the blockading piece a second target or route while another unit remains ready to assume the post. The attacker should try to overload the blockader or remove its support. The defender should avoid exchanging into a setup where no suitable replacement can occupy the square.",
+    "keyIdeas": [
+      "The best blockader also creates threats.",
+      "Support the blockader and prepare a replacement.",
+      "Judge elasticity before the piece leaves the post.",
+      "Attack the blockade by overloading or removing support."
+    ],
+    "activities": [
+      {
+        "id": "study-s18-03",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Passed pawns"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 83-86. For every position, record the passer’s support, blockading square, active blockader and reason to advance or wait.",
+        "successCheck": "Explain the correct creation, blockade, or advance decision for choose an active, supported blockader.",
+        "playReminders": [
+          "Create, blockade, support, then time the advance."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-fight-the-blockader",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Remove the blockader and divert its defenders; pp. 64-66; PDF 87-89",
+    "title": "Remove the blockader and divert its defenders",
+    "tags": [
+      "passed-pawns",
+      "removing-the-defender",
+      "blockade"
+    ],
+    "note": "The owner of a passed pawn should not push automatically into a stable blockade. The first task may be to exchange the blockading piece, divert its defenders or force a less effective unit to take its place. Only then does the advance recover its force.\n\nCompare direct attack on the blockader with operations elsewhere that overload its support. If the defender can replace it without concession, the exchange has achieved little. The useful operation changes the quality of the blockade and creates a concrete route for the pawn or the supporting pieces.",
+    "keyIdeas": [
+      "Attack the blockade before pushing into it.",
+      "Exchange the blockader only when the replacement is worse.",
+      "Divert or overload its defenders.",
+      "Advance after the blockading setup has been weakened."
+    ],
+    "activities": [
+      {
+        "id": "study-s18-04",
+        "concept": "Passed pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 87-89. For every position, record the passer’s support, blockading square, active blockader and reason to advance or wait.",
+        "successCheck": "Explain the correct creation, blockade, or advance decision for remove the blockader and divert its defenders.",
+        "playReminders": [
+          "Create, blockade, support, then time the advance."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-privileged-passed-pawns",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Coordinate connected, protected, and remote passers; pp. 71-75; PDF 94-98",
+    "title": "Coordinate connected, protected, and remote passers",
+    "tags": [
+      "passed-pawns",
+      "connected-passers",
+      "outside-passer"
+    ],
+    "note": "Connected passers are powerful because each can protect the other&#x27;s advance; preserve that cooperation instead of pushing one beyond support. A protected passer is difficult for the enemy king to approach, while a remote passer matters because it diverts the king from the main wing.\n\nThe labels describe mechanisms, not automatic wins. Check the blockading square, piece support and the opponent&#x27;s counter-race. A remote passer is valuable only when the diversion creates a usable gain elsewhere. Coordinate the pawn advance with king and piece routes before fixing the formation.",
+    "keyIdeas": [
+      "Preserve cooperation between connected passers.",
+      "Use a protected passer to deny the enemy king.",
+      "Value a remote passer by the diversion it creates.",
+      "Coordinate pawn and piece routes before advancing."
+    ],
+    "activities": [
+      {
+        "id": "study-s18-05",
+        "concept": "Passed pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 94-98. For every position, record the passer’s support, blockading square, active blockader and reason to advance or wait.",
+        "successCheck": "Explain the correct creation, blockade, or advance decision for coordinate connected, protected, and remote passers.",
+        "playReminders": [
+          "Create, blockade, support, then time the advance."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-passed-pawn-timing-and-tests",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Advance for promotion, king entry, or diversion; pp. 76-84; PDF 99-107",
+    "title": "Advance for promotion, king entry, or diversion",
+    "tags": [
+      "passed-pawns",
+      "king-activity",
+      "calculation"
+    ],
+    "note": "A passed pawn should advance for a concrete reason: move closer to promotion without accepting a durable blockade, clear an entry route for the king, or serve as a calculated sacrifice that diverts the enemy king. “Passed pawns must be pushed” is a prompt to calculate, not a command.\n\nThe practical endings test support, blockading squares and races. Before advancing, compare the current restraining value of the pawn with the position after the push. Calculate the defender&#x27;s blockade and the route opened for both kings. If the pawn&#x27;s sacrifice wins time or access elsewhere, the loss can be the point of the advance.",
+    "keyIdeas": [
+      "Advance with a stated promotion, entry, or diversion purpose.",
+      "Do not abandon a useful restraining pawn without calculation.",
+      "Calculate the new blockading square after every push.",
+      "A passer may be sacrificed to divert the king."
+    ],
+    "activities": [
+      {
+        "id": "study-s18-06",
+        "concept": "Passed pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 99-107. For every position, record the passer’s support, blockading square, active blockader and reason to advance or wait.",
+        "successCheck": "Explain the correct creation, blockade, or advance decision for advance for promotion, king entry, or diversion.",
+        "playReminders": [
+          "Create, blockade, support, then time the advance."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-pawn-chain-base-and-theaters",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Read the pawn-chain base and choose the active theater; pp. 132-135; PDF 155-158",
+    "title": "Read the pawn-chain base and choose the active theater",
+    "tags": [
+      "pawn-chains",
+      "pawn-breaks",
+      "closed-centers"
+    ],
+    "note": "A locked pawn chain points toward the wing where each side has space, but its base is the structural anchor. Attacking the head alone often leaves the chain supported and merely changes its shape. Identify both bases, the direction of each chain and the wing where a break can actually reach a vulnerable point.\n\nThe chain divides the board into theaters. Play on the side indicated by the structure while watching for a counterstroke against your own base. The useful plan connects the pawn break to piece routes; a wing attack without enough pieces or a timely break is only a slogan.",
+    "keyIdeas": [
+      "Trace every locked chain back to its base.",
+      "Use the chain direction to choose the likely theater.",
+      "Connect a wing plan to a concrete pawn break.",
+      "Watch the opponent&#x27;s counterstroke against your base."
+    ],
+    "activities": [
+      {
+        "id": "study-s19-01",
+        "concept": "Pawn chains",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn chains",
+          "Position evaluation"
+        ],
+        "instructions": "Read My System, PDF 155-158. On each diagram, mark the chain base, the opponent&#x27;s freeing break, your active theater, and whether to break, blockade, or improve a piece.",
+        "successCheck": "Explain the structural trigger and piece route in read the pawn-chain base and choose the active theater.",
+        "playReminders": [
+          "Name the base, lever, and new structure before moving a pawn."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-pawn-chain-attack-the-base",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Attack the base and prepare the freeing break; pp. 136-139; PDF 159-162",
+    "title": "Attack the base and prepare the freeing break",
+    "tags": [
+      "pawn-chains",
+      "pawn-breaks",
+      "weak-pawns"
+    ],
+    "note": "The base is often the least mobile member of a pawn chain and therefore the natural target. Pressure it with pieces, then use a pawn lever to challenge the supporting link or open a file. The break must be prepared: premature contact can replace the old chain with a healthier one or release the opponent&#x27;s pieces.\n\nCount defenders, recaptures and resulting files before committing. If the direct base attack is unavailable, fix the base and provoke a new weakness around it. The aim is to make the chain&#x27;s support obligations interfere with active piece play.",
+    "keyIdeas": [
+      "Treat the base as the chain&#x27;s least mobile target.",
+      "Prepare the lever with enough piece support.",
+      "Calculate the recapture structure and opened files.",
+      "Fix the base when immediate destruction is impossible."
+    ],
+    "activities": [
+      {
+        "id": "study-s19-02",
+        "concept": "Pawn chains",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn chains",
+          "Position evaluation"
+        ],
+        "instructions": "Read My System, PDF 159-162. On each diagram, mark the chain base, the opponent&#x27;s freeing break, your active theater, and whether to break, blockade, or improve a piece.",
+        "successCheck": "Explain the structural trigger and piece route in attack the base and prepare the freeing break.",
+        "playReminders": [
+          "Name the base, lever, and new structure before moving a pawn."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-pawn-chain-blockader-exchange",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Preserve the blockade when pieces are exchanged; pp. 140-142; PDF 163-165",
+    "title": "Preserve the blockade when pieces are exchanged",
+    "tags": [
+      "pawn-chains",
+      "blockade",
+      "piece-exchanges"
+    ],
+    "note": "A blocked chain can give a piece a stable post in front of the head or beside the base. Exchanges are favorable only when the restraining setup survives. Trading the current blockader without a replacement may free the chain and surrender the very advantage the exchange was meant to exploit.\n\nBefore exchanging, name the successor that will occupy the critical square. The owner of the chain should seek exchanges that remove the blockader, undermine its support or force a worse piece to take over. Evaluate the position after the exchange by mobility, not by the number of pieces removed.",
+    "keyIdeas": [
+      "A chain can provide a stable blockading post.",
+      "Name the replacement before exchanging a blockader.",
+      "Seek exchanges that reduce the quality of the blockade.",
+      "Judge the resulting pawn mobility after the trade."
+    ],
+    "activities": [
+      {
+        "id": "study-s19-03",
+        "concept": "Pawn chains",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn chains",
+          "Position evaluation"
+        ],
+        "instructions": "Read My System, PDF 163-165. On each diagram, mark the chain base, the opponent&#x27;s freeing break, your active theater, and whether to break, blockade, or improve a piece.",
+        "successCheck": "Explain the structural trigger and piece route in preserve the blockade when pieces are exchanged.",
+        "playReminders": [
+          "Name the base, lever, and new structure before moving a pawn."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-pawn-chain-movement-or-siege",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Choose between changing the chain and besieging it; pp. 143-144; PDF 166-167",
+    "title": "Choose between changing the chain and besieging it",
+    "tags": [
+      "pawn-chains",
+      "pawn-breaks",
+      "schematic-thinking"
+    ],
+    "note": "A pawn-chain position offers two broad operations: change the structure with a prepared advance or keep it fixed and intensify pressure. Advancing gains space or creates a new break, but it may abandon the old base and create fresh weak squares. A siege is slower, yet it preserves the target and lets pieces improve behind the fixed structure.\n\nCompare the transformation after the push with the best possible piece arrangement against the current chain. Choose movement when the new structure gives a concrete entry or favorable opening of lines. Choose siege when time and space allow every piece to join without giving the opponent a freeing break.",
+    "keyIdeas": [
+      "Compare structural transformation with continued pressure.",
+      "Every pawn push leaves squares and a new base behind.",
+      "Use movement for a concrete entry or favorable opening.",
+      "Use siege when pieces can improve without allowing counterplay."
+    ],
+    "activities": [
+      {
+        "id": "study-s19-04",
+        "concept": "Pawn chains",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn chains",
+          "Position evaluation"
+        ],
+        "instructions": "Read My System, PDF 166-167. On each diagram, mark the chain base, the opponent&#x27;s freeing break, your active theater, and whether to break, blockade, or improve a piece.",
+        "successCheck": "Explain the structural trigger and piece route in choose between changing the chain and besieging it.",
+        "playReminders": [
+          "Name the base, lever, and new structure before moving a pawn."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-pawn-chain-slow-siege",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Build a slow siege without releasing the chain; pp. 145-151; PDF 168-174",
+    "title": "Build a slow siege without releasing the chain",
+    "tags": [
+      "pawn-chains",
+      "restriction",
+      "schematic-thinking"
+    ],
+    "note": "When the chain cannot be broken immediately, accumulate advantages around it. Fix the base, deny freeing advances, improve the worst piece and add attackers until the defender becomes passive. The pressure may produce a second weakness or force a concession even when the original pawn never falls.\n\nA siege fails if routine maneuvers give the opponent time for the liberating break. Recheck that break after every improving move and keep enough control over its destination squares. The sequence is restraint first, concentration second and conversion only when the defender can no longer reorganize.",
+    "keyIdeas": [
+      "Fix the chain and deny its freeing advances.",
+      "Improve the worst piece before forcing matters.",
+      "Use pressure to create a second weakness or concession.",
+      "Recheck the opponent&#x27;s liberating break after every move."
+    ],
+    "activities": [
+      {
+        "id": "study-s19-05",
+        "concept": "Pawn chains",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn chains",
+          "Position evaluation"
+        ],
+        "instructions": "Read My System, PDF 168-174. On each diagram, mark the chain base, the opponent&#x27;s freeing break, your active theater, and whether to break, blockade, or improve a piece.",
+        "successCheck": "Explain the structural trigger and piece route in build a slow siege without releasing the chain.",
+        "playReminders": [
+          "Name the base, lever, and new structure before moving a pawn."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-pawn-chain-transfer-attack",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Transfer the attack when the chain changes; pp. 151-154; PDF 174-177",
+    "title": "Transfer the attack when the chain changes",
+    "tags": [
+      "pawn-chains",
+      "pawn-breaks",
+      "converting-advantages"
+    ],
+    "note": "The target can migrate when the defender advances, exchanges or abandons a link. Do not continue attacking the square that used to matter. Reconstruct the chain, locate the new base and transfer pieces before the opponent completes the reorganization.\n\nThe transfer may also switch wings when a break opens a new file or creates a second weakness. Preserve useful pressure during the move and avoid a premature tactical finish. Conversion comes from following the structure&#x27;s changes faster than the defender can repair them.",
+    "keyIdeas": [
+      "Reconstruct the chain after every pawn change.",
+      "Transfer pressure to the new base promptly.",
+      "Use opened files to switch wings or create a second target.",
+      "Preserve restraint while pieces change theaters."
+    ],
+    "activities": [
+      {
+        "id": "study-s19-06",
+        "concept": "Pawn chains",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn chains",
+          "Position evaluation"
+        ],
+        "instructions": "Read My System, PDF 174-177. On each diagram, mark the chain base, the opponent&#x27;s freeing break, your active theater, and whether to break, blockade, or improve a piece.",
+        "successCheck": "Explain the structural trigger and piece route in transfer the attack when the chain changes.",
+        "playReminders": [
+          "Name the base, lever, and new structure before moving a pawn."
         ]
       }
     ]
@@ -12609,6 +13352,146 @@
         "successCheck": "Select the move order that preserves the open-position attacking window against best defense.",
         "playReminders": [
           "Does the attack require action now?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-pawn-structure-static-dynamic",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Balance pawn defects against dynamic resources; pp. 107-117; PDF 113-123",
+    "title": "Balance pawn defects against dynamic resources",
+    "tags": [
+      "pawn-structure",
+      "imbalances",
+      "dynamic-resources"
+    ],
+    "note": "Silman compares doubled, isolated, backward, hanging and passed pawns by both their defects and their resources. A pawn is not weak merely because it has a name. The opponent must be able to attack it, occupy the associated square or exploit the pieces tied to its defense.\n\nThe same structure may provide open files, space, central breaks and active piece routes. Those benefits can outweigh the long-term target, especially before simplification. Static judgment becomes reliable only after the player names what each side can actually do.\n\nFor every structure, make two columns: lasting liabilities and usable resources. Then identify the opponent&#x27;s method of attack and the owner&#x27;s freeing operation. Choose a plan from that comparison rather than from the visual appearance of the pawns.",
+    "keyIdeas": [
+      "A named pawn defect is not automatically exploitable.",
+      "Compare lasting liabilities with current dynamic resources.",
+      "Identify the weak square as well as the pawn.",
+      "Evaluate how exchanges change the balance."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-06",
+        "concept": "Doubled pawns",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery, PDF 113-123. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for balance pawn defects against dynamic resources.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-hanging-pawns-use-or-contain",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Use hanging pawns before they become fixed; pp. 118-127; PDF 124-133",
+    "title": "Use hanging pawns before they become fixed",
+    "tags": [
+      "hanging-pawns",
+      "pawn-breaks",
+      "counterplay"
+    ],
+    "note": "Hanging pawns need activity. Their owner should use space, piece support and the c- or d-pawn advance before the formation becomes fixed. Silman&#x27;s student examples show how imaginary threats and passive defense surrender the very breaks that justify the structure.\n\nThe opponent should reverse the process: control the advance squares, reduce counterplay and only then attack the pawns. Premature threats can push the pawns forward under favorable conditions or open lines for active pieces. Containment gives the later attack a stable target.\n\nFor both sides, calculate the main pawn break first. If you own the pawns, prepare the break while the pieces are active. If you face them, stop the break without becoming passive, then increase pressure with pieces that retain other useful jobs.",
+    "keyIdeas": [
+      "Hanging pawns require timely dynamic play.",
+      "Do not surrender their breaks to imaginary threats.",
+      "Contain the advance before attacking the pawns.",
+      "Keep the restraining pieces active while increasing pressure."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-07",
+        "concept": "Hanging pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery, PDF 124-133. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for use hanging pawns before they become fixed.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-ugly-and-backward-pawn-resources",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Use the assets behind ugly and backward pawns; pp. 128-135; PDF 134-141",
+    "title": "Use the assets behind ugly and backward pawns",
+    "tags": [
+      "backward-pawns",
+      "weak-squares",
+      "piece-activity"
+    ],
+    "note": "Tripled, isolated or backward pawns can be acceptable when they buy development, open files, space or concrete targets. Silman warns against liquidating a visually ugly structure before using the activity it created. The relevant comparison is the value of the resource against the opponent&#x27;s practical access to the weakness.\n\nFor a backward pawn, the square in front is often more important than the pawn. Occupying that square can immobilize the structure and provide an entry point. The defender should contest the square, prepare the pawn advance or create counterplay elsewhere.\n\nName the weak pawn, the weak square and the dynamic asset separately. If the opponent cannot reach the target, use the activity first. If the square can be occupied permanently, trade its defenders and build pressure around the outpost.",
+    "keyIdeas": [
+      "Ugly pawns may purchase useful activity.",
+      "The square in front of a backward pawn is often the real target.",
+      "Use dynamic assets before simplifying into a weak ending.",
+      "Remove defenders before occupying the weak square."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-08",
+        "concept": "Backward pawns",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery, PDF 134-141. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for use the assets behind ugly and backward pawns.",
+        "playReminders": [
+          "Is this weakness actually usable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-pawn-direction-closed-centers",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Use pawn direction to choose a wing in closed centers; pp. 136-144; PDF 142-150",
+    "title": "Use pawn direction to choose a wing in closed centers",
+    "tags": [
+      "pawn-chains",
+      "closed-center",
+      "planning"
+    ],
+    "note": "In a closed or semi-closed center, the pawn chains point toward the side where space and pawn breaks usually support play. That direction is a clue rather than a command. The bishop pair, targets, piece routes and possible central opening can change the correct theater.\n\nSilman&#x27;s final example rejects emotional reactions and isolated one-move attacks. The player should compare wing plans, identify the line-opening break and keep enough central control to answer the opponent&#x27;s counterplay. If the center can open, a wing commitment may become unsafe.\n\nDraw arrows for both pawn chains, then mark each side&#x27;s base, break and fastest piece route. Choose the wing whose plan is supported by the structure and test the opponent&#x27;s central reply before committing the pieces.",
+    "keyIdeas": [
+      "Pawn direction suggests the natural wing only in a closed center.",
+      "Include piece routes and targets before committing.",
+      "Test the opponent’s central opening against the wing plan.",
+      "Reject one-move attacks disconnected from the structure."
+    ],
+    "activities": [
+      {
+        "id": "study-s17-09",
+        "concept": "Pawn chains",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Read The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery, PDF 142-150. Build a static-defect versus dynamic-resource note for every reviewed position.",
+        "successCheck": "Name the target, access route, freeing break and compensation for use pawn direction to choose a wing in closed centers.",
+        "playReminders": [
+          "Is this weakness actually usable?"
         ]
       }
     ]
