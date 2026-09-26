@@ -4160,6 +4160,227 @@
         "section": "Suppressing the Opponent's Counter-play, Euwe-Averbakh and Boleslavsky-Averbakh; two complete examples and five board positions through the chapter end",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "nimzovich-overprotection-strong-points",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Overprotect strong points, not every weakness; pp. 162-167; PDF 184-189",
+      "title": "Overprotect strong points, not every weakness",
+      "locator": {
+        "pdfPageStart": 184,
+        "pdfPageEnd": 189,
+        "printedPages": "162-167",
+        "section": "The Principle of Over-Protection, diagrams 124-130, through the section end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-overprotection-centralization",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Meet wing play with central control; pp. 176-181; PDF 198-203",
+      "title": "Meet wing play with central control",
+      "locator": {
+        "pdfPageStart": 198,
+        "pdfPageEnd": 203,
+        "printedPages": "176-181",
+        "section": "Combining Over-Protection with Centralization, diagrams 140-144, excluding preceding diagram 139",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-overprotection-active-defenders",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Make every overprotector active and reusable; pp. 238-244; PDF 260-266",
+      "title": "Make every overprotector active and reusable",
+      "locator": {
+        "pdfPageStart": 260,
+        "pdfPageEnd": 266,
+        "printedPages": "238-244",
+        "section": "Chapter 5 Over-Protection, section 1, diagrams 186-189, ending before section 2",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-maneuvering-purpose",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Give every maneuver a definite target; pp. 247; PDF 269-269",
+      "title": "Give every maneuver a definite target",
+      "locator": {
+        "pdfPageStart": 269,
+        "pdfPageEnd": 269,
+        "printedPages": "247",
+        "section": "Maneuvering Against Weaknesses, section 1, The Need for Maneuvering",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-maneuvering-pivot",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Build a pivot and rotate the attack; pp. 248-252; PDF 270-274",
+      "title": "Build a pivot and rotate the attack",
+      "locator": {
+        "pdfPageStart": 270,
+        "pdfPageEnd": 274,
+        "printedPages": "248-252",
+        "section": "Maneuvering Against Weaknesses, section 2, terrain and the maneuvering pivot, diagrams 192-195",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-maneuvering-latent-weaknesses",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Expose the second weakness; pp. 252-256; PDF 274-278",
+      "title": "Expose the second weakness",
+      "locator": {
+        "pdfPageStart": 274,
+        "pdfPageEnd": 278,
+        "printedPages": "252-256",
+        "section": "Maneuvering Against Weaknesses, section 3, latent weaknesses, diagrams 196-200",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-maneuvering-difficult-conditions",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Maneuver when your own center restricts you; pp. 256-258; PDF 278-280",
+      "title": "Maneuver when your own center restricts you",
+      "locator": {
+        "pdfPageStart": 278,
+        "pdfPageEnd": 280,
+        "printedPages": "256-258",
+        "section": "Maneuvering Against Weaknesses, section 4, difficult conditions, diagram 201, through the chapter end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-side-of-board-imbalance-map",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Map the imbalances before choosing a side; pp. 277-280; PDF 281-284",
+      "title": "Map the imbalances before choosing a side",
+      "locator": {
+        "pdfPageStart": 281,
+        "pdfPageEnd": 284,
+        "printedPages": "277-280",
+        "section": "Which Side of the Board Should You Play On?, introduction and diagram 107",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-side-of-board-active-plan",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Commit the pieces to one active plan; pp. 281-287; PDF 285-291",
+      "title": "Commit the pieces to one active plan",
+      "locator": {
+        "pdfPageStart": 285,
+        "pdfPageEnd": 291,
+        "printedPages": "281-287",
+        "section": "Which Side of the Board Should You Play On?, diagrams 108-110 and three complete student examples",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-side-of-board-quiet-position",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Improve patiently in quiet positions; pp. 288-294; PDF 292-298",
+      "title": "Improve patiently in quiet positions",
+      "locator": {
+        "pdfPageStart": 292,
+        "pdfPageEnd": 298,
+        "printedPages": "288-294",
+        "section": "Which Side of the Board Should You Play On?, diagrams 111-112 and two complete quiet-position examples",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-side-of-board-open-attack-speed",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Use speed when an open position justifies attack; pp. 295-297; PDF 299-301",
+      "title": "Use speed when an open position justifies attack",
+      "locator": {
+        "pdfPageStart": 299,
+        "pdfPageEnd": 301,
+        "printedPages": "295-297",
+        "section": "Which Side of the Board Should You Play On?, diagram 113 and final open-position example; printed page 298 absent",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-poor-pieces-single-bottleneck",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Exploit the single piece that bottlenecks an army; pp. 114-116; PDF 113-115",
+      "title": "Exploit the single piece that bottlenecks an army",
+      "locator": {
+        "pdfPageStart": 113,
+        "pdfPageEnd": 115,
+        "printedPages": "114-116",
+        "section": "Poor Position of a Number of Pieces, opening through Botvinnik-Stahlberg, beginning midway through PDF 113",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-poor-pieces-crowding-and-separation",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Punish several pieces that cannot cooperate; pp. 116-120; PDF 115-119",
+      "title": "Punish several pieces that cannot cooperate",
+      "locator": {
+        "pdfPageStart": 115,
+        "pdfPageEnd": 119,
+        "printedPages": "116-120",
+        "section": "Poor Position of a Number of Pieces, remaining five examples through the section end; seven new diagrams across the full subsection",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-planning-linked-operations",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Build a single plan from linked operations; pp. 136-140; PDF 135-139",
+      "title": "Build a single plan from linked operations",
+      "locator": {
+        "pdfPageStart": 135,
+        "pdfPageEnd": 139,
+        "printedPages": "136-140",
+        "section": "Planning, A Single Plan, through the section boundary",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-planning-planlessness",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Reject planless natural moves; pp. 140-143; PDF 139-142",
+      "title": "Reject planless natural moves",
+      "locator": {
+        "pdfPageStart": 139,
+        "pdfPageEnd": 142,
+        "printedPages": "140-143",
+        "section": "Planning, Planlessness Punished, through the Be Flexible heading",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-planning-flexibility",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Keep alternatives and abandon obsolete plans; pp. 143-147; PDF 142-146",
+      "title": "Keep alternatives and abandon obsolete plans",
+      "locator": {
+        "pdfPageStart": 142,
+        "pdfPageEnd": 146,
+        "printedPages": "143-147",
+        "section": "Planning, Be Flexible, beginning midway through PDF 142 and ending before The Centre later on PDF 146",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-planning-central-structure",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Let the center define the planning framework; pp. 147-155; PDF 146-154",
+      "title": "Let the center define the planning framework",
+      "locator": {
+        "pdfPageStart": 146,
+        "pdfPageEnd": 154,
+        "printedPages": "147-155",
+        "section": "Planning, The Centre, all five center types and exercises 19-21 through the chapter end",
+        "ebookLocation": null
+      }
     }
   ]
 }

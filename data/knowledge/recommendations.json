@@ -1932,6 +1932,124 @@
         "threat-recognition--shereshevsky-prophylaxis-stop-counterplay",
         "threat-recognition--shereshevsky-prophylaxis-improve-before-convert"
       ]
+    },
+    {
+      "id": "study-overprotection-strong-point-map",
+      "crossrefIds": [
+        "prophylaxis--nimzovich-overprotection-strong-points"
+      ]
+    },
+    {
+      "id": "study-overprotection-central-reply",
+      "crossrefIds": [
+        "center-control--nimzovich-overprotection-centralization"
+      ]
+    },
+    {
+      "id": "study-overprotection-active-defender-audit",
+      "crossrefIds": [
+        "improving-the-worst-piece--nimzovich-overprotection-active-defenders"
+      ]
+    },
+    {
+      "id": "study-maneuver-target-statement",
+      "crossrefIds": [
+        "schematic-thinking--nimzovich-maneuvering-purpose"
+      ]
+    },
+    {
+      "id": "study-maneuver-pivot-rotation",
+      "crossrefIds": [
+        "improving-the-worst-piece--nimzovich-maneuvering-pivot"
+      ]
+    },
+    {
+      "id": "study-maneuver-latent-weakness",
+      "crossrefIds": [
+        "converting-advantages--nimzovich-maneuvering-latent-weaknesses"
+      ]
+    },
+    {
+      "id": "study-maneuver-narrow-route",
+      "crossrefIds": [
+        "piece-activity--nimzovich-maneuvering-difficult-conditions"
+      ]
+    },
+    {
+      "id": "study-nimzovich-s16-method",
+      "crossrefIds": [
+        "improving-the-worst-piece--nimzovich-overprotection-active-defenders",
+        "improving-the-worst-piece--nimzovich-maneuvering-pivot",
+        "improving-the-worst-piece--nimzovich-maneuvering-difficult-conditions"
+      ]
+    },
+    {
+      "id": "study-sector-three-column-map",
+      "crossrefIds": [
+        "position-evaluation--silman-side-of-board-imbalance-map"
+      ]
+    },
+    {
+      "id": "study-sector-one-active-plan",
+      "crossrefIds": [
+        "improving-the-worst-piece--silman-side-of-board-active-plan"
+      ]
+    },
+    {
+      "id": "study-sector-quiet-improvement",
+      "crossrefIds": [
+        "improving-the-worst-piece--silman-side-of-board-quiet-position"
+      ]
+    },
+    {
+      "id": "study-sector-open-speed",
+      "crossrefIds": [
+        "attacking-prerequisites--silman-side-of-board-open-attack-speed"
+      ]
+    },
+    {
+      "id": "study-kotov-bottleneck-piece",
+      "crossrefIds": [
+        "improving-the-worst-piece--kotov-poor-pieces-single-bottleneck"
+      ]
+    },
+    {
+      "id": "study-kotov-participation-map",
+      "crossrefIds": [
+        "piece-activity--kotov-poor-pieces-crowding-and-separation"
+      ]
+    },
+    {
+      "id": "study-kotov-linked-operations",
+      "crossrefIds": [
+        "schematic-thinking--kotov-planning-linked-operations"
+      ]
+    },
+    {
+      "id": "study-kotov-planlessness-audit",
+      "crossrefIds": [
+        "schematic-thinking--kotov-planning-planlessness"
+      ]
+    },
+    {
+      "id": "study-kotov-flexibility-triggers",
+      "crossrefIds": [
+        "schematic-thinking--kotov-planning-flexibility"
+      ]
+    },
+    {
+      "id": "study-kotov-five-centers",
+      "crossrefIds": [
+        "center-control--kotov-planning-central-structure"
+      ]
+    },
+    {
+      "id": "study-s16-cross-book-plan",
+      "crossrefIds": [
+        "improving-the-worst-piece--nimzovich-maneuvering-pivot",
+        "improving-the-worst-piece--silman-side-of-board-active-plan",
+        "improving-the-worst-piece--kotov-poor-pieces-single-bottleneck"
+      ]
     }
   ]
 }

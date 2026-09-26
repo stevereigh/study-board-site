@@ -7606,6 +7606,245 @@
     ]
   },
   {
+    "chapterId": "kotov-poor-pieces-single-bottleneck",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Exploit the single piece that bottlenecks an army; pp. 114-116; PDF 113-115",
+    "title": "Exploit the single piece that bottlenecks an army",
+    "tags": [
+      "piece-placement",
+      "coordination",
+      "worst-piece",
+      "restriction"
+    ],
+    "note": "A badly placed piece can weaken more than its own square. Kotov shows how an awkward unit may require protection, block a line, deny a retreat square and keep neighboring pieces from joining the battle. The effective disadvantage can resemble missing material even though the piece remains on the board.\n\nThe attacker should exploit the disharmony before the defender reorganizes. Directly attacking the bad piece is only one method. Opening play on the opposite wing, exchanging the active defenders or increasing pressure on the pieces tied to its protection may be stronger. The key is to make the bottleneck matter to the whole position.\n\nIdentify the worst-placed enemy piece, its shortest useful route and the move it needs to begin that route. Then search for a threat that becomes decisive during that time. For your own army, reverse the exercise: free the bottleneck before launching a plan that assumes all pieces can participate.",
+    "keyIdeas": [
+      "One bad piece can obstruct and tie several others.",
+      "Exploit the time required for the bad piece to reorganize.",
+      "Attack elsewhere when defenders are tied to the bottleneck.",
+      "Repair your own bottleneck before beginning a distant operation."
+    ],
+    "activities": [
+      {
+        "id": "study-kotov-bottleneck-piece",
+        "concept": "Improving the worst piece",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read Kotov PDF 113-115 from the subsection heading. Mark the bad piece, every unit tied to it and its shortest reorganization route.",
+        "successCheck": "Show an operation that exploits the route time without merely chasing the bad piece.",
+        "playReminders": [
+          "Which piece is bottlenecking the army?"
+        ]
+      },
+      {
+        "id": "study-s16-cross-book-plan",
+        "concept": "Improving the worst piece",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity",
+          "Schematic thinking"
+        ],
+        "instructions": "Compare one position from each book. For each, state sector, target, worst piece, route or pivot, opponent&#x27;s release and reassessment trigger.",
+        "successCheck": "Build three complete plans where every piece improvement serves the target and passes the timing test.",
+        "playReminders": [
+          "Sector, target, route, timing, trigger."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-poor-pieces-crowding-and-separation",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Punish several pieces that cannot cooperate; pp. 116-120; PDF 115-119",
+    "title": "Punish several pieces that cannot cooperate",
+    "tags": [
+      "piece-placement",
+      "coordination",
+      "attack",
+      "effective-material"
+    ],
+    "note": "Several poor pieces create a network of problems: crowding, undevelopment, separation from the active wing and duplicated defensive duties. Kotov&#x27;s examples show that counting pieces is insufficient. The practical question is how many can perform the urgent task in time.\n\nWhen the opponent&#x27;s army is divided, a direct operation or justified sacrifice can be stronger than a slow positional gain. Opening a line may bring your pieces into contact while the distant defenders remain spectators. Exchanges can deepen the problem when they remove the only active defender and leave the stranded units even less relevant.\n\nDraw a participation map. Mark which pieces can reach the critical sector within one or two moves and which are blocked or offside. Then compare attackers and defenders using only the pieces that can actually participate. A tactical operation is justified when the temporary effective superiority survives the opponent&#x27;s best attempt to reconnect the army.",
+    "keyIdeas": [
+      "Count pieces that can participate, not pieces merely present.",
+      "Crowding and distance can create an effective material advantage.",
+      "Open lines before the opponent reconnects its army.",
+      "Use exchanges to remove the only active defender when concrete."
+    ],
+    "activities": [
+      {
+        "id": "study-kotov-participation-map",
+        "concept": "Piece activity",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 115-119. For each example, count only pieces that can reach the critical sector within two moves.",
+        "successCheck": "Explain the effective local material advantage and whether direct play or an exchange exploits it.",
+        "playReminders": [
+          "Who can actually join the urgent battle?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-planning-linked-operations",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Build a single plan from linked operations; pp. 136-140; PDF 135-139",
+    "title": "Build a single plan from linked operations",
+    "tags": [
+      "planning",
+      "operations",
+      "assessment",
+      "flexibility"
+    ],
+    "note": "Kotov defines a plan as a chain of related operations derived from positional assessment. The plan is broader than a sequence of exact moves. One operation may prepare a favorable exchange, the next may occupy a file, and a later maneuver may attack the resulting weakness. Their unity comes from the shared objective.\n\nThis prevents both vagueness and rigidity. “Attack the queenside” is too broad unless it names a target, route or structural change. A forced move sequence is too narrow to survive the opponent&#x27;s alternatives. The player needs a goal, an order of operations and criteria for knowing when the position has changed enough to require reassessment.\n\nState the objective first. Break it into two or three operations and explain what each creates for the next. After the opponent replies, preserve the objective when it remains valid but update the move order. A coherent plan gives the pieces shared work without pretending that the opponent will cooperate.",
+    "keyIdeas": [
+      "Derive the plan from a concrete positional assessment.",
+      "Link several operations to one shared objective.",
+      "Distinguish a flexible plan from an exact move sequence.",
+      "Update the move order when the opponent changes the conditions."
+    ],
+    "activities": [
+      {
+        "id": "study-kotov-linked-operations",
+        "concept": "Schematic thinking",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 135-139. Turn one positional objective into two or three linked operations and state what each prepares.",
+        "successCheck": "The plan remains coherent under two plausible opponent replies without pretending to be a forced sequence.",
+        "playReminders": [
+          "What does this operation prepare next?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-planning-planlessness",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Reject planless natural moves; pp. 140-143; PDF 139-142",
+    "title": "Reject planless natural moves",
+    "tags": [
+      "planning",
+      "planlessness",
+      "candidate-moves",
+      "coordination"
+    ],
+    "note": "Natural-looking moves can fail because they do not serve a common task. Kotov&#x27;s examples of planlessness show pieces improving in isolation, one-move threats that the opponent can answer easily, and repeated changes of direction. The result is lost time and an army whose pieces interfere rather than cooperate.\n\nThe cure is not to invent a grand plan regardless of tactics. It is to connect each move to an evaluated feature: a target, weak square, entry line, favorable exchange or transformation of the center. If a move cannot explain what it prepares or prevents, it belongs low on the candidate list.\n\nAudit a proposed quiet move with three questions: which positional fact justifies it, which next operation does it enable, and what can the opponent accomplish meanwhile? Compare it with an improving move for the least useful piece. This turns general activity into purposeful coordination and exposes moves chosen only because they look familiar.",
+    "keyIdeas": [
+      "A natural move is not useful unless it serves a positional fact.",
+      "Avoid unrelated one-move threats and repeated changes of direction.",
+      "Connect every quiet move to the next operation.",
+      "Compare planless activity with improvement of the least useful piece."
+    ],
+    "activities": [
+      {
+        "id": "study-kotov-planlessness-audit",
+        "concept": "Schematic thinking",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 139-142. Audit each natural move by positional reason, next operation and opponent&#x27;s gain during the move.",
+        "successCheck": "Replace every unrelated move with one that serves the target or improves the least useful piece.",
+        "playReminders": [
+          "What future operation does this move enable?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-planning-flexibility",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Keep alternatives and abandon obsolete plans; pp. 143-147; PDF 142-146",
+    "title": "Keep alternatives and abandon obsolete plans",
+    "tags": [
+      "planning",
+      "flexibility",
+      "reassessment",
+      "prophylaxis"
+    ],
+    "note": "A sound plan can become wrong after one move changes the structure, removes the target or creates a tactical emergency. Kotov&#x27;s flexibility examples warn against treating prior effort as a reason to continue. The correct plan belongs to the current position, not to the position in which it was conceived.\n\nFlexibility begins before commitment. When several good plans exist, preserve options until the opponent reveals a weakness or commits its pieces. Knowledge, calculation and practical preference may decide between equally sound routes, but every choice must be tested against the opponent&#x27;s reply.\n\nSet a reassessment trigger for the plan: a pawn break, exchange, change in the center or loss of the target. When that event occurs, reevaluate before playing the next prepared move. Explain whether the original objective survives, needs a new route or should be abandoned. This keeps persistence from becoming stubbornness.",
+    "keyIdeas": [
+      "Reevaluate when the structure, target or tactical situation changes.",
+      "Do not continue a plan merely because moves were already invested in it.",
+      "Preserve alternatives before commitment when the position permits.",
+      "Use explicit events as triggers for reassessment."
+    ],
+    "activities": [
+      {
+        "id": "study-kotov-flexibility-triggers",
+        "concept": "Schematic thinking",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 142-146. For each example, mark the pawn break, exchange or target change that should trigger reassessment.",
+        "successCheck": "State whether to preserve, reroute or abandon the plan after every trigger.",
+        "playReminders": [
+          "What changed enough to invalidate my plan?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-planning-central-structure",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Let the center define the planning framework; pp. 147-155; PDF 146-154",
+    "title": "Let the center define the planning framework",
+    "tags": [
+      "planning",
+      "center",
+      "pawn-breaks",
+      "structure"
+    ],
+    "note": "The center supplies a practical framework for planning. In a closed center, wing play becomes more feasible but a central counterstrike must still be monitored. In an open center, piece activity and rapid contact dominate. A mobile center may advance or become a blockade target; a fixed center directs maneuvering around stable squares; unresolved central tension makes the decision to maintain or release it part of the plan.\n\nThe label does not choose a move automatically. It narrows the useful questions: where can the pieces travel, which pawn break changes the position and which side benefits from the transformation? The answer must include the opponent&#x27;s resources and the timing of the break.\n\nClassify the center, propose a plan for both sides and name the transformation that would invalidate each plan. Exercises 19-21 may be used for unanswered planning practice, but the chapter contains no solutions. Do not treat a guessed continuation as source-verified until the later solutions section is reviewed.",
+    "keyIdeas": [
+      "Classify the center before selecting the plan.",
+      "Connect each center type to piece routes and pawn breaks.",
+      "State the opponent&#x27;s plan and the transformation that changes the evaluation.",
+      "Keep exercises 19-21 unanswered until their solutions are reviewed."
+    ],
+    "activities": [
+      {
+        "id": "study-kotov-five-centers",
+        "concept": "Center control",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Center control",
+          "Pawn breaks",
+          "Position evaluation"
+        ],
+        "instructions": "Read PDF 146-154. Classify each center type, give both sides a plan and name the transformation that invalidates it. Use exercises 19-21 as unanswered planning prompts.",
+        "successCheck": "Produce ten plans, two per center type, without claiming source answers for exercises 19-21.",
+        "playReminders": [
+          "What kind of center is this, and how can it change?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nimzovich-development",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
@@ -9182,6 +9421,329 @@
         "successCheck": "For all four diagrams, identify the blocked contact and the maneuver that restores effective mobility.",
         "playReminders": [
           "Where is the corridor that reconnects my pieces?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-overprotection-strong-points",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Overprotect strong points, not every weakness; pp. 162-167; PDF 184-189",
+    "title": "Overprotect strong points, not every weakness",
+    "tags": [
+      "overprotection",
+      "prophylaxis",
+      "restriction",
+      "piece-activity"
+    ],
+    "note": "Nimzowitsch distinguishes a strategically important strong point from an ordinary weakness. A central square, outpost, blockade point or pawn-chain anchor can organize the whole army. Giving that point more defenders than it immediately needs is useful when the supporting pieces also gain scope, contact and future routes from their relationship to it.\n\nThe method combines external and internal prevention. First ask whether the opponent&#x27;s freeing move is genuinely useful; stopping a harmless operation only wastes time. Then improve the contact between your pieces and the key point so that a later challenge can be met without losing coordination. The defenders should remain active rather than forming a passive pile.\n\nDo not overprotect every attacked pawn. A merely weak point can absorb pieces and make the army clumsy. The exception is a weak base that supports a truly active strong point elsewhere. For study, name the strong point, the opponent&#x27;s freeing operation, and the useful job each additional defender gains.",
+    "keyIdeas": [
+      "Overprotect a point that organizes active play.",
+      "Test whether the opponent&#x27;s freeing move is actually useful.",
+      "Every added defender should gain a second useful job.",
+      "Do not turn an ordinary weakness into a drain on the whole army."
+    ],
+    "activities": [
+      {
+        "id": "study-overprotection-strong-point-map",
+        "concept": "Prophylaxis",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Prophylaxis",
+          "Piece activity"
+        ],
+        "instructions": "Read My System PDF 184-189, diagrams 124-130. Name the strong point, the opponent&#x27;s useful freeing move and the second job of every added defender.",
+        "successCheck": "For all seven boards, distinguish active overprotection from passive guarding.",
+        "playReminders": [
+          "What active work does each extra defender gain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-overprotection-centralization",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Meet wing play with central control; pp. 176-181; PDF 198-203",
+    "title": "Meet wing play with central control",
+    "tags": [
+      "overprotection",
+      "centralization",
+      "counterplay",
+      "prophylaxis"
+    ],
+    "note": "Centralized pieces can answer events on either wing, which makes centralization a practical form of overprotection. In the reviewed examples, the key central point keeps the pieces connected while the opponent begins flank play. Abandoning that point to chase a wing attack can release the center and make the apparent defense too slow.\n\nThe correct response is not always to copy the opponent on the same wing. Strengthening the center, opening a central file or maintaining control of the key square may create the more urgent threat. Because the pieces remain centralized, they can transfer when the wing action becomes concrete.\n\nBefore responding to a flank move, identify what changed in the center. Ask which central break or entry line becomes available if a key defender leaves. A central answer is justified when it reaches the opponent before the wing attack; otherwise the flank danger still requires direct attention. The lesson joins prophylaxis to activity: preserve the point that lets the whole army react.",
+    "keyIdeas": [
+      "Centralized pieces retain access to both wings.",
+      "A wing threat may be answered by a faster central operation.",
+      "Do not abandon the key central point without calculating the release.",
+      "Compare the arrival time of the central answer and the flank attack."
+    ],
+    "activities": [
+      {
+        "id": "study-overprotection-central-reply",
+        "concept": "Center control",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 198-203 below the section heading, diagrams 140-144. Compare the opponent&#x27;s wing operation with the central answer by arrival time.",
+        "successCheck": "Choose the correct theater in all five positions and identify the central point that must not be abandoned.",
+        "playReminders": [
+          "Can the center answer the wing faster?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-overprotection-active-defenders",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Make every overprotector active and reusable; pp. 238-244; PDF 260-266",
+    "title": "Make every overprotector active and reusable",
+    "tags": [
+      "overprotection",
+      "piece-activity",
+      "improving-pieces",
+      "restriction"
+    ],
+    "note": "The later treatment of overprotection turns the principle into a piece-placement test. A useful defender of a strong point is not tied forever. Its contact with the point gives it stability, coordination and possible routes to new work. Several such pieces can exchange roles while the strategic anchor remains secure.\n\nThis explains why overprotection should generate activity. If one defender moves to attack, another still holds the point; if the opponent challenges the point, the supporting pieces can recapture or switch tasks without losing the position&#x27;s structure. A weak piece can often be improved by routing it through the protected complex.\n\nThe practical audit is piece by piece. For each overprotector, write its present duty, secondary target and next route. If a piece has no useful future and merely adds another guard, reconsider the setup. The goal is a reserve of coordinated activity, not a numerical contest around one square. Stop before Chapter 5 section 2, which belongs to the later weak-pawn unit.",
+    "keyIdeas": [
+      "Use a strong point as an anchor for mobile defenders.",
+      "Give every defender a present duty and a future route.",
+      "Rotate pieces without surrendering the strategic point.",
+      "Reject overprotection that produces only passivity."
+    ],
+    "activities": [
+      {
+        "id": "study-overprotection-active-defender-audit",
+        "concept": "Improving the worst piece",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 260-266 before section 2. For each overprotector, record its current duty, secondary target and next route.",
+        "successCheck": "Reject every purely passive defender and give the remaining pieces a reusable role.",
+        "playReminders": [
+          "Can this defender rotate without surrendering the anchor?"
+        ]
+      },
+      {
+        "id": "study-nimzovich-s16-method",
+        "concept": "Improving the worst piece",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity",
+          "Prophylaxis"
+        ],
+        "instructions": "Compare one overprotection position with one pivot position and the final restricted-terrain example. For each, state anchor, target, route, move order and opposing release.",
+        "successCheck": "Build three complete maneuver plans in which every improving move has a purpose and arrival-time test.",
+        "playReminders": [
+          "Anchor, target, route, timing."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-maneuvering-purpose",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Give every maneuver a definite target; pp. 247; PDF 269-269",
+    "title": "Give every maneuver a definite target",
+    "tags": [
+      "maneuvering",
+      "planning",
+      "targets",
+      "schematic-thinking"
+    ],
+    "note": "A maneuver is a planned sequence against a definite weakness, not a collection of attractive improving moves. Nimzowitsch begins by requiring a purpose: force a defender from its best post, make the opponent obstruct its own pieces, create an entry route or induce a second weakness.\n\nThis definition prevents aimless shuffling. Each move should serve the same objective while respecting tactical threats and the opponent&#x27;s counterplay. The sequence may look quiet because the weakness cannot be attacked directly, but the moves are connected by the change they seek in the defender&#x27;s position.\n\nBefore starting, state the target and the concession you expect. Then describe why the first move makes the next one stronger. If the opponent can ignore the sequence without worsening its position, the maneuver has no forcing logic. Reassess whenever the weakness disappears or the defender obtains a freeing operation.",
+    "keyIdeas": [
+      "Name the weakness before planning the route.",
+      "Connect every move to one strategic concession.",
+      "Quiet maneuvering still needs forcing logic.",
+      "Reassess when the target or defensive resources change."
+    ],
+    "activities": [
+      {
+        "id": "study-maneuver-target-statement",
+        "concept": "Schematic thinking",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Candidate moves"
+        ],
+        "instructions": "Read PDF 269. Write the target, intended concession and linked purpose of a three-move maneuver.",
+        "successCheck": "Every move in the sequence must serve the same stated objective.",
+        "playReminders": [
+          "What concession is this maneuver designed to force?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-maneuvering-pivot",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Build a pivot and rotate the attack; pp. 248-252; PDF 270-274",
+    "title": "Build a pivot and rotate the attack",
+    "tags": [
+      "maneuvering",
+      "pivot",
+      "piece-activity",
+      "coordination"
+    ],
+    "note": "The terrain of a maneuver consists of the squares and lines through which the attacking pieces can travel. Within that terrain, a pivot is the key square or route that several pieces can occupy in turn. Rotation through the pivot changes the threat while preserving coordination and pressure on the target.\n\nThe pivot is valuable because it makes the attacker less predictable. A knight may occupy it first, a rook may use the opened line later, and a queen may finally enter through the same complex. The defender must keep reorganizing, which can create crowding or abandon another weakness.\n\nMap the route before moving. Mark the pivot, each piece that can use it and the duty left behind when that piece transfers. Reject a route that blocks another attacker or leaves the original target safe. A successful pivot improves the worst piece while keeping the rest of the army connected to the same plan.",
+    "keyIdeas": [
+      "Identify the square or line through which pieces can rotate.",
+      "Use different pieces on the pivot to vary the threat.",
+      "Account for the duty each transferring piece leaves behind.",
+      "Preserve coordination while improving the least useful piece."
+    ],
+    "activities": [
+      {
+        "id": "study-maneuver-pivot-rotation",
+        "concept": "Improving the worst piece",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 270-274, diagrams 192-195. Mark the pivot and order the pieces that can rotate through it without blocking one another.",
+        "successCheck": "Produce a legal route for each piece and state the duty it leaves behind.",
+        "playReminders": [
+          "Which square lets my pieces change jobs?"
+        ]
+      },
+      {
+        "id": "study-nimzovich-s16-method",
+        "concept": "Improving the worst piece",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity",
+          "Prophylaxis"
+        ],
+        "instructions": "Compare one overprotection position with one pivot position and the final restricted-terrain example. For each, state anchor, target, route, move order and opposing release.",
+        "successCheck": "Build three complete maneuver plans in which every improving move has a purpose and arrival-time test.",
+        "playReminders": [
+          "Anchor, target, route, timing."
+        ]
+      },
+      {
+        "id": "study-s16-cross-book-plan",
+        "concept": "Improving the worst piece",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity",
+          "Schematic thinking"
+        ],
+        "instructions": "Compare one position from each book. For each, state sector, target, worst piece, route or pivot, opponent&#x27;s release and reassessment trigger.",
+        "successCheck": "Build three complete plans where every piece improvement serves the target and passes the timing test.",
+        "playReminders": [
+          "Sector, target, route, timing, trigger."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-maneuvering-latent-weaknesses",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Expose the second weakness; pp. 252-256; PDF 274-278",
+    "title": "Expose the second weakness",
+    "tags": [
+      "maneuvering",
+      "weaknesses",
+      "two-weaknesses",
+      "conversion"
+    ],
+    "note": "A latent weakness is not yet an attackable target. It becomes weak after the defender changes its pawn structure, piece placement or king position to meet pressure elsewhere. Nimzowitsch&#x27;s examples use one visible target to provoke a concession on the other wing, then transfer the pieces to the newly exposed point.\n\nThe method depends on patience and switching speed. If the attacker commits every piece to the first target, the second weakness may appear without any force able to reach it. The pivot and central routes must remain available. The defender, meanwhile, tries to meet the first threat without fixing another pawn or abandoning an entry square.\n\nFor each position, identify the visible weakness, the defensive move it invites and the weakness that move would uncover. Then plan the transfer before forcing the concession. This is the practical two-weakness method: create or reveal the second target and keep enough flexibility to attack it.",
+    "keyIdeas": [
+      "Pressure one target to induce a concession elsewhere.",
+      "Predict which defensive move will expose the latent weakness.",
+      "Keep transfer routes open before forcing the concession.",
+      "Switch targets faster than the defender can reorganize."
+    ],
+    "activities": [
+      {
+        "id": "study-maneuver-latent-weakness",
+        "concept": "Converting advantages",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 274-278, diagrams 196-200. Predict the defensive concession at the first target and the weakness it exposes elsewhere.",
+        "successCheck": "Identify both targets and prepare the transfer before forcing the concession in all five examples.",
+        "playReminders": [
+          "Where will the second weakness appear?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-maneuvering-difficult-conditions",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Maneuver when your own center restricts you; pp. 256-258; PDF 278-280",
+    "title": "Maneuver when your own center restricts you",
+    "tags": [
+      "maneuvering",
+      "restricted-terrain",
+      "piece-activity",
+      "planning"
+    ],
+    "note": "Sometimes the attacker&#x27;s own center blocks the ideal routes. Nimzowitsch&#x27;s final section shows that maneuvering can still work when only a few files or squares remain available, provided the attacker has several targets and uses the limited routes precisely.\n\nThe restriction changes the plan&#x27;s geometry. Pieces may need to switch in a fixed order so that one clears the route for another. A move that looks like improvement can be harmful if it occupies the only transfer square. The attacker must also prevent the defender from using the delay to escape or create counterplay.\n\nTreat the narrow route as a scheduling problem. List the targets, the available transfer squares and the order in which the pieces must pass. Compare the time required with the defender&#x27;s freeing plan. A small terrain can be sufficient when the targets vary and the pieces cooperate; a broad but uncoordinated army may accomplish less.",
+    "keyIdeas": [
+      "Treat limited routes as a move-order problem.",
+      "Do not let one improving piece block the only transfer square.",
+      "Use multiple targets to compensate for restricted terrain.",
+      "Compare the maneuver&#x27;s schedule with the defender&#x27;s freeing plan."
+    ],
+    "activities": [
+      {
+        "id": "study-maneuver-narrow-route",
+        "concept": "Piece activity",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 278-280. List the limited transfer squares and schedule the pieces through them against the defender&#x27;s freeing plan.",
+        "successCheck": "Give an order that avoids self-blocking and reaches a real target in time.",
+        "playReminders": [
+          "Am I blocking my only route?"
+        ]
+      },
+      {
+        "id": "study-nimzovich-s16-method",
+        "concept": "Improving the worst piece",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity",
+          "Prophylaxis"
+        ],
+        "instructions": "Compare one overprotection position with one pivot position and the final restricted-terrain example. For each, state anchor, target, route, move order and opposing release.",
+        "successCheck": "Build three complete maneuver plans in which every improving move has a purpose and arrival-time test.",
+        "playReminders": [
+          "Anchor, target, route, timing."
         ]
       }
     ]
@@ -11883,6 +12445,170 @@
         "successCheck": "Show how an initiative can attack a pawn or square without becoming a king hunt.",
         "playReminders": [
           "Should I attack, improve or prevent?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-side-of-board-imbalance-map",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Map the imbalances before choosing a side; pp. 277-280; PDF 281-284",
+    "title": "Map the imbalances before choosing a side",
+    "tags": [
+      "planning",
+      "imbalances",
+      "target-selection",
+      "center"
+    ],
+    "note": "Choosing a side of the board begins with the position, not personal preference. Silman asks the player to compare the center, kingside and queenside through the existing imbalances: space, pawn structure, weak squares, open lines, material and piece placement. The best sector is the one where those features provide a target and useful routes.\n\nThe center matters because it controls how quickly pieces can transfer. A fluid center can make a wing commitment unsafe, while a closed center can support play on the flank with more space or better targets. The sector choice must also include the opponent&#x27;s plan; an attractive attack may be too slow if the other side has a faster break.\n\nBefore generating moves, make a three-column map for center, kingside and queenside. Record the target, available pawn break, useful piece route and opponent&#x27;s counterplay in each. Select the sector whose advantages cooperate. This keeps the plan anchored in the board rather than in a favorite attacking pattern.",
+    "keyIdeas": [
+      "Compare center, kingside and queenside before choosing a plan.",
+      "Use imbalances to identify the sector with a real target and routes.",
+      "Let the center determine how safely pieces can commit to a wing.",
+      "Include the opponent&#x27;s fastest operation in the sector choice."
+    ],
+    "activities": [
+      {
+        "id": "study-sector-three-column-map",
+        "concept": "Position evaluation",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read Silman PDF 281-284. Build center, kingside and queenside columns with target, break, route and opposing counterplay.",
+        "successCheck": "Choose one sector and reject the other two with concrete positional reasons.",
+        "playReminders": [
+          "Which sector do the imbalances support?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-side-of-board-active-plan",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Commit the pieces to one active plan; pp. 281-287; PDF 285-291",
+    "title": "Commit the pieces to one active plan",
+    "tags": [
+      "planning",
+      "piece-activity",
+      "threat-recognition",
+      "commitment"
+    ],
+    "note": "Once the correct sector is identified, the pieces should work toward one coherent objective. Silman&#x27;s examples contrast purposeful concentration with scattered moves that address unrelated ideas. A player who shifts from one wing to another without a structural reason spends tempi while the opponent completes a clearer plan.\n\nCommitment does not mean ignoring tactics. It means that each developing, improving or restricting move supports the same target or pawn break. A real opposing threat may interrupt the sequence, but a distracting move that creates no concrete consequence should not pull the army away from its task.\n\nWrite the plan in one sentence, then assign every piece a role: attacker, supporter, restrainer or defender. If a piece has no connection to the chosen sector, find its route or reconsider the plan. After each move, recheck the opponent&#x27;s forcing reply. The exercise is successful when the pieces cooperate without allowing the opponent&#x27;s faster operation.",
+    "keyIdeas": [
+      "Express the plan as one concrete objective.",
+      "Give every piece a role connected to that objective.",
+      "Do not abandon the plan for a nonforcing distraction.",
+      "Recheck tactics and the opponent&#x27;s fastest operation after every step."
+    ],
+    "activities": [
+      {
+        "id": "study-sector-one-active-plan",
+        "concept": "Improving the worst piece",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 285-291, diagrams 108-110. State one objective and assign every piece a role and route toward it.",
+        "successCheck": "All pieces support the same plan, and every deviation is justified by a real threat.",
+        "playReminders": [
+          "What job does each piece have in this plan?"
+        ]
+      },
+      {
+        "id": "study-s16-cross-book-plan",
+        "concept": "Improving the worst piece",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity",
+          "Schematic thinking"
+        ],
+        "instructions": "Compare one position from each book. For each, state sector, target, worst piece, route or pivot, opponent&#x27;s release and reassessment trigger.",
+        "successCheck": "Build three complete plans where every piece improvement serves the target and passes the timing test.",
+        "playReminders": [
+          "Sector, target, route, timing, trigger."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-side-of-board-quiet-position",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Improve patiently in quiet positions; pp. 288-294; PDF 292-298",
+    "title": "Improve patiently in quiet positions",
+    "tags": [
+      "planning",
+      "improving-pieces",
+      "prophylaxis",
+      "quiet-positions"
+    ],
+    "note": "A quiet position still demands a plan. When no forcing attack exists, Silman directs attention to the least useful piece, the opponent&#x27;s best square and the pawn break that would change the structure. The correct side of the board may be selected by a small improvement that prepares future play rather than an immediate threat.\n\nThe student examples show how imagined danger and habitual attack can distort evaluation. A move that looks aggressive may place a piece farther from the real target, while a modest central or queenside improvement connects the army and limits the opponent. Patience is useful only when counterplay remains controlled.\n\nFor each candidate, state the piece&#x27;s current job, destination and travel time. Then name what the opponent can accomplish during that route. Prefer the move that improves coordination and preserves flexibility. If the structure changes, repeat the sector comparison instead of continuing a plan whose reason has disappeared.",
+    "keyIdeas": [
+      "Quiet positions require a target and route even without forcing play.",
+      "Improve the least useful piece toward the sector supported by the structure.",
+      "Reject aggression that moves a piece away from the real target.",
+      "Reassess the sector after a structural change."
+    ],
+    "activities": [
+      {
+        "id": "study-sector-quiet-improvement",
+        "concept": "Improving the worst piece",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 292-298. In both quiet positions, identify the worst piece, destination, travel time and opponent&#x27;s operation during the route.",
+        "successCheck": "Choose an improving move that preserves flexibility and does not answer an imaginary threat.",
+        "playReminders": [
+          "Where can my least useful piece become relevant?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-side-of-board-open-attack-speed",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Use speed when an open position justifies attack; pp. 295-297; PDF 299-301",
+    "title": "Use speed when an open position justifies attack",
+    "tags": [
+      "planning",
+      "attack",
+      "tempo",
+      "open-position"
+    ],
+    "note": "Open positions shorten the time available for a plan. When lines already point toward the king and the pieces can join quickly, the correct sector may be the kingside even without a long maneuver. Silman&#x27;s final example emphasizes that a justified attack can lose its force if the attacker inserts slow moves and allows counterplay or consolidation.\n\nSpeed alone is not proof. Count the pieces that can reach the target, the forcing moves available and the defender&#x27;s fastest reply. A pawn storm or sacrifice is sound only when the open lines and active pieces make the threats concrete. If the attack cannot arrive in time, use the open position to improve activity or convert elsewhere.\n\nBuild a move-order comparison: immediate forcing play, one preparatory move and a quiet improvement. Calculate the opponent&#x27;s best response to each. Choose the line whose urgency matches the position. The supplied scan ends this chapter on visible printed page 297; printed page 298 is absent.",
+    "keyIdeas": [
+      "Open lines make arrival time central to sector choice.",
+      "Count attackers, forcing moves and the defender&#x27;s fastest reply.",
+      "Do not spend the attacking window on unrelated improvements.",
+      "Use a move-order comparison before committing material."
+    ],
+    "activities": [
+      {
+        "id": "study-sector-open-speed",
+        "concept": "Attacking prerequisites",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Piece activity"
+        ],
+        "instructions": "Read PDF 299-301, diagram 113. Compare immediate forcing play, one preparatory move and one quiet improvement.",
+        "successCheck": "Select the move order that preserves the open-position attacking window against best defense.",
+        "playReminders": [
+          "Does the attack require action now?"
         ]
       }
     ]
