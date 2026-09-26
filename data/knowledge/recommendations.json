@@ -2200,6 +2200,84 @@
       "crossrefIds": [
         "pawn-chains--nimzovich-pawn-chain-transfer-attack"
       ]
+    },
+    {
+      "id": "study-s33-01",
+      "crossrefIds": [
+        "pins--nimzovich-pin-as-strategic-plan"
+      ]
+    },
+    {
+      "id": "study-s33-02",
+      "crossrefIds": [
+        "pins--nimzovich-whole-half-pin-and-exploitation"
+      ]
+    },
+    {
+      "id": "study-s33-03",
+      "crossrefIds": [
+        "pins--nimzovich-exchange-on-pinning-square"
+      ]
+    },
+    {
+      "id": "study-s33-04",
+      "crossrefIds": [
+        "pins--nimzovich-pin-discovered-check-bridge"
+      ]
+    },
+    {
+      "id": "study-s34-01",
+      "crossrefIds": [
+        "discovered-attacks--nunn-discovered-double-check-principles"
+      ]
+    },
+    {
+      "id": "study-s34-02",
+      "crossrefIds": [
+        "discovered-attacks--nunn-discovered-double-check-drills-643-672"
+      ]
+    },
+    {
+      "id": "study-s34-03",
+      "crossrefIds": [
+        "discovered-attacks--nunn-discovered-double-check-drills-673-702"
+      ]
+    },
+    {
+      "id": "study-s34-04",
+      "crossrefIds": [
+        "discovered-attacks--nunn-discovered-double-check-drills-703-732"
+      ]
+    },
+    {
+      "id": "study-s34-05",
+      "crossrefIds": [
+        "discovered-attacks--nimzowitsch-discovered-check-three-actors"
+      ]
+    },
+    {
+      "id": "study-s34-06",
+      "crossrefIds": [
+        "see-saw--nimzowitsch-see-saw-mechanism"
+      ]
+    },
+    {
+      "id": "study-s34-07",
+      "crossrefIds": [
+        "see-saw--nimzowitsch-see-saw-torre-lasker"
+      ]
+    },
+    {
+      "id": "study-s34-08",
+      "crossrefIds": [
+        "double-check--nimzowitsch-double-check-only-flight"
+      ]
+    },
+    {
+      "id": "study-s34-09",
+      "crossrefIds": [
+        "double-check--nimzowitsch-double-check-driving-examples"
+      ]
     }
   ]
 }

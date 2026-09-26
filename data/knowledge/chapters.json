@@ -4706,6 +4706,175 @@
         "section": "Pawn Chain section 9 from the latter part of PDF 174 through chapter end, diagrams 122-123",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "nimzovich-pin-as-strategic-plan",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Treat the pin as a strategic plan; pp. 108-109; PDF 131-132",
+      "title": "Treat the pin as a strategic plan",
+      "locator": {
+        "pdfPageStart": 131,
+        "pdfPageEnd": 132,
+        "printedPages": "108-109",
+        "section": "Chapter 7 section 1, ending before section 2 on PDF 132",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-whole-half-pin-and-exploitation",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Measure what the pinned piece can still do; pp. 109-112; PDF 132-135",
+      "title": "Measure what the pinned piece can still do",
+      "locator": {
+        "pdfPageStart": 132,
+        "pdfPageEnd": 135,
+        "printedPages": "109-112",
+        "section": "Chapter 7 section 2, diagrams 87-90, ending before section 3",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-exchange-on-pinning-square",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Exchange on the pinning square with a purpose; pp. 112-116; PDF 135-139",
+      "title": "Exchange on the pinning square with a purpose",
+      "locator": {
+        "pdfPageStart": 135,
+        "pdfPageEnd": 139,
+        "printedPages": "112-116",
+        "section": "Chapter 7 section 3, diagrams 91-94, ending before The Problem of Unpinning",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-pin-discovered-check-bridge",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Use discovered check as the reverse of a pin; pp. 125-126; PDF 148-149",
+      "title": "Use discovered check as the reverse of a pin",
+      "locator": {
+        "pdfPageStart": 148,
+        "pdfPageEnd": 149,
+        "printedPages": "125-126",
+        "section": "Chapter 8 section 1, diagrams 101-102, ending before The See-Saw on PDF 150",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-discovered-double-check-principles",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Separate discovered check from double check; pp. 192; PDF 193-193",
+      "title": "Separate discovered check from double check",
+      "locator": {
+        "pdfPageStart": 193,
+        "pdfPageEnd": 193,
+        "printedPages": "192",
+        "section": "Chapter 13 introduction and Rachela-Sokol worked diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-discovered-double-check-drills-643-672",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Train discovered and double checks: exercises 643-672; pp. 193-209; PDF 194-210",
+      "title": "Train discovered and double checks: exercises 643-672",
+      "locator": {
+        "pdfPageStart": 194,
+        "pdfPageEnd": 210,
+        "printedPages": "193-209",
+        "section": "Prompts 643-672 on PDFs 194-198 with their complete solutions across PDFs 209-210",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-discovered-double-check-drills-673-702",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Extend discovered-check calculation: exercises 673-702; pp. 198-212; PDF 199-213",
+      "title": "Extend discovered-check calculation: exercises 673-702",
+      "locator": {
+        "pdfPageStart": 199,
+        "pdfPageEnd": 213,
+        "printedPages": "198-212",
+        "section": "Prompts 673-702 on PDFs 199-203 with their complete solutions across PDFs 210-213",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-discovered-double-check-drills-703-732",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Consolidate discovered-check mating calculation: exercises 703-732; pp. 203-216; PDF 204-217",
+      "title": "Consolidate discovered-check mating calculation: exercises 703-732",
+      "locator": {
+        "pdfPageStart": 204,
+        "pdfPageEnd": 217,
+        "printedPages": "203-216",
+        "section": "Prompts 703-732 on PDFs 204-208, solutions across PDFs 213-215 and complete score chart on PDFs 216-217",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzowitsch-discovered-check-three-actors",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Turn pin geometry into discovered-check mobility; pp. 125-126; PDF 148-149",
+      "title": "Turn pin geometry into discovered-check mobility",
+      "locator": {
+        "pdfPageStart": 148,
+        "pdfPageEnd": 149,
+        "printedPages": "125-126",
+        "section": "Chapter 8 section 1, diagrams 101-102, ending before The See-Saw",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzowitsch-see-saw-mechanism",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Build the repeating discovered-check mechanism; pp. 127-128; PDF 150-151",
+      "title": "Build the repeating discovered-check mechanism",
+      "locator": {
+        "pdfPageStart": 150,
+        "pdfPageEnd": 151,
+        "printedPages": "127-128",
+        "section": "Chapter 8 section 2 through diagram 105, diagrams 103-105",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzowitsch-see-saw-torre-lasker",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Convert a see-saw in the Torre-Lasker example; pp. 128-129; PDF 151-152",
+      "title": "Convert a see-saw in the Torre-Lasker example",
+      "locator": {
+        "pdfPageStart": 151,
+        "pdfPageEnd": 152,
+        "printedPages": "128-129",
+        "section": "Chapter 8 section 2, diagram 106 and complete Torre-Lasker example, ending before section 3 midway through PDF 152",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzowitsch-double-check-only-flight",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Use double check to remove every defense except king flight; pp. 129; PDF 152-152",
+      "title": "Use double check to remove every defense except king flight",
+      "locator": {
+        "pdfPageStart": 152,
+        "pdfPageEnd": 152,
+        "printedPages": "129",
+        "section": "Chapter 8 section 3 opening and diagram 107 in the lower half of PDF 152",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzowitsch-double-check-driving-examples",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Drive the king with double check; pp. 130-131; PDF 153-154",
+      "title": "Drive the king with double check",
+      "locator": {
+        "pdfPageStart": 153,
+        "pdfPageEnd": 154,
+        "printedPages": "130-131",
+        "section": "Chapter 8 section 3, diagram 108 and Bardeleben-Nisnievich, Reti-Tartakower and Nimzowitsch-Rychhoff examples through chapter end",
+        "ebookLocation": null
+      }
     }
   ]
 }

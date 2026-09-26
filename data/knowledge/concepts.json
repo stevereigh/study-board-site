@@ -240,6 +240,10 @@
     {
       "id": "seventh-rank-rooks",
       "name": "Rooks on the seventh and eighth ranks"
+    },
+    {
+      "id": "see-saw",
+      "name": "See-saw"
     }
   ]
 }

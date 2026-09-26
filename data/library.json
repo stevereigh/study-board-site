@@ -10492,6 +10492,330 @@
     ]
   },
   {
+    "chapterId": "nimzovich-pin-as-strategic-plan",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Treat the pin as a strategic plan; pp. 108-109; PDF 131-132",
+    "title": "Treat the pin as a strategic plan",
+    "tags": [
+      "pins",
+      "strategy",
+      "restriction"
+    ],
+    "note": "A pin can organize a plan even when it does not win material immediately. Nimzowitsch treats the relationship between the pinning piece, restricted piece and screened target as something that may disappear and return as the position changes. The useful question is what the restriction permits the attacker to improve while the defender remains tied down.\n\nDo not force a tactical finish merely because a pin exists. Identify the target behind the restricted piece, the defender&#x27;s cheapest unpinning method and the improving move that preserves the pressure. A strategic pin is valuable when it limits coordination long enough to add attackers, improve a piece or create a second threat.",
+    "keyIdeas": [
+      "Name all three actors in the pin.",
+      "A pin may disappear and return during a longer plan.",
+      "Use the restriction to improve pieces or add pressure.",
+      "Test the defender&#x27;s cheapest unpinning method."
+    ],
+    "activities": [
+      {
+        "id": "study-s33-01",
+        "concept": "Pins",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins",
+          "Candidate moves"
+        ],
+        "instructions": "Read My System, PDF 131-132. For each position, label the pinning piece, restricted piece, screened target, legal line moves and best unpinning resource before calculating the source continuation.",
+        "successCheck": "Explain the geometry, useful preparation and strongest defense in treat the pin as a strategic plan.",
+        "playReminders": [
+          "Name the three actors and the defender&#x27;s cheapest escape."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-whole-half-pin-and-exploitation",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Measure what the pinned piece can still do; pp. 109-112; PDF 132-135",
+    "title": "Measure what the pinned piece can still do",
+    "tags": [
+      "pins",
+      "removing-the-defender",
+      "piece-activity"
+    ],
+    "note": "Nimzowitsch distinguishes a wholly pinned piece, which cannot move, from a half-pinned piece that retains movement along the pinning line. The terminology is historical; the practical point is to enumerate the piece&#x27;s legal and useful moves instead of treating every pin as complete immobility.\n\nA pinned defender may protect a square only nominally. Exploitation requires counting attackers, removing supporting defenders and preventing the restricted piece from regaining mobility. Pawn attacks are especially useful when the target cannot retreat. Before committing, calculate captures of the pinning piece, blocks, moves along the line and counterattacks against the rear target.",
+    "keyIdeas": [
+      "Distinguish complete immobility from movement along the pin line.",
+      "A pinned defender may protect a square only nominally.",
+      "Thin the defenders before attacking the restricted piece.",
+      "Calculate blocks, captures and line moves before exploiting the pin."
+    ],
+    "activities": [
+      {
+        "id": "study-s33-02",
+        "concept": "Pins",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins",
+          "Candidate moves"
+        ],
+        "instructions": "Read My System, PDF 132-135. For each position, label the pinning piece, restricted piece, screened target, legal line moves and best unpinning resource before calculating the source continuation.",
+        "successCheck": "Explain the geometry, useful preparation and strongest defense in measure what the pinned piece can still do.",
+        "playReminders": [
+          "Name the three actors and the defender&#x27;s cheapest escape."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-exchange-on-pinning-square",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Exchange on the pinning square with a purpose; pp. 112-116; PDF 135-139",
+    "title": "Exchange on the pinning square with a purpose",
+    "tags": [
+      "pins",
+      "favorable-exchanges",
+      "tempo"
+    ],
+    "note": "An exchange on the pinning square is useful when it preserves or strengthens the restriction. One recurring purpose is to replace a partly mobile front piece with a fully pinned recapturing piece. Another is to gain a tempo so the defender cannot remove the pin before pressure arrives.\n\nJudge the position after the recapture. Name which piece becomes pinned, whether the number of attackers and defenders changes, and what the gained tempo accomplishes. An automatic exchange can release the position or surrender the pinning piece; the exchange works only when the resulting geometry improves the attack.",
+    "keyIdeas": [
+      "Exchange to improve the quality of the pin.",
+      "Use the recapture to replace a mobile target with a restricted one.",
+      "Account for the tempo created by the exchange.",
+      "Evaluate the geometry after the recapture, not before it."
+    ],
+    "activities": [
+      {
+        "id": "study-s33-03",
+        "concept": "Pins",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins",
+          "Candidate moves"
+        ],
+        "instructions": "Read My System, PDF 135-139. For each position, label the pinning piece, restricted piece, screened target, legal line moves and best unpinning resource before calculating the source continuation.",
+        "successCheck": "Explain the geometry, useful preparation and strongest defense in exchange on the pinning square with a purpose.",
+        "playReminders": [
+          "Name the three actors and the defender&#x27;s cheapest escape."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-pin-discovered-check-bridge",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Use discovered check as the reverse of a pin; pp. 125-126; PDF 148-149",
+    "title": "Use discovered check as the reverse of a pin",
+    "tags": [
+      "pins",
+      "discovered-attacks",
+      "forcing-moves"
+    ],
+    "note": "The pin and discovered check share a three-piece line. In the pin, movement is restricted because it exposes a target. In discovered check, the masking piece gains freedom because moving it reveals an attack on the king and therefore supplies a forcing tempo.\n\nUse that tempo deliberately. The moving piece may capture, attack a second target or improve its square while the opponent answers the check. Before choosing the discovery, identify the uncovered attacker, verify the checking line and calculate every legal king response. The resemblance to a pin helps generate candidates but does not replace calculation.",
+    "keyIdeas": [
+      "Pins and discoveries use the same three-piece line in opposite ways.",
+      "The discovered check gives the masking piece a forcing tempo.",
+      "Give the moving piece a concrete second job.",
+      "Verify the checking line and legal king responses."
+    ],
+    "activities": [
+      {
+        "id": "study-s33-04",
+        "concept": "Pins",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins",
+          "Candidate moves"
+        ],
+        "instructions": "Read My System, PDF 148-149. For each position, label the pinning piece, restricted piece, screened target, legal line moves and best unpinning resource before calculating the source continuation.",
+        "successCheck": "Explain the geometry, useful preparation and strongest defense in use discovered check as the reverse of a pin.",
+        "playReminders": [
+          "Name the three actors and the defender&#x27;s cheapest escape."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzowitsch-discovered-check-three-actors",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Turn pin geometry into discovered-check mobility; pp. 125-126; PDF 148-149",
+    "title": "Turn pin geometry into discovered-check mobility",
+    "tags": [
+      "discovered-attacks",
+      "pins",
+      "tempo"
+    ],
+    "note": "Nimzowitsch presents discovered check as a reversed pin. The same line has a rear attacker, masking piece and king, but the masking piece gains unusual freedom because moving it opens check. Its destination may capture material, attack a major piece from an otherwise unsafe square or improve its position while the opponent must respond.\n\nIdentify all three actors, verify that the rear line truly gives check and choose the front piece&#x27;s second job. The forcing tempo permits mobility; it does not excuse a careless destination or an incomplete calculation of the king&#x27;s replies.",
+    "keyIdeas": [
+      "Read the discovery as reversed pin geometry.",
+      "Use the checking tempo for a concrete second job.",
+      "The masking piece may move to an ordinarily unsafe square.",
+      "Verify the rear line and every king response."
+    ],
+    "activities": [
+      {
+        "id": "study-s34-05",
+        "concept": "Discovered attacks",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks",
+          "Forcing moves"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 148-149. Reconstruct the checking geometry, list every legal king reply and explain the moving piece&#x27;s second job.",
+        "successCheck": "Explain the complete forcing mechanism in turn pin geometry into discovered-check mobility.",
+        "playReminders": [
+          "Name both checking lines and every king flight."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzowitsch-see-saw-mechanism",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Build the repeating discovered-check mechanism; pp. 127-128; PDF 150-151",
+    "title": "Build the repeating discovered-check mechanism",
+    "tags": [
+      "see-saw",
+      "discovered-attacks",
+      "forcing-moves"
+    ],
+    "note": "A see-saw repeats discovered check to turn forced king moves into a series of free tempi. The masking piece checks or captures, then returns to reopen the rear line. Each cycle must preserve the checking geometry and leave the moving piece a safe, useful square.\n\nThe elementary and refined constructions show why preparation matters. Remove a defender or control a flight square before starting the cycle. Calculate the point where the repetition ends: the attacker must know whether the final gain is material, mate or a favorable position rather than assuming the mechanism can continue indefinitely.",
+    "keyIdeas": [
+      "Alternate the masking piece while preserving the rear checking line.",
+      "Prepare the cycle by removing defenders or flights.",
+      "Calculate where the repeated checks end.",
+      "Name the final gain before beginning the sequence."
+    ],
+    "activities": [
+      {
+        "id": "study-s34-06",
+        "concept": "See-saw",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks",
+          "Forcing moves"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 150-151. Reconstruct the checking geometry, list every legal king reply and explain the moving piece&#x27;s second job.",
+        "successCheck": "Explain the complete forcing mechanism in build the repeating discovered-check mechanism.",
+        "playReminders": [
+          "Name both checking lines and every king flight."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzowitsch-see-saw-torre-lasker",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Convert a see-saw in the Torre-Lasker example; pp. 128-129; PDF 151-152",
+    "title": "Convert a see-saw in the Torre-Lasker example",
+    "tags": [
+      "see-saw",
+      "discovered-attacks",
+      "converting-advantages"
+    ],
+    "note": "The Torre-Lasker example turns the schematic see-saw into practical conversion. The rook alternates checks and captures while the opposing king&#x27;s forced movement repeatedly reopens the line. Material falls because the defender cannot use an ordinary consolidating move between checks.\n\nTrack the rook&#x27;s two jobs on every cycle: give or uncover check, then take a target without losing the return route. Stop the calculation only when the checking mechanism ends and evaluate the resulting material and king safety. The historical example illustrates the method; its analysis is not presented as independent engine proof.",
+    "keyIdeas": [
+      "Track both the checking and capturing job of the moving rook.",
+      "Preserve the square needed to reopen the line.",
+      "Continue until the forcing cycle actually ends.",
+      "Evaluate the resulting position after the final capture."
+    ],
+    "activities": [
+      {
+        "id": "study-s34-07",
+        "concept": "See-saw",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks",
+          "Forcing moves"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 151-152. Reconstruct the checking geometry, list every legal king reply and explain the moving piece&#x27;s second job.",
+        "successCheck": "Explain the complete forcing mechanism in convert a see-saw in the torre-lasker example.",
+        "playReminders": [
+          "Name both checking lines and every king flight."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzowitsch-double-check-only-flight",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Use double check to remove every defense except king flight; pp. 129; PDF 152-152",
+    "title": "Use double check to remove every defense except king flight",
+    "tags": [
+      "double-check",
+      "discovered-attacks",
+      "forcing-moves"
+    ],
+    "note": "Double check attacks the king with both the moving piece and the newly uncovered line. Because answering only one checker is insufficient, interposition and capture by another defender disappear as options. The king must move, and if no legal square exists the position is mate.\n\nThis reply restriction is the tactical resource. List every king square, including captures of a checking piece by the king, before calling the position mate. Then calculate the follow-up rather than treating the double check itself as the result.",
+    "keyIdeas": [
+      "Both the moving and uncovered pieces check.",
+      "Only a legal king move answers both attacks.",
+      "Include king captures when enumerating flights.",
+      "Calculate the follow-up after the forced king move."
+    ],
+    "activities": [
+      {
+        "id": "study-s34-08",
+        "concept": "Double check",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks",
+          "Forcing moves"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 152-152. Reconstruct the checking geometry, list every legal king reply and explain the moving piece&#x27;s second job.",
+        "successCheck": "Explain the complete forcing mechanism in use double check to remove every defense except king flight.",
+        "playReminders": [
+          "Name both checking lines and every king flight."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzowitsch-double-check-driving-examples",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Drive the king with double check; pp. 130-131; PDF 153-154",
+    "title": "Drive the king with double check",
+    "tags": [
+      "double-check",
+      "discovered-attacks",
+      "mating-patterns"
+    ],
+    "note": "The closing examples use double check for mate, material gain and disruption of defensive coordination. The king&#x27;s forced movement can expose another target or remove it from the defense of a critical square. The combination succeeds because the destination square of the moving checker and the uncovered line work together.\n\nFor each example, mark both checkers and every legal king response before following the continuation. Then explain what the forced king move concedes. This separates the mechanism from the final payoff and makes the pattern reusable beyond mating positions.",
+    "keyIdeas": [
+      "Mark both checkers before calculating.",
+      "Connect the forced king move to the material or mating payoff.",
+      "The moving checker&#x27;s destination must serve the continuation.",
+      "Use the mechanism for mate, gain or disruption."
+    ],
+    "activities": [
+      {
+        "id": "study-s34-09",
+        "concept": "Double check",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks",
+          "Forcing moves"
+        ],
+        "instructions": "Read My System: A Treatise on Chess, PDF 153-154. Reconstruct the checking geometry, list every legal king reply and explain the moving piece&#x27;s second job.",
+        "successCheck": "Explain the complete forcing mechanism in drive the king with double check.",
+        "playReminders": [
+          "Name both checking lines and every king flight."
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nunn-mate-recognition",
     "book": "1001 Deadly Checkmates",
     "author": "John Nunn",
@@ -10810,6 +11134,150 @@
         "successCheck": "Give a complete explanation of the move order and both rooks&#x27; final jobs in all five positions.",
         "playReminders": [
           "Which defender prevents the rook pair from entering now?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-discovered-double-check-principles",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Separate discovered check from double check; pp. 192; PDF 193-193",
+    "title": "Separate discovered check from double check",
+    "tags": [
+      "discovered-attacks",
+      "double-check",
+      "forcing-moves"
+    ],
+    "note": "A discovered check uses three actors: a moving piece, a rear line piece and the enemy king. When the front piece moves, the rear piece checks and the moving piece uses the forced reply to capture, attack or improve. The destination of the moving piece is part of the tactic.\n\nIn double check, the moving piece also checks. A block, interposition or capture by another defending piece cannot answer both attacks; the king must move to a legal square. That restriction often enables mate, but double check is not automatically decisive. Enumerate the king&#x27;s legal squares and calculate the follow-up.",
+    "keyIdeas": [
+      "Name the moving piece, rear checker and king.",
+      "Give the moving piece a concrete second job.",
+      "Only a king move answers double check.",
+      "Calculate the legal king squares and follow-up."
+    ],
+    "activities": [
+      {
+        "id": "study-s34-01",
+        "concept": "Discovered attacks",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks",
+          "Forcing moves"
+        ],
+        "instructions": "Read 1001 Deadly Checkmates, PDF 193-193. Reconstruct the checking geometry, list every legal king reply and explain the moving piece&#x27;s second job.",
+        "successCheck": "Explain the complete forcing mechanism in separate discovered check from double check.",
+        "playReminders": [
+          "Name both checking lines and every king flight."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-discovered-double-check-drills-643-672",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Train discovered and double checks: exercises 643-672; pp. 193-209; PDF 194-210",
+    "title": "Train discovered and double checks: exercises 643-672",
+    "tags": [
+      "discovered-attacks",
+      "double-check",
+      "mating-patterns"
+    ],
+    "note": "The first thirty exercises establish the chapter&#x27;s visual grammar. The moving checker may capture, clear a line, remove an escape square or sacrifice itself so the rear piece can finish. The exact destination matters because a plausible discovery can leave the king an escape or permit the defender to capture one checker.\n\nSolve in ten-position blocks. Before moving, identify both potential checking pieces and every king square. After comparing with the printed answer, classify the preparation and record the first defensive resource you missed. The source solutions permit direct checking rather than inferred answer guidance.",
+    "keyIdeas": [
+      "Identify both potential checks before calculating.",
+      "Treat the moving piece&#x27;s destination as part of the combination.",
+      "Check captures and escape squares after every forcing move.",
+      "Use the printed solutions to classify missed defenses."
+    ],
+    "activities": [
+      {
+        "id": "study-s34-02",
+        "concept": "Discovered attacks",
+        "minutes": 70,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks",
+          "Forcing moves"
+        ],
+        "instructions": "Use 1001 Deadly Checkmates, Prompts 643-672 on PDFs 194-198 with their complete solutions across PDFs 209-210. Solve the 30 positions in three ten-position sessions. For each, name the moving checker, rear line and every king flight before checking the printed solution.",
+        "successCheck": "Complete all three blocks, classify every miss as recognition or calculation, and re-solve missed positions without the answer.",
+        "playReminders": [
+          "Name both checking lines and every king flight."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-discovered-double-check-drills-673-702",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Extend discovered-check calculation: exercises 673-702; pp. 198-212; PDF 199-213",
+    "title": "Extend discovered-check calculation: exercises 673-702",
+    "tags": [
+      "discovered-attacks",
+      "double-check",
+      "calculation"
+    ],
+    "note": "The middle thirty positions broaden the preparation. Decoys, clearance and sacrifices first place the king or a defender on the required line. The discovered check then limits replies while the moving piece controls a flight square or delivers its own threat.\n\nWork backward from the intended checking geometry to understand why the preliminary move is necessary. Then calculate forward against captures, interpositions before the discovery and declined sacrifices. Compare with the official solution only after writing a complete principal line and one rejected candidate.",
+    "keyIdeas": [
+      "Work backward from the intended checking geometry.",
+      "Explain why the preparatory move is necessary.",
+      "Test whether the defender can decline the sacrifice.",
+      "Record a rejected candidate as well as the solution."
+    ],
+    "activities": [
+      {
+        "id": "study-s34-03",
+        "concept": "Discovered attacks",
+        "minutes": 70,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks",
+          "Forcing moves"
+        ],
+        "instructions": "Use 1001 Deadly Checkmates, Prompts 673-702 on PDFs 199-203 with their complete solutions across PDFs 210-213. Solve the 30 positions in three ten-position sessions. For each, name the moving checker, rear line and every king flight before checking the printed solution.",
+        "successCheck": "Complete all three blocks, classify every miss as recognition or calculation, and re-solve missed positions without the answer.",
+        "playReminders": [
+          "Name both checking lines and every king flight."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-discovered-double-check-drills-703-732",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "Consolidate discovered-check mating calculation: exercises 703-732; pp. 203-216; PDF 204-217",
+    "title": "Consolidate discovered-check mating calculation: exercises 703-732",
+    "tags": [
+      "discovered-attacks",
+      "double-check",
+      "calculation"
+    ],
+    "note": "The final thirty exercises combine the motif with longer mating calculation. The front piece may move to an unexpected square to cover a flight, interfere with a defender or preserve the rear line. Pattern recognition generates the candidate; complete reply enumeration proves it.\n\nUse the score chart only after completing all three ten-position blocks. For every miss, distinguish failure to see the geometry from failure to calculate a legal king move. This produces a concrete training diagnosis without turning the source score into a general player rating.",
+    "keyIdeas": [
+      "Use the motif to generate candidates, then enumerate replies.",
+      "Look for a destination that covers a flight square.",
+      "Separate recognition errors from calculation errors.",
+      "Use the source score only for this exercise set."
+    ],
+    "activities": [
+      {
+        "id": "study-s34-04",
+        "concept": "Discovered attacks",
+        "minutes": 70,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Discovered attacks",
+          "Forcing moves"
+        ],
+        "instructions": "Use 1001 Deadly Checkmates, Prompts 703-732 on PDFs 204-208, solutions across PDFs 213-215 and complete score chart on PDFs 216-217. Solve the 30 positions in three ten-position sessions. For each, name the moving checker, rear line and every king flight before checking the printed solution.",
+        "successCheck": "Complete all three blocks, classify every miss as recognition or calculation, and re-solve missed positions without the answer.",
+        "playReminders": [
+          "Name both checking lines and every king flight."
         ]
       }
     ]
