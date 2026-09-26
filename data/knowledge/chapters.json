@@ -4069,6 +4069,97 @@
         "section": "Marshall-Lasker through Kindermann-Speelman; five complete examples and the chapter conclusion",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "nimzovich-unpinning-question-and-consequences",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Decide whether the pin must be answered; pp. 117-119; PDF 140-142",
+      "title": "Decide whether the pin must be answered",
+      "locator": {
+        "pdfPageStart": 140,
+        "pdfPageEnd": 142,
+        "printedPages": "117-119",
+        "section": "The Problem of Unpinning, consequence test and subsection (a), including diagram 96",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-unpinning-ignore-with-counterplay",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Ignore a pin only with real counterplay; pp. 120-121; PDF 143-144",
+      "title": "Ignore a pin only with real counterplay",
+      "locator": {
+        "pdfPageStart": 143,
+        "pdfPageEnd": 144,
+        "printedPages": "120-121",
+        "section": "The Problem of Unpinning subsection (b), ignoring the threat, through the start of subsection (c)",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-unpinning-reserves-and-choice",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Bring reserves and keep defensive choices open; pp. 121-122; PDF 144-145",
+      "title": "Bring reserves and keep defensive choices open",
+      "locator": {
+        "pdfPageStart": 144,
+        "pdfPageEnd": 145,
+        "printedPages": "121-122",
+        "section": "The Problem of Unpinning subsections (c) and (d), reserves and maneuvering",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-unpinning-corridor-and-contact",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Preserve contact through the defensive corridor; pp. 122-124; PDF 145-147",
+      "title": "Preserve contact through the defensive corridor",
+      "locator": {
+        "pdfPageStart": 145,
+        "pdfPageEnd": 147,
+        "printedPages": "122-124",
+        "section": "The Problem of Unpinning subsection (e), corridor and contact, diagrams 97-100, through the section end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-prophylaxis-stop-counterplay",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Suppress counterplay at the right moment; pp. 96-100; PDF 104-108",
+      "title": "Suppress counterplay at the right moment",
+      "locator": {
+        "pdfPageStart": 104,
+        "pdfPageEnd": 108,
+        "printedPages": "96-100",
+        "section": "Suppressing the Opponent's Counter-play introduction through Taimanov-Aronin; three complete examples and four board positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-prophylaxis-improve-before-convert",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Improve freely without defending phantom threats; pp. 101-103; PDF 109-111",
+      "title": "Improve freely without defending phantom threats",
+      "locator": {
+        "pdfPageStart": 109,
+        "pdfPageEnd": 111,
+        "printedPages": "101-103",
+        "section": "Suppressing the Opponent's Counter-play, Botvinnik-Alekhine through Balashov-Szabo; three complete examples and three board positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-prophylaxis-barriers-and-breaks",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Build barriers and control the freeing breaks; pp. 104-107; PDF 112-115",
+      "title": "Build barriers and control the freeing breaks",
+      "locator": {
+        "pdfPageStart": 112,
+        "pdfPageEnd": 115,
+        "printedPages": "104-107",
+        "section": "Suppressing the Opponent's Counter-play, Euwe-Averbakh and Boleslavsky-Averbakh; two complete examples and five board positions through the chapter end",
+        "ebookLocation": null
+      }
     }
   ]
 }

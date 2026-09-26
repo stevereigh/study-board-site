@@ -9009,6 +9009,184 @@
     ]
   },
   {
+    "chapterId": "nimzovich-unpinning-question-and-consequences",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Decide whether the pin must be answered; pp. 117-119; PDF 140-142",
+    "title": "Decide whether the pin must be answered",
+    "tags": [
+      "unpinning",
+      "threat-recognition",
+      "defense",
+      "tempo"
+    ],
+    "note": "A pin creates a question, but it does not dictate a single reply. Nimzowitsch asks the defender to compare the cost of complying with the threat against the value of continuing development or acting elsewhere. Driving away the pinning piece may gain freedom, yet the pawn move can weaken squares and spend a tempo while the center demands attention.\n\nThe first defensive task is therefore to state what will actually happen if the pin is left in place. Is material lost now, is a central break enabled, or is the opponent merely increasing pressure? If compliance creates lasting weaknesses, the defender needs concrete compensation or a safer method of unpinning. If nothing forcing happens, an automatic pawn chase can be the larger concession.\n\nUse the position as a choice exercise: name the threatened continuation, compare the structural and time costs of the available replies, and decide whether an immediate answer is required. The point is disciplined threat recognition, not a rule that pins should always be ignored or always challenged.",
+    "keyIdeas": [
+      "A pin asks a question; first identify the concrete consequence.",
+      "Count the tempo and square weaknesses created by a pawn chase.",
+      "Compare compliance with development, central action and quieter unpinning methods.",
+      "Answer immediately only when the threat or resulting concession justifies it."
+    ],
+    "activities": [
+      {
+        "id": "study-unpinning-answer-test",
+        "concept": "Unpinning",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins",
+          "Threat recognition"
+        ],
+        "instructions": "Read My System PDF 140-142. At diagrams 95-96, write the concrete threat, the cost of a pawn chase and two alternatives before reading the continuation.",
+        "successCheck": "For both positions, justify whether an immediate answer is required and name the concession created by the rejected reply.",
+        "playReminders": [
+          "What exactly happens if I do nothing?"
+        ]
+      },
+      {
+        "id": "study-defense-three-choice-check",
+        "concept": "Threat recognition",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves",
+          "Position evaluation"
+        ],
+        "instructions": "Use one position from each book. For every position generate a direct defense, a preventive improvement and an active counterplay move, then calculate the opponent&#x27;s best reply.",
+        "successCheck": "Choose the best defensive mode in all three positions and reject the other two with a concrete reason.",
+        "playReminders": [
+          "Direct defense, prevention or counterplay?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-unpinning-ignore-with-counterplay",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Ignore a pin only with real counterplay; pp. 120-121; PDF 143-144",
+    "title": "Ignore a pin only with real counterplay",
+    "tags": [
+      "unpinning",
+      "counterplay",
+      "center",
+      "calculation"
+    ],
+    "note": "Ignoring a pin can be correct when a stronger operation changes the position before the opponent can exploit it. Nimzowitsch links this choice especially to central action: a flank pressure may be met by opening lines, gaining space or creating a forcing threat in the center. The active move must produce something the opponent has to respect.\n\nThis is not permission to hope that the pin will become harmless. The defender must calculate the opponent&#x27;s best exploitation and show that the counterstroke arrives in time. If the opponent can execute the threat while the supposed counterplay remains preparatory, the position has simply been neglected.\n\nThe practical test is a race. Write down the opponent&#x27;s next forcing move, your active reply and the resulting position after both sides pursue their fastest plan. Prefer counterplay when it solves the immediate problem or creates greater urgency; otherwise choose a direct or quiet unpinning method.",
+    "keyIdeas": [
+      "Counterplay must alter the opponent&#x27;s choices before the pin is exploited.",
+      "Central action can outweigh a flank threat when it is timely and concrete.",
+      "Calculate both sides&#x27; fastest continuation rather than relying on general activity.",
+      "Passive hope is not the same as deliberately ignoring a threat."
+    ],
+    "activities": [
+      {
+        "id": "study-unpinning-counterplay-race",
+        "concept": "Counterplay",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins",
+          "Candidate moves"
+        ],
+        "instructions": "Read My System PDF 143-144. Build a two-column race: the opponent&#x27;s fastest exploitation of the pin and your fastest central counterstroke.",
+        "successCheck": "Show why the active line changes the opponent&#x27;s choices before the pin can be exploited.",
+        "playReminders": [
+          "Which operation lands first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-unpinning-reserves-and-choice",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Bring reserves and keep defensive choices open; pp. 121-122; PDF 144-145",
+    "title": "Bring reserves and keep defensive choices open",
+    "tags": [
+      "unpinning",
+      "prophylaxis",
+      "piece-activity",
+      "maneuvering"
+    ],
+    "note": "When the center is quiet, the defender may have time to bring another piece into support and remove the pin without changing the pawn structure. Nimzowitsch treats this as a peaceful use of reserves: coordination solves the problem while the supporting move may also improve the newly developed piece.\n\nA related method is to maneuver without committing to one defensive answer too early. The defender keeps direct compliance, counterplay and reinforcement available, then chooses when the opponent&#x27;s intentions become clearer. This flexibility has a price. Slow maneuvers are justified only if the opponent cannot convert the extra time into a stronger threat.\n\nFor study, compare the candidate moves by two measures: how completely they answer the pin and what useful work they perform elsewhere. A reserve move that both restores mobility and improves coordination is more valuable than a purely passive guard. Recheck the tactical line after every waiting move because the correct option can change with one tempo.",
+    "keyIdeas": [
+      "Reinforce the pinned unit when the center is quiet enough to permit it.",
+      "Prefer a supporting move that also develops or coordinates a piece.",
+      "Delay commitment only while the opponent lacks a forcing improvement.",
+      "Keep several defensive methods available and choose at the best moment."
+    ],
+    "activities": [
+      {
+        "id": "study-unpinning-reserve-choice",
+        "concept": "Prophylaxis",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pins",
+          "Piece activity"
+        ],
+        "instructions": "Read My System PDF 144-145. Compare direct compliance, reinforcement and a waiting maneuver by defensive effect, tempo cost and secondary improvement.",
+        "successCheck": "Select one reserve move and explain both the danger it prevents and the useful piece improvement it makes.",
+        "playReminders": [
+          "Can I defend while improving?"
+        ]
+      },
+      {
+        "id": "study-unpinning-corridor-map",
+        "concept": "Unpinning",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pins",
+          "Piece activity"
+        ],
+        "instructions": "Read My System PDF 145-147 and review diagrams 97-100. Draw the defensive contact line and mark the corridor square that must be occupied, cleared or protected.",
+        "successCheck": "For all four diagrams, identify the blocked contact and the maneuver that restores effective mobility.",
+        "playReminders": [
+          "Where is the corridor that reconnects my pieces?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-unpinning-corridor-and-contact",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Preserve contact through the defensive corridor; pp. 122-124; PDF 145-147",
+    "title": "Preserve contact through the defensive corridor",
+    "tags": [
+      "unpinning",
+      "prophylaxis",
+      "piece-activity",
+      "defense"
+    ],
+    "note": "The final method treats defense as a network of contact. A square or short route can form a corridor through which the defending pieces remain linked. Occupying that point, clearing it or moving the screened piece away can restore the pinned unit&#x27;s freedom without a crude pawn chase.\n\nThe diagrams show why the geometry matters. A nominal defender may be useless when another piece blocks the line, while a small maneuver can reconnect the pieces and make tactical operations possible. The goal is not only to remove the label “pinned.” It is to create a position in which the pieces genuinely protect one another and can move without exposing the rear target.\n\nBefore choosing a move, trace the line from the pinned piece to the protected unit and mark the square that controls contact. Ask whether occupying, vacating or defending that square improves the whole formation. Then calculate the opponent&#x27;s attempt to break the connection. This turns unpinning into a coordination problem rather than a one-move reaction.",
+    "keyIdeas": [
+      "Find the square or route that maintains contact among the defenders.",
+      "A formal defender may fail when a screened line is blocked.",
+      "Occupy, clear or protect the corridor before launching tactics.",
+      "Judge unpinning by restored piece freedom and coordination."
+    ],
+    "activities": [
+      {
+        "id": "study-unpinning-corridor-map",
+        "concept": "Unpinning",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Pins",
+          "Piece activity"
+        ],
+        "instructions": "Read My System PDF 145-147 and review diagrams 97-100. Draw the defensive contact line and mark the corridor square that must be occupied, cleared or protected.",
+        "successCheck": "For all four diagrams, identify the blocked contact and the maneuver that restores effective mobility.",
+        "playReminders": [
+          "Where is the corridor that reconnects my pieces?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nunn-mate-recognition",
     "book": "1001 Deadly Checkmates",
     "author": "John Nunn",
@@ -10065,6 +10243,147 @@
       "Preserve a concrete problem on every move."
     ],
     "activities": []
+  },
+  {
+    "chapterId": "shereshevsky-prophylaxis-stop-counterplay",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Suppress counterplay at the right moment; pp. 96-100; PDF 104-108",
+    "title": "Suppress counterplay at the right moment",
+    "tags": [
+      "prophylaxis",
+      "counterplay",
+      "endgame",
+      "defensive-exchanges"
+    ],
+    "note": "Shereshevsky defines practical prophylaxis through timely moves aimed directly at the opponent&#x27;s active resources. In the first three examples, the stronger side does not rush to collect material. It identifies a fortress, pawn break, rook route or piece activity that could complicate conversion and removes that resource before continuing.\n\nThe best preventive move is often active. A king step can deny the defender&#x27;s setup, rook pressure can tie a piece down, and a well-chosen exchange can remove the unit that generates play while preserving the favorable ending. Timing is central: a useful restriction played one move late may allow the defender to establish the very activity it was meant to stop.\n\nAt each diagram, list the defender&#x27;s freeing operation and calculate it first. Then seek a move that prevents it while improving the attacker&#x27;s position. After the danger is removed, return to the conversion plan. Prophylaxis is therefore part of progress, not a pause from it.",
+    "keyIdeas": [
+      "Identify the defender&#x27;s freeing break, entry route or fortress before converting.",
+      "Play the preventive move before the active resource becomes established.",
+      "Prefer prevention that also improves a king, rook or target.",
+      "Use exchanges selectively to remove the generator of counterplay."
+    ],
+    "activities": [
+      {
+        "id": "study-prophylaxis-stop-first",
+        "concept": "Prophylaxis",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Counterplay"
+        ],
+        "instructions": "Read Shereshevsky PDF 104-108. For Ivkov-Hartoch, Timoshchenko-Makarichev and Taimanov-Aronin, name the defender&#x27;s active resource before examining the preventive move.",
+        "successCheck": "For each example, state the resource, why timing matters and how the chosen move also advances conversion.",
+        "playReminders": [
+          "What must be stopped before I convert?"
+        ]
+      },
+      {
+        "id": "study-defense-three-choice-check",
+        "concept": "Threat recognition",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves",
+          "Position evaluation"
+        ],
+        "instructions": "Use one position from each book. For every position generate a direct defense, a preventive improvement and an active counterplay move, then calculate the opponent&#x27;s best reply.",
+        "successCheck": "Choose the best defensive mode in all three positions and reject the other two with a concrete reason.",
+        "playReminders": [
+          "Direct defense, prevention or counterplay?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-prophylaxis-improve-before-convert",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Improve freely without defending phantom threats; pp. 101-103; PDF 109-111",
+    "title": "Improve freely without defending phantom threats",
+    "tags": [
+      "prophylaxis",
+      "threat-recognition",
+      "king-activity",
+      "conversion"
+    ],
+    "note": "When the opponent lacks counterplay, the stronger side can improve patiently. Shereshevsky connects this with the principle “do not hurry”: quiet king and piece moves are safe when they keep every freeing operation under control. Botvinnik&#x27;s example shows a sequence in which each improvement also denies the defender useful play before the final attack on the weaknesses.\n\nThe chapter also gives the opposite warning. A player who defends against an imaginary threat may place pieces passively and create the pawn break or tactical target that did not previously exist. Threat recognition must therefore be specific. Name the opponent&#x27;s move, its target and its consequence before spending a tempo to stop it.\n\nThe practical routine is to test the threat, then improve the least active piece or king while preserving the bind. If a defensive move is required, choose one that keeps your own plan alive. If the threat is not real, use the time to create a second weakness, improve the king or prepare the cleanest conversion.",
+    "keyIdeas": [
+      "Do not hurry when the opponent has no useful freeing operation.",
+      "A quiet improvement can also be a prophylactic move.",
+      "Demand a concrete move and consequence before defending a supposed threat.",
+      "Overreaction can create the counterplay it was meant to prevent."
+    ],
+    "activities": [
+      {
+        "id": "study-prophylaxis-phantom-threats",
+        "concept": "Threat recognition",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Read Shereshevsky PDF 109-111. Separate real freeing moves from imagined threats, then choose an improving move when the defender has no active operation.",
+        "successCheck": "Give one example where patient improvement is safe and one where overdefense creates real counterplay.",
+        "playReminders": [
+          "Move, target, consequence: is the threat real?"
+        ]
+      },
+      {
+        "id": "study-defense-three-choice-check",
+        "concept": "Threat recognition",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves",
+          "Position evaluation"
+        ],
+        "instructions": "Use one position from each book. For every position generate a direct defense, a preventive improvement and an active counterplay move, then calculate the opponent&#x27;s best reply.",
+        "successCheck": "Choose the best defensive mode in all three positions and reject the other two with a concrete reason.",
+        "playReminders": [
+          "Direct defense, prevention or counterplay?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-prophylaxis-barriers-and-breaks",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Build barriers and control the freeing breaks; pp. 104-107; PDF 112-115",
+    "title": "Build barriers and control the freeing breaks",
+    "tags": [
+      "prophylaxis",
+      "restriction",
+      "counterplay",
+      "defensive-exchanges"
+    ],
+    "note": "The closing examples show prophylaxis as control of critical squares and transformations. A favorable position can slip away when the defender is allowed to activate a knight, establish a blockade or execute a freeing break. The stronger side must preserve the barrier that keeps the king or pieces out and exchange the correct defender before advancing.\n\nClosed positions make apparently natural moves especially dangerous. A move may improve one piece yet surrender control of c5, f5 or another pivot that held the opponent&#x27;s plan together. Shereshevsky&#x27;s examples require comparing the tempting move with the opponent&#x27;s best reply, then finding the maneuver that keeps the barrier intact.\n\nUse a map of entry squares and pawn breaks. Mark which piece guards each point, identify the exchange that strengthens or weakens the barrier, and calculate the opponent&#x27;s first active move after your candidate. A preventive move is successful when it preserves control and still leaves a route for progress.",
+    "keyIdeas": [
+      "Map the entry squares and freeing breaks before changing the position.",
+      "Preserve the barrier that excludes the opposing king or active piece.",
+      "Exchange the piece that enables counterplay, not merely the nearest piece.",
+      "Test every natural move against the opponent&#x27;s first active reply."
+    ],
+    "activities": [
+      {
+        "id": "study-prophylaxis-barrier-audit",
+        "concept": "Restriction",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Restriction",
+          "Defensive exchanges"
+        ],
+        "instructions": "Read Shereshevsky PDF 112-115. Map c5, f5 and the other entry or break squares before comparing the natural move with the prophylactic maneuver.",
+        "successCheck": "Explain which barrier fails after the tempting move and which exchange or maneuver preserves it.",
+        "playReminders": [
+          "Which square holds the barrier together?"
+        ]
+      }
+    ]
   },
   {
     "chapterId": "amateurs-imbalances",

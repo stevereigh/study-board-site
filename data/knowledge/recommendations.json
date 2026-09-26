@@ -1881,6 +1881,57 @@
         "attacking-prerequisites--amateurs-king-hunt-conditions",
         "attacking-prerequisites--shereshevsky-initiative-courage-and-risk"
       ]
+    },
+    {
+      "id": "study-unpinning-answer-test",
+      "crossrefIds": [
+        "unpinning--nimzovich-unpinning-question-and-consequences"
+      ]
+    },
+    {
+      "id": "study-unpinning-counterplay-race",
+      "crossrefIds": [
+        "counterplay--nimzovich-unpinning-ignore-with-counterplay"
+      ]
+    },
+    {
+      "id": "study-unpinning-reserve-choice",
+      "crossrefIds": [
+        "prophylaxis--nimzovich-unpinning-reserves-and-choice"
+      ]
+    },
+    {
+      "id": "study-unpinning-corridor-map",
+      "crossrefIds": [
+        "unpinning--nimzovich-unpinning-corridor-and-contact",
+        "unpinning--nimzovich-unpinning-reserves-and-choice"
+      ]
+    },
+    {
+      "id": "study-prophylaxis-stop-first",
+      "crossrefIds": [
+        "prophylaxis--shereshevsky-prophylaxis-stop-counterplay"
+      ]
+    },
+    {
+      "id": "study-prophylaxis-phantom-threats",
+      "crossrefIds": [
+        "threat-recognition--shereshevsky-prophylaxis-improve-before-convert"
+      ]
+    },
+    {
+      "id": "study-prophylaxis-barrier-audit",
+      "crossrefIds": [
+        "restriction--shereshevsky-prophylaxis-barriers-and-breaks"
+      ]
+    },
+    {
+      "id": "study-defense-three-choice-check",
+      "crossrefIds": [
+        "threat-recognition--nimzovich-unpinning-question-and-consequences",
+        "threat-recognition--shereshevsky-prophylaxis-stop-counterplay",
+        "threat-recognition--shereshevsky-prophylaxis-improve-before-convert"
+      ]
     }
   ]
 }
