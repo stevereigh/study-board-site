@@ -1433,6 +1433,52 @@
     ]
   },
   {
+    "chapterId": "erwich-graded-tactics-loop",
+    "book": "1001 Chess Exercises for Club Players: The Tactics Workbook that Also Explains All the Key Concepts",
+    "author": "Frank Erwich",
+    "ref": "Complete Introduction; Chapter 1 begins PDF 8",
+    "title": "Progress from hinted themes to mixed, unhinted tactics",
+    "tags": [
+      "study-method",
+      "tactics-training",
+      "graded-practice",
+      "mixed-review"
+    ],
+    "note": "Erwich organizes tactical practice by theme, subtheme and increasing difficulty. Early chapters provide a directional hint and repeated exposure to a specific mechanism; later defensive and mixed chapters remove that support and require the student to choose among several themes. Solutions are collected separately, so the intended action is to solve before checking.\n\nUse a three-stage loop: learn a named theme with hints, solve fresh positions from the same theme without hints, then test the theme inside a mixed set. Record whether the failure came from recognition, candidate selection or calculation. Covering the hint is an optional difficulty increase, and the large source collection should be assigned in small batches rather than treated as one sitting.",
+    "keyIdeas": [
+      "Begin with themed, hinted practice and increasing difficulty.",
+      "Remove hints after the mechanism is recognized reliably.",
+      "Use mixed positions to test independent theme selection.",
+      "Separate recognition failures from calculation failures."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-weekly-read-solve-review",
+        "concept": "Study method",
+        "minutes": 45,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Choose one bounded lesson tied to a recent game. Read only its setup, hide the continuation or solution, write candidates and a conclusion without moving the pieces, then compare with the verified source and label the first point where your reasoning diverged.",
+        "successCheck": "Produce one error label, one corrected principle or pattern, and one play reminder linked to the game.",
+        "playReminders": [
+          "What am I trying to learn from this position, and how will I test it?"
+        ]
+      },
+      {
+        "id": "study-s06-graded-tactics-cycle",
+        "concept": "Forcing moves",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Solve a small hinted theme set, repeat with hints covered, then finish with a mixed set. Require a forced continuation, not only the first move. Log recognition, candidate and calculation errors separately.",
+        "successCheck": "Reach the target accuracy in the unhinted mixed set and explain the mechanism plus the defender&#x27;s best resistance.",
+        "playReminders": [
+          "What is the mechanism, and is the continuation actually forced?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "flores-structure-study",
     "book": "Chess Structures: A Grandmaster Guide",
     "author": "Mauricio Flores Rios",
@@ -1463,6 +1509,18 @@
         "successCheck": "Explain one plan that can transfer between structures and one difference requiring reassessment.",
         "playReminders": [
           "Did the pawn structure change enough that my plan should change?"
+        ]
+      },
+      {
+        "id": "study-s06-typical-position-card",
+        "concept": "Opening to middlegame transition",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "From a personal game, record the pawn skeleton, critical squares, usual break, best and worst pieces, plan for both sides, and the exchange or pawn move that would transform the structure. Link one verified book lesson with the same position type.",
+        "successCheck": "State both plans and the transformation trigger without using the opening name as the explanation.",
+        "playReminders": [
+          "Which recurring position is this, and what changes its identity?"
         ]
       }
     ]
@@ -7629,6 +7687,18 @@
         "playReminders": [
           "Which pieces and lines changed in the position I am imagining?"
         ]
+      },
+      {
+        "id": "study-s06-postgame-lab",
+        "concept": "Calculation",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "Without an engine, reconstruct the critical position, write the evaluation, candidates and principal lines, and decide what result each line should produce. Afterward compare with an engine or verified source and check every outside suggestion independently.",
+        "successCheck": "Save the missed candidate or calculation error and one corrected line; do not save an unexplained engine move.",
+        "playReminders": [
+          "What can I prove before I ask the engine?"
+        ]
       }
     ]
   },
@@ -8927,7 +8997,7 @@
     "chapterId": "kotov-general-formulas-concrete-test",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
-    "ref": "What is Concrete and What is General?, Middlegame, and General Formulae and Concrete Analysis; printed 129-135, PDFs 128-134, nine example boards",
+    "ref": "What is Concrete and What is General?, Middlegame, and General Formulae and Concrete Analysis; printed 129-135, PDFs 128-134, seven visible boards",
     "title": "Treat general formulas as questions for concrete analysis",
     "tags": [
       "position-evaluation",
@@ -8954,10 +9024,516 @@
           "Position evaluation",
           "Candidate moves"
         ],
-        "instructions": "Read PDFs 128-134. For each of the nine example boards, write a general formula, convert it into a concrete prediction, identify the best opposing reply and calculate the critical line before keeping or rejecting the formula.",
-        "successCheck": "Complete all nine checks and distinguish a useful principle from a slogan that the current position refutes.",
+        "instructions": "Read PDFs 128-134. For each of the seven visible boards, write a general formula, convert it into a concrete prediction, identify the best opposing reply and calculate the critical line before keeping or rejecting the formula.",
+        "successCheck": "Complete all seven checks and distinguish a useful principle from a slogan that the current position refutes.",
         "playReminders": [
           "What exact variation would prove or disprove this general rule here?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-analysis-tree-branch-discipline",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "The Tree of Analysis; 2 boards and tree figures 1-2",
+    "title": "Build and traverse an analysis tree once",
+    "tags": [
+      "analysis-tree",
+      "calculation",
+      "candidate-moves",
+      "time-management",
+      "calculation-method"
+    ],
+    "note": "Enumerate serious replies before calculating, finish one branch before moving to the next, and avoid rechecking a completed branch without new information. The tree externalizes branch count and exposes omissions, repetition, and time waste.",
+    "keyIdeas": [
+      "List branches before deep calculation.",
+      "Complete one branch once, then record its leaf evaluation.",
+      "When no line is perfect, choose the best supported conclusion instead of looping."
+    ],
+    "activities": [
+      {
+        "id": "s03-tree-transcription",
+        "concept": "Analysis tree",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Write candidates first, calculate each branch once, and attach a leaf position plus verdict.",
+        "successCheck": "Complete the bounded task with an explicit candidate set, branch record, restored leaf position and final evaluation.",
+        "playReminders": [
+          "What candidate or branch have I not yet checked, and what evidence supports the leaf verdict?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-forced-and-unforced-branches",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Forced and Unforced Variations; 2 boards",
+    "title": "Scale calculation depth to forcingness",
+    "tags": [
+      "calculation",
+      "forcing-moves",
+      "analysis-tree",
+      "position-evaluation",
+      "calculation-method"
+    ],
+    "note": "Forced lines can be deep because replies are narrow; unforced lines branch sooner and require more frequent evaluation. Depth alone is not rigor: use forcingness to decide where exact calculation ends and judgment begins.",
+    "keyIdeas": [
+      "A narrow forced line may justify depth.",
+      "An unforced position requires branch control and intermediate evaluation.",
+      "Do not present a historical long line as forced when alternatives remain."
+    ],
+    "activities": [
+      {
+        "id": "s02-analysis-or-judgment-gate",
+        "concept": "Calculation",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Classify the position as narrow/forcing or stable/unforced, then justify depth and candidate count.",
+        "successCheck": "Complete the bounded task with an explicit candidate set, branch record, restored leaf position and final evaluation.",
+        "playReminders": [
+          "What candidate or branch have I not yet checked, and what evidence supports the leaf verdict?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-analysis-tree-shapes",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Different Types of Tree through Thickets of Variations; 9 boards and figures 3-4",
+    "title": "Recognize trunk, coppice and thicket calculation trees",
+    "tags": [
+      "analysis-tree",
+      "visualization",
+      "calculation",
+      "calculation-method"
+    ],
+    "note": "Kotov contrasts a long single branch, many short branches, and a dense tree that branches repeatedly. Classifying the shape sets a practical search plan: visualize deeply for a trunk, enumerate broadly for a coppice, and impose written branch discipline for a thicket.",
+    "keyIdeas": [
+      "Tree shape determines whether breadth or depth is the main burden.",
+      "A long line can be easier than several short alternatives.",
+      "Dense trees demand explicit move labels and leaf evaluations."
+    ],
+    "activities": [
+      {
+        "id": "s03-tree-transcription",
+        "concept": "Analysis tree",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Write candidates first, calculate each branch once, and attach a leaf position plus verdict.",
+        "successCheck": "Complete the bounded task with an explicit candidate set, branch record, restored leaf position and final evaluation.",
+        "playReminders": [
+          "What candidate or branch have I not yet checked, and what evidence supports the leaf verdict?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-candidate-selection-complete",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Selection of Candidate Moves and What is a Candidate Move?; 8 boards",
+    "title": "Generate the complete candidate set without flooding the search",
+    "tags": [
+      "candidate-moves",
+      "calculation",
+      "forcing-moves",
+      "counterplay",
+      "calculation-method"
+    ],
+    "note": "Generate enough candidates to include the position’s exceptional resource, for both sides and again at critical nodes. Too few candidates misses the saving or winning move; too many exhaust attention. The source examples contrast obvious moves with a sixth candidate that saves, and show that the candidate set must be rebuilt when the board changes.",
+    "keyIdeas": [
+      "Candidate count is position-dependent.",
+      "Include the opponent’s best resources at every critical node.",
+      "Search for the move that changes the problem, including unusual defensive resources."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "kotov-visualize-and-refresh-position",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Botvinnik-Smyslov example, Blumenfeld quotation and visualization advice; 1 board",
+    "title": "Refresh the real board after every reply",
+    "tags": [
+      "visualization",
+      "analysis-tree",
+      "blunder-checking",
+      "candidate-moves",
+      "calculation-method"
+    ],
+    "note": "A memorized branch grows fainter with depth. After the opponent moves, inspect the actual board before replaying the prepared continuation: rebuild piece locations, threats and candidate moves from the visible position. Previous work remains useful context but cannot replace a fresh board check.",
+    "keyIdeas": [
+      "Write or state the leaf position, not only the moves.",
+      "Restore the actual board after the opponent’s move.",
+      "Treat the expected reply as new information that can change the candidate set."
+    ],
+    "activities": [
+      {
+        "id": "s03-board-restoration",
+        "concept": "Visualization",
+        "minutes": 15,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "After 4-6 blindfold plies, list all changed squares and reconstruct the leaf before checking.",
+        "successCheck": "Complete the bounded task with an explicit candidate set, branch record, restored leaf position and final evaluation.",
+        "playReminders": [
+          "What candidate or branch have I not yet checked, and what evidence supports the leaf verdict?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-creeping-quiet-candidates",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Creeping Moves in full; 4 boards",
+    "title": "Include quiet moves that change the position’s logic",
+    "tags": [
+      "candidate-moves",
+      "prophylaxis",
+      "restriction",
+      "forcing-moves",
+      "calculation-method"
+    ],
+    "note": "The strongest candidate may be a quiet one-square move that removes a defense, induces zugzwang, fixes a weakness, or changes an exchange decision. Forcing-move scans should open the search, then quiet moves deserve attention when the tactical sequence lacks a clean finish.",
+    "keyIdeas": [
+      "Quiet candidates can alter the opponent’s only defense.",
+      "Describe what the move changes before calculating continuations.",
+      "Compare the quiet move with the attractive forcing move."
+    ],
+    "activities": [
+      {
+        "id": "s02-forcing-versus-quiet",
+        "concept": "Candidate moves",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "List forcing moves, then the opponent’s saving resource, then one quiet candidate that changes it.",
+        "successCheck": "Complete the bounded task with an explicit candidate set, branch record, restored leaf position and final evaluation.",
+        "playReminders": [
+          "What candidate or branch have I not yet checked, and what evidence supports the leaf verdict?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-calculation-exercises-1-12",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Exercises 1-12 on PDFs 78-80; exact answers 1-12 on PDFs 180-182; 12 exercise boards",
+    "title": "Calculation exercises 1-12 with exact source answers",
+    "tags": [
+      "candidate-moves",
+      "calculation",
+      "visualization",
+      "forcing-moves",
+      "calculation-method"
+    ],
+    "note": "The twelve exercises test candidate enumeration, forcing and quiet moves, defensive resources, sacrifices and changed evaluations. Solve from the diagrams before consulting the exact answer range, then classify every miss by candidate generation, branch calculation, visualization or final evaluation.",
+    "keyIdeas": [
+      "Separate a missed candidate from an error inside a line.",
+      "Record the final position and verdict before checking the answer.",
+      "Use the answer key as bounded feedback, not as a replacement for the attempt."
+    ],
+    "activities": [
+      {
+        "id": "s02-s03-exercises-1-12",
+        "concept": "Calculation",
+        "minutes": 60,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Solve exercises 1-12 in three blocks; compare only with exact answers 1-12 and log error type.",
+        "successCheck": "Complete the bounded task with an explicit candidate set, branch record, restored leaf position and final evaluation.",
+        "playReminders": [
+          "What candidate or branch have I not yet checked, and what evidence supports the leaf verdict?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-full-thinking-sequence",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Complete Introduction: An Unusual Experiment; Chapter 1 begins PDF 14",
+    "title": "Separate recognition, evaluation, planning and calculation",
+    "tags": [
+      "study-method",
+      "position-evaluation",
+      "planning",
+      "candidate-moves",
+      "calculation"
+    ],
+    "note": "Kotov&#x27;s imagined grandmaster first recognizes material, opening history, pawn structure, files, diagonals and familiar position types. He then compares plans and piece roles, decides which side is better and where play belongs, and only after that selects candidates and calculates concrete replies. Memory supplies precedents, but the current board still has to be assessed.\n\nThis is a descriptive model rather than a rigid move checklist. Use it to review omissions: did the player miss a familiar pattern, evaluate the position incorrectly, choose the wrong plan, omit a candidate, or calculate the candidate badly? The sequence connects chess knowledge to over-the-board decisions and gives the dashboard a useful taxonomy for post-game notes.",
+    "keyIdeas": [
+      "Recognize the position&#x27;s material, structure, lines and precedents.",
+      "Evaluate and form a plan before entering long concrete analysis.",
+      "Generate candidates that serve the plan, then calculate the opponent&#x27;s replies.",
+      "Classify review errors by the stage at which the process failed."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-think-aloud-diagnosis",
+        "concept": "Study method",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Replay one critical personal position. Before each candidate, record material and structure, evaluation, plan, candidate and expected reply. Compare the record with the game and engine only after the independent pass.",
+        "successCheck": "Classify the main error as recognition, evaluation, planning, candidate omission, calculation or time use, with one sentence of evidence.",
+        "playReminders": [
+          "Which stage of my thinking has actually failed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-phase-formula-notebook",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "General Questions and Preparation parent, opening/middlegame/ending aphorisms; no diagrams",
+    "title": "Collect phase heuristics as prompts, then test them",
+    "tags": [
+      "study-method",
+      "heuristics",
+      "preparation",
+      "general-versus-concrete"
+    ],
+    "note": "Kotov introduces a collection of short formulas gathered from practical experience, analysis and earlier masters. The opening cautions against copying innovations without checking their consequences. The middlegame reminders stress objective reevaluation after an error, attention to future endings and the preference for a clear plan over complications without purpose. The ending reminders point to recurring structural ideas such as the active rook behind a passer, knight endings sharing pawn-ending features, and the special logic of opposite-colored bishops.\n\nThese compact statements are memory aids, not verdicts. Preserve each formula beside a source position or personal example, state the condition under which it applies, and verify it with concrete analysis. Existing verified chapters already cover the opening subsection and the broader general-versus-concrete treatment; this lesson closes the S06 parent and ending-study framing without duplicating their content.",
+    "keyIdeas": [
+      "Store a heuristic with its triggering conditions and an example.",
+      "Use formulas to generate questions and candidates, not automatic moves.",
+      "Reorient quickly after an inaccuracy instead of treating the game as lost.",
+      "Anticipate the endgame while choosing middlegame operations."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "kotov-chess-knowledge-workload",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "A Player&#x27;s Knowledge preamble through the Opening Study heading",
+    "title": "Turn broad chess knowledge into a sustainable workload",
+    "tags": [
+      "study-method",
+      "curriculum",
+      "workload",
+      "preparation"
+    ],
+    "note": "Kotov describes the strong player&#x27;s knowledge as a continuing workload: preparation, current opening ideas, endgame discoveries, analysis of games and positions, and learning from predecessors. He also emphasizes that a player cannot master this field without deliberate effort and a personal course of study. The historical grandmaster-scale workload is far larger than a club player&#x27;s weekly plan should be.\n\nThe practical adaptation is to divide the workload into maintained assets: a compact repertoire, a small library of typical positions, a review queue from one&#x27;s games, and a level-appropriate endgame syllabus. Limit weekly additions and require every new item to connect to a recent game or recurring position.",
+    "keyIdeas": [
+      "Treat chess knowledge as maintained assets rather than a pile of reading.",
+      "Connect study to preparation, recurring positions and reviewed games.",
+      "Scale the workload to available time and playing level."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "kotov-middlegame-typical-position-library",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Complete Is it Possible to Study the Middlegame?; one diagram",
+    "title": "Study the middlegame through recurring position types",
+    "tags": [
+      "study-method",
+      "typical-positions",
+      "middlegame",
+      "pawn-structure"
+    ],
+    "note": "Kotov argues that the middlegame becomes studyable when positions are grouped by recurring structures, attacks and piece arrangements. He points to typical pawn-storm positions, recurring squares and standard attacking or defensive methods. Practical experience remains necessary, but a player can accelerate it by studying many representative positions and recognizing what transfers from one opening to another.\n\nBuild a position library around the features that determine plans rather than around opening names alone. For each position record the pawn skeleton, critical squares, usual break, attacking and defensive piece roles, and the event that changes the position type. The source&#x27;s single diagram is an example of a recurring structure, not a complete repertoire prescription.",
+    "keyIdeas": [
+      "Group middlegames by recurring structures and methods.",
+      "Study both the attacking plan and the defender&#x27;s method.",
+      "Record the break or exchange that transforms the position type.",
+      "Use representative positions to supplement practical experience."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-typical-position-card",
+        "concept": "Opening to middlegame transition",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "From a personal game, record the pawn skeleton, critical squares, usual break, best and worst pieces, plan for both sides, and the exchange or pawn move that would transform the structure. Link one verified book lesson with the same position type.",
+        "successCheck": "State both plans and the transformation trigger without using the opening name as the explanation.",
+        "playReminders": [
+          "Which recurring position is this, and what changes its identity?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-adjournment-to-postgame-lab",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Complete Adjourned Games; two diagrams",
+    "title": "Adapt adjournment analysis into a post-game laboratory",
+    "tags": [
+      "study-method",
+      "post-game-analysis",
+      "historical-adaptation",
+      "recovery"
+    ],
+    "note": "The sealed-move procedures and overnight adjournments described by Kotov are historical for ordinary modern play. The durable training ideas are to resist a rushed decision at a critical boundary, begin analysis with the result question and broad position facts, write down a full independent analysis, compare it with collaborators or an engine afterward, and preserve sleep and recovery when another game follows. Kotov also reports that collective suggestions can be noisy and should be checked independently.\n\nFor the dashboard, use the passage only as a post-game lab. Before opening an engine, reconstruct the critical position, write candidate moves and an evaluation, and calculate the most forcing branches. Then compare against the engine or source, label the error, and save one corrected rule or pattern. Do not teach sealed-move tactics or adjournment logistics as current tournament procedure.",
+    "keyIdeas": [
+      "Replace obsolete adjournment logistics with delayed post-game analysis.",
+      "Write an independent analysis before consulting an engine or group.",
+      "Check every collaborative suggestion rather than accepting it by authority.",
+      "Protect recovery when study competes with the next playing session."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-postgame-lab",
+        "concept": "Calculation",
+        "minutes": 40,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "Without an engine, reconstruct the critical position, write the evaluation, candidates and principal lines, and decide what result each line should produce. Afterward compare with an engine or verified source and check every outside suggestion independently.",
+        "successCheck": "Save the missed candidate or calculation error and one corrected line; do not save an unexplained engine move.",
+        "playReminders": [
+          "What can I prove before I ask the engine?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-chess-life-balance",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Complete Chess and Life subsection",
+    "title": "Fit chess study around work, school and health",
+    "tags": [
+      "study-method",
+      "workload",
+      "consistency",
+      "life-balance"
+    ],
+    "note": "Kotov advises developing players to combine chess with education and work rather than abandoning other obligations too early. He treats full-time dedication as a demanding professional decision and notes that many strong players successfully combine chess with another career.\n\nThe dashboard implication is a study budget. Set a weekly time ceiling, reserve play and review first, and choose a small number of readings or exercises that fit the remaining time. Consistency across months is more useful than a schedule that collapses after an ambitious week.",
+    "keyIdeas": [
+      "Set chess work inside a sustainable weekly time budget.",
+      "Preserve education, work, health and recovery obligations.",
+      "Prefer a repeatable schedule to an unsustainable surge."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "kotov-success-factors",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Complete The Factors of Success subsection",
+    "title": "Prepare around both players&#x27; strengths and weaknesses",
+    "tags": [
+      "study-method",
+      "preparation",
+      "self-review",
+      "opponent-preparation"
+    ],
+    "note": "Kotov presents three linked factors: understand one&#x27;s own strengths and weaknesses, understand the opponent&#x27;s strengths and weaknesses, and pursue quality of play beyond the immediate result. His examples stress that serious competition and service to the game matter more than casual score keeping.\n\nConvert the first two factors into preparation fields and keep the third as a review standard. A useful study plan names one personal strength to preserve, one weakness to train, one likely opponent resource, and one quality target such as candidate coverage or endgame technique. The historical moral language should remain context, not a measurable dashboard claim.",
+    "keyIdeas": [
+      "Include both self-knowledge and opponent knowledge in preparation.",
+      "Preserve a strength while training a weakness.",
+      "Judge the review by decision quality as well as result."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "kotov-opponent-file",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Complete Know Your Opponent subsection",
+    "title": "Build a bounded, evidence-based opponent file",
+    "tags": [
+      "study-method",
+      "opponent-preparation",
+      "opening",
+      "evidence"
+    ],
+    "note": "Kotov describes studying an opponent&#x27;s games, preferred positions, opening choices, tournament behavior and practical temperament. The legitimate modern use is bounded chess preparation: identify repeated openings, structures, time-use patterns and objective results from available games. Personal anecdotes in the passage are historical observations, not a license to speculate about private traits.\n\nA practical opponent file should record sample size and confidence. Prepare one likely opening branch, one structure the opponent repeatedly reaches, and one critical alternative. After the game, compare the forecast with what happened and delete conclusions that were based on too little evidence.",
+    "keyIdeas": [
+      "Base opponent preparation on games and repeatable chess behavior.",
+      "Record sample size and confidence for every claim.",
+      "Prepare a small number of likely branches and structures.",
+      "Correct the file after the game instead of preserving a bad story."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-tabiya-file",
+        "concept": "Opening lines",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "Create one private tabiya card with exact position, plans for both sides, one typical break, one critical deviation, the resulting pawn structure, and the move where independent calculation replaces memory.",
+        "successCheck": "Explain the plan after the line ends and identify the opponent&#x27;s strongest alternative without relying on the opening name.",
+        "playReminders": [
+          "Where does memory end, and what position am I actually entering?"
+        ]
+      },
+      {
+        "id": "study-s06-opponent-preparation",
+        "concept": "Opening lines",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "Review a bounded sample and record repeated openings, structures, time controls and objective results. Prepare one likely branch and one alternative. Mark each conclusion with sample size and confidence; omit private or speculative personality claims.",
+        "successCheck": "After the game, compare forecast with reality and delete at least one unsupported claim if the evidence did not hold.",
+        "playReminders": [
+          "What does the game sample support, and how confident should I be?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-periodic-self-audit",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Complete Know Thyself! subsection and chapter close; one diagram",
+    "title": "Run a periodic audit of every phase and recurring error",
+    "tags": [
+      "study-method",
+      "self-review",
+      "error-taxonomy",
+      "training-plan"
+    ],
+    "note": "Kotov recommends a periodic checkup based on all games since the previous review, with special attention to losses. The audit should cover openings, middlegame decisions and endgame technique, as well as practical reactions to errors and defeats. His personal example shows the desired outcome: identify a concrete recurring weakness, issue a training order, and fill the next study block with material that targets it.\n\nUse a quarterly or sufficiently large game sample rather than reacting to one bad result. Count recurring error types, select the highest-frequency or highest-cost weakness, and define a four-week intervention with a retest. The reviewed diagram illustrates Kotov&#x27;s own tactical blind spot; it is evidence for his diagnosis, not a universal test position.",
+    "keyIdeas": [
+      "Audit a meaningful sample of games, especially losses.",
+      "Review openings, middlegames, endings and practical behavior separately.",
+      "Turn the leading recurring weakness into a bounded training order.",
+      "Retest after the study block and revise the diagnosis."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-quarterly-self-audit",
+        "concept": "Study method",
+        "minutes": 60,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "Count errors by phase and type, identify the highest-frequency or highest-cost weakness, choose a four-week intervention, and specify the positions or game tags that will serve as a retest.",
+        "successCheck": "Produce one bounded training order with baseline count, assigned material, weekly activity and retest date.",
+        "playReminders": [
+          "What weakness repeats often enough to deserve the next study block?"
         ]
       }
     ]
@@ -12068,6 +12644,40 @@
     ]
   },
   {
+    "chapterId": "nimzovich-weakness-to-systematic-study",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "Complete Fred Reinfeld Introduction; one historical game diagram",
+    "title": "Turn a diagnosed weakness into a study program",
+    "tags": [
+      "study-method",
+      "self-review",
+      "systematic-study",
+      "historical-context"
+    ],
+    "note": "Reinfeld&#x27;s introduction is principally a biography, so its training value is narrow. The useful thread is the account of Nimzovich responding to early failures by identifying weak positional orientation, working deliberately on it, and organizing a large body of chess ideas into a connected system. The introduction also warns, through the history it recounts, that a system should simplify a complex field without pretending to abolish complexity.\n\nFor a modern study board, use this as a weakness-to-curriculum bridge. Name one recurring weakness from reviewed games, choose a bounded set of principles and examples that addresses it, and retest the weakness in later games. Treat this as an editor&#x27;s historical inference about Nimzovich&#x27;s development, not a step-by-step method written by Nimzovich himself.",
+    "keyIdeas": [
+      "Use reviewed games to identify one recurring weakness.",
+      "Build a connected study block around that weakness instead of collecting isolated tips.",
+      "Retest the claimed improvement in later practical games.",
+      "Keep the biographical source&#x27;s limits visible."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-quarterly-self-audit",
+        "concept": "Study method",
+        "minutes": 60,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "Count errors by phase and type, identify the highest-frequency or highest-cost weakness, choose a four-week intervention, and specify the positions or game tags that will serve as a retest.",
+        "successCheck": "Produce one bounded training order with baseline count, assigned material, weekly activity and retest date.",
+        "playReminders": [
+          "What weakness repeats often enough to deserve the next study block?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nunn-mate-recognition",
     "book": "1001 Deadly Checkmates",
     "author": "John Nunn",
@@ -15093,6 +15703,40 @@
     "activities": []
   },
   {
+    "chapterId": "shereshevsky-principle-first-endgame-study",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Complete Introduction; Chapter 1 begins PDF 9",
+    "title": "Study practical endgames through plans and recurring principles",
+    "tags": [
+      "study-method",
+      "endgame",
+      "schematic-thinking",
+      "principles"
+    ],
+    "note": "Shereshevsky distinguishes practical endgame study from memorizing long reference-book variations. The durable core is a set of plans and principles drawn from complicated practical endings, classic games and recurring types. Exact knowledge still matters, especially for theoretical positions, but the student should understand whether a position is won or drawn and retain a workable plan rather than attempt to store every branch.\n\nThe introduction also warns that rules are not universal laws. Use them to orient the decision, then calculate whether the current position satisfies their conditions. A study card should therefore contain the principle, the position type, the usual plan, the opponent&#x27;s counterplan and the concrete exception that would change the answer.",
+    "keyIdeas": [
+      "Learn plans and recurring principles from practical endings.",
+      "Use exact theoretical knowledge where the result depends on it.",
+      "Treat rules as orientation tools that require a concrete check.",
+      "Include the defender&#x27;s plan and the exception that changes the result."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-rating-band-endgame-gate",
+        "concept": "Study method",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Select endgame material from the current rating band or at most one band above, then check recent games for evidence that the ending occurs. For each chosen item record result class, plan, key position and exception. Defer rare material with no practical trigger.",
+        "successCheck": "Explain the position&#x27;s result and plan in words before recalling moves; correctly defer at least one low-value topic.",
+        "playReminders": [
+          "Is this endgame useful now, and do I understand the plan beneath the moves?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "amateurs-imbalances",
     "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
     "author": "Jeremy Silman",
@@ -17226,6 +17870,40 @@
         "successCheck": "Select the plan that survives the opponent&#x27;s fastest response and explain the rejected plan&#x27;s timing defect.",
         "playReminders": [
           "What is the opponent&#x27;s fastest plan while I carry out mine?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-think-aloud-error-map",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Complete Introduction; Imbalances begins PDF 9",
+    "title": "Expose the reasoning error before prescribing the cure",
+    "tags": [
+      "study-method",
+      "self-review",
+      "think-aloud",
+      "error-diagnosis"
+    ],
+    "note": "Silman explains that a teacher cannot reliably repair a student&#x27;s chess by looking only at finished moves. His teaching sessions begin from favorable positions, require students to say what they are thinking before and after each move, and preserve those thoughts for diagnosis. Annotating master games provides a second window into which concepts the student notices and which remain absent.\n\nThe study method is therefore diagnostic before it is prescriptive. Record the reason for a candidate move, the expected reply, and the evaluation after the reply. When comparing with a source or coach, classify the gap in the reasoning rather than merely replacing the move. The chapter promises a map of recurring amateur misconceptions; the introduction itself contains no positions or detailed cures.",
+    "keyIdeas": [
+      "Record the thought process, not only the move played.",
+      "Use before-and-after verbalization to locate the misconception.",
+      "Annotating a master game reveals which concepts are missing from the student&#x27;s model.",
+      "Prescribe study only after the error type is identified."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-think-aloud-diagnosis",
+        "concept": "Study method",
+        "minutes": 25,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Replay one critical personal position. Before each candidate, record material and structure, evaluation, plan, candidate and expected reply. Compare the record with the game and engine only after the independent pass.",
+        "successCheck": "Classify the main error as recognition, evaluation, planning, candidate omission, calculation or time use, with one sentence of evidence.",
+        "playReminders": [
+          "Which stage of my thinking has actually failed?"
         ]
       }
     ]
@@ -20893,6 +21571,41 @@
         "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
         "playReminders": [
           "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rating-banded-curriculum",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Complete Introduction and How to read this book; Acknowledgements begins PDF 19",
+    "title": "Study only the endgames your current level can use",
+    "tags": [
+      "study-method",
+      "endgame",
+      "curriculum",
+      "rating-band",
+      "prerequisites"
+    ],
+    "note": "Silman organizes endgame knowledge by playing level. Beginners need basic mates and should spend most study time on tactics and elementary strategy; stronger players add a finite set of critical endgames. Each band depends on the earlier foundations, and the reader should understand the material through the current band or at most one band above before advancing.\n\nThe governing principle is usefulness. Avoid random or rare endgames that consume time without appearing in the player&#x27;s games, and prefer understanding to rote memory. The dashboard should use rating as an initial gate, then refine the assignment with evidence from recent games. A rating band is a curriculum boundary, not proof that every player inside it has identical needs.",
+    "keyIdeas": [
+      "Match endgame study to the player&#x27;s current level and practical needs.",
+      "Master earlier foundations before advancing to a higher band.",
+      "Prefer understanding to memorization.",
+      "Spend remaining study time on the areas most likely to improve current play."
+    ],
+    "activities": [
+      {
+        "id": "study-s06-rating-band-endgame-gate",
+        "concept": "Study method",
+        "minutes": 20,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Select endgame material from the current rating band or at most one band above, then check recent games for evidence that the ending occurs. For each chosen item record result class, plan, key position and exception. Defer rare material with no practical trigger.",
+        "successCheck": "Explain the position&#x27;s result and plan in words before recalling moves; correctly defer at least one low-value topic.",
+        "playReminders": [
+          "Is this endgame useful now, and do I understand the plan beneath the moves?"
         ]
       }
     ]

@@ -3081,6 +3081,96 @@
       "crossrefIds": [
         "position-evaluation--kotov-general-formulas-concrete-test"
       ]
+    },
+    {
+      "id": "s03-tree-transcription",
+      "crossrefIds": [
+        "analysis-tree--kotov-analysis-tree-branch-discipline",
+        "analysis-tree--kotov-analysis-tree-shapes"
+      ]
+    },
+    {
+      "id": "s03-board-restoration",
+      "crossrefIds": [
+        "visualization--kotov-visualize-and-refresh-position"
+      ]
+    },
+    {
+      "id": "s02-forcing-versus-quiet",
+      "crossrefIds": [
+        "candidate-moves--kotov-creeping-quiet-candidates"
+      ]
+    },
+    {
+      "id": "s02-s03-exercises-1-12",
+      "crossrefIds": [
+        "calculation--kotov-calculation-exercises-1-12"
+      ]
+    },
+    {
+      "id": "s02-analysis-or-judgment-gate",
+      "crossrefIds": [
+        "calculation--kotov-forced-and-unforced-branches"
+      ]
+    },
+    {
+      "id": "study-s06-weekly-read-solve-review",
+      "crossrefIds": [
+        "study-method--erwich-graded-tactics-loop"
+      ]
+    },
+    {
+      "id": "study-s06-think-aloud-diagnosis",
+      "crossrefIds": [
+        "study-method--amateurs-think-aloud-error-map",
+        "study-method--kotov-full-thinking-sequence"
+      ]
+    },
+    {
+      "id": "study-s06-tabiya-file",
+      "crossrefIds": [
+        "opening-lines--kotov-opponent-file"
+      ]
+    },
+    {
+      "id": "study-s06-typical-position-card",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--kotov-middlegame-typical-position-library",
+        "opening-to-middlegame-transition--flores-structure-study"
+      ]
+    },
+    {
+      "id": "study-s06-postgame-lab",
+      "crossrefIds": [
+        "calculation--kotov-adjournment-to-postgame-lab",
+        "calculation--kotov-analysis-training"
+      ]
+    },
+    {
+      "id": "study-s06-opponent-preparation",
+      "crossrefIds": [
+        "opening-lines--kotov-opponent-file"
+      ]
+    },
+    {
+      "id": "study-s06-quarterly-self-audit",
+      "crossrefIds": [
+        "study-method--nimzovich-weakness-to-systematic-study",
+        "study-method--kotov-periodic-self-audit"
+      ]
+    },
+    {
+      "id": "study-s06-rating-band-endgame-gate",
+      "crossrefIds": [
+        "study-method--silman-rating-banded-curriculum",
+        "study-method--shereshevsky-principle-first-endgame-study"
+      ]
+    },
+    {
+      "id": "study-s06-graded-tactics-cycle",
+      "crossrefIds": [
+        "forcing-moves--erwich-graded-tactics-loop"
+      ]
     }
   ]
 }

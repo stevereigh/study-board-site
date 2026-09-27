@@ -6972,13 +6972,286 @@
     {
       "id": "kotov-general-formulas-concrete-test",
       "bookId": "kotov-think-grandmaster-algebraic",
-      "ref": "What is Concrete and What is General?, Middlegame, and General Formulae and Concrete Analysis; printed 129-135, PDFs 128-134, nine example boards",
+      "ref": "What is Concrete and What is General?, Middlegame, and General Formulae and Concrete Analysis; printed 129-135, PDFs 128-134, seven visible boards",
       "title": "Treat general formulas as questions for concrete analysis",
       "locator": {
         "pdfPageStart": 128,
         "pdfPageEnd": 134,
         "printedPages": "129-135",
         "section": "What is Concrete and What is General?; Middlegame; General Formulae and Concrete Analysis",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-analysis-tree-branch-discipline",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "The Tree of Analysis; 2 boards and tree figures 1-2",
+      "title": "Build and traverse an analysis tree once",
+      "locator": {
+        "pdfPageStart": 23,
+        "pdfPageEnd": 30,
+        "printedPages": "24-31",
+        "section": "The Tree of Analysis; 2 boards and tree figures 1-2",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-forced-and-unforced-branches",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Forced and Unforced Variations; 2 boards",
+      "title": "Scale calculation depth to forcingness",
+      "locator": {
+        "pdfPageStart": 30,
+        "pdfPageEnd": 32,
+        "printedPages": "31-33",
+        "section": "Forced and Unforced Variations; 2 boards",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-analysis-tree-shapes",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Different Types of Tree through Thickets of Variations; 9 boards and figures 3-4",
+      "title": "Recognize trunk, coppice and thicket calculation trees",
+      "locator": {
+        "pdfPageStart": 32,
+        "pdfPageEnd": 40,
+        "printedPages": "33-41",
+        "section": "Different Types of Tree through Thickets of Variations; 9 boards and figures 3-4",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-candidate-selection-complete",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Selection of Candidate Moves and What is a Candidate Move?; 8 boards",
+      "title": "Generate the complete candidate set without flooding the search",
+      "locator": {
+        "pdfPageStart": 40,
+        "pdfPageEnd": 50,
+        "printedPages": "41-51",
+        "section": "Selection of Candidate Moves and What is a Candidate Move?; 8 boards",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-visualize-and-refresh-position",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Botvinnik-Smyslov example, Blumenfeld quotation and visualization advice; 1 board",
+      "title": "Refresh the real board after every reply",
+      "locator": {
+        "pdfPageStart": 46,
+        "pdfPageEnd": 49,
+        "printedPages": "47-50",
+        "section": "Botvinnik-Smyslov example, Blumenfeld quotation and visualization advice; 1 board",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-creeping-quiet-candidates",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Creeping Moves in full; 4 boards",
+      "title": "Include quiet moves that change the position’s logic",
+      "locator": {
+        "pdfPageStart": 50,
+        "pdfPageEnd": 52,
+        "printedPages": "51-53",
+        "section": "Creeping Moves in full; 4 boards",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-calculation-exercises-1-12",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Exercises 1-12 on PDFs 78-80; exact answers 1-12 on PDFs 180-182; 12 exercise boards",
+      "title": "Calculation exercises 1-12 with exact source answers",
+      "locator": {
+        "pdfPageStart": 78,
+        "pdfPageEnd": 182,
+        "printedPages": "79-81 and 181-183",
+        "section": "Exercises 1-12 on PDFs 78-80; exact answers 1-12 on PDFs 180-182; 12 exercise boards",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-weakness-to-systematic-study",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Complete Fred Reinfeld Introduction; one historical game diagram",
+      "title": "Turn a diagnosed weakness into a study program",
+      "locator": {
+        "pdfPageStart": 16,
+        "pdfPageEnd": 26,
+        "printedPages": "xvii-xxvii",
+        "section": "Complete Fred Reinfeld Introduction; one historical game diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-think-aloud-error-map",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Complete Introduction; Imbalances begins PDF 9",
+      "title": "Expose the reasoning error before prescribing the cure",
+      "locator": {
+        "pdfPageStart": 8,
+        "pdfPageEnd": 8,
+        "printedPages": "xi",
+        "section": "Complete Introduction; Imbalances begins PDF 9",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-full-thinking-sequence",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Complete Introduction: An Unusual Experiment; Chapter 1 begins PDF 14",
+      "title": "Separate recognition, evaluation, planning and calculation",
+      "locator": {
+        "pdfPageStart": 10,
+        "pdfPageEnd": 13,
+        "printedPages": "11-14",
+        "section": "Complete Introduction: An Unusual Experiment; Chapter 1 begins PDF 14",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-phase-formula-notebook",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "General Questions and Preparation parent, opening/middlegame/ending aphorisms; no diagrams",
+      "title": "Collect phase heuristics as prompts, then test them",
+      "locator": {
+        "pdfPageStart": 129,
+        "pdfPageEnd": 130,
+        "printedPages": "130-131",
+        "section": "General Questions and Preparation parent, opening/middlegame/ending aphorisms; no diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-chess-knowledge-workload",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "A Player's Knowledge preamble through the Opening Study heading",
+      "title": "Turn broad chess knowledge into a sustainable workload",
+      "locator": {
+        "pdfPageStart": 164,
+        "pdfPageEnd": 165,
+        "printedPages": "165-166",
+        "section": "A Player's Knowledge preamble through the Opening Study heading",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-middlegame-typical-position-library",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Complete Is it Possible to Study the Middlegame?; one diagram",
+      "title": "Study the middlegame through recurring position types",
+      "locator": {
+        "pdfPageStart": 169,
+        "pdfPageEnd": 171,
+        "printedPages": "170-172",
+        "section": "Complete Is it Possible to Study the Middlegame?; one diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-adjournment-to-postgame-lab",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Complete Adjourned Games; two diagrams",
+      "title": "Adapt adjournment analysis into a post-game laboratory",
+      "locator": {
+        "pdfPageStart": 171,
+        "pdfPageEnd": 174,
+        "printedPages": "172-175",
+        "section": "Complete Adjourned Games; two diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-chess-life-balance",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Complete Chess and Life subsection",
+      "title": "Fit chess study around work, school and health",
+      "locator": {
+        "pdfPageStart": 174,
+        "pdfPageEnd": 175,
+        "printedPages": "175-176",
+        "section": "Complete Chess and Life subsection",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-success-factors",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Complete The Factors of Success subsection",
+      "title": "Prepare around both players' strengths and weaknesses",
+      "locator": {
+        "pdfPageStart": 175,
+        "pdfPageEnd": 176,
+        "printedPages": "176-177",
+        "section": "Complete The Factors of Success subsection",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-opponent-file",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Complete Know Your Opponent subsection",
+      "title": "Build a bounded, evidence-based opponent file",
+      "locator": {
+        "pdfPageStart": 176,
+        "pdfPageEnd": 177,
+        "printedPages": "177-178",
+        "section": "Complete Know Your Opponent subsection",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-periodic-self-audit",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Complete Know Thyself! subsection and chapter close; one diagram",
+      "title": "Run a periodic audit of every phase and recurring error",
+      "locator": {
+        "pdfPageStart": 177,
+        "pdfPageEnd": 179,
+        "printedPages": "178-180",
+        "section": "Complete Know Thyself! subsection and chapter close; one diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-principle-first-endgame-study",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Complete Introduction; Chapter 1 begins PDF 9",
+      "title": "Study practical endgames through plans and recurring principles",
+      "locator": {
+        "pdfPageStart": 7,
+        "pdfPageEnd": 8,
+        "printedPages": "ix-x",
+        "section": "Complete Introduction; Chapter 1 begins PDF 9",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-graded-tactics-loop",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Complete Introduction; Chapter 1 begins PDF 8",
+      "title": "Progress from hinted themes to mixed, unhinted tactics",
+      "locator": {
+        "pdfPageStart": 6,
+        "pdfPageEnd": 7,
+        "printedPages": null,
+        "section": "Complete Introduction; Chapter 1 begins PDF 8",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rating-banded-curriculum",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Complete Introduction and How to read this book; Acknowledgements begins PDF 19",
+      "title": "Study only the endgames your current level can use",
+      "locator": {
+        "pdfPageStart": 14,
+        "pdfPageEnd": 18,
+        "printedPages": null,
+        "section": "Complete Introduction and How to read this book; Acknowledgements begins PDF 19",
         "ebookLocation": null
       }
     }
