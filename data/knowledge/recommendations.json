@@ -3171,6 +3171,231 @@
       "crossrefIds": [
         "forcing-moves--erwich-graded-tactics-loop"
       ]
+    },
+    {
+      "id": "s58-complex-ending-decision-deck",
+      "crossrefIds": [
+        "converting-advantages--shereshevsky-complex-endings-read-the-counterplay",
+        "converting-advantages--shereshevsky-complex-endings-transform-the-target",
+        "converting-advantages--shereshevsky-complex-endings-open-lines-and-transition",
+        "converting-advantages--shereshevsky-complex-endings-coordinate-mixed-material"
+      ]
+    },
+    {
+      "id": "s58-model-player-comparison-grid",
+      "crossrefIds": [
+        "study-method--silman-model-player-comparison"
+      ]
+    },
+    {
+      "id": "s58-scheme-before-moves",
+      "crossrefIds": [
+        "schematic-thinking--kotov-endgame-schemes-and-restraint"
+      ]
+    },
+    {
+      "id": "s58-game-review-transfer",
+      "crossrefIds": [
+        "converting-advantages--shereshevsky-complex-endings-read-the-counterplay",
+        "converting-advantages--silman-model-player-comparison"
+      ]
+    },
+    {
+      "id": "study-s54-active-rook-audit",
+      "crossrefIds": [
+        "rook-endings--nimzovich-aggressive-rook-position"
+      ]
+    },
+    {
+      "id": "study-s54-connected-passers",
+      "crossrefIds": [
+        "rook-endings--silman-connected-passers-coordinate",
+        "rook-endings--silman-connected-passers-stalemate"
+      ]
+    },
+    {
+      "id": "study-s54-rook-pawn-lucena",
+      "crossrefIds": [
+        "rook-endings--silman-rook-pawn-lucena-distance"
+      ]
+    },
+    {
+      "id": "study-s54-front-rook-vancura",
+      "crossrefIds": [
+        "rook-endings--silman-rook-in-front-seventh",
+        "rook-endings--silman-vancura-defense"
+      ]
+    },
+    {
+      "id": "study-s54-rank-rule-drill",
+      "crossrefIds": [
+        "rook-endings--silman-fifth-rank-rule",
+        "rook-endings--silman-fourth-rank-rule"
+      ]
+    },
+    {
+      "id": "study-s54-flowchart",
+      "crossrefIds": [
+        "rook-endings--silman-rook-endgame-flowchart",
+        "rook-endings--silman-connected-passers-counterpasser"
+      ]
+    },
+    {
+      "id": "study-s54-one-flank-ladder",
+      "crossrefIds": [
+        "rook-endings--silman-rook-two-v-one-one-wing",
+        "rook-endings--silman-rook-three-v-two-one-wing",
+        "rook-endings--silman-rook-four-v-three-one-wing"
+      ]
+    },
+    {
+      "id": "study-s54-rubinstein-model-games",
+      "crossrefIds": [
+        "rook-endings--silman-rubinstein-active-rook-targets",
+        "rook-endings--silman-rubinstein-counterplay-conversion"
+      ]
+    },
+    {
+      "id": "study-s54-part-six-rook-tests",
+      "crossrefIds": [
+        "rook-endings--silman-connected-passers-coordinate",
+        "rook-endings--silman-rook-pawn-lucena-distance",
+        "rook-endings--silman-fourth-rank-rule"
+      ]
+    },
+    {
+      "id": "study-s54-part-seven-rook-tests",
+      "crossrefIds": [
+        "rook-endings--silman-rook-endgame-flowchart",
+        "rook-endings--silman-rook-four-v-three-one-wing",
+        "rook-endings--silman-rubinstein-counterplay-conversion"
+      ]
+    },
+    {
+      "id": "study-s43-nunn-mixed-mates-751-798",
+      "crossrefIds": [
+        "mating-patterns--nunn-mixed-mates-751-798"
+      ]
+    },
+    {
+      "id": "study-s43-nunn-mixed-mates-799-846",
+      "crossrefIds": [
+        "mating-patterns--nunn-mixed-mates-799-846"
+      ]
+    },
+    {
+      "id": "study-s43-nunn-mixed-mates-847-888",
+      "crossrefIds": [
+        "mating-patterns--nunn-mixed-mates-847-888"
+      ]
+    },
+    {
+      "id": "study-s43-nunn-mate-revision-889-948",
+      "crossrefIds": [
+        "study-method--nunn-mate-revision-889-948"
+      ]
+    },
+    {
+      "id": "study-s43-nunn-extreme-mate-949-1001",
+      "crossrefIds": [
+        "mating-patterns--nunn-extreme-mate-949-1001"
+      ]
+    },
+    {
+      "id": "study-s43-amateur-mixed-tests-1-8",
+      "crossrefIds": [
+        "position-evaluation--amateur-mixed-tests-1-8"
+      ]
+    },
+    {
+      "id": "study-s43-amateur-mixed-tests-9-18",
+      "crossrefIds": [
+        "position-evaluation--amateur-mixed-tests-9-18"
+      ]
+    },
+    {
+      "id": "study-s43-amateur-mixed-tests-19-26",
+      "crossrefIds": [
+        "candidate-moves--amateur-mixed-tests-19-26"
+      ]
+    },
+    {
+      "id": "study-s43-silman-part-five-complete-bank",
+      "crossrefIds": [
+        "pawn-endings--silman-part-five-complete-bank"
+      ]
+    },
+    {
+      "id": "study-s43-silman-part-six-complete-bank",
+      "crossrefIds": [
+        "pawn-endings--silman-part-six-complete-bank"
+      ]
+    },
+    {
+      "id": "study-s43-silman-part-seven-complete-bank",
+      "crossrefIds": [
+        "rook-endings--silman-part-seven-complete-bank"
+      ]
+    },
+    {
+      "id": "study-s43-silman-tactics-simple-medium",
+      "crossrefIds": [
+        "forcing-moves--silman-tactics-simple-medium"
+      ]
+    },
+    {
+      "id": "study-s43-silman-tactics-hard",
+      "crossrefIds": [
+        "calculation--silman-tactics-hard"
+      ]
+    },
+    {
+      "id": "study-s43-silman-tactics-very-hard",
+      "crossrefIds": [
+        "analysis-tree--silman-tactics-very-hard"
+      ]
+    },
+    {
+      "id": "study-s43-cross-book-spaced-review",
+      "crossrefIds": [
+        "study-method--nunn-mate-revision-889-948",
+        "study-method--amateur-mixed-tests-9-18"
+      ]
+    },
+    {
+      "id": "s59-three-decision-game-pass",
+      "crossrefIds": [
+        "development--nimzovich-games-opening-tempo-and-restraint"
+      ]
+    },
+    {
+      "id": "s59-purpose-journal",
+      "crossrefIds": [
+        "prophylaxis--nimzovich-games-blockade-and-prophylaxis",
+        "prophylaxis--nimzovich-games-two-wings-and-transitions",
+        "prophylaxis--nimzovich-games-center-mobility-and-majorities",
+        "prophylaxis--nimzovich-games-prevention-overprotection-and-pawns",
+        "prophylaxis--nimzovich-games-hypermodern-centers-and-sacrifices"
+      ]
+    },
+    {
+      "id": "s59-concept-transfer",
+      "crossrefIds": [
+        "center-control--nimzovich-games-opening-tempo-and-restraint",
+        "center-control--nimzovich-games-center-mobility-and-majorities",
+        "center-control--nimzovich-games-center-wing-attacks-and-conversion",
+        "center-control--nimzovich-games-hypermodern-centers-and-sacrifices"
+      ]
+    },
+    {
+      "id": "s59-spaced-game-queue",
+      "crossrefIds": [
+        "restriction--nimzovich-games-opening-tempo-and-restraint",
+        "restriction--nimzovich-games-blockade-and-prophylaxis",
+        "restriction--nimzovich-games-prevention-overprotection-and-pawns",
+        "restriction--nimzovich-games-center-wing-attacks-and-conversion",
+        "restriction--nimzovich-games-hypermodern-centers-and-sacrifices"
+      ]
     }
   ]
 }

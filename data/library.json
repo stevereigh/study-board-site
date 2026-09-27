@@ -9275,6 +9275,44 @@
     ]
   },
   {
+    "chapterId": "kotov-endgame-schemes-and-restraint",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Complete Chapter 4; 8 boards; Capablanca-Ragozin, Lasker-Pillsbury, Bogoljubow-Lasker, and Flohr-Kan material",
+    "title": "Think in schemes, improve the king, and do not hurry",
+    "tags": [
+      "schematic-thinking",
+      "converting-advantages",
+      "king-activity",
+      "favorable-exchanges",
+      "restriction"
+    ],
+    "note": "Kotov treats practical endgame skill as plan construction rather than isolated move finding. Capablanca first places every piece on its ideal square. The Lasker examples show a remote weakness being reached through patient rerouting and a king entering only when the structure is ready. Flohr repeatedly regroups in an opposite-coloured-bishop ending until the defender must create another weakness. The chapter&#x27;s operational rules are to picture the desired setup, avoid irreversible pawn moves until necessary, choose exchanges by the resulting duties of the pieces, and activate the king as soon as it has a safe route.",
+    "keyIdeas": [
+      "State the target formation before calculating moves.",
+      "Use repetition and waiting moves to expose a concession without relaxing control.",
+      "Judge exchanges by the resulting activity and targets, not by a blanket rule.",
+      "Bring the king toward the decisive sector once checks and tactical breaks are controlled."
+    ],
+    "activities": [
+      {
+        "id": "s58-scheme-before-moves",
+        "concept": "Schematic thinking",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Place every piece on its ideal square in words, identify the concession needed from the defender, and only then calculate a move order.",
+        "successCheck": "Complete every bounded board with a stated counterplay resource, worst piece, target or exchange, and stable transition verdict.",
+        "playReminders": [
+          "What counterplay must be stopped before I improve or convert?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "kotov-full-thinking-sequence",
     "book": "Think Like a Grandmaster",
     "author": "Alexander Kotov",
@@ -12678,6 +12716,428 @@
     ]
   },
   {
+    "chapterId": "nimzovich-aggressive-rook-position",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "2 The Aggressive Rook Position, diagrams 76-80; section 3 begins on PDF 123",
+    "title": "Prefer an active rook, even at a pawn cost",
+    "tags": [
+      "rook-endings",
+      "active-rook",
+      "passivity",
+      "passed-pawn"
+    ],
+    "note": "Nimzovich contrasts an active rook with a rook tied to passive defense. An active rook can check, attack pawns, support a passer on the other wing, and give its king room to move. A passive rook lacks that flexibility and can leave its king vulnerable to restriction or zugzwang. The source therefore permits giving up a pawn when the exchange releases the rook into useful work.\n\nThe practical test is not simply whether a pawn is defended. Compare the rook&#x27;s future checks, targets, and mobility before and after the pawn concession. The section also states the familiar rule that a rook normally belongs behind a passed pawn, whether the pawn is friendly or hostile. Treat the rule as a way to preserve checking and attacking distance, not as an automatic move when tactics contradict it.",
+    "keyIdeas": [
+      "Measure rook activity by checks, targets, and freedom for the king.",
+      "A pawn can be expendable when its defense condemns the rook to passivity.",
+      "Place the rook behind a passed pawn when that placement preserves useful distance.",
+      "Passive defense can create zugzwang even when material is still equal."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-active-rook-audit",
+        "concept": "Rook endings",
+        "minutes": 20,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Piece activity"
+        ],
+        "instructions": "For My System diagrams 76-80, compare the passive rook&#x27;s legal work with the active alternative: checks, pawn targets, king freedom, and passed-pawn support. State whether a pawn concession is justified before reading the continuation.",
+        "successCheck": "Give a four-factor rook-activity comparison and explain one justified pawn sacrifice.",
+        "playReminders": [
+          "What useful work can my rook do after I save this pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-games-opening-tempo-and-restraint",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "printed 261-271; PDF 282-292; 6 games; 6 diagrams",
+    "title": "Convert opening time into central restraint",
+    "tags": [
+      "development",
+      "tempo",
+      "center-control",
+      "restriction",
+      "outposts"
+    ],
+    "note": "These games connect opening choices to lasting positional duties. Pawn grabbing is punished when it costs development; a mobile center is met by restraint and blockade; bishops, files, and outposts become valuable only after the center is stabilized. The move-by-move question is whether a move develops with tempo, restrains a pawn advance, or creates a usable entry square.",
+    "keyIdeas": [
+      "Treat tempo loss as a positional concession when the center can open.",
+      "Restrain the mobile pawn before occupying the square in front of it.",
+      "Connect an outpost or file to a piece that can actually use it."
+    ],
+    "activities": [
+      {
+        "id": "s59-three-decision-game-pass",
+        "concept": "Development",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Use the diagrams as natural stopping points. At three positions per game, record the opponent&#x27;s threat, two candidate moves, and the purpose of the chosen move before reading the note.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      },
+      {
+        "id": "s59-concept-transfer",
+        "concept": "Center control",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Match one decision from the week&#x27;s games to the closest verified My System game tag, then compare the plans rather than copying a move.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      },
+      {
+        "id": "s59-spaced-game-queue",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study games in the grouped order, revisit the first diagram after 2 days, and retest the final conversion diagram after 7 days.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-games-blockade-and-prophylaxis",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "printed 271-289; PDF 292-310; 6 games; 12 diagrams",
+    "title": "Build the blockade before beginning the attack",
+    "tags": [
+      "prophylaxis",
+      "restriction",
+      "passed-pawns",
+      "open-files",
+      "converting-advantages"
+    ],
+    "note": "The second group turns passed or fixed pawns into stable blockading targets. The blockader is supported, counterplay is removed, and only then do the pieces transfer to a second front. Several games show prophylactic moves whose purpose is invisible without naming the opponent&#x27;s freeing break, while the attacking side&#x27;s rook or queen later uses the squares created by the restraint.",
+    "keyIdeas": [
+      "Blockade with a piece that cannot be driven away by the pawn structure.",
+      "Name the freeing break before choosing the prophylactic move.",
+      "Use the restrained pawn as a base for a second operation."
+    ],
+    "activities": [
+      {
+        "id": "s59-purpose-journal",
+        "concept": "Prophylaxis",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Classify each annotated turning point as development, restraint, overprotection, pawn break, exchange, transfer, or conversion; add a one-sentence reason.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      },
+      {
+        "id": "s59-spaced-game-queue",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study games in the grouped order, revisit the first diagram after 2 days, and retest the final conversion diagram after 7 days.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-games-pins-chains-and-bases",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "printed 289-303; PDF 310-324; 7 games; 11 diagrams",
+    "title": "Attack the base and exploit pinned defenders",
+    "tags": [
+      "pins",
+      "pawn-chains",
+      "pawn-breaks",
+      "opening-lines",
+      "king-safety"
+    ],
+    "note": "These games combine blockade with pins, pawn-chain pressure, and opening lines against the king. A pawn chain is attacked at its base or undermined by a prepared break; a pinned piece becomes a target only when more pressure can be added. The tactical finish grows from restricted defenders and superior development rather than from a detached combination.",
+    "keyIdeas": [
+      "Attack a pawn chain where support is weakest, then reassess its head.",
+      "Add attackers to a pinned defender before spending the pin.",
+      "Open the king only after development and line control support the attack."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "nimzovich-games-two-wings-and-transitions",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "printed 303-317; PDF 324-338; 6 games; 10 diagrams",
+    "title": "Switch wings without releasing the center",
+    "tags": [
+      "prophylaxis",
+      "weak-squares",
+      "piece-activity",
+      "favorable-exchanges",
+      "converting-advantages"
+    ],
+    "note": "Nimzovich repeatedly fixes the center, prevents the opponent&#x27;s active plan, and then transfers a queen, rook, or king to the other wing. Exchanges are judged by whether the remaining pieces preserve the blockade and entry squares. The examples also show that an apparent local attack can be preparation for a second weakness elsewhere.",
+    "keyIdeas": [
+      "Stabilize the center before committing pieces to a flank.",
+      "Use prophylaxis to keep the defender from changing the theater of play.",
+      "Choose exchanges by the target and entry square left behind."
+    ],
+    "activities": [
+      {
+        "id": "s59-purpose-journal",
+        "concept": "Prophylaxis",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Classify each annotated turning point as development, restraint, overprotection, pawn break, exchange, transfer, or conversion; add a one-sentence reason.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-games-center-mobility-and-majorities",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "printed 317-329; PDF 338-350; 7 games; 7 diagrams",
+    "title": "Turn central mobility into a concrete operation",
+    "tags": [
+      "center-control",
+      "pawn-majorities",
+      "piece-activity",
+      "pawn-breaks",
+      "prophylaxis"
+    ],
+    "note": "This group compares mobile centers, pawn majorities, and collective piece mobility. A center is valuable when it gains space, drives a piece, or opens a useful line; otherwise it may become a target. Pawn majorities are similarly judged by whether they create a passer or divert a defender. Several games use a quiet preventive rook or queen move before the central or flank break.",
+    "keyIdeas": [
+      "Measure mobility by the useful move it enables, not by pawn count alone.",
+      "Advance a majority when it creates a passer, target, or entry square.",
+      "Prepare the central break by removing the opponent&#x27;s tactical reply."
+    ],
+    "activities": [
+      {
+        "id": "s59-purpose-journal",
+        "concept": "Prophylaxis",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Classify each annotated turning point as development, restraint, overprotection, pawn break, exchange, transfer, or conversion; add a one-sentence reason.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      },
+      {
+        "id": "s59-concept-transfer",
+        "concept": "Center control",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Match one decision from the week&#x27;s games to the closest verified My System game tag, then compare the plans rather than copying a move.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-games-prevention-overprotection-and-pawns",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "printed 329-347; PDF 350-368; 7 games; 11 diagrams",
+    "title": "Use prevention and overprotection to free the pieces",
+    "tags": [
+      "prophylaxis",
+      "restriction",
+      "isolated-pawns",
+      "hanging-pawns",
+      "piece-activity"
+    ],
+    "note": "The games make prophylaxis and overprotection practical. A key square or pawn is defended beyond immediate necessity so the supporting pieces can later change roles without collapsing the position. Isolated and hanging pawns are not judged by labels alone: they may create lines and initiative, or become fixed weaknesses after their dynamic break is stopped.",
+    "keyIdeas": [
+      "Overprotect a strategically important point to give its defenders freedom.",
+      "A mysterious rook move is useful when it removes a concrete future tactic or prepares a file switch.",
+      "Evaluate isolated and hanging pawns by their remaining breaks and piece activity."
+    ],
+    "activities": [
+      {
+        "id": "s59-purpose-journal",
+        "concept": "Prophylaxis",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Classify each annotated turning point as development, restraint, overprotection, pawn break, exchange, transfer, or conversion; add a one-sentence reason.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      },
+      {
+        "id": "s59-spaced-game-queue",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study games in the grouped order, revisit the first diagram after 2 days, and retest the final conversion diagram after 7 days.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-games-center-wing-attacks-and-conversion",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "printed 347-364; PDF 368-385; 7 games; 14 diagrams",
+    "title": "Connect the center, the wing attack, and the conversion",
+    "tags": [
+      "center-control",
+      "attacking-prerequisites",
+      "restriction",
+      "favorable-exchanges",
+      "converting-advantages"
+    ],
+    "note": "The seventh group shows attacks on both wings emerging from central control. A flank attack is justified when the center is fixed or when a central break opens the needed line. Winning positions are converted by maintaining the blockade, trading the defender&#x27;s active piece, and bringing the king or rook to the new weakness. The games also distinguish a sound positional sacrifice from an attack that merely looks energetic.",
+    "keyIdeas": [
+      "Check the center before launching a flank pawn or piece attack.",
+      "Keep the blockade intact while transferring force to the wing.",
+      "Convert by removing the active defender and entering through the created square."
+    ],
+    "activities": [
+      {
+        "id": "s59-concept-transfer",
+        "concept": "Center control",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Match one decision from the week&#x27;s games to the closest verified My System game tag, then compare the plans rather than copying a move.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      },
+      {
+        "id": "s59-spaced-game-queue",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study games in the grouped order, revisit the first diagram after 2 days, and retest the final conversion diagram after 7 days.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nimzovich-games-hypermodern-centers-and-sacrifices",
+    "book": "My System: A Treatise on Chess",
+    "author": "Aron Nimzovich",
+    "ref": "printed 364-372; PDF 385-393; 4 games; 8 diagrams",
+    "title": "Challenge the center and sacrifice for a durable bind",
+    "tags": [
+      "center-control",
+      "hanging-pawns",
+      "sacrifices",
+      "prophylaxis",
+      "restriction"
+    ],
+    "note": "The final games contrast a hypermodern challenge to the pawn center with the dynamic use of hanging pawns and positional pawn sacrifices. In the last two games, the pawn is not offered for an immediate attack; it buys time to establish and overprotect a cramping blockading point. The compensation must therefore be stated in squares, restricted pieces, and durable activity rather than in vague initiative.",
+    "keyIdeas": [
+      "Permit a pawn center only when it can be attacked by pieces and pawn breaks.",
+      "Treat hanging pawns as dynamic while their breaks remain available.",
+      "A positional pawn sacrifice needs durable squares, restriction, or development as compensation."
+    ],
+    "activities": [
+      {
+        "id": "s59-purpose-journal",
+        "concept": "Prophylaxis",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Classify each annotated turning point as development, restraint, overprotection, pawn break, exchange, transfer, or conversion; add a one-sentence reason.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      },
+      {
+        "id": "s59-concept-transfer",
+        "concept": "Center control",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Match one decision from the week&#x27;s games to the closest verified My System game tag, then compare the plans rather than copying a move.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      },
+      {
+        "id": "s59-spaced-game-queue",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation"
+        ],
+        "instructions": "Study games in the grouped order, revisit the first diagram after 2 days, and retest the final conversion diagram after 7 days.",
+        "successCheck": "Record the position, candidate plans, chosen purpose, source comparison, and one transfer rule without copying the source move.",
+        "playReminders": [
+          "What is the opponent&#x27;s idea, and what purpose must my move serve?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nunn-mate-recognition",
     "book": "1001 Deadly Checkmates",
     "author": "John Nunn",
@@ -14693,6 +15153,202 @@
     ]
   },
   {
+    "chapterId": "nunn-mixed-mates-751-798",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "prompts 226-233; answers 249-251",
+    "title": "Miscellaneous mates 751-798",
+    "tags": [
+      "mating-patterns",
+      "candidate-moves",
+      "calculation"
+    ],
+    "note": "Forty-eight topic-hidden positions. Build the final cage, generate forcing candidates, and classify each miss as recognition, candidate generation, or calculation.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-nunn-mixed-mates-751-798",
+        "concept": "Mating patterns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Solve 12 per session; record line and confidence before reveal; repeat misses at 1/3/7/21 days.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-mixed-mates-799-846",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "prompts 234-241; answers 251-254",
+    "title": "Miscellaneous mates 799-846",
+    "tags": [
+      "mating-patterns",
+      "visualization",
+      "calculation"
+    ],
+    "note": "The middle block raises point value and depth. Inventory flights, interpositions, captures, and counterchecks before scoring.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-nunn-mixed-mates-799-846",
+        "concept": "Mating patterns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Solve 12 per session under a soft clock; requeue every wrong or uncertain result.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-mixed-mates-847-888",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "prompts 242-248; answers 254-258",
+    "title": "Miscellaneous mates 847-888",
+    "tags": [
+      "mating-patterns",
+      "calculation",
+      "blunder-checking"
+    ],
+    "note": "The final high-value block requires a defense-complete line. A correct first move without the key reply remains unmastered.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-nunn-mixed-mates-847-888",
+        "concept": "Mating patterns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Solve 6-9 per session; retire only after two correct delayed recalls.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-mate-revision-889-948",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "instructions 262; prompts 263-272; answers 273-277; score 278",
+    "title": "Mate revision test 889-948",
+    "tags": [
+      "study-method",
+      "mating-patterns",
+      "calculation"
+    ],
+    "note": "A sixty-position topic-hidden diagnostic across all preceding mate themes. Preserve source order for baseline, then review only misses and low-confidence correct answers.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-nunn-mate-revision-889-948",
+        "concept": "Study method",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Use 15-position blocks; log answer, line, time, confidence, and error type.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      },
+      {
+        "id": "study-s43-cross-book-spaced-review",
+        "concept": "Study method",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Weekly topic-hidden set: two mate, two planning, two endgame and one structure item. Capture move or plan, principal line, result, time and confidence; requeue misses and low-confidence successes at 1/3/7/21 days.",
+        "successCheck": "Finish the mixed set without theme cues and route every miss to a verified prerequisite lesson before the next delayed retest.",
+        "playReminders": [
+          "What failed first: recognition, evaluation, candidate generation, calculation, plan selection or rule recall?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "nunn-extreme-mate-949-1001",
+    "book": "1001 Deadly Checkmates",
+    "author": "John Nunn",
+    "ref": "worked model 279; prompts 280-288; answers 289-295; score 296; final chart 297",
+    "title": "Extreme mate challenge 949-1001",
+    "tags": [
+      "mating-patterns",
+      "calculation",
+      "analysis-tree"
+    ],
+    "note": "Use the worked example as the proof standard, then solve 53 final positions without theme cues. Route each miss to the failed stage rather than only to a motif.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-nunn-extreme-mate-949-1001",
+        "concept": "Mating patterns",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Solve 5-8 per session; repeat the whole bank after six weeks.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "shereshevsky-basic-principles",
     "book": "Endgame Strategy",
     "author": "M. I. Shereshevsky",
@@ -15732,6 +16388,170 @@
         "successCheck": "Explain the position&#x27;s result and plan in words before recalling moves; correctly defer at least one low-value topic.",
         "playReminders": [
           "Is this endgame useful now, and do I understand the plan beneath the moves?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-complex-endings-read-the-counterplay",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Factor-Rubinstein through Goldin-Korzubov; 15 boards",
+    "title": "Evaluate a complex ending through the opponent&#x27;s counterplay",
+    "tags": [
+      "counterplay",
+      "prophylaxis",
+      "restriction",
+      "converting-advantages",
+      "favorable-exchanges"
+    ],
+    "note": "The first group of examples starts from apparently modest advantages and asks which active plan the defender still owns. Winning play commonly fixes one wing, denies a freeing pawn break, and only then transfers a king or piece to the other wing. Several positions warn that an automatic exchange or premature pawn advance can release the defender. The practical evaluation is therefore conditional: name the defender&#x27;s break, entry square, or active file, and decide whether it must be stopped immediately or can be met after another improving move.",
+    "keyIdeas": [
+      "A static plus matters only after the opponent&#x27;s active resource is named.",
+      "Fix targets before transferring the attacking force.",
+      "A useful exchange removes counterplay or creates a favorable transition; an automatic exchange may erase the advantage."
+    ],
+    "activities": [
+      {
+        "id": "s58-complex-ending-decision-deck",
+        "concept": "Converting advantages",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Before revealing the source continuation, record the defender&#x27;s counterplay, the worst-placed piece, the desirable exchange, and the pawn break or target switch. Tag each board by its decisive choice.",
+        "successCheck": "Complete every bounded board with a stated counterplay resource, worst piece, target or exchange, and stable transition verdict.",
+        "playReminders": [
+          "What counterplay must be stopped before I improve or convert?"
+        ]
+      },
+      {
+        "id": "s58-game-review-transfer",
+        "concept": "Converting advantages",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "When a game reaches reduced material with at least one rook or minor piece per side, compare it with the S58 decision loop and recommend the closest model-player lesson.",
+        "successCheck": "Complete every bounded board with a stated counterplay resource, worst piece, target or exchange, and stable transition verdict.",
+        "playReminders": [
+          "What counterplay must be stopped before I improve or convert?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-complex-endings-transform-the-target",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Eliskases-Flohr through Keres-Portisch; 12 boards",
+    "title": "Transform the advantage when the first target is contained",
+    "tags": [
+      "converting-advantages",
+      "improving-the-worst-piece",
+      "weak-squares",
+      "open-files",
+      "pawn-endings"
+    ],
+    "note": "These examples show a practical advantage changing form. Pressure on one pawn draws pieces into passivity; the attacker then opens a file, creates a second weakness, changes the minor-piece matchup, or enters a favorable pawn ending. The strongest moves often look slow because they preserve the defender&#x27;s obligations while improving the attacking side&#x27;s least active piece. When liquidation is possible, the resulting pawn races and king entries must be calculated rather than assumed.",
+    "keyIdeas": [
+      "Keep the first weakness fixed while creating a second point of entry.",
+      "Transfer pressure through files and diagonals instead of forcing the original target.",
+      "Calculate the exact transition before exchanging into a pawn ending."
+    ],
+    "activities": [
+      {
+        "id": "s58-complex-ending-decision-deck",
+        "concept": "Converting advantages",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Before revealing the source continuation, record the defender&#x27;s counterplay, the worst-placed piece, the desirable exchange, and the pawn break or target switch. Tag each board by its decisive choice.",
+        "successCheck": "Complete every bounded board with a stated counterplay resource, worst piece, target or exchange, and stable transition verdict.",
+        "playReminders": [
+          "What counterplay must be stopped before I improve or convert?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-complex-endings-open-lines-and-transition",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Andersson-Franco through Larsen-Marjanovic; 14 boards",
+    "title": "Open the right line and time the transition",
+    "tags": [
+      "open-files",
+      "passed-pawns",
+      "pawn-majorities",
+      "favorable-exchanges",
+      "converting-advantages"
+    ],
+    "note": "The middle group emphasizes files, pawn majorities, and the timing of simplification. An open file is useful only when a rook can penetrate or force a defensive duty; otherwise it may be less important than restraining a pawn break. Passed pawns frequently serve as decoys that pull a king or piece away from the true entry point. Good conversion alternates between preparation and concrete calculation, especially when queens or one pair of rooks can be exchanged.",
+    "keyIdeas": [
+      "Connect an open file to a concrete entry square or target.",
+      "Use a passed pawn to divert a defender before attacking elsewhere.",
+      "Simplify only when the remaining piece placement preserves the plan."
+    ],
+    "activities": [
+      {
+        "id": "s58-complex-ending-decision-deck",
+        "concept": "Converting advantages",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Before revealing the source continuation, record the defender&#x27;s counterplay, the worst-placed piece, the desirable exchange, and the pawn break or target switch. Tag each board by its decisive choice.",
+        "successCheck": "Complete every bounded board with a stated counterplay resource, worst piece, target or exchange, and stable transition verdict.",
+        "playReminders": [
+          "What counterplay must be stopped before I improve or convert?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-complex-endings-coordinate-mixed-material",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Andersson-Stean through Kasparov-Ivanov; 17 boards",
+    "title": "Coordinate mixed material before launching the break",
+    "tags": [
+      "piece-activity",
+      "good-and-bad-bishops",
+      "rook-endings",
+      "pawn-breaks",
+      "counterplay",
+      "converting-advantages"
+    ],
+    "note": "The final examples combine rooks, minor pieces, opposite-coloured bishops, and competing pawn fronts. The attacker must coordinate before opening the position because an attractive break can activate the defender&#x27;s rook or bishop. Opposite-coloured bishops increase attacking chances when heavy pieces remain, yet may produce a draw after exchanges. The recurring method is to restrain the counterfront, place the king and rooks on their working squares, prepare the pawn break, and preserve enough material to exploit the new lines.",
+    "keyIdeas": [
+      "Mixed material changes whether an opposite-coloured bishop is an attacking asset or a drawing mechanism.",
+      "Prepare the break with piece coordination and a restriction move.",
+      "Keep the heavy piece that can exploit the newly opened line."
+    ],
+    "activities": [
+      {
+        "id": "s58-complex-ending-decision-deck",
+        "concept": "Converting advantages",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Before revealing the source continuation, record the defender&#x27;s counterplay, the worst-placed piece, the desirable exchange, and the pawn break or target switch. Tag each board by its decisive choice.",
+        "successCheck": "Complete every bounded board with a stated counterplay resource, worst piece, target or exchange, and stable transition verdict.",
+        "playReminders": [
+          "What counterplay must be stopped before I improve or convert?"
         ]
       }
     ]
@@ -17904,6 +18724,130 @@
         "successCheck": "Classify the main error as recognition, evaluation, planning, candidate omission, calculation or time use, with one sentence of evidence.",
         "playReminders": [
           "Which stage of my thinking has actually failed?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateur-mixed-tests-1-8",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "prompts 319-322; answers 333-366",
+    "title": "Amateur&#x27;s Mind tests 1-8",
+    "tags": [
+      "position-evaluation",
+      "candidate-moves",
+      "improving-the-worst-piece"
+    ],
+    "note": "Turn imbalances into plans and piece placement. State the plan before naming a move and compare each candidate with the plan.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-amateur-mixed-tests-1-8",
+        "concept": "Position evaluation",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Attempt two per session; schedule plan-selection errors at 1/3/7/21 days.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateur-mixed-tests-9-18",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "prompts 323-327; answers 367-397",
+    "title": "Amateur&#x27;s Mind tests 9-18",
+    "tags": [
+      "position-evaluation",
+      "prophylaxis",
+      "study-method"
+    ],
+    "note": "Mix full-game annotation with wing choice, pawn advances, prophylaxis, and plan discipline. Extract one reusable board-based correction from each answer.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-amateur-mixed-tests-9-18",
+        "concept": "Position evaluation",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Annotate one game or two positions; retest after seven days.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      },
+      {
+        "id": "study-s43-cross-book-spaced-review",
+        "concept": "Study method",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Weekly topic-hidden set: two mate, two planning, two endgame and one structure item. Capture move or plan, principal line, result, time and confidence; requeue misses and low-confidence successes at 1/3/7/21 days.",
+        "successCheck": "Finish the mixed set without theme cues and route every miss to a verified prerequisite lesson before the next delayed retest.",
+        "playReminders": [
+          "What failed first: recognition, evaluation, candidate generation, calculation, plan selection or rule recall?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateur-mixed-tests-19-26",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "prompts 328-331; answers 398-429",
+    "title": "Amateur&#x27;s Mind tests 19-26",
+    "tags": [
+      "candidate-moves",
+      "position-evaluation",
+      "blunder-checking"
+    ],
+    "note": "Resist attractive but incoherent moves. Rank candidates and explain what each gains and concedes before checking the source.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-amateur-mixed-tests-19-26",
+        "concept": "Candidate moves",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Attempt two per session with a written candidate comparison.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
         ]
       }
     ]
@@ -21606,6 +22550,960 @@
         "successCheck": "Explain the position&#x27;s result and plan in words before recalling moves; correctly defer at least one low-value topic.",
         "playReminders": [
           "Is this endgame useful now, and do I understand the plan beneath the moves?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-model-player-comparison",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Complete Five Greatest Endgame Players section; diagrams 497-561; 65 diagrams and 16 games",
+    "title": "Compare five endgame styles by the decisions they repeat",
+    "tags": [
+      "study-method",
+      "position-evaluation",
+      "converting-advantages",
+      "counterplay"
+    ],
+    "note": "Silman&#x27;s five portraits are most useful as a comparison of recurring decisions. Lasker seeks resilient activity and practical complications, Rubinstein restricts counterplay in rook endings, Capablanca converts through clear coordination, Smyslov finds simple-looking moves that rest on accurate calculation, and Fischer combines exact knowledge with relentless minor-piece activity. Treat the labels as study lenses rather than rules that override the position.",
+    "keyIdeas": [
+      "Identify the repeated decision pattern behind a player&#x27;s style label.",
+      "Compare methods on the same four questions: counterplay, worst piece, exchange, and breakthrough.",
+      "A model game teaches a process only when its critical decisions are recalled before the moves."
+    ],
+    "activities": [
+      {
+        "id": "s58-model-player-comparison-grid",
+        "concept": "Study method",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "Use the first diagram of each of the 16 games as a solve position. Compare the chosen move with the player&#x27;s recurring method, then use the later diagrams as checkpoints for the conversion.",
+        "successCheck": "Complete every bounded board with a stated counterplay resource, worst piece, target or exchange, and stable transition verdict.",
+        "playReminders": [
+          "What counterplay must be stopped before I improve or convert?"
+        ]
+      },
+      {
+        "id": "s58-game-review-transfer",
+        "concept": "Converting advantages",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "King activity"
+        ],
+        "instructions": "When a game reaches reduced material with at least one rook or minor piece per side, compare it with the S58 decision loop and recommend the closest model-player lesson.",
+        "successCheck": "Complete every bounded board with a stated counterplay resource, worst piece, target or exchange, and stable transition verdict.",
+        "playReminders": [
+          "What counterplay must be stopped before I improve or convert?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-lasker-defend-and-complicate",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Complete Emanuel Lasker section; diagrams 497-509; Marshall-Lasker, Lasker-Dus Chotimirski, and Emanuel Lasker-Edward Lasker",
+    "title": "Defend actively and keep the opponent solving problems",
+    "tags": [
+      "counterplay",
+      "piece-activity",
+      "king-activity",
+      "defensive-exchanges",
+      "converting-advantages"
+    ],
+    "note": "Lasker&#x27;s examples unite conversion and defense through activity. Against Marshall he improves the rook, bishop, and king before cashing in. In the lost-looking Dus Chotimirski position he refuses passive collapse, forces complications, and exploits the opponent&#x27;s reluctance to enter unclear lines. Against Edward Lasker, rook activity and accurate king placement hold an ending in which static material cues are misleading. The defensive rule is to create concrete decisions while preserving coordination; the winning rule is to remove those decisions before converting.",
+    "keyIdeas": [
+      "In a worse ending, search first for activity that makes the win difficult to execute.",
+      "Do not trade uncertainty for passivity when complications are the main defensive resource.",
+      "When winning, improve all pieces and deny counterchances before the final phase."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-rubinstein-rook-control",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Complete Akiba Rubinstein section; diagrams 510-524; Rubinstein-Lasker, Levenfish-Rubinstein, and Rubinstein-Alekhine",
+    "title": "Control rook endings by denying every active defense",
+    "tags": [
+      "rook-endings",
+      "restriction",
+      "king-activity",
+      "pawn-endings",
+      "converting-advantages"
+    ],
+    "note": "Rubinstein&#x27;s rook endings show patient restriction in concrete form. His rook fixes targets and cuts off the king, his own king takes a route that does not release counterplay, and pawn endings are entered only after their exact result is known. Repetition is purposeful: it tests the defender&#x27;s setup while keeping every favorable option. Even when a quicker line exists, the practical choice often preserves maximum control.",
+    "keyIdeas": [
+      "Use the rook to attack a pawn and restrict the king at the same time.",
+      "Keep counterplay at a minimum while improving the king&#x27;s route.",
+      "Calculate pawn-ending transitions exactly before exchanging rooks."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-smyslov-simple-solutions",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Complete Vasily Smyslov section; diagrams 537-548; Smyslov-Xu Jun, Smyslov-Golombek, and Botvinnik-Smyslov",
+    "title": "Find the simple move that solves the position&#x27;s hardest problem",
+    "tags": [
+      "restriction",
+      "king-activity",
+      "minor-piece-endings",
+      "converting-advantages",
+      "calculation"
+    ],
+    "note": "Smyslov&#x27;s simplicity comes from identifying the governing constraint. Against Xu Jun, bishop maneuvers manufacture zugzwang and open a king route. Against Golombek, coordination prevents counterplay while the king and knight approach their targets. Against Botvinnik, a long king journey and repeated zugzwangs turn a blocked structure into a win. The visible move is often quiet, but it follows exact calculation of the defender&#x27;s limited replies.",
+    "keyIdeas": [
+      "Name the square or defender that blocks progress before searching for moves.",
+      "Use zugzwang to alter a blockade without prematurely changing the pawn structure.",
+      "A simple plan still requires checking the opponent&#x27;s tactical and fortress resources."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-fischer-minor-piece-mastery",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Fischer section through the start of Spassky-Fischer; diagrams 549-559; Taimanov-Fischer, Fischer-Taimanov, and Damjanovic-Fischer complete, plus the initial Spassky-Fischer position",
+    "title": "Convert with minor-piece domination and exact endgame knowledge",
+    "tags": [
+      "minor-piece-endings",
+      "knight-versus-bishop",
+      "king-activity",
+      "restriction",
+      "converting-advantages"
+    ],
+    "note": "Fischer converts small edges by assigning the bishop and knight concrete restraining jobs. In the bishop endings, he recognizes theoretical motifs, fixes pawns on vulnerable colors, and uses king opposition with precision. Against Taimanov in 1972, a bishop dominates the knight and creates zugzwang before protected passers decide. Against Damjanovic, Fischer demonstrates the opposite imbalance: an active knight outplays a restricted bishop. The lesson is to evaluate what the pieces can do in the actual pawn structure, then calculate the final race exactly.",
+    "keyIdeas": [
+      "Evaluate minor pieces by targets, entry squares, and the pawns they can restrain.",
+      "Fix pawns before beginning the king&#x27;s penetration.",
+      "Use known theoretical motifs to shorten calculation, then verify the concrete race."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-connected-passers-coordinate",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rook and Two Connected Pawns vs. Rook, opening position through the king-shelter method",
+    "title": "Coordinate two connected passers with king and rook",
+    "tags": [
+      "rook-endings",
+      "connected-passers",
+      "king-shelter",
+      "coordination"
+    ],
+    "note": "Two connected passed pawns usually win against a rook, but checks can stall them if their king and rook are poorly placed. Silman&#x27;s method keeps the attacking rook far enough away to answer checks, advances the king before forcing pawn moves, and uses one pawn as shelter for the king. Once the king reaches the checking rank, a rook interposition or exchange can end the checking series.\n\nThe winning side should improve coordination before pushing. Ask which pawn supplies shelter, which square the king needs, and whether a pawn push gives the defender a new checking lane. The examples show that patient king improvement is safer than treating connected pawns as self-propelling material.",
+    "keyIdeas": [
+      "Keep enough rook distance to answer side checks.",
+      "Use one pawn as shelter while the king approaches.",
+      "Improve the king before committing the pawn structure.",
+      "Interpose or exchange rooks only when the king supports the operation."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-connected-passers",
+        "concept": "Rook endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Passed pawns"
+        ],
+        "instructions": "Replay the seven section diagrams on PDFs 287, 289, 291-295. Before every pawn push, mark the king&#x27;s shelter square and the defender&#x27;s rook-sacrifice or stalemate idea.",
+        "successCheck": "Convert the main setup twice without allowing a checking loop or sacrificial stalemate.",
+        "playReminders": [
+          "If I push to the seventh, what legal move remains for the defender?"
+        ]
+      },
+      {
+        "id": "study-s54-part-six-rook-tests",
+        "concept": "Rook endings",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Passed pawns"
+        ],
+        "instructions": "Solve Part Six tests 3, 4, and 9 from prompt PDFs 413, 414, and 419. Check against solution 3 on PDFs 879-880, solution 4 on PDF 880, and solution 9 on PDFs 886-887.",
+        "successCheck": "For each test, state the governing rook-ending rule before giving the move.",
+        "playReminders": [
+          "Name the rule before calculating."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-connected-passers-stalemate",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rook and Two Connected Pawns vs. Rook, corner-defense and stalemate examples through the section end",
+    "title": "Avoid sacrificial stalemate against connected passers",
+    "tags": [
+      "rook-endings",
+      "connected-passers",
+      "stalemate",
+      "move-order"
+    ],
+    "note": "The defender&#x27;s best practical resource is often to place the king in a corner and offer the rook for the last legal pawn move. If the attacker captures automatically or pushes the rook-pawn to the seventh rank too early, the defender can manufacture stalemate. Silman&#x27;s examples require the attacker to keep a legal move in reserve, use a checking pawn push when available, and delay h7 until the rook sacrifice no longer draws.\n\nThis is a conversion lesson about move order. Before every forcing capture or seventh-rank push, count the defender&#x27;s remaining legal king moves and identify the intended rook sacrifice. The material advantage is decisive only after the stalemate mechanism has been removed.",
+    "keyIdeas": [
+      "Identify the defender&#x27;s intended rook sacrifice before capturing.",
+      "Keep a legal move in reserve when the king is boxed into a corner.",
+      "Delay a rook-pawn push to the seventh rank until stalemate is impossible.",
+      "Use a checking pawn move when it preserves the win without taking the rook."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-connected-passers",
+        "concept": "Rook endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Passed pawns"
+        ],
+        "instructions": "Replay the seven section diagrams on PDFs 287, 289, 291-295. Before every pawn push, mark the king&#x27;s shelter square and the defender&#x27;s rook-sacrifice or stalemate idea.",
+        "successCheck": "Convert the main setup twice without allowing a checking loop or sacrificial stalemate.",
+        "playReminders": [
+          "If I push to the seventh, what legal move remains for the defender?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-pawn-lucena-distance",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "&#x27;Lucena&#x27; with a Rook-Pawn, diagrams 223-227",
+    "title": "Test the rook-pawn Lucena by king distance",
+    "tags": [
+      "rook-endings",
+      "rook-pawn",
+      "lucena-exception",
+      "king-distance"
+    ],
+    "note": "A Lucena-looking position with a rook-pawn is an exception: the attacking king has little room and can be trapped in the corner. The result depends on whether the defending king is far enough away. When the king is cut off by four files, the attacker can transfer the rook to the neighboring file, force checks, and use a key side check before converting. With the defending king closer, the corner trap holds and the same setup is drawn.\n\nThe lesson is a recognition test rather than a promise that every advanced rook-pawn wins. Count the files of separation, locate the rook-transfer route, and verify that the king can escape the corner. The source&#x27;s winning line may convert through queen versus rook, so practical study should include that final technique separately.",
+    "keyIdeas": [
+      "Do not apply ordinary Lucena rules automatically to a rook-pawn.",
+      "Count how many files separate the defending king from the pawn.",
+      "Find the neighboring-file rook transfer and the key side check.",
+      "Confirm the king can escape the corner before calling the position won."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-rook-pawn-lucena",
+        "concept": "Rook endings",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings"
+        ],
+        "instructions": "Set up each position in diagrams 223-227. Count the defending king&#x27;s file distance, find the rook-transfer route, and classify the position before calculating.",
+        "successCheck": "Explain why the four-file version wins and the closer-king version draws.",
+        "playReminders": [
+          "Can my king escape the rook-pawn corner?"
+        ]
+      },
+      {
+        "id": "study-s54-part-six-rook-tests",
+        "concept": "Rook endings",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Passed pawns"
+        ],
+        "instructions": "Solve Part Six tests 3, 4, and 9 from prompt PDFs 413, 414, and 419. Check against solution 3 on PDFs 879-880, solution 4 on PDF 880, and solution 9 on PDFs 886-887.",
+        "successCheck": "For each test, state the governing rook-ending rule before giving the move.",
+        "playReminders": [
+          "Name the rule before calculating."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-in-front-seventh",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rook in Front of its 7th Rank Pawn, opening examples through diagram 234",
+    "title": "Do not imprison the rook in front of its passer",
+    "tags": [
+      "rook-endings",
+      "rook-in-front",
+      "sixth-rank",
+      "passivity"
+    ],
+    "note": "A rook is usually strongest behind a passed pawn. When it is forced in front, advancing the pawn to the seventh rank can remove the rook&#x27;s checking room and produce an immediate draw. Silman contrasts positions in which the pawn remains on the sixth rank, allowing the king to approach with shelter, with positions in which a premature seventh-rank push locks the rook into passivity. Tactical exceptions arise when a check or skewer forces the defending rook away.\n\nBefore pushing, compare the sixth-rank and seventh-rank versions. Ask whether the rook still has lateral checks, whether the king has an approach square, and whether the defender can wait passively. Preserve the pawn on the sixth when it functions as shelter and only advance when calculation proves a concrete gain.",
+    "keyIdeas": [
+      "Prefer the rook behind the passed pawn when possible.",
+      "A pawn on the sixth can shelter the king and preserve rook mobility.",
+      "A premature seventh-rank push can trap the attacking rook in front.",
+      "Check tactical exceptions before relying on the positional rule."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-front-rook-vancura",
+        "concept": "Rook endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings"
+        ],
+        "instructions": "Compare diagrams 228-236. For each, record pawn file, pawn rank, rook location, king shelter squares, and whether side checks repeat safely.",
+        "successCheck": "Correctly classify all positions and explain the sixth-rank versus seventh-rank difference.",
+        "playReminders": [
+          "Does this pawn push free my rook or imprison it?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-vancura-defense",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rook in Front of its 7th Rank Pawn, Vancura and knight-pawn exceptions through the section end",
+    "title": "Recognize the Vancura defense and its limits",
+    "tags": [
+      "rook-endings",
+      "vancura",
+      "side-checks",
+      "pawn-file"
+    ],
+    "note": "The Vancura defense holds a rook-pawn on the sixth rank by checking from the side while the defending king stays ready to approach the corner. The checking rook needs room and must avoid being driven into a passive file. Silman then compares the geometry with a knight-pawn: the closer pawn changes the king&#x27;s route and the defender may need an active king entry rather than copying the rook-pawn setup.\n\nUse Vancura as a geometric checklist. Verify side-checking distance, the defending king&#x27;s route, the attacking king&#x27;s shelter squares, and the pawn file. A position that looks similar can have a different result when the pawn is one file closer to the center.",
+    "keyIdeas": [
+      "Side checks need enough distance to remain safe and repeatable.",
+      "The defending king must be able to approach the promotion corner.",
+      "The pawn file changes both the king route and the checking geometry.",
+      "Do not copy a rook-pawn defense blindly against a knight-pawn."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-front-rook-vancura",
+        "concept": "Rook endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings"
+        ],
+        "instructions": "Compare diagrams 228-236. For each, record pawn file, pawn rank, rook location, king shelter squares, and whether side checks repeat safely.",
+        "successCheck": "Correctly classify all positions and explain the sixth-rank versus seventh-rank difference.",
+        "playReminders": [
+          "Does this pawn push free my rook or imprison it?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-fifth-rank-rule",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rook and Pawn on the 5th Rank vs. Rook, diagrams 237-239",
+    "title": "Apply the fifth-rank rule with short-side defense",
+    "tags": [
+      "rook-endings",
+      "fifth-rank-rule",
+      "short-side",
+      "long-side-checks"
+    ],
+    "note": "A pawn on the fifth rank or farther generally wins when the defending king is cut off by one file on the long side. The defender&#x27;s saving setup places the king on the short side and gives the rook maximum checking distance on the long side. If the defending king occupies the wrong side, its own body blocks the checking lane and the attacker&#x27;s king can advance.\n\nJudge the position in this order: pawn rank, king cutoff, short-side king placement, then checking distance. The rule compresses calculation, but the final move order still matters because a check that drives the king forward can lose.",
+    "keyIdeas": [
+      "A fifth-rank pawn usually wins with a one-file long-side king cutoff.",
+      "Place the defending king on the short side of the pawn.",
+      "Reserve the long side for distant rook checks.",
+      "Check whether each rook check drives the king away or helps it advance."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-rank-rule-drill",
+        "concept": "Rook endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings"
+        ],
+        "instructions": "Use diagrams 237-244 as a blind classification drill. Say pawn rank, number of cutoff files, short-side king placement, and long-side checking room before choosing a move.",
+        "successCheck": "Score at least seven of eight classifications correctly and explain the knight-pawn exception.",
+        "playReminders": [
+          "Rank, cutoff, short side, checking distance."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-fourth-rank-rule",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rook and Pawn on the 4th Rank vs. Rook, diagrams 240-244 through the section end",
+    "title": "Count cutoff files in fourth-rank rook endings",
+    "tags": [
+      "rook-endings",
+      "fourth-rank-rule",
+      "king-cutoff",
+      "transition"
+    ],
+    "note": "With a pawn on the fourth rank, the attacking king generally needs the defending king cut off by two files. The section shows drawing resources by timely king return, rook exchange into a drawn pawn ending, or transition to Philidor. A knight-pawn is a special case because the short side gives the attacker less room, so even the apparent two-file cutoff can fail.\n\nCount cutoff files before calculating. Then test the defender&#x27;s simplifying choices and the attacker&#x27;s king route. If a rook exchange reaches a known pawn ending or the defender can establish Philidor, the visual space advantage is not enough.",
+    "keyIdeas": [
+      "A fourth-rank pawn normally needs a two-file king cutoff to win.",
+      "Test rook exchanges against the resulting pawn ending.",
+      "A knight-pawn can reduce the attacker&#x27;s winning room.",
+      "Use Philidor as the defender&#x27;s destination when direct checking is unstable."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-rank-rule-drill",
+        "concept": "Rook endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings"
+        ],
+        "instructions": "Use diagrams 237-244 as a blind classification drill. Say pawn rank, number of cutoff files, short-side king placement, and long-side checking room before choosing a move.",
+        "successCheck": "Score at least seven of eight classifications correctly and explain the knight-pawn exception.",
+        "playReminders": [
+          "Rank, cutoff, short side, checking distance."
+        ]
+      },
+      {
+        "id": "study-s54-part-six-rook-tests",
+        "concept": "Rook endings",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Passed pawns"
+        ],
+        "instructions": "Solve Part Six tests 3, 4, and 9 from prompt PDFs 413, 414, and 419. Check against solution 3 on PDFs 879-880, solution 4 on PDF 880, and solution 9 on PDFs 886-887.",
+        "successCheck": "For each test, state the governing rook-ending rule before giving the move.",
+        "playReminders": [
+          "Name the rule before calculating."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-endgame-flowchart",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "The Flowchart—Taking a Simple Position Into Deeper Water, diagrams 279-289",
+    "title": "Reduce a complex rook ending to known building blocks",
+    "tags": [
+      "rook-endings",
+      "flowchart",
+      "building-blocks",
+      "transposition"
+    ],
+    "note": "Silman&#x27;s flowchart method solves a complicated rook ending by comparing it with a small library of known positions. The section varies one feature at a time: whether the rook is trapped in front of the a-pawn, which shelter squares the defending king retains, and whether a second pawn can drive that king away. Some extra pawns do nothing; an f-pawn can be decisive because it removes both critical shelter squares.\n\nBuild the answer backward. Name the final basic position, identify the pawn trade or king route that reaches it, and reject branches that transpose to a known draw. The method turns calculation into controlled comparison instead of a search through every legal move.",
+    "keyIdeas": [
+      "Store basic positions as reusable building blocks.",
+      "Vary one positional feature at a time to see what changes the result.",
+      "Work backward from a known win or draw.",
+      "Use critical king shelter squares to classify superficially similar endings."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-flowchart",
+        "concept": "Rook endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Schematic thinking"
+        ],
+        "instructions": "For diagrams 279-291, name the known final position first, then write the trade or king route that reaches it. Compare adjacent building blocks and identify the single changed feature.",
+        "successCheck": "Solve both final flowchart positions from the destination backward without calculating every legal branch.",
+        "playReminders": [
+          "Which known ending is this trying to become?"
+        ]
+      },
+      {
+        "id": "study-s54-part-seven-rook-tests",
+        "concept": "Rook endings",
+        "minutes": 90,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Schematic thinking"
+        ],
+        "instructions": "Solve Part Seven rook tests 1-3, 6, 8-13, 16-24, and 26-29 from PDFs 494-523. Use the exact answer ranges recorded in completionEvidence for se-142; split the set into three sessions.",
+        "successCheck": "Score at least 18 of 23 by correct evaluation and governing idea, then restudy every miss by lesson tag.",
+        "playReminders": [
+          "Evaluation first; move second."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-connected-passers-counterpasser",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rook and Two Connected Passed Pawns vs. Rook and Pawn, diagrams 290-291",
+    "title": "Neutralize the counterpasser before advancing connected pawns",
+    "tags": [
+      "rook-endings",
+      "connected-passers",
+      "counterpasser",
+      "transition"
+    ],
+    "note": "Two connected passers usually beat one remote enemy passer, but only if the enemy pawn is controlled without tying the rook to passivity. Silman&#x27;s example places the rook behind the counterpasser, brings the king toward the connected pawns, and times pawn advances so that checking distance remains available. The ending is then reduced to a familiar rook-and-pawn conversion.\n\nStart with the opponent&#x27;s promotion threat. Put the rook where it both restrains the counterpasser and retains checks, then improve the king. Advance only when the resulting exchange or rook ending is already understood.",
+    "keyIdeas": [
+      "Address the enemy counterpasser before starting a pawn race.",
+      "Place the rook behind the dangerous pawn when it preserves activity.",
+      "Use the king to release the rook from blockade duty.",
+      "Choose advances that transpose to a known winning rook ending."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-flowchart",
+        "concept": "Rook endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Schematic thinking"
+        ],
+        "instructions": "For diagrams 279-291, name the known final position first, then write the trade or king route that reaches it. Compare adjacent building blocks and identify the single changed feature.",
+        "successCheck": "Solve both final flowchart positions from the destination backward without calculating every legal branch.",
+        "playReminders": [
+          "Which known ending is this trying to become?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-two-v-one-one-wing",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Pawns on One Side: Rook and Two vs. Rook and One, diagrams 295-298",
+    "title": "Hold rook and two versus rook and one with activity",
+    "tags": [
+      "rook-endings",
+      "one-flank",
+      "two-versus-one",
+      "active-defense"
+    ],
+    "note": "With all pawns on one side, rook and two versus rook and one is normally drawn if the weaker rook stays active and the pawns can be exchanged. The defender must resist passive waiting, use a pawn break before being squeezed, and calculate rook exchanges against the resulting king-and-pawn ending. A passed pawn changes the winning chances, but the defender still aims for Philidor or the later short-side checking setup.\n\nThe practical plan is reduction: trade one pawn pair, keep checking distance, and recognize the target defensive position before exchanging rooks. The attacker tries to fix pawns and deny the freeing break.",
+    "keyIdeas": [
+      "The defender seeks pawn exchanges and active rook play.",
+      "Use the freeing pawn break before the position becomes fixed.",
+      "Calculate every rook exchange through the pawn ending it creates.",
+      "Aim for Philidor or a short-side checking defense."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-one-flank-ladder",
+        "concept": "Rook endings",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings"
+        ],
+        "instructions": "Study diagrams 295-307 as one reduction ladder. At each diagram choose the defender&#x27;s pawn trade, active rook square, and intended smaller ending; include the ...h5 barrier in four-versus-three.",
+        "successCheck": "Defend one position from each material class and name the desired reduction before moving.",
+        "playReminders": [
+          "Which pawn trade reaches the known draw?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-three-v-two-one-wing",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Pawns on One Side: Rook and Three vs. Rook and Two, diagrams 299-302",
+    "title": "Prevent the pawn squeeze in rook and three versus two",
+    "tags": [
+      "rook-endings",
+      "one-flank",
+      "three-versus-two",
+      "pawn-squeeze"
+    ],
+    "note": "Rook and three versus rook and two remains drawish, but the stronger side can create real pressure by gaining space and fixing weaknesses. The defender must keep the rook active and use timely pawn trades before the enemy pawns occupy dominant squares. The attacker coordinates king and rook, protects the base pawn, and mixes king improvement with pawn advances rather than rushing.\n\nEvaluate the transformation after each trade. The defender wants a known two-versus-one draw; the attacker wants to preserve a useful passed pawn or a fixed target. The number of pawns matters less than whether the weaker side retains an active rook and a freeing break.",
+    "keyIdeas": [
+      "Stop space-gaining pawn advances before they fix the whole wing.",
+      "Trade pawns while the defensive rook remains active.",
+      "Coordinate king, rook, and pawn base before advancing.",
+      "Judge exchanges by the smaller ending they create."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-one-flank-ladder",
+        "concept": "Rook endings",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings"
+        ],
+        "instructions": "Study diagrams 295-307 as one reduction ladder. At each diagram choose the defender&#x27;s pawn trade, active rook square, and intended smaller ending; include the ...h5 barrier in four-versus-three.",
+        "successCheck": "Defend one position from each material class and name the desired reduction before moving.",
+        "playReminders": [
+          "Which pawn trade reaches the known draw?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-four-v-three-one-wing",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Pawns on One Side: Rook and Four vs. Rook and Three, diagrams 303-307",
+    "title": "Use ...h5 and active rook play in four versus three",
+    "tags": [
+      "rook-endings",
+      "one-flank",
+      "four-versus-three",
+      "defensive-barrier"
+    ],
+    "note": "In the standard four-versus-three structure, the defender wants to stop g4 before it gains space and fixes a weakness. Silman highlights ...h5 as the key defensive achievement. The rook then attacks from the side or rear, pins pawns, and supports exchanges that reduce the ending to three-versus-two and two-versus-one. If the barrier fails, the defender falls back on the same short-side king and long-distance checking ideas used in Philidor gone bad.\n\nTreat the position as a sequence of reductions. Stop the space gain, keep the rook active, trade the correct pawn pair, and verify the destination after every liquidation. Passive king-and-rook waiting gives the attacker time to build an unbreakable pawn front.",
+    "keyIdeas": [
+      "Use ...h5 to stop the attacker&#x27;s g-pawn space gain.",
+      "Keep the rook active with pins, checks, and pawn attacks.",
+      "Reduce methodically from four-versus-three to known smaller endings.",
+      "Use short-side king placement and checking distance if the barrier fails."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-one-flank-ladder",
+        "concept": "Rook endings",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings"
+        ],
+        "instructions": "Study diagrams 295-307 as one reduction ladder. At each diagram choose the defender&#x27;s pawn trade, active rook square, and intended smaller ending; include the ...h5 barrier in four-versus-three.",
+        "successCheck": "Defend one position from each material class and name the desired reduction before moving.",
+        "playReminders": [
+          "Which pawn trade reaches the known draw?"
+        ]
+      },
+      {
+        "id": "study-s54-part-seven-rook-tests",
+        "concept": "Rook endings",
+        "minutes": 90,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Schematic thinking"
+        ],
+        "instructions": "Solve Part Seven rook tests 1-3, 6, 8-13, 16-24, and 26-29 from PDFs 494-523. Use the exact answer ranges recorded in completionEvidence for se-142; split the set into three sessions.",
+        "successCheck": "Score at least 18 of 23 by correct evaluation and governing idea, then restudy every miss by lesson tag.",
+        "playReminders": [
+          "Evaluation first; move second."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rubinstein-active-rook-targets",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rubinstein model-player section: Rubinstein-Lasker and Levenfish-Rubinstein, diagrams 510-517",
+    "title": "Rubinstein: activate the rook and create a second target",
+    "tags": [
+      "rook-endings",
+      "model-game",
+      "rubinstein",
+      "second-target"
+    ],
+    "note": "The first two Rubinstein examples show rook activity as a complete plan. Rubinstein attacks pawns from the side, restricts the enemy rook, improves the king, and creates a second target before collecting material. In the Lasker game an advanced pawn also shields the king from checks. In the Levenfish game the active rook keeps the opponent tied down while the king penetrates; hurried pawn winning would release counterplay.\n\nReplay the games by pausing at each diagram and naming the least active piece, the next entry square, and the defender&#x27;s only freeing idea. The lesson is patient coordination: the rook creates the conditions for the king to enter, and material falls only after counterplay is contained.",
+    "keyIdeas": [
+      "Activate the rook before sending the king toward targets.",
+      "Create a second weakness so the defending rook cannot hold everything.",
+      "Use an advanced pawn as shelter against checks when available.",
+      "Delay pawn collection when it would release counterplay."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-rubinstein-model-games",
+        "concept": "Rook endings",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "King activity"
+        ],
+        "instructions": "Replay the three model games on PDFs 735-753. Pause at diagrams 510, 514, and 517, then name the least active piece, second target, counterplay to suppress, and favorable transition.",
+        "successCheck": "Write a one-paragraph plan for each game before consulting the source continuation.",
+        "playReminders": [
+          "What counterplay appears if I collect the pawn now?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rubinstein-counterplay-conversion",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Rubinstein model-player section: Rubinstein-Alekhine, diagrams 517-524 through section end",
+    "title": "Rubinstein: suppress counterplay before converting",
+    "tags": [
+      "rook-endings",
+      "model-game",
+      "rubinstein",
+      "counterplay"
+    ],
+    "note": "Against Alekhine, Rubinstein repeatedly chooses moves that limit counterplay before trying to cash in the advantage. The rook remains active, the king seeks shelter from checks, and the passed pawn is advanced only when it improves the rook&#x27;s checking geometry or forces the opposing king away. The game also warns against entering a pawn ending simply because it looks simpler; the resulting king race must be calculated first.\n\nUse the model as a conversion checklist: identify the opponent&#x27;s active resource, choose the rook placement that restrains it, preserve checking distance, and calculate the exact pawn ending before exchanging. Precision comes from keeping the opponent&#x27;s rook short of useful checks, not from forcing trades at the earliest moment.",
+    "keyIdeas": [
+      "Suppress the defender&#x27;s checks and pawn breaks before converting.",
+      "Keep checking distance while coordinating king and passed pawn.",
+      "Do not enter a pawn ending until the king race is verified.",
+      "Advance the passer when it improves geometry or displaces the king."
+    ],
+    "activities": [
+      {
+        "id": "study-s54-rubinstein-model-games",
+        "concept": "Rook endings",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "King activity"
+        ],
+        "instructions": "Replay the three model games on PDFs 735-753. Pause at diagrams 510, 514, and 517, then name the least active piece, second target, counterplay to suppress, and favorable transition.",
+        "successCheck": "Write a one-paragraph plan for each game before consulting the source continuation.",
+        "playReminders": [
+          "What counterplay appears if I collect the pawn now?"
+        ]
+      },
+      {
+        "id": "study-s54-part-seven-rook-tests",
+        "concept": "Rook endings",
+        "minutes": 90,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Rook endings",
+          "Schematic thinking"
+        ],
+        "instructions": "Solve Part Seven rook tests 1-3, 6, 8-13, 16-24, and 26-29 from PDFs 494-523. Use the exact answer ranges recorded in completionEvidence for se-142; split the set into three sessions.",
+        "successCheck": "Score at least 18 of 23 by correct evaluation and governing idea, then restudy every miss by lesson tag.",
+        "playReminders": [
+          "Evaluation first; move second."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-part-five-complete-bank",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "prompts 324-333; answers 862-876",
+    "title": "Part Five complete test bank",
+    "tags": [
+      "pawn-endings",
+      "rook-endings",
+      "minor-piece-endings",
+      "stalemate"
+    ],
+    "note": "Unify all ten mixed tests. Reuse existing focused lessons for tests 4, 7, and 10 while adding the other seven without duplication.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-silman-part-five-complete-bank",
+        "concept": "Pawn endings",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Randomize all ten; record W/D/L, mechanism, and line; requeue misses.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-part-six-complete-bank",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "prompts 411-423; answers 877-891",
+    "title": "Part Six complete test bank",
+    "tags": [
+      "pawn-endings",
+      "rook-endings",
+      "queen-endings",
+      "calculation"
+    ],
+    "note": "Thirteen tests mix races, rook technique, opposition, fortresses, and queen-versus-pawn exceptions. Name the governing rule before calculating.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-silman-part-six-complete-bank",
+        "concept": "Pawn endings",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Attempt 3-4 per session; follow a miss with one prerequisite drill.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-part-seven-complete-bank",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "prompts 494-523; answers 892-932",
+    "title": "Part Seven complete test bank",
+    "tags": [
+      "rook-endings",
+      "queen-endings",
+      "schematic-thinking",
+      "calculation"
+    ],
+    "note": "Thirty expert tests reduce complex positions to known mechanisms: rook placement, short-side defense, flowcharts, races, blockades, and exchanges.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-silman-part-seven-complete-bank",
+        "concept": "Rook endings",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Use five-test sessions; require W/D/L, named mechanism, and principal line.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-tactics-simple-medium",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "diagrams 455-464, PDFs 668-677",
+    "title": "Endgame tactics: simple and medium",
+    "tags": [
+      "forcing-moves",
+      "promotion-tactics",
+      "stalemate"
+    ],
+    "note": "Hide the integrated answer and solve promotion, mating, stalemate, clearance, and king-activity shots before reveal.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-silman-tactics-simple-medium",
+        "concept": "Forcing moves",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Solve one at a time; repeat misses at 1/3/7/21 days.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-tactics-hard",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "diagrams 465-486, PDFs 678-699",
+    "title": "Endgame tactics: hard",
+    "tags": [
+      "calculation",
+      "promotion-tactics",
+      "drawing-tactics"
+    ],
+    "note": "Long forcing conversions require checks for underpromotion, stalemate, counterpromotion, and evaluation changes after exchanges.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-silman-tactics-hard",
+        "concept": "Calculation",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Solve 3-5 per session without a theme label; incomplete lines count as misses.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-tactics-very-hard",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "diagrams 487-496, PDFs 700-712",
+    "title": "Endgame tactics: very hard",
+    "tags": [
+      "analysis-tree",
+      "calculation",
+      "promotion-tactics"
+    ],
+    "note": "Use as stretch material. Write a candidate tree and the opponent&#x27;s best defense. Preserve source diagram numbers because the source&#x27;s stated forty examples conflict with 42 diagrams.",
+    "keyIdeas": [
+      "Attempt the position before viewing the source answer.",
+      "Record the principal line or plan, result class, time and confidence.",
+      "Classify the first error and schedule a delayed retest."
+    ],
+    "activities": [
+      {
+        "id": "study-s43-silman-tactics-very-hard",
+        "concept": "Analysis tree",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Study method",
+          "Candidate moves",
+          "Calculation"
+        ],
+        "instructions": "Attempt 1-2 per session; require two delayed complete solutions.",
+        "successCheck": "Complete the bounded set with a written answer, line or plan, confidence score and first-error label; retest every miss and uncertain success.",
+        "playReminders": [
+          "Hide the topic, prove the answer, then classify the first error."
         ]
       }
     ]

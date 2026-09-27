@@ -7254,6 +7254,617 @@
         "section": "Complete Introduction and How to read this book; Acknowledgements begins PDF 19",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "kotov-endgame-schemes-and-restraint",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Complete Chapter 4; 8 boards; Capablanca-Ragozin, Lasker-Pillsbury, Bogoljubow-Lasker, and Flohr-Kan material",
+      "title": "Think in schemes, improve the king, and do not hurry",
+      "locator": {
+        "pdfPageStart": 155,
+        "pdfPageEnd": 163,
+        "printedPages": "156-164",
+        "section": "Complete Chapter 4; 8 boards; Capablanca-Ragozin, Lasker-Pillsbury, Bogoljubow-Lasker, and Flohr-Kan material",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-complex-endings-read-the-counterplay",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Factor-Rubinstein through Goldin-Korzubov; 15 boards",
+      "title": "Evaluate a complex ending through the opponent's counterplay",
+      "locator": {
+        "pdfPageStart": 160,
+        "pdfPageEnd": 175,
+        "printedPages": "152-167",
+        "section": "Factor-Rubinstein through Goldin-Korzubov; 15 boards",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-complex-endings-transform-the-target",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Eliskases-Flohr through Keres-Portisch; 12 boards",
+      "title": "Transform the advantage when the first target is contained",
+      "locator": {
+        "pdfPageStart": 176,
+        "pdfPageEnd": 191,
+        "printedPages": "168-183",
+        "section": "Eliskases-Flohr through Keres-Portisch; 12 boards",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-complex-endings-open-lines-and-transition",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Andersson-Franco through Larsen-Marjanovic; 14 boards",
+      "title": "Open the right line and time the transition",
+      "locator": {
+        "pdfPageStart": 192,
+        "pdfPageEnd": 207,
+        "printedPages": "184-199",
+        "section": "Andersson-Franco through Larsen-Marjanovic; 14 boards",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-complex-endings-coordinate-mixed-material",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Andersson-Stean through Kasparov-Ivanov; 17 boards",
+      "title": "Coordinate mixed material before launching the break",
+      "locator": {
+        "pdfPageStart": 208,
+        "pdfPageEnd": 222,
+        "printedPages": "200-214",
+        "section": "Andersson-Stean through Kasparov-Ivanov; 17 boards",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-model-player-comparison",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Complete Five Greatest Endgame Players section; diagrams 497-561; 65 diagrams and 16 games",
+      "title": "Compare five endgame styles by the decisions they repeat",
+      "locator": {
+        "pdfPageStart": 713,
+        "pdfPageEnd": 808,
+        "section": "Complete Five Greatest Endgame Players section; diagrams 497-561; 65 diagrams and 16 games",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-lasker-defend-and-complicate",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Complete Emanuel Lasker section; diagrams 497-509; Marshall-Lasker, Lasker-Dus Chotimirski, and Emanuel Lasker-Edward Lasker",
+      "title": "Defend actively and keep the opponent solving problems",
+      "locator": {
+        "pdfPageStart": 715,
+        "pdfPageEnd": 733,
+        "section": "Complete Emanuel Lasker section; diagrams 497-509; Marshall-Lasker, Lasker-Dus Chotimirski, and Emanuel Lasker-Edward Lasker",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rubinstein-rook-control",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Complete Akiba Rubinstein section; diagrams 510-524; Rubinstein-Lasker, Levenfish-Rubinstein, and Rubinstein-Alekhine",
+      "title": "Control rook endings by denying every active defense",
+      "locator": {
+        "pdfPageStart": 734,
+        "pdfPageEnd": 753,
+        "section": "Complete Akiba Rubinstein section; diagrams 510-524; Rubinstein-Lasker, Levenfish-Rubinstein, and Rubinstein-Alekhine",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-smyslov-simple-solutions",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Complete Vasily Smyslov section; diagrams 537-548; Smyslov-Xu Jun, Smyslov-Golombek, and Botvinnik-Smyslov",
+      "title": "Find the simple move that solves the position's hardest problem",
+      "locator": {
+        "pdfPageStart": 770,
+        "pdfPageEnd": 787,
+        "section": "Complete Vasily Smyslov section; diagrams 537-548; Smyslov-Xu Jun, Smyslov-Golombek, and Botvinnik-Smyslov",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-fischer-minor-piece-mastery",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Fischer section through the start of Spassky-Fischer; diagrams 549-559; Taimanov-Fischer, Fischer-Taimanov, and Damjanovic-Fischer complete, plus the initial Spassky-Fischer position",
+      "title": "Convert with minor-piece domination and exact endgame knowledge",
+      "locator": {
+        "pdfPageStart": 788,
+        "pdfPageEnd": 803,
+        "section": "Fischer section through the start of Spassky-Fischer; diagrams 549-559; Taimanov-Fischer, Fischer-Taimanov, and Damjanovic-Fischer complete, plus the initial Spassky-Fischer position",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-aggressive-rook-position",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "2 The Aggressive Rook Position, diagrams 76-80; section 3 begins on PDF 123",
+      "title": "Prefer an active rook, even at a pawn cost",
+      "locator": {
+        "pdfPageStart": 120,
+        "pdfPageEnd": 123,
+        "printedPages": "97-100",
+        "section": "2 The Aggressive Rook Position, diagrams 76-80; section 3 begins on PDF 123",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-connected-passers-coordinate",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rook and Two Connected Pawns vs. Rook, opening position through the king-shelter method",
+      "title": "Coordinate two connected passers with king and rook",
+      "locator": {
+        "pdfPageStart": 287,
+        "pdfPageEnd": 293,
+        "printedPages": null,
+        "section": "Rook and Two Connected Pawns vs. Rook, opening position through the king-shelter method",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-connected-passers-stalemate",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rook and Two Connected Pawns vs. Rook, corner-defense and stalemate examples through the section end",
+      "title": "Avoid sacrificial stalemate against connected passers",
+      "locator": {
+        "pdfPageStart": 291,
+        "pdfPageEnd": 297,
+        "printedPages": null,
+        "section": "Rook and Two Connected Pawns vs. Rook, corner-defense and stalemate examples through the section end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-pawn-lucena-distance",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "'Lucena' with a Rook-Pawn, diagrams 223-227",
+      "title": "Test the rook-pawn Lucena by king distance",
+      "locator": {
+        "pdfPageStart": 353,
+        "pdfPageEnd": 359,
+        "printedPages": null,
+        "section": "'Lucena' with a Rook-Pawn, diagrams 223-227",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-in-front-seventh",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rook in Front of its 7th Rank Pawn, opening examples through diagram 234",
+      "title": "Do not imprison the rook in front of its passer",
+      "locator": {
+        "pdfPageStart": 360,
+        "pdfPageEnd": 369,
+        "printedPages": null,
+        "section": "Rook in Front of its 7th Rank Pawn, opening examples through diagram 234",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-vancura-defense",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rook in Front of its 7th Rank Pawn, Vancura and knight-pawn exceptions through the section end",
+      "title": "Recognize the Vancura defense and its limits",
+      "locator": {
+        "pdfPageStart": 369,
+        "pdfPageEnd": 372,
+        "printedPages": null,
+        "section": "Rook in Front of its 7th Rank Pawn, Vancura and knight-pawn exceptions through the section end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-fifth-rank-rule",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rook and Pawn on the 5th Rank vs. Rook, diagrams 237-239",
+      "title": "Apply the fifth-rank rule with short-side defense",
+      "locator": {
+        "pdfPageStart": 373,
+        "pdfPageEnd": 378,
+        "printedPages": null,
+        "section": "Rook and Pawn on the 5th Rank vs. Rook, diagrams 237-239",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-fourth-rank-rule",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rook and Pawn on the 4th Rank vs. Rook, diagrams 240-244 through the section end",
+      "title": "Count cutoff files in fourth-rank rook endings",
+      "locator": {
+        "pdfPageStart": 378,
+        "pdfPageEnd": 384,
+        "printedPages": null,
+        "section": "Rook and Pawn on the 4th Rank vs. Rook, diagrams 240-244 through the section end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-endgame-flowchart",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "The Flowchart—Taking a Simple Position Into Deeper Water, diagrams 279-289",
+      "title": "Reduce a complex rook ending to known building blocks",
+      "locator": {
+        "pdfPageStart": 427,
+        "pdfPageEnd": 439,
+        "printedPages": null,
+        "section": "The Flowchart—Taking a Simple Position Into Deeper Water, diagrams 279-289",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-connected-passers-counterpasser",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rook and Two Connected Passed Pawns vs. Rook and Pawn, diagrams 290-291",
+      "title": "Neutralize the counterpasser before advancing connected pawns",
+      "locator": {
+        "pdfPageStart": 440,
+        "pdfPageEnd": 443,
+        "printedPages": null,
+        "section": "Rook and Two Connected Passed Pawns vs. Rook and Pawn, diagrams 290-291",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-two-v-one-one-wing",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Pawns on One Side: Rook and Two vs. Rook and One, diagrams 295-298",
+      "title": "Hold rook and two versus rook and one with activity",
+      "locator": {
+        "pdfPageStart": 451,
+        "pdfPageEnd": 460,
+        "printedPages": null,
+        "section": "Pawns on One Side: Rook and Two vs. Rook and One, diagrams 295-298",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-three-v-two-one-wing",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Pawns on One Side: Rook and Three vs. Rook and Two, diagrams 299-302",
+      "title": "Prevent the pawn squeeze in rook and three versus two",
+      "locator": {
+        "pdfPageStart": 460,
+        "pdfPageEnd": 466,
+        "printedPages": null,
+        "section": "Pawns on One Side: Rook and Three vs. Rook and Two, diagrams 299-302",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-four-v-three-one-wing",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Pawns on One Side: Rook and Four vs. Rook and Three, diagrams 303-307",
+      "title": "Use ...h5 and active rook play in four versus three",
+      "locator": {
+        "pdfPageStart": 466,
+        "pdfPageEnd": 473,
+        "printedPages": null,
+        "section": "Pawns on One Side: Rook and Four vs. Rook and Three, diagrams 303-307",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rubinstein-active-rook-targets",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rubinstein model-player section: Rubinstein-Lasker and Levenfish-Rubinstein, diagrams 510-517",
+      "title": "Rubinstein: activate the rook and create a second target",
+      "locator": {
+        "pdfPageStart": 735,
+        "pdfPageEnd": 743,
+        "printedPages": null,
+        "section": "Rubinstein model-player section: Rubinstein-Lasker and Levenfish-Rubinstein, diagrams 510-517",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rubinstein-counterplay-conversion",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Rubinstein model-player section: Rubinstein-Alekhine, diagrams 517-524 through section end",
+      "title": "Rubinstein: suppress counterplay before converting",
+      "locator": {
+        "pdfPageStart": 743,
+        "pdfPageEnd": 753,
+        "printedPages": null,
+        "section": "Rubinstein model-player section: Rubinstein-Alekhine, diagrams 517-524 through section end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-mixed-mates-751-798",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "prompts 226-233; answers 249-251",
+      "title": "Miscellaneous mates 751-798",
+      "locator": {
+        "pdfPageStart": 226,
+        "pdfPageEnd": 251,
+        "printedPages": null,
+        "section": "prompts 226-233; answers 249-251",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-mixed-mates-799-846",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "prompts 234-241; answers 251-254",
+      "title": "Miscellaneous mates 799-846",
+      "locator": {
+        "pdfPageStart": 234,
+        "pdfPageEnd": 254,
+        "printedPages": null,
+        "section": "prompts 234-241; answers 251-254",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-mixed-mates-847-888",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "prompts 242-248; answers 254-258",
+      "title": "Miscellaneous mates 847-888",
+      "locator": {
+        "pdfPageStart": 242,
+        "pdfPageEnd": 258,
+        "printedPages": null,
+        "section": "prompts 242-248; answers 254-258",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-mate-revision-889-948",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "instructions 262; prompts 263-272; answers 273-277; score 278",
+      "title": "Mate revision test 889-948",
+      "locator": {
+        "pdfPageStart": 262,
+        "pdfPageEnd": 278,
+        "printedPages": null,
+        "section": "instructions 262; prompts 263-272; answers 273-277; score 278",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-extreme-mate-949-1001",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "worked model 279; prompts 280-288; answers 289-295; score 296; final chart 297",
+      "title": "Extreme mate challenge 949-1001",
+      "locator": {
+        "pdfPageStart": 279,
+        "pdfPageEnd": 297,
+        "printedPages": null,
+        "section": "worked model 279; prompts 280-288; answers 289-295; score 296; final chart 297",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateur-mixed-tests-1-8",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "prompts 319-322; answers 333-366",
+      "title": "Amateur's Mind tests 1-8",
+      "locator": {
+        "pdfPageStart": 319,
+        "pdfPageEnd": 366,
+        "printedPages": null,
+        "section": "prompts 319-322; answers 333-366",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateur-mixed-tests-9-18",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "prompts 323-327; answers 367-397",
+      "title": "Amateur's Mind tests 9-18",
+      "locator": {
+        "pdfPageStart": 323,
+        "pdfPageEnd": 397,
+        "printedPages": null,
+        "section": "prompts 323-327; answers 367-397",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateur-mixed-tests-19-26",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "prompts 328-331; answers 398-429",
+      "title": "Amateur's Mind tests 19-26",
+      "locator": {
+        "pdfPageStart": 328,
+        "pdfPageEnd": 429,
+        "printedPages": null,
+        "section": "prompts 328-331; answers 398-429",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-part-five-complete-bank",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "prompts 324-333; answers 862-876",
+      "title": "Part Five complete test bank",
+      "locator": {
+        "pdfPageStart": 324,
+        "pdfPageEnd": 876,
+        "printedPages": null,
+        "section": "prompts 324-333; answers 862-876",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-part-six-complete-bank",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "prompts 411-423; answers 877-891",
+      "title": "Part Six complete test bank",
+      "locator": {
+        "pdfPageStart": 411,
+        "pdfPageEnd": 891,
+        "printedPages": null,
+        "section": "prompts 411-423; answers 877-891",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-part-seven-complete-bank",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "prompts 494-523; answers 892-932",
+      "title": "Part Seven complete test bank",
+      "locator": {
+        "pdfPageStart": 494,
+        "pdfPageEnd": 932,
+        "printedPages": null,
+        "section": "prompts 494-523; answers 892-932",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-tactics-simple-medium",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "diagrams 455-464, PDFs 668-677",
+      "title": "Endgame tactics: simple and medium",
+      "locator": {
+        "pdfPageStart": 668,
+        "pdfPageEnd": 677,
+        "printedPages": null,
+        "section": "diagrams 455-464, PDFs 668-677",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-tactics-hard",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "diagrams 465-486, PDFs 678-699",
+      "title": "Endgame tactics: hard",
+      "locator": {
+        "pdfPageStart": 678,
+        "pdfPageEnd": 699,
+        "printedPages": null,
+        "section": "diagrams 465-486, PDFs 678-699",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-tactics-very-hard",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "diagrams 487-496, PDFs 700-712",
+      "title": "Endgame tactics: very hard",
+      "locator": {
+        "pdfPageStart": 700,
+        "pdfPageEnd": 712,
+        "printedPages": null,
+        "section": "diagrams 487-496, PDFs 700-712",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-games-opening-tempo-and-restraint",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "printed 261-271; PDF 282-292; 6 games; 6 diagrams",
+      "title": "Convert opening time into central restraint",
+      "locator": {
+        "pdfPageStart": 282,
+        "pdfPageEnd": 292,
+        "printedPages": "261-271",
+        "section": "Illustrative games 1-6; complete annotated scores and every diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-games-blockade-and-prophylaxis",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "printed 271-289; PDF 292-310; 6 games; 12 diagrams",
+      "title": "Build the blockade before beginning the attack",
+      "locator": {
+        "pdfPageStart": 292,
+        "pdfPageEnd": 309,
+        "printedPages": "271-288",
+        "section": "Illustrative games 7-12; complete annotated scores and every diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-games-pins-chains-and-bases",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "printed 289-303; PDF 310-324; 7 games; 11 diagrams",
+      "title": "Attack the base and exploit pinned defenders",
+      "locator": {
+        "pdfPageStart": 310,
+        "pdfPageEnd": 324,
+        "printedPages": "289-303",
+        "section": "Illustrative games 13-19; complete annotated scores and every diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-games-two-wings-and-transitions",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "printed 303-317; PDF 324-338; 6 games; 10 diagrams",
+      "title": "Switch wings without releasing the center",
+      "locator": {
+        "pdfPageStart": 324,
+        "pdfPageEnd": 338,
+        "printedPages": "303-317",
+        "section": "Illustrative games 20-25; complete annotated scores and every diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-games-center-mobility-and-majorities",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "printed 317-329; PDF 338-350; 7 games; 7 diagrams",
+      "title": "Turn central mobility into a concrete operation",
+      "locator": {
+        "pdfPageStart": 338,
+        "pdfPageEnd": 350,
+        "printedPages": "317-329",
+        "section": "Illustrative games 26-32; complete annotated scores and every diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-games-prevention-overprotection-and-pawns",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "printed 329-347; PDF 350-368; 7 games; 11 diagrams",
+      "title": "Use prevention and overprotection to free the pieces",
+      "locator": {
+        "pdfPageStart": 350,
+        "pdfPageEnd": 368,
+        "printedPages": "329-347",
+        "section": "Illustrative games 33-39; complete annotated scores and every diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-games-center-wing-attacks-and-conversion",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "printed 347-364; PDF 368-385; 7 games; 14 diagrams",
+      "title": "Connect the center, the wing attack, and the conversion",
+      "locator": {
+        "pdfPageStart": 368,
+        "pdfPageEnd": 385,
+        "printedPages": "347-364",
+        "section": "Illustrative games 40-46; complete annotated scores and every diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-games-hypermodern-centers-and-sacrifices",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "printed 364-372; PDF 385-393; 4 games; 8 diagrams",
+      "title": "Challenge the center and sacrifice for a durable bind",
+      "locator": {
+        "pdfPageStart": 385,
+        "pdfPageEnd": 393,
+        "printedPages": "364-372",
+        "section": "Illustrative games 47-50; complete annotated scores and every diagram",
+        "ebookLocation": null
+      }
     }
   ]
 }
