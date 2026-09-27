@@ -2278,6 +2278,605 @@
       "crossrefIds": [
         "double-check--nimzowitsch-double-check-driving-examples"
       ]
+    },
+    {
+      "id": "study-s36-01",
+      "crossrefIds": [
+        "removing-the-defender--nunn-destroying-defences-principle"
+      ]
+    },
+    {
+      "id": "study-s36-02",
+      "crossrefIds": [
+        "removing-the-defender--nunn-destroying-defences-385-396"
+      ]
+    },
+    {
+      "id": "study-s36-03",
+      "crossrefIds": [
+        "removing-the-defender--nunn-destroying-defences-397-408"
+      ]
+    },
+    {
+      "id": "study-s36-04",
+      "crossrefIds": [
+        "removing-the-defender--nunn-destroying-defences-409-420"
+      ]
+    },
+    {
+      "id": "study-s36-05",
+      "crossrefIds": [
+        "removing-the-defender--nunn-destroying-defences-421-432"
+      ]
+    },
+    {
+      "id": "study-s40-01",
+      "crossrefIds": [
+        "mating-patterns--nunn-elementary-mates-25-54"
+      ]
+    },
+    {
+      "id": "study-s40-02",
+      "crossrefIds": [
+        "mating-patterns--nunn-elementary-mates-55-90"
+      ]
+    },
+    {
+      "id": "study-s40-03",
+      "crossrefIds": [
+        "mating-patterns--nunn-endgame-mates-145-163"
+      ]
+    },
+    {
+      "id": "study-s40-04",
+      "crossrefIds": [
+        "mating-patterns--nunn-endgame-mates-164-196"
+      ]
+    },
+    {
+      "id": "study-s40-05",
+      "crossrefIds": [
+        "mating-patterns--nunn-endgame-mates-197-218"
+      ]
+    },
+    {
+      "id": "study-s40-06",
+      "crossrefIds": [
+        "mating-patterns--nunn-endgame-mates-219-234"
+      ]
+    },
+    {
+      "id": "study-s40-07",
+      "crossrefIds": [
+        "mating-patterns--silman-staircase-heavy-piece-mates"
+      ]
+    },
+    {
+      "id": "study-s40-08",
+      "crossrefIds": [
+        "mating-patterns--silman-box-queen-mate"
+      ]
+    },
+    {
+      "id": "study-s40-09",
+      "crossrefIds": [
+        "mating-patterns--silman-box-rook-mate"
+      ]
+    },
+    {
+      "id": "study-s40-10",
+      "crossrefIds": [
+        "mating-patterns--silman-basic-mate-assessment"
+      ]
+    },
+    {
+      "id": "study-s40-11",
+      "crossrefIds": [
+        "mating-patterns--silman-mating-material-inventory"
+      ]
+    },
+    {
+      "id": "study-s40-12",
+      "crossrefIds": [
+        "mating-patterns--silman-two-bishop-diagonal-box"
+      ]
+    },
+    {
+      "id": "study-s40-13",
+      "crossrefIds": [
+        "mating-patterns--erwich-mate-force-and-access"
+      ]
+    },
+    {
+      "id": "study-s37-01",
+      "crossrefIds": [
+        "mating-patterns--nunn-blocking-squares-principle"
+      ]
+    },
+    {
+      "id": "study-s37-02",
+      "crossrefIds": [
+        "mating-patterns--nunn-blocking-squares-drills"
+      ]
+    },
+    {
+      "id": "study-s37-03",
+      "crossrefIds": [
+        "piece-traps--erwich-piece-traps-mobility-and-counterplay"
+      ]
+    },
+    {
+      "id": "study-s37-04",
+      "crossrefIds": [
+        "piece-traps--erwich-piece-traps-chase-and-seal"
+      ]
+    },
+    {
+      "id": "study-s37-05",
+      "crossrefIds": [
+        "piece-traps--erwich-piece-traps-methods-336-361"
+      ]
+    },
+    {
+      "id": "study-s37-06",
+      "crossrefIds": [
+        "piece-traps--erwich-piece-traps-methods-362-391"
+      ]
+    },
+    {
+      "id": "study-s37-07",
+      "crossrefIds": [
+        "piece-traps--erwich-piece-traps-mixed-392-404"
+      ]
+    },
+    {
+      "id": "study-s38-01",
+      "crossrefIds": [
+        "promotion-tactics--nunn-pawn-promotion-mate-mechanisms"
+      ]
+    },
+    {
+      "id": "study-s38-02",
+      "crossrefIds": [
+        "promotion-tactics--nunn-pawn-promotion-mates-271-285"
+      ]
+    },
+    {
+      "id": "study-s38-03",
+      "crossrefIds": [
+        "promotion-tactics--nunn-pawn-promotion-mates-286-300"
+      ]
+    },
+    {
+      "id": "study-s38-04",
+      "crossrefIds": [
+        "promotion-tactics--erwich-promotion-deflection-and-elimination"
+      ]
+    },
+    {
+      "id": "study-s38-05",
+      "crossrefIds": [
+        "promotion-tactics--erwich-promotion-practice-405-459"
+      ]
+    },
+    {
+      "id": "study-s38-06",
+      "crossrefIds": [
+        "promotion-tactics--erwich-promotion-practice-460-498"
+      ]
+    },
+    {
+      "id": "study-s39-01",
+      "crossrefIds": [
+        "stalemate--silman-stalemate-alert"
+      ]
+    },
+    {
+      "id": "study-s39-02",
+      "crossrefIds": [
+        "drawing-tactics--erwich-drawing-methods"
+      ]
+    },
+    {
+      "id": "study-s39-03",
+      "crossrefIds": [
+        "drawing-tactics--erwich-perpetual-check-499-518"
+      ]
+    },
+    {
+      "id": "study-s39-04",
+      "crossrefIds": [
+        "drawing-tactics--erwich-perpetual-check-519-535"
+      ]
+    },
+    {
+      "id": "study-s39-05",
+      "crossrefIds": [
+        "drawing-tactics--erwich-perpetual-attack-liquidation-536-543"
+      ]
+    },
+    {
+      "id": "study-s39-06",
+      "crossrefIds": [
+        "drawing-tactics--erwich-stalemate-rampant-piece-544-556"
+      ]
+    },
+    {
+      "id": "study-s39-07",
+      "crossrefIds": [
+        "drawing-tactics--erwich-hybrid-draws-557-566"
+      ]
+    },
+    {
+      "id": "study-s07-opening-imbalance-audit",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--amateurs-opening-build-an-imbalance",
+        "opening-to-middlegame-transition--amateurs-opening-carry-the-edge-forward"
+      ]
+    },
+    {
+      "id": "study-s07-purposeful-development",
+      "crossrefIds": [
+        "development--amateurs-opening-purposeful-development",
+        "development--kotov-opening-innovation-caution"
+      ]
+    },
+    {
+      "id": "study-s07-personal-repertoire-card",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--kotov-opening-study-repertoire"
+      ]
+    },
+    {
+      "id": "study-s08-five-center-comparison",
+      "crossrefIds": [
+        "center-control--kotov-planning-central-structure"
+      ]
+    },
+    {
+      "id": "study-s08-center-invasion-drill",
+      "crossrefIds": [
+        "center-control--nimzovich-center-watch-and-invasion",
+        "center-control--nimzovich-center-key-point"
+      ]
+    },
+    {
+      "id": "study-s08-center-exercises-solve-review",
+      "crossrefIds": [
+        "opening-to-middlegame-transition--kotov-center-exercises-19-21-solutions",
+        "opening-to-middlegame-transition--nimzovich-center-control-without-pawns"
+      ]
+    },
+    {
+      "id": "study-mental-toughness-agency-audit",
+      "crossrefIds": [
+        "threat-recognition--amateurs-mental-toughness-agency"
+      ]
+    },
+    {
+      "id": "study-mental-toughness-two-sided-vigilance",
+      "crossrefIds": [
+        "blunder-checking--amateurs-mental-toughness-resilience-vigilance"
+      ]
+    },
+    {
+      "id": "study-kotov-success-reset",
+      "crossrefIds": [
+        "blunder-checking--kotov-dizziness-from-success"
+      ]
+    },
+    {
+      "id": "study-kotov-assumption-audit",
+      "crossrefIds": [
+        "blunder-checking--kotov-conditioned-reflexes"
+      ]
+    },
+    {
+      "id": "study-kotov-board-inventory",
+      "crossrefIds": [
+        "blunder-checking--kotov-blind-spot"
+      ]
+    },
+    {
+      "id": "study-kotov-practical-analysis-budget",
+      "crossrefIds": [
+        "time-management--kotov-practical-analysis-choice"
+      ]
+    },
+    {
+      "id": "study-kotov-analysis-judgment-gate",
+      "crossrefIds": [
+        "position-evaluation--kotov-analysis-or-judgment"
+      ]
+    },
+    {
+      "id": "study-kotov-independent-verification",
+      "crossrefIds": [
+        "blunder-checking--kotov-trust-opponent"
+      ]
+    },
+    {
+      "id": "study-s44-s45-01",
+      "crossrefIds": [
+        "king-activity--nimzovich-endgame-centralization"
+      ]
+    },
+    {
+      "id": "study-s44-s45-02",
+      "crossrefIds": [
+        "king-activity--silman-part-two-review-and-tests"
+      ]
+    },
+    {
+      "id": "study-s44-s45-03",
+      "crossrefIds": [
+        "king-activity--silman-active-king-practical-endings"
+      ]
+    },
+    {
+      "id": "study-s44-s45-04",
+      "crossrefIds": [
+        "king-activity--silman-active-king-routes-and-transitions"
+      ]
+    },
+    {
+      "id": "study-s44-s45-05",
+      "crossrefIds": [
+        "pawn-endings--nimzovich-frontal-king-attack"
+      ]
+    },
+    {
+      "id": "study-s44-s45-06",
+      "crossrefIds": [
+        "pawn-endings--shereshevsky-pawn-mobility-and-restraint"
+      ]
+    },
+    {
+      "id": "study-s44-s45-07",
+      "crossrefIds": [
+        "pawn-endings--shereshevsky-pawn-counterplay-and-transformation"
+      ]
+    },
+    {
+      "id": "study-s44-s45-08",
+      "crossrefIds": [
+        "pawn-endings--silman-deep-freeze"
+      ]
+    },
+    {
+      "id": "study-s44-s45-09",
+      "crossrefIds": [
+        "pawn-endings--silman-part-three-pawn-assessment"
+      ]
+    },
+    {
+      "id": "study-s44-s45-10",
+      "crossrefIds": [
+        "pawn-endings--silman-part-four-pawn-assessment"
+      ]
+    },
+    {
+      "id": "study-s44-s45-11",
+      "crossrefIds": [
+        "pawn-endings--silman-two-healthy-pawns"
+      ]
+    },
+    {
+      "id": "study-s51-bridge-comparison",
+      "crossrefIds": [
+        "rook-endings--nimzovich-endgame-shelter",
+        "rook-endings--nimzovich-transport-the-bridge",
+        "rook-endings--silman-lucena-start",
+        "rook-endings--silman-lucena-bridge"
+      ]
+    },
+    {
+      "id": "study-s51-lucena-execution",
+      "crossrefIds": [
+        "rook-endings--silman-lucena-start",
+        "rook-endings--silman-lucena-false-starts",
+        "rook-endings--silman-lucena-bridge"
+      ]
+    },
+    {
+      "id": "study-s52-philidor-plan-b",
+      "crossrefIds": [
+        "rook-endings--silman-bad-philidor-stop-the-pawn",
+        "rook-endings--silman-bad-philidor-short-side",
+        "rook-endings--silman-bad-philidor-long-checks"
+      ]
+    },
+    {
+      "id": "study-s52-active-defense-comparison",
+      "crossrefIds": [
+        "rook-endings--amateurs-rook-active-defense",
+        "rook-endings--amateurs-rook-defensive-liquidation",
+        "rook-endings--silman-philidor-barrier",
+        "rook-endings--silman-philidor-checking"
+      ]
+    },
+    {
+      "id": "study-s53-rook-v-pawn-classifier",
+      "crossrefIds": [
+        "rook-endings--silman-rook-v-pawn-escort-draw",
+        "rook-endings--silman-rook-v-pawn-rank-cutoff",
+        "rook-endings--silman-rook-v-pawn-king-coordination"
+      ]
+    },
+    {
+      "id": "study-s53-king-distance-drill",
+      "crossrefIds": [
+        "king-activity--silman-rook-v-pawn-escort-draw",
+        "king-activity--silman-rook-v-pawn-king-coordination"
+      ]
+    },
+    {
+      "id": "study-back-rank-principle-map",
+      "crossrefIds": [
+        "mating-patterns--nunn-back-rank-principle"
+      ]
+    },
+    {
+      "id": "study-back-rank-91-108",
+      "crossrefIds": [
+        "mating-patterns--nunn-back-rank-mates-91-108"
+      ]
+    },
+    {
+      "id": "study-back-rank-109-126",
+      "crossrefIds": [
+        "mating-patterns--nunn-back-rank-mates-109-126"
+      ]
+    },
+    {
+      "id": "study-back-rank-127-144",
+      "crossrefIds": [
+        "mating-patterns--nunn-back-rank-mates-127-144"
+      ]
+    },
+    {
+      "id": "study-long-diagonal-principle-map",
+      "crossrefIds": [
+        "mating-patterns--nunn-long-diagonal-principle"
+      ]
+    },
+    {
+      "id": "study-long-diagonal-235-246",
+      "crossrefIds": [
+        "mating-patterns--nunn-long-diagonal-mates-235-246"
+      ]
+    },
+    {
+      "id": "study-long-diagonal-247-258",
+      "crossrefIds": [
+        "mating-patterns--nunn-long-diagonal-mates-247-258"
+      ]
+    },
+    {
+      "id": "study-long-diagonal-259-270",
+      "crossrefIds": [
+        "mating-patterns--nunn-long-diagonal-mates-259-270"
+      ]
+    },
+    {
+      "id": "study-rook-minor-principle-map",
+      "crossrefIds": [
+        "mating-patterns--nunn-rook-minor-principle"
+      ]
+    },
+    {
+      "id": "study-rook-minor-301-318",
+      "crossrefIds": [
+        "mating-patterns--nunn-rook-minor-mates-301-318"
+      ]
+    },
+    {
+      "id": "study-rook-minor-319-336",
+      "crossrefIds": [
+        "mating-patterns--nunn-rook-minor-mates-319-336"
+      ]
+    },
+    {
+      "id": "study-rook-minor-337-354",
+      "crossrefIds": [
+        "mating-patterns--nunn-rook-minor-mates-337-354"
+      ]
+    },
+    {
+      "id": "study-rook-file-principle-map",
+      "crossrefIds": [
+        "mating-patterns--nunn-rook-file-principle"
+      ]
+    },
+    {
+      "id": "study-rook-file-433-444",
+      "crossrefIds": [
+        "mating-patterns--nunn-rook-file-mates-433-444"
+      ]
+    },
+    {
+      "id": "study-rook-file-445-456",
+      "crossrefIds": [
+        "mating-patterns--nunn-rook-file-mates-445-456"
+      ]
+    },
+    {
+      "id": "study-rook-file-457-468",
+      "crossrefIds": [
+        "mating-patterns--nunn-rook-file-mates-457-468"
+      ]
+    },
+    {
+      "id": "study-rook-file-469-480",
+      "crossrefIds": [
+        "mating-patterns--nunn-rook-file-mates-469-480"
+      ]
+    },
+    {
+      "id": "study-line-opening-principle-map",
+      "crossrefIds": [
+        "mating-patterns--nunn-line-opening-principle"
+      ]
+    },
+    {
+      "id": "study-line-opening-571-582",
+      "crossrefIds": [
+        "mating-patterns--nunn-line-opening-mates-571-582"
+      ]
+    },
+    {
+      "id": "study-line-opening-583-594",
+      "crossrefIds": [
+        "mating-patterns--nunn-line-opening-mates-583-594"
+      ]
+    },
+    {
+      "id": "study-line-opening-595-606",
+      "crossrefIds": [
+        "mating-patterns--nunn-line-opening-mates-595-606"
+      ]
+    },
+    {
+      "id": "study-line-opening-607-618",
+      "crossrefIds": [
+        "mating-patterns--nunn-line-opening-mates-607-618"
+      ]
+    },
+    {
+      "id": "study-s42-01",
+      "crossrefIds": [
+        "sacrifices--nunn-queen-sacrifice-principle"
+      ]
+    },
+    {
+      "id": "study-s42-02",
+      "crossrefIds": [
+        "sacrifices--nunn-queen-sacrifices-481-510"
+      ]
+    },
+    {
+      "id": "study-s42-03",
+      "crossrefIds": [
+        "sacrifices--nunn-queen-sacrifices-511-540"
+      ]
+    },
+    {
+      "id": "study-s42-04",
+      "crossrefIds": [
+        "sacrifices--nunn-queen-sacrifices-541-570"
+      ]
+    },
+    {
+      "id": "study-s42-05",
+      "crossrefIds": [
+        "mating-patterns--nunn-king-hunt-principle"
+      ]
+    },
+    {
+      "id": "study-s42-06",
+      "crossrefIds": [
+        "mating-patterns--nunn-king-hunts-733-750"
+      ]
     }
   ]
 }

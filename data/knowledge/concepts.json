@@ -244,6 +244,26 @@
     {
       "id": "see-saw",
       "name": "See-saw"
+    },
+    {
+      "id": "piece-traps",
+      "name": "Piece traps"
+    },
+    {
+      "id": "promotion-tactics",
+      "name": "Promotion tactics"
+    },
+    {
+      "id": "drawing-tactics",
+      "name": "Drawing tactics"
+    },
+    {
+      "id": "perpetual-check",
+      "name": "Perpetual check"
+    },
+    {
+      "id": "stalemate",
+      "name": "Stalemate"
     }
   ]
 }

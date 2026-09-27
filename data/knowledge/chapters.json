@@ -4875,6 +4875,1345 @@
         "section": "Chapter 8 section 3, diagram 108 and Bardeleben-Nisnievich, Reti-Tartakower and Nimzowitsch-Rychhoff examples through chapter end",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "nunn-destroying-defences-principle",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Map the king's defensive barrier before sacrificing; pp. 117; PDF 118-118",
+      "title": "Map the king's defensive barrier before sacrificing",
+      "locator": {
+        "pdfPageStart": 118,
+        "pdfPageEnd": 118,
+        "printedPages": "117",
+        "section": "Destroying the Defences introduction and Jakinic-Lip worked example",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-destroying-defences-385-396",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Destroy direct defenses: exercises 385-396; pp. 118-126; PDF 119-127",
+      "title": "Destroy direct defenses: exercises 385-396",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 127,
+        "printedPages": "118-126",
+        "section": "Prompts 385-396 on PDFs 119-120 with matching solutions on PDF 127",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-destroying-defences-397-408",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Respect move order and interpositions: exercises 397-408; pp. 120-127; PDF 121-128",
+      "title": "Respect move order and interpositions: exercises 397-408",
+      "locator": {
+        "pdfPageStart": 121,
+        "pdfPageEnd": 128,
+        "printedPages": "120-127",
+        "section": "Prompts 397-408 on PDFs 121-122 with matching solutions across PDFs 127-128",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-destroying-defences-409-420",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Coordinate sacrifices and line opening: exercises 409-420; pp. 122-128; PDF 123-129",
+      "title": "Coordinate sacrifices and line opening: exercises 409-420",
+      "locator": {
+        "pdfPageStart": 123,
+        "pdfPageEnd": 129,
+        "printedPages": "122-128",
+        "section": "Prompts 409-420 on PDFs 123-124 with matching solutions across PDFs 128-129",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-destroying-defences-421-432",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Complete multi-stage defender removal: exercises 421-432; pp. 124-129; PDF 125-130",
+      "title": "Complete multi-stage defender removal: exercises 421-432",
+      "locator": {
+        "pdfPageStart": 125,
+        "pdfPageEnd": 130,
+        "printedPages": "124-129",
+        "section": "Prompts 421-432 on PDFs 125-126 with matching solutions across PDFs 129-130; score chart follows on PDF 131",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-elementary-mates-25-54",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Elementary mates 25-54; exercises PDF 14-18; matching solutions PDF 26-27",
+      "title": "Elementary mates 25-54",
+      "locator": {
+        "pdfPageStart": 14,
+        "pdfPageEnd": 27,
+        "printedPages": "13-26",
+        "section": "exercises PDF 14-18; matching solutions PDF 26-27",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-elementary-mates-55-90",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Elementary mates 55-90; exercises PDF 19-24; matching solutions PDF 27-29",
+      "title": "Elementary mates 55-90",
+      "locator": {
+        "pdfPageStart": 19,
+        "pdfPageEnd": 29,
+        "printedPages": "18-28",
+        "section": "exercises PDF 19-24; matching solutions PDF 27-29",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-endgame-mates-145-163",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Endgame mates 145-163; chapter introduction/model on PDF 47; exercises PDF 48-51; solutions PDF 63-64",
+      "title": "Endgame mates 145-163",
+      "locator": {
+        "pdfPageStart": 47,
+        "pdfPageEnd": 64,
+        "printedPages": "46-63",
+        "section": "chapter introduction/model on PDF 47; exercises PDF 48-51; solutions PDF 63-64",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-endgame-mates-164-196",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Endgame mates 164-196; exercises PDF 51-56; solutions PDF 64-65",
+      "title": "Endgame mates 164-196",
+      "locator": {
+        "pdfPageStart": 51,
+        "pdfPageEnd": 65,
+        "printedPages": "50-64",
+        "section": "exercises PDF 51-56; solutions PDF 64-65",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-endgame-mates-197-218",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Endgame mates 197-218; exercises PDF 56-60; solutions PDF 65-67",
+      "title": "Endgame mates 197-218",
+      "locator": {
+        "pdfPageStart": 56,
+        "pdfPageEnd": 67,
+        "printedPages": "55-66",
+        "section": "exercises PDF 56-60; solutions PDF 65-67",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-endgame-mates-219-234",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Endgame mates 219-234; exercises PDF 60-62; solutions PDF 67-69",
+      "title": "Endgame mates 219-234",
+      "locator": {
+        "pdfPageStart": 60,
+        "pdfPageEnd": 69,
+        "printedPages": "59-68",
+        "section": "exercises PDF 60-62; solutions PDF 67-69",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-staircase-heavy-piece-mates",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Staircase mates with heavy pieces; Overkill Mates, PDFs 22-35, diagrams 1-12",
+      "title": "Staircase mates with heavy pieces",
+      "locator": {
+        "pdfPageStart": 22,
+        "pdfPageEnd": 35,
+        "printedPages": null,
+        "section": "Overkill Mates, PDFs 22-35, diagrams 1-12",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-box-queen-mate",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "The box: king and queen versus king; The Box and K+Q, PDFs 36-43, diagrams 13-18",
+      "title": "The box: king and queen versus king",
+      "locator": {
+        "pdfPageStart": 36,
+        "pdfPageEnd": 43,
+        "printedPages": null,
+        "section": "The Box and K+Q, PDFs 36-43, diagrams 13-18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-box-rook-mate",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "The box: king and rook versus king; K+R, PDFs 43-52, diagrams 19-26",
+      "title": "The box: king and rook versus king",
+      "locator": {
+        "pdfPageStart": 43,
+        "pdfPageEnd": 52,
+        "printedPages": null,
+        "section": "K+R, PDFs 43-52, diagrams 19-26",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-basic-mate-assessment",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Basic mate assessment and correction; summary PDF 59; tests PDFs 60-65, diagrams 32-37; answers PDFs 816-822",
+      "title": "Basic mate assessment and correction",
+      "locator": {
+        "pdfPageStart": 59,
+        "pdfPageEnd": 822,
+        "printedPages": null,
+        "section": "summary PDF 59; tests PDFs 60-65, diagrams 32-37; answers PDFs 816-822",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-mating-material-inventory",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Which material can force mate; What Can or Cannot Mate, PDFs 68-70, diagram 38",
+      "title": "Which material can force mate",
+      "locator": {
+        "pdfPageStart": 68,
+        "pdfPageEnd": 70,
+        "printedPages": null,
+        "section": "What Can or Cannot Mate, PDFs 68-70, diagram 38",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-two-bishop-diagonal-box",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Two bishops and king: the diagonal box; Two Bishops vs. Lone King, PDFs 305-310, diagrams 192-195",
+      "title": "Two bishops and king: the diagonal box",
+      "locator": {
+        "pdfPageStart": 305,
+        "pdfPageEnd": 310,
+        "printedPages": null,
+        "section": "Two Bishops vs. Lone King, PDFs 305-310, diagrams 192-195",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-mate-force-and-access",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Force the king, then gain access; available start of Chapter 9, PDFs 328-331; three annotated examples",
+      "title": "Force the king, then gain access",
+      "locator": {
+        "pdfPageStart": 328,
+        "pdfPageEnd": 331,
+        "printedPages": null,
+        "section": "available start of Chapter 9, PDFs 328-331; three annotated examples",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-blocking-squares-principle",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mate by occupying the king's escape squares; introduction and Hottes-Bautista Sanchez worked example, PDF 185",
+      "title": "Mate by occupying the king's escape squares",
+      "locator": {
+        "pdfPageStart": 185,
+        "pdfPageEnd": 185,
+        "printedPages": "184",
+        "section": "introduction and Hottes-Bautista Sanchez worked example, PDF 185",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-blocking-squares-drills",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Blocking-squares drills 619-642; exercises 619-642 PDFs 186-189, all solutions PDFs 190-191, score chart PDF 192",
+      "title": "Blocking-squares drills 619-642",
+      "locator": {
+        "pdfPageStart": 186,
+        "pdfPageEnd": 192,
+        "printedPages": "185-191",
+        "section": "exercises 619-642 PDFs 186-189, all solutions PDFs 190-191, score chart PDF 192",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-piece-traps-mobility-and-counterplay",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Measure mobility before calling a piece trapped; Chapter 6 opening examples, PDFs 199-200",
+      "title": "Measure mobility before calling a piece trapped",
+      "locator": {
+        "pdfPageStart": 199,
+        "pdfPageEnd": 200,
+        "printedPages": null,
+        "section": "Chapter 6 opening examples, PDFs 199-200",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-piece-traps-chase-and-seal",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Chase with tempo and seal the last route; Chapter 6 worked examples, PDFs 201-202",
+      "title": "Chase with tempo and seal the last route",
+      "locator": {
+        "pdfPageStart": 201,
+        "pdfPageEnd": 202,
+        "printedPages": null,
+        "section": "Chapter 6 worked examples, PDFs 201-202",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-piece-traps-methods-336-361",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Trap methods 336-361; exercises 336-361: luring, capture, chase, shutoff, interference and blocking",
+      "title": "Trap methods 336-361",
+      "locator": {
+        "pdfPageStart": 202,
+        "pdfPageEnd": 215,
+        "printedPages": null,
+        "section": "exercises 336-361: luring, capture, chase, shutoff, interference and blocking",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-piece-traps-methods-362-391",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Trap methods 362-391; exercises 362-391: chasing, targeting, clearance and quiet moves",
+      "title": "Trap methods 362-391",
+      "locator": {
+        "pdfPageStart": 215,
+        "pdfPageEnd": 230,
+        "printedPages": null,
+        "section": "exercises 362-391: chasing, targeting, clearance and quiet moves",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-piece-traps-mixed-392-404",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Mixed trapping decisions 392-404; mixed exercises 392-404, including yes/no decisions 401-404",
+      "title": "Mixed trapping decisions 392-404",
+      "locator": {
+        "pdfPageStart": 230,
+        "pdfPageEnd": 236,
+        "printedPages": null,
+        "section": "mixed exercises 392-404, including yes/no decisions 401-404",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-pawn-promotion-mate-mechanisms",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Promotion as a mating mechanism; chapter introduction and worked example, PDF 83",
+      "title": "Promotion as a mating mechanism",
+      "locator": {
+        "pdfPageStart": 83,
+        "pdfPageEnd": 83,
+        "printedPages": "82",
+        "section": "chapter introduction and worked example, PDF 83",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-pawn-promotion-mates-271-285",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Promotion-mate drills 271-285; prompts PDFs 84-86; matching solutions PDFs 89-90",
+      "title": "Promotion-mate drills 271-285",
+      "locator": {
+        "pdfPageStart": 84,
+        "pdfPageEnd": 90,
+        "printedPages": "83-89",
+        "section": "prompts PDFs 84-86; matching solutions PDFs 89-90",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-pawn-promotion-mates-286-300",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Promotion-mate drills 286-300; prompts PDFs 86-88; solutions PDFs 90-91; score chart PDF 92",
+      "title": "Promotion-mate drills 286-300",
+      "locator": {
+        "pdfPageStart": 86,
+        "pdfPageEnd": 92,
+        "printedPages": "85-91",
+        "section": "prompts PDFs 86-88; solutions PDFs 90-91; score chart PDF 92",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-promotion-deflection-and-elimination",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Clear the pawn's route through force; Chapter 7 introduction and three worked games, PDFs 237-241, six diagrams",
+      "title": "Clear the pawn's route through force",
+      "locator": {
+        "pdfPageStart": 237,
+        "pdfPageEnd": 241,
+        "printedPages": null,
+        "section": "Chapter 7 introduction and three worked games, PDFs 237-241, six diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-promotion-practice-405-459",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Promotion practice 405-459; exercises 405-459; independent checks 405, 421 and 444",
+      "title": "Promotion practice 405-459",
+      "locator": {
+        "pdfPageStart": 241,
+        "pdfPageEnd": 268,
+        "printedPages": null,
+        "section": "exercises 405-459; independent checks 405, 421 and 444",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-promotion-practice-460-498",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Promotion practice 460-498; exercises 460-498; independent checks 470, 476 and 498",
+      "title": "Promotion practice 460-498",
+      "locator": {
+        "pdfPageStart": 269,
+        "pdfPageEnd": 288,
+        "printedPages": null,
+        "section": "exercises 460-498; independent checks 470, 476 and 498",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-drawing-methods",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Drawing mechanisms in forcing positions; Chapter 8 introduction, five worked examples and six diagrams",
+      "title": "Drawing mechanisms in forcing positions",
+      "locator": {
+        "pdfPageStart": 289,
+        "pdfPageEnd": 293,
+        "printedPages": null,
+        "section": "Chapter 8 introduction, five worked examples and six diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-perpetual-check-499-518",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Perpetual-check drills 499-518; exercises 499-518, twenty diagrams",
+      "title": "Perpetual-check drills 499-518",
+      "locator": {
+        "pdfPageStart": 294,
+        "pdfPageEnd": 303,
+        "printedPages": null,
+        "section": "exercises 499-518, twenty diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-perpetual-check-519-535",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Perpetual-check drills 519-535; exercises 519-535, seventeen diagrams",
+      "title": "Perpetual-check drills 519-535",
+      "locator": {
+        "pdfPageStart": 304,
+        "pdfPageEnd": 312,
+        "printedPages": null,
+        "section": "exercises 519-535, seventeen diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-perpetual-attack-liquidation-536-543",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Perpetual attacks and liquidation decisions; exercises 536-543, eight diagrams",
+      "title": "Perpetual attacks and liquidation decisions",
+      "locator": {
+        "pdfPageStart": 312,
+        "pdfPageEnd": 316,
+        "printedPages": null,
+        "section": "exercises 536-543, eight diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-stalemate-rampant-piece-544-556",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Stalemate and rampant-piece resources; exercises 544-556, thirteen diagrams",
+      "title": "Stalemate and rampant-piece resources",
+      "locator": {
+        "pdfPageStart": 316,
+        "pdfPageEnd": 322,
+        "printedPages": null,
+        "section": "exercises 544-556, thirteen diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "erwich-hybrid-draws-557-566",
+      "bookId": "erwich-club-exercises-2019",
+      "ref": "Hybrid drawing mechanisms 557-566; exercises 557-566, ten diagrams",
+      "title": "Hybrid drawing mechanisms 557-566",
+      "locator": {
+        "pdfPageStart": 323,
+        "pdfPageEnd": 327,
+        "printedPages": null,
+        "section": "exercises 557-566, ten diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-stalemate-alert",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Stalemate Alert!; PDFs 53-58, diagrams 27-31",
+      "title": "Stalemate Alert!",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 58,
+        "printedPages": null,
+        "section": "PDFs 53-58, diagrams 27-31",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-opening-build-an-imbalance",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Build the opening around a favorable imbalance; How to Play the Opening, introduction and two short opening examples",
+      "title": "Build the opening around a favorable imbalance",
+      "locator": {
+        "pdfPageStart": 233,
+        "pdfPageEnd": 235,
+        "printedPages": "229-231",
+        "section": "How to Play the Opening, introduction and two short opening examples",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-opening-carry-the-edge-forward",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Carry the opening edge into a coherent plan; How to Play the Opening, 2100-Silman Reti and English examples, diagrams 89-90",
+      "title": "Carry the opening edge into a coherent plan",
+      "locator": {
+        "pdfPageStart": 236,
+        "pdfPageEnd": 244,
+        "printedPages": "232-240",
+        "section": "How to Play the Opening, 2100-Silman Reti and English examples, diagrams 89-90",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-opening-purposeful-development",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Develop with threats, files and piece roles in mind; How to Play the Opening, 900-Silman Ruy Lopez example and final tips, diagram 91",
+      "title": "Develop with threats, files and piece roles in mind",
+      "locator": {
+        "pdfPageStart": 245,
+        "pdfPageEnd": 248,
+        "printedPages": "241-244",
+        "section": "How to Play the Opening, 900-Silman Ruy Lopez example and final tips, diagram 91",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-opening-innovation-caution",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Test opening innovations before copying them; General Questions and Preparation, The Opening, two quoted maxims before Middlegame",
+      "title": "Test opening innovations before copying them",
+      "locator": {
+        "pdfPageStart": 129,
+        "pdfPageEnd": 129,
+        "printedPages": "130",
+        "section": "General Questions and Preparation, The Opening, two quoted maxims before Middlegame",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-opening-study-repertoire",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Build a narrow repertoire from key positions; Opening Study, through the text above Is it Possible to Study the Middlegame?, three diagrams",
+      "title": "Build a narrow repertoire from key positions",
+      "locator": {
+        "pdfPageStart": 165,
+        "pdfPageEnd": 169,
+        "printedPages": "166-170",
+        "section": "Opening Study, through the text above Is it Possible to Study the Middlegame?, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-position-play-foundations",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Transfer elemental ideas into position play; The Conception of Position Play, sections 1-2 through before section 3, diagram 123",
+      "title": "Transfer elemental ideas into position play",
+      "locator": {
+        "pdfPageStart": 179,
+        "pdfPageEnd": 183,
+        "printedPages": "157-161",
+        "section": "The Conception of Position Play, sections 1-2 through before section 3, diagram 123",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-center-watch-and-invasion",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Watch the center and punish an unjustified wing diversion; The Paramount Importance of the Center, opening through diagram 136",
+      "title": "Watch the center and punish an unjustified wing diversion",
+      "locator": {
+        "pdfPageStart": 192,
+        "pdfPageEnd": 195,
+        "printedPages": "170-173",
+        "section": "The Paramount Importance of the Center, opening through diagram 136",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-center-key-point",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Occupy and overprotect the key central point; The Paramount Importance of the Center, diagrams 137-139 through before section 6 heading",
+      "title": "Occupy and overprotect the key central point",
+      "locator": {
+        "pdfPageStart": 196,
+        "pdfPageEnd": 198,
+        "printedPages": "174-176",
+        "section": "The Paramount Importance of the Center, diagrams 137-139 through before section 6 heading",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-center-control-without-pawns",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Control the center through pieces, lines and restraint; The Surrender of the Center, below its heading through the chapter end, diagrams 145-147",
+      "title": "Control the center through pieces, lines and restraint",
+      "locator": {
+        "pdfPageStart": 203,
+        "pdfPageEnd": 207,
+        "printedPages": "181-185",
+        "section": "The Surrender of the Center, below its heading through the chapter end, diagrams 145-147",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-center-exercises-19-21-solutions",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Review center exercises 19-21 against Kotov’s solutions; Solutions to the Exercises, answers 19-21 only",
+      "title": "Review center exercises 19-21 against Kotov’s solutions",
+      "locator": {
+        "pdfPageStart": 183,
+        "pdfPageEnd": 183,
+        "printedPages": "184",
+        "section": "Solutions to the Exercises, answers 19-21 only",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-mental-toughness-agency",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Mental toughness as active, position-based agency; Developing Mental Toughness from its title page through the first Tips box and the transition to giving up and depression; diagrams 114-115",
+      "title": "Mental toughness as active, position-based agency",
+      "locator": {
+        "pdfPageStart": 302,
+        "pdfPageEnd": 313,
+        "printedPages": "299-310",
+        "section": "Developing Mental Toughness from its title page through the first Tips box and the transition to giving up and depression; diagrams 114-115",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-mental-toughness-resilience-vigilance",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Resilience when worse and vigilance when better; Developing Mental Toughness from the giving-up example through the final Tips box; diagrams 116-117; stop before Tests",
+      "title": "Resilience when worse and vigilance when better",
+      "locator": {
+        "pdfPageStart": 314,
+        "pdfPageEnd": 317,
+        "printedPages": "311-314",
+        "section": "Developing Mental Toughness from the giving-up example through the final Tips box; diagrams 116-117; stop before Tests",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-dizziness-from-success",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Reset vigilance after success; Gross Blunders: Dizziness due to Success in full, six diagrams; stop at Conditioned Reflexes",
+      "title": "Reset vigilance after success",
+      "locator": {
+        "pdfPageStart": 53,
+        "pdfPageEnd": 59,
+        "printedPages": "54-60",
+        "section": "Gross Blunders: Dizziness due to Success in full, six diagrams; stop at Conditioned Reflexes",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-conditioned-reflexes",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Verify the conditions behind a familiar rule; Gross Blunders: Conditioned Reflexes in full, ten diagrams; stop at The Blind Spot",
+      "title": "Verify the conditions behind a familiar rule",
+      "locator": {
+        "pdfPageStart": 59,
+        "pdfPageEnd": 64,
+        "printedPages": "60-65",
+        "section": "Gross Blunders: Conditioned Reflexes in full, ten diagrams; stop at The Blind Spot",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-blind-spot",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Break attentional blind spots; Gross Blunders: The Blind Spot in full, five diagrams; stop at Blumenfeld's Rule",
+      "title": "Break attentional blind spots",
+      "locator": {
+        "pdfPageStart": 64,
+        "pdfPageEnd": 66,
+        "printedPages": "65-67",
+        "section": "Gross Blunders: The Blind Spot in full, five diagrams; stop at Blumenfeld's Rule",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-practical-analysis-choice",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Decide when a practical line needs calculation; More Practical Advice: To Analyse or Not to Analyse? in full, two diagrams; stop at Positions for Analysis or Judgement?",
+      "title": "Decide when a practical line needs calculation",
+      "locator": {
+        "pdfPageStart": 68,
+        "pdfPageEnd": 71,
+        "printedPages": "69-72",
+        "section": "More Practical Advice: To Analyse or Not to Analyse? in full, two diagrams; stop at Positions for Analysis or Judgement?",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-analysis-or-judgment",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Separate calculable decisions from positional judgment; More Practical Advice: Positions for Analysis or Judgement? in full, three diagrams; stop at Trust Your Opponent or Not?",
+      "title": "Separate calculable decisions from positional judgment",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 73,
+        "printedPages": "72-74",
+        "section": "More Practical Advice: Positions for Analysis or Judgement? in full, three diagrams; stop at Trust Your Opponent or Not?",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-trust-opponent",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Verify the opponent's offered conclusion; More Practical Advice: Trust Your Opponent or Not? in full, one diagram; stop at Time-trouble",
+      "title": "Verify the opponent's offered conclusion",
+      "locator": {
+        "pdfPageStart": 73,
+        "pdfPageEnd": 75,
+        "printedPages": "74-76",
+        "section": "More Practical Advice: Trust Your Opponent or Not? in full, one diagram; stop at Time-trouble",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-endgame-centralization",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Centralize the king toward the relevant wing; endgame centralization before section 1a, diagram 72",
+      "title": "Centralize the king toward the relevant wing",
+      "locator": {
+        "pdfPageStart": 115,
+        "pdfPageEnd": 117,
+        "printedPages": "92-94",
+        "section": "endgame centralization before section 1a, diagram 72",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-part-two-review-and-tests",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Two review, opposition tests and answers; summary PDF 93; tests PDFs 94-98, diagrams 50-54; final thoughts PDF 99; answers PDFs 823-829",
+      "title": "Part Two review, opposition tests and answers",
+      "locator": {
+        "pdfPageStart": 93,
+        "pdfPageEnd": 829,
+        "printedPages": null,
+        "section": "summary PDF 93; tests PDFs 94-98, diagrams 50-54; final thoughts PDF 99; answers PDFs 823-829",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-active-king-practical-endings",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Activate the king through rook and pawn play; active-king games, PDFs 619-625, diagrams 414-418",
+      "title": "Activate the king through rook and pawn play",
+      "locator": {
+        "pdfPageStart": 619,
+        "pdfPageEnd": 625,
+        "printedPages": null,
+        "section": "active-king games, PDFs 619-625, diagrams 414-418",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-active-king-routes-and-transitions",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "King routes, reserve tempi and pawn transitions; active-king games, PDFs 626-635, diagrams 419-425",
+      "title": "King routes, reserve tempi and pawn transitions",
+      "locator": {
+        "pdfPageStart": 626,
+        "pdfPageEnd": 635,
+        "printedPages": null,
+        "section": "active-king games, PDFs 626-635, diagrams 419-425",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-frontal-king-attack",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Attack a fixed pawn from the front with the king; frontal king attack, diagrams 53-54, four positions",
+      "title": "Attack a fixed pawn from the front with the king",
+      "locator": {
+        "pdfPageStart": 89,
+        "pdfPageEnd": 93,
+        "printedPages": "66-70",
+        "section": "frontal king attack, diagrams 53-54, four positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-pawn-mobility-and-restraint",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Passed-pawn mobility and restraint; Chapter 3 opening, six diagrams",
+      "title": "Passed-pawn mobility and restraint",
+      "locator": {
+        "pdfPageStart": 20,
+        "pdfPageEnd": 23,
+        "printedPages": "12-15",
+        "section": "Chapter 3 opening, six diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-pawn-counterplay-and-transformation",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Pawn counterplay and structural transformation; Chapter 3 conclusion, four diagrams",
+      "title": "Pawn counterplay and structural transformation",
+      "locator": {
+        "pdfPageStart": 24,
+        "pdfPageEnd": 26,
+        "printedPages": "16-18",
+        "section": "Chapter 3 conclusion, four diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-deep-freeze",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Freeze a pawn majority; Deep Freeze, diagrams 67-70",
+      "title": "Freeze a pawn majority",
+      "locator": {
+        "pdfPageStart": 121,
+        "pdfPageEnd": 125,
+        "printedPages": null,
+        "section": "Deep Freeze, diagrams 67-70",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-part-three-pawn-assessment",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Three pawn-ending assessment; summary PDFs 141-142; tests 143-149, diagrams 81-87; final thoughts 150; answers 830-839",
+      "title": "Part Three pawn-ending assessment",
+      "locator": {
+        "pdfPageStart": 141,
+        "pdfPageEnd": 839,
+        "printedPages": null,
+        "section": "summary PDFs 141-142; tests 143-149, diagrams 81-87; final thoughts 150; answers 830-839",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-part-four-pawn-assessment",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Four pawn-ending assessment; summary PDFs 236-239; tests 240-254, diagrams 146-161; final thoughts 255; answers 840-860",
+      "title": "Part Four pawn-ending assessment",
+      "locator": {
+        "pdfPageStart": 236,
+        "pdfPageEnd": 860,
+        "printedPages": null,
+        "section": "summary PDFs 236-239; tests 240-254, diagrams 146-161; final thoughts 255; answers 840-860",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-two-healthy-pawns",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Convert two healthy pawns; introduction PDF 258; teaching PDFs 259-270, diagrams 162-170",
+      "title": "Convert two healthy pawns",
+      "locator": {
+        "pdfPageStart": 258,
+        "pdfPageEnd": 270,
+        "printedPages": null,
+        "section": "introduction PDF 258; teaching PDFs 259-270, diagrams 162-170",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-endgame-shelter",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Prepare shelter before exposing the king; The Shelter: Bridge-Building, heading through diagram 74 and the following shelter example",
+      "title": "Prepare shelter before exposing the king",
+      "locator": {
+        "pdfPageStart": 117,
+        "pdfPageEnd": 118,
+        "printedPages": "94-95",
+        "section": "The Shelter: Bridge-Building, heading through diagram 74 and the following shelter example",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nimzovich-transport-the-bridge",
+      "bookId": "nimzovich-my-system-1964",
+      "ref": "Build and transport a rook bridge; The Shelter: Bridge-Building, diagram 75 through the end of section 1a; section 2 begins PDF 120",
+      "title": "Build and transport a rook bridge",
+      "locator": {
+        "pdfPageStart": 118,
+        "pdfPageEnd": 119,
+        "printedPages": "95-96",
+        "section": "The Shelter: Bridge-Building, diagram 75 through the end of section 1a; section 2 begins PDF 120",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-bad-philidor-stop-the-pawn",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "When the rank barrier is denied, stop the pawn from the side; When a Philidor Goes Bad, diagrams 289-290 through 4...Re1",
+      "title": "When the rank barrier is denied, stop the pawn from the side",
+      "locator": {
+        "pdfPageStart": 444,
+        "pdfPageEnd": 446,
+        "printedPages": null,
+        "section": "When a Philidor Goes Bad, diagrams 289-290 through 4...Re1",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-bad-philidor-short-side",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Put the king on the short side and preserve checking room; When a Philidor Goes Bad, diagrams 291-292 and test parts two-three",
+      "title": "Put the king on the short side and preserve checking room",
+      "locator": {
+        "pdfPageStart": 447,
+        "pdfPageEnd": 448,
+        "printedPages": null,
+        "section": "When a Philidor Goes Bad, diagrams 291-292 and test parts two-three",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-bad-philidor-long-checks",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Switch between restraint and long-distance checks; When a Philidor Goes Bad, diagrams 293-294 and test parts four-five through the section end",
+      "title": "Switch between restraint and long-distance checks",
+      "locator": {
+        "pdfPageStart": 449,
+        "pdfPageEnd": 450,
+        "printedPages": null,
+        "section": "When a Philidor Goes Bad, diagrams 293-294 and test parts four-five through the section end",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-v-pawn-escort-draw",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Recognize when the pawn and king outrun the rook; Rook vs. Lone Pawn, diagram 78 and complete Leko-Kramnik example through the draw",
+      "title": "Recognize when the pawn and king outrun the rook",
+      "locator": {
+        "pdfPageStart": 137,
+        "pdfPageEnd": 138,
+        "printedPages": null,
+        "section": "Rook vs. Lone Pawn, diagram 78 and complete Leko-Kramnik example through the draw",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-v-pawn-rank-cutoff",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Cut off the pawn’s king before attacking the pawn; Rook vs. Lone Pawn, diagram 79 and its complete winning maneuver",
+      "title": "Cut off the pawn’s king before attacking the pawn",
+      "locator": {
+        "pdfPageStart": 138,
+        "pdfPageEnd": 139,
+        "printedPages": null,
+        "section": "Rook vs. Lone Pawn, diagram 79 and its complete winning maneuver",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-v-pawn-king-coordination",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Bring the rook’s king close enough to control promotion; Rook vs. Lone Pawn, diagram 80 through the section end; Summing Up begins PDF 141",
+      "title": "Bring the rook’s king close enough to control promotion",
+      "locator": {
+        "pdfPageStart": 139,
+        "pdfPageEnd": 140,
+        "printedPages": null,
+        "section": "Rook vs. Lone Pawn, diagram 80 through the section end; Summing Up begins PDF 141",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-back-rank-principle",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Back-rank mating nets: principle and model; Back-rank mating nets introduction and worked example; exercises begin on PDF 33",
+      "title": "Back-rank mating nets: principle and model",
+      "locator": {
+        "pdfPageStart": 32,
+        "pdfPageEnd": 32,
+        "printedPages": "31",
+        "section": "Back-rank mating nets introduction and worked example; exercises begin on PDF 33",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-back-rank-mates-91-108",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Back-rank mating nets: exercises 91-108; exercises 91-108 on PDFs 33-35; matching solutions on PDFs 42-43; 18 positions",
+      "title": "Back-rank mating nets: exercises 91-108",
+      "locator": {
+        "pdfPageStart": 33,
+        "pdfPageEnd": 43,
+        "printedPages": null,
+        "section": "exercises 91-108 on PDFs 33-35; matching solutions on PDFs 42-43; 18 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-back-rank-mates-109-126",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Back-rank mating nets: exercises 109-126; exercises 109-126 on PDFs 36-38; matching solutions on PDFs 43-44; 18 positions",
+      "title": "Back-rank mating nets: exercises 109-126",
+      "locator": {
+        "pdfPageStart": 36,
+        "pdfPageEnd": 44,
+        "printedPages": null,
+        "section": "exercises 109-126 on PDFs 36-38; matching solutions on PDFs 43-44; 18 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-back-rank-mates-127-144",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Back-rank mating nets: exercises 127-144; exercises 127-144 on PDFs 39-41; matching solutions on PDFs 44-45; 18 positions",
+      "title": "Back-rank mating nets: exercises 127-144",
+      "locator": {
+        "pdfPageStart": 39,
+        "pdfPageEnd": 45,
+        "printedPages": null,
+        "section": "exercises 127-144 on PDFs 39-41; matching solutions on PDFs 44-45; 18 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-long-diagonal-principle",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mates on the long diagonal: principle and model; Mates on the long diagonal introduction and worked example; exercises begin on PDF 73",
+      "title": "Mates on the long diagonal: principle and model",
+      "locator": {
+        "pdfPageStart": 72,
+        "pdfPageEnd": 72,
+        "printedPages": "71",
+        "section": "Mates on the long diagonal introduction and worked example; exercises begin on PDF 73",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-long-diagonal-mates-235-246",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mates on the long diagonal: exercises 235-246; exercises 235-246 on PDFs 73-74; matching solutions on PDFs 79; 12 positions",
+      "title": "Mates on the long diagonal: exercises 235-246",
+      "locator": {
+        "pdfPageStart": 73,
+        "pdfPageEnd": 79,
+        "printedPages": null,
+        "section": "exercises 235-246 on PDFs 73-74; matching solutions on PDFs 79; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-long-diagonal-mates-247-258",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mates on the long diagonal: exercises 247-258; exercises 247-258 on PDFs 75-76; matching solutions on PDFs 79-80; 12 positions",
+      "title": "Mates on the long diagonal: exercises 247-258",
+      "locator": {
+        "pdfPageStart": 75,
+        "pdfPageEnd": 80,
+        "printedPages": null,
+        "section": "exercises 247-258 on PDFs 75-76; matching solutions on PDFs 79-80; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-long-diagonal-mates-259-270",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mates on the long diagonal: exercises 259-270; exercises 259-270 on PDFs 77-78; matching solutions on PDFs 80-81; 12 positions",
+      "title": "Mates on the long diagonal: exercises 259-270",
+      "locator": {
+        "pdfPageStart": 77,
+        "pdfPageEnd": 81,
+        "printedPages": null,
+        "section": "exercises 259-270 on PDFs 77-78; matching solutions on PDFs 80-81; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-rook-minor-principle",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Rook and minor-piece mating coordination: principle and model; Rook and minor-piece mating coordination introduction and worked example; exercises begin on PDF 94",
+      "title": "Rook and minor-piece mating coordination: principle and model",
+      "locator": {
+        "pdfPageStart": 93,
+        "pdfPageEnd": 93,
+        "printedPages": "92",
+        "section": "Rook and minor-piece mating coordination introduction and worked example; exercises begin on PDF 94",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-rook-minor-mates-301-318",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Rook and minor-piece mating coordination: exercises 301-318; exercises 301-318 on PDFs 94-96; matching solutions on PDFs 103-104; 18 positions",
+      "title": "Rook and minor-piece mating coordination: exercises 301-318",
+      "locator": {
+        "pdfPageStart": 94,
+        "pdfPageEnd": 104,
+        "printedPages": null,
+        "section": "exercises 301-318 on PDFs 94-96; matching solutions on PDFs 103-104; 18 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-rook-minor-mates-319-336",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Rook and minor-piece mating coordination: exercises 319-336; exercises 319-336 on PDFs 97-99; matching solutions on PDFs 104-105; 18 positions",
+      "title": "Rook and minor-piece mating coordination: exercises 319-336",
+      "locator": {
+        "pdfPageStart": 97,
+        "pdfPageEnd": 105,
+        "printedPages": null,
+        "section": "exercises 319-336 on PDFs 97-99; matching solutions on PDFs 104-105; 18 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-rook-minor-mates-337-354",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Rook and minor-piece mating coordination: exercises 337-354; exercises 337-354 on PDFs 100-102; matching solutions on PDFs 105-106; 18 positions",
+      "title": "Rook and minor-piece mating coordination: exercises 337-354",
+      "locator": {
+        "pdfPageStart": 100,
+        "pdfPageEnd": 106,
+        "printedPages": null,
+        "section": "exercises 337-354 on PDFs 100-102; matching solutions on PDFs 105-106; 18 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-rook-file-principle",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mates down the rook's file: principle and model; Mates down the rook's file introduction and worked example; exercises begin on PDF 133",
+      "title": "Mates down the rook's file: principle and model",
+      "locator": {
+        "pdfPageStart": 132,
+        "pdfPageEnd": 132,
+        "printedPages": "131",
+        "section": "Mates down the rook's file introduction and worked example; exercises begin on PDF 133",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-rook-file-mates-433-444",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mates down the rook's file: exercises 433-444; exercises 433-444 on PDFs 133-134; matching solutions on PDFs 141; 12 positions",
+      "title": "Mates down the rook's file: exercises 433-444",
+      "locator": {
+        "pdfPageStart": 133,
+        "pdfPageEnd": 141,
+        "printedPages": null,
+        "section": "exercises 433-444 on PDFs 133-134; matching solutions on PDFs 141; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-rook-file-mates-445-456",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mates down the rook's file: exercises 445-456; exercises 445-456 on PDFs 135-136; matching solutions on PDFs 141-142; 12 positions",
+      "title": "Mates down the rook's file: exercises 445-456",
+      "locator": {
+        "pdfPageStart": 135,
+        "pdfPageEnd": 142,
+        "printedPages": null,
+        "section": "exercises 445-456 on PDFs 135-136; matching solutions on PDFs 141-142; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-rook-file-mates-457-468",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mates down the rook's file: exercises 457-468; exercises 457-468 on PDFs 137-138; matching solutions on PDFs 142-143; 12 positions",
+      "title": "Mates down the rook's file: exercises 457-468",
+      "locator": {
+        "pdfPageStart": 137,
+        "pdfPageEnd": 143,
+        "printedPages": null,
+        "section": "exercises 457-468 on PDFs 137-138; matching solutions on PDFs 142-143; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-rook-file-mates-469-480",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mates down the rook's file: exercises 469-480; exercises 469-480 on PDFs 139-140; matching solutions on PDFs 143-145; 12 positions",
+      "title": "Mates down the rook's file: exercises 469-480",
+      "locator": {
+        "pdfPageStart": 139,
+        "pdfPageEnd": 145,
+        "printedPages": null,
+        "section": "exercises 469-480 on PDFs 139-140; matching solutions on PDFs 143-145; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-line-opening-principle",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mate by opening a line: principle and model; Mate by opening a line introduction and worked example; exercises begin on PDF 172",
+      "title": "Mate by opening a line: principle and model",
+      "locator": {
+        "pdfPageStart": 171,
+        "pdfPageEnd": 171,
+        "printedPages": "170",
+        "section": "Mate by opening a line introduction and worked example; exercises begin on PDF 172",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-line-opening-mates-571-582",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mate by opening a line: exercises 571-582; exercises 571-582 on PDFs 172-173; matching solutions on PDFs 180; 12 positions",
+      "title": "Mate by opening a line: exercises 571-582",
+      "locator": {
+        "pdfPageStart": 172,
+        "pdfPageEnd": 180,
+        "printedPages": null,
+        "section": "exercises 571-582 on PDFs 172-173; matching solutions on PDFs 180; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-line-opening-mates-583-594",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mate by opening a line: exercises 583-594; exercises 583-594 on PDFs 174-175; matching solutions on PDFs 180-181; 12 positions",
+      "title": "Mate by opening a line: exercises 583-594",
+      "locator": {
+        "pdfPageStart": 174,
+        "pdfPageEnd": 181,
+        "printedPages": null,
+        "section": "exercises 583-594 on PDFs 174-175; matching solutions on PDFs 180-181; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-line-opening-mates-595-606",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mate by opening a line: exercises 595-606; exercises 595-606 on PDFs 176-177; matching solutions on PDFs 181-182; 12 positions",
+      "title": "Mate by opening a line: exercises 595-606",
+      "locator": {
+        "pdfPageStart": 176,
+        "pdfPageEnd": 182,
+        "printedPages": null,
+        "section": "exercises 595-606 on PDFs 176-177; matching solutions on PDFs 181-182; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-line-opening-mates-607-618",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Mate by opening a line: exercises 607-618; exercises 607-618 on PDFs 178-179; matching solutions on PDFs 182-183; 12 positions",
+      "title": "Mate by opening a line: exercises 607-618",
+      "locator": {
+        "pdfPageStart": 178,
+        "pdfPageEnd": 183,
+        "printedPages": null,
+        "section": "exercises 607-618 on PDFs 178-179; matching solutions on PDFs 182-183; 12 positions",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-queen-sacrifice-principle",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Trade the queen for forced mating access; Queen Sacrifices introduction and Schmidt-Delvos model",
+      "title": "Trade the queen for forced mating access",
+      "locator": {
+        "pdfPageStart": 147,
+        "pdfPageEnd": 147,
+        "printedPages": "146",
+        "section": "Queen Sacrifices introduction and Schmidt-Delvos model",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-queen-sacrifices-481-510",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Queen sacrifices 481-510; prompts PDFs 148-152; matching answers PDFs 163-164",
+      "title": "Queen sacrifices 481-510",
+      "locator": {
+        "pdfPageStart": 148,
+        "pdfPageEnd": 164,
+        "printedPages": "147-163",
+        "section": "prompts PDFs 148-152; matching answers PDFs 163-164",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-queen-sacrifices-511-540",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Queen sacrifices 511-540; prompts PDFs 153-157; matching answers PDFs 164-166",
+      "title": "Queen sacrifices 511-540",
+      "locator": {
+        "pdfPageStart": 153,
+        "pdfPageEnd": 166,
+        "printedPages": "152-165",
+        "section": "prompts PDFs 153-157; matching answers PDFs 164-166",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-queen-sacrifices-541-570",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Queen sacrifices 541-570; prompts PDFs 158-162; answers PDFs 166-168; score chart PDFs 169-170",
+      "title": "Queen sacrifices 541-570",
+      "locator": {
+        "pdfPageStart": 158,
+        "pdfPageEnd": 170,
+        "printedPages": "157-169",
+        "section": "prompts PDFs 158-162; answers PDFs 166-168; score chart PDFs 169-170",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-king-hunt-principle",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "Drive the king through a controlled corridor; Hunting the King introduction and Vajda-Geirnaert model",
+      "title": "Drive the king through a controlled corridor",
+      "locator": {
+        "pdfPageStart": 218,
+        "pdfPageEnd": 218,
+        "printedPages": "217",
+        "section": "Hunting the King introduction and Vajda-Geirnaert model",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "nunn-king-hunts-733-750",
+      "bookId": "nunn-deadly-checkmates-2011",
+      "ref": "King hunts 733-750; prompts PDFs 219-221; answers PDFs 222-223; score chart PDF 224",
+      "title": "King hunts 733-750",
+      "locator": {
+        "pdfPageStart": 219,
+        "pdfPageEnd": 224,
+        "printedPages": "218-223",
+        "section": "prompts PDFs 219-221; answers PDFs 222-223; score chart PDF 224",
+        "ebookLocation": null
+      }
     }
   ]
 }
