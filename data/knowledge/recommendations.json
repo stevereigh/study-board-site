@@ -2877,6 +2877,210 @@
       "crossrefIds": [
         "mating-patterns--nunn-king-hunts-733-750"
       ]
+    },
+    {
+      "id": "study-s50-bishop-pair-worksheet",
+      "crossrefIds": [
+        "bishop-pair--shereshevsky-two-bishops-restrict-knights"
+      ]
+    },
+    {
+      "id": "study-s50-opposite-bishop-matrix",
+      "crossrefIds": [
+        "minor-piece-endings--silman-opposite-bishops-two-pawn-distance"
+      ]
+    },
+    {
+      "id": "study-s50-centurini-drill",
+      "crossrefIds": [
+        "minor-piece-endings--silman-same-color-bishop-centurini"
+      ]
+    },
+    {
+      "id": "study-s50-knight-route-drill",
+      "crossrefIds": [
+        "knight-versus-bishop--silman-knight-flexibility-and-outposts"
+      ]
+    },
+    {
+      "id": "study-s50-domination-audit",
+      "crossrefIds": [
+        "restriction--silman-entombed-dominated-minor-pieces"
+      ]
+    },
+    {
+      "id": "study-s50-part-five-tests",
+      "crossrefIds": [
+        "minor-piece-endings--silman-part-five-minor-piece-tests"
+      ]
+    },
+    {
+      "id": "study-s48-bishop-lone-pawn",
+      "crossrefIds": [
+        "minor-piece-endings--silman-bishop-v-lone-pawn"
+      ]
+    },
+    {
+      "id": "study-s48-knight-blockade",
+      "crossrefIds": [
+        "minor-piece-endings--silman-knight-v-lone-pawn"
+      ]
+    },
+    {
+      "id": "study-s48-knight-rook-pawn-boundary",
+      "crossrefIds": [
+        "minor-piece-endings--silman-knight-rook-pawn-boundary"
+      ]
+    },
+    {
+      "id": "study-s49-wrong-bishop-classifier",
+      "crossrefIds": [
+        "minor-piece-endings--silman-wrong-bishop-rook-pawn"
+      ]
+    },
+    {
+      "id": "study-s49-wrong-bishop-transition",
+      "crossrefIds": [
+        "minor-piece-endings--silman-wrong-bishop-transition"
+      ]
+    },
+    {
+      "id": "study-s49-bishop-fortress-geometry",
+      "crossrefIds": [
+        "minor-piece-endings--silman-bishop-up-fortresses"
+      ]
+    },
+    {
+      "id": "study-s46-diversion-and-square",
+      "crossrefIds": [
+        "passed-pawns--silman-fox-chicken-coup",
+        "passed-pawns--silman-outside-passer-diversion",
+        "passed-pawns--silman-outside-passer-king-route"
+      ]
+    },
+    {
+      "id": "study-s46-strange-race-checklist",
+      "crossrefIds": [
+        "calculation--silman-race-promotion-mate",
+        "calculation--silman-race-queen-pawn-exception",
+        "calculation--silman-rook-pawn-race-geometry",
+        "calculation--silman-reti-dual-purpose-king"
+      ]
+    },
+    {
+      "id": "study-s46-two-pawn-boundaries",
+      "crossrefIds": [
+        "opposition--silman-two-pawn-opposition-boundary",
+        "opposition--silman-fifth-rank-penetration-test"
+      ]
+    },
+    {
+      "id": "study-s47-breakthrough-scan",
+      "crossrefIds": [
+        "pawn-majorities--silman-pawn-breakthrough-majority",
+        "pawn-majorities--silman-stop-breakthrough-first"
+      ]
+    },
+    {
+      "id": "study-s47-king-geometry",
+      "crossrefIds": [
+        "king-activity--silman-triangulation-tempo",
+        "king-activity--silman-outflanking-entry"
+      ]
+    },
+    {
+      "id": "study-s47-transition-gate",
+      "crossrefIds": [
+        "favorable-exchanges--silman-pawn-transition-safety",
+        "favorable-exchanges--silman-forced-transition-count",
+        "favorable-exchanges--silman-delay-pawn-exchange"
+      ]
+    },
+    {
+      "id": "study-s47-tempo-ledger",
+      "crossrefIds": [
+        "tempo--silman-advanced-pawn-mate-triangulation",
+        "tempo--silman-advanced-pawn-tempo-map",
+        "tempo--silman-reserve-tempi-zugzwang"
+      ]
+    },
+    {
+      "id": "study-s47-advanced-verdict-audit",
+      "crossrefIds": [
+        "calculation--silman-protected-passers-sacrifice",
+        "calculation--silman-pawn-endgame-defense-audit"
+      ]
+    },
+    {
+      "id": "study-s55-queen-minor-box",
+      "crossrefIds": [
+        "queen-endings--silman-queen-v-minor-piece",
+        "queen-endings--silman-queen-v-minor-piece-tests"
+      ]
+    },
+    {
+      "id": "study-s55-pawn-file-classifier",
+      "crossrefIds": [
+        "queen-endings--silman-queen-v-pawn-sixth-rank",
+        "queen-endings--silman-queen-v-pawn-seventh-rank",
+        "queen-endings--silman-queen-v-seventh-rank-tests"
+      ]
+    },
+    {
+      "id": "study-s55-promotion-mate-exception",
+      "crossrefIds": [
+        "queen-endings--silman-queen-v-advanced-pawn-trick-win",
+        "queen-endings--silman-queen-v-advanced-pawn-test"
+      ]
+    },
+    {
+      "id": "study-s55-blockade-map",
+      "crossrefIds": [
+        "queen-endings--silman-queen-v-rook-pawn-blockade",
+        "queen-endings--silman-queen-pawn-v-rook-pawns-blockade"
+      ]
+    },
+    {
+      "id": "study-s55-queen-pawn-races",
+      "crossrefIds": [
+        "queen-endings--silman-queen-pawn-endgames-passed-pawns"
+      ]
+    },
+    {
+      "id": "study-s01-imbalance-priority-board",
+      "crossrefIds": [
+        "position-evaluation--amateurs-multiple-imbalances-priority"
+      ]
+    },
+    {
+      "id": "study-s01-fresh-eyes-reassessment",
+      "crossrefIds": [
+        "position-evaluation--amateurs-reassess-interacting-imbalances"
+      ]
+    },
+    {
+      "id": "study-s01-two-plan-race",
+      "crossrefIds": [
+        "position-evaluation--amateurs-whole-board-plan-race"
+      ]
+    },
+    {
+      "id": "study-s01-kotov-exercises-13-18",
+      "crossrefIds": [
+        "position-evaluation--kotov-positional-exercises-13-18-solutions"
+      ]
+    },
+    {
+      "id": "study-s01-pattern-versus-position",
+      "crossrefIds": [
+        "position-evaluation--kotov-dynamic-memory-and-individual-method"
+      ]
+    },
+    {
+      "id": "study-s01-formula-concrete-check",
+      "crossrefIds": [
+        "position-evaluation--kotov-general-formulas-concrete-test"
+      ]
     }
   ]
 }

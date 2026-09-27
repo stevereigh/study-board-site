@@ -264,6 +264,10 @@
     {
       "id": "stalemate",
       "name": "Stalemate"
+    },
+    {
+      "id": "queen-endings",
+      "name": "Queen endings"
     }
   ]
 }

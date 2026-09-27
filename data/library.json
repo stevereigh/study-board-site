@@ -8846,6 +8846,123 @@
     ]
   },
   {
+    "chapterId": "kotov-positional-exercises-13-18-solutions",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "Positional Judgement exercises 13-18, printed 124-125 / PDFs 123-124; exact solutions printed 183-184 / PDFs 182-183",
+    "title": "Diagnose the decisive positional factor before calculating",
+    "tags": [
+      "position-evaluation",
+      "exercises",
+      "solutions",
+      "piece-activity",
+      "weak-squares",
+      "king-safety",
+      "calculation"
+    ],
+    "note": "Exercises 13-18 require a two-stage answer: identify the decisive positional factor, then find the concrete maneuver that exploits it. The exact solutions use ineffective pieces, weak ranks and diagonals, concentrated file pressure, weak squares, an exposed king and pieces outside the battle.\n\nThe set prevents vague evaluation. Exercise 13 turns ineffective rook and bishop placement plus back-rank pressure into a forcing win. Exercises 14-16 convert file pressure and weak squares while accounting for which defenders can reach the target. Exercises 17-18 show that king safety and inactive pieces can justify an immediate pawn break or tactical sequence.\n\nA correct solution must connect the verbal diagnosis to the move. If the proposed move does not exploit the named feature, either the diagnosis is incomplete or the move is ornamental. The exact source answers provide the verification boundary; historical variations are not represented as independent engine certification.",
+    "keyIdeas": [
+      "Name the decisive positional factor before selecting the move.",
+      "Connect the maneuver directly to the weak rank, file, square, piece or king.",
+      "Count which defenders can enter the critical theater.",
+      "Use exact calculation once the positional diagnosis identifies a forcing operation."
+    ],
+    "activities": [
+      {
+        "id": "study-s01-kotov-exercises-13-18",
+        "concept": "Position evaluation",
+        "minutes": 45,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Candidate moves"
+        ],
+        "instructions": "Solve Kotov exercises 13-18 on PDFs 123-124. For each, write one-sentence evaluation, decisive factor, two candidate maneuvers and the forcing line. Only then compare with exact answers on PDFs 182-183.",
+        "successCheck": "Match all six answers and, for every miss, identify whether the error was diagnosis, candidate generation or calculation.",
+        "playReminders": [
+          "What positional fact makes my candidate move necessary rather than merely attractive?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-dynamic-memory-and-individual-method",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "An Experiment Continued and Imitate Botvinnik or Najdorf?; printed 125-129, PDFs 124-128",
+    "title": "Use experience as a filter, then evaluate the current position",
+    "tags": [
+      "position-evaluation",
+      "pattern-recognition",
+      "experience",
+      "reassessment",
+      "decision-process"
+    ],
+    "note": "Kotov contrasts fresh calculation with accumulated pattern knowledge. A strong player recognizes familiar structures, plans and candidate moves quickly, but still corrects that initial impression through analysis. Experience reduces the search space; it does not make the present position identical to an earlier one.\n\nHis comparison of grandmaster styles also rejects copying another player&#x27;s visible habits. Long thought or rapid play can reflect temperament, preparation, memory and the position itself. The transferable method is to know your own strengths, maintain a disciplined evaluation routine and verify whether the remembered plan fits the current board.\n\nUse memory to generate candidates and warning signs. Then identify the concrete differences: side to move, changed piece, altered pawn break, tactical contact and clock situation. Preserve the pattern only when those differences do not invalidate it.",
+    "keyIdeas": [
+      "Pattern knowledge should generate candidates, not dictate the verdict.",
+      "Compare the current board with the remembered position before reusing its plan.",
+      "A strong method must fit the player&#x27;s knowledge and decision process.",
+      "Fresh calculation corrects the blind spots of memory and habit."
+    ],
+    "activities": [
+      {
+        "id": "study-s01-pattern-versus-position",
+        "concept": "Position evaluation",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Candidate moves"
+        ],
+        "instructions": "Read PDFs 124-128. Select a familiar structure from one of your games. Write the remembered plan, then list changed piece placement, pawn breaks, side to move, tactical contact and clock constraints before accepting or rejecting it.",
+        "successCheck": "Explain one case where the familiar plan remains sound and one concrete difference that would invalidate it.",
+        "playReminders": [
+          "Which facts are remembered from a pattern, and which belong to this exact position?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "kotov-general-formulas-concrete-test",
+    "book": "Think Like a Grandmaster",
+    "author": "Alexander Kotov",
+    "ref": "What is Concrete and What is General?, Middlegame, and General Formulae and Concrete Analysis; printed 129-135, PDFs 128-134, nine example boards",
+    "title": "Treat general formulas as questions for concrete analysis",
+    "tags": [
+      "position-evaluation",
+      "general-principles",
+      "concrete-analysis",
+      "candidate-moves",
+      "calculation",
+      "reassessment"
+    ],
+    "note": "Kotov distinguishes general positional knowledge from the concrete work required to choose a move. General rules help divide the position into elements and generate candidates, but they cannot settle a position when tactical details or an unusual piece arrangement change the result.\n\nThe short Middlegame maxims are best used as prompts: create multiple threats, coordinate pieces and avoid passive retreat when active play exists. The following examples show why each prompt needs verification. Exchanges that appear positionally favorable can fail to a concrete resource; a familiar sacrifice or weak-square plan works only when the supporting pieces and move order are present.\n\nUse a formula-to-test routine. Translate the rule into a board-specific prediction, identify the opponent&#x27;s strongest refutation, calculate the critical branch, and then update the evaluation. The rule earns its place only after surviving that test.",
+    "keyIdeas": [
+      "General rules organize the position and generate candidates.",
+      "Concrete analysis decides whether the rule applies in this position.",
+      "Translate every formula into a testable board-specific prediction.",
+      "Search for the opponent&#x27;s best refutation before accepting a strategic conclusion."
+    ],
+    "activities": [
+      {
+        "id": "study-s01-formula-concrete-check",
+        "concept": "Position evaluation",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Candidate moves"
+        ],
+        "instructions": "Read PDFs 128-134. For each of the nine example boards, write a general formula, convert it into a concrete prediction, identify the best opposing reply and calculate the critical line before keeping or rejecting the formula.",
+        "successCheck": "Complete all nine checks and distinguish a useful principle from a slogan that the current position refutes.",
+        "playReminders": [
+          "What exact variation would prove or disprove this general rule here?"
+        ]
+      }
+    ]
+  },
+  {
     "chapterId": "nimzovich-development",
     "book": "My System: A Treatise on Chess",
     "author": "Aron Nimzovich",
@@ -14906,6 +15023,76 @@
     ]
   },
   {
+    "chapterId": "shereshevsky-two-bishops-restrict-knights",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Use two bishops to restrict knights; Two Bishops against Bishops and Knights, first seven diagrams",
+    "title": "Use two bishops to restrict knights",
+    "tags": [
+      "bishop-pair",
+      "knight-versus-bishop",
+      "restriction"
+    ],
+    "note": "Push knights away from useful posts, advance pawns without donating permanent outposts and use the bishops&#x27; reach across both wings.",
+    "keyIdeas": [
+      "Deny stable knight outposts.",
+      "Open lines without fixing pawns on vulnerable squares.",
+      "Use both-color reach across the board."
+    ],
+    "activities": [
+      {
+        "id": "study-s50-bishop-pair-worksheet",
+        "concept": "Bishop pair",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [],
+        "instructions": "Mark each knight outpost, the pawn move that denies it and the second weakness.",
+        "successCheck": "Complete every bounded diagram and explain the piece task, fortress boundary and decisive king or pawn geometry.",
+        "playReminders": [
+          "What concrete job can this minor piece perform, and what fortress or route changes the result?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "shereshevsky-two-bishops-two-weaknesses",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Create a second weakness with the bishop pair; middle eight diagrams",
+    "title": "Create a second weakness with the bishop pair",
+    "tags": [
+      "bishop-pair",
+      "minor-piece-endings",
+      "two-weaknesses"
+    ],
+    "note": "Fix one weakness, transfer the bishops rapidly, create a second target and use king entry when the defender becomes overloaded.",
+    "keyIdeas": [
+      "Fix the first weakness before switching wings.",
+      "Transfer bishops faster than knights can regroup.",
+      "Open a king route after overload."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "shereshevsky-two-bishops-conversion",
+    "book": "Endgame Strategy",
+    "author": "M. I. Shereshevsky",
+    "ref": "Convert or defend two-bishop advantages; closing six diagrams",
+    "title": "Convert or defend two-bishop advantages",
+    "tags": [
+      "minor-piece-endings",
+      "piece-activity",
+      "pawn-breaks"
+    ],
+    "note": "Choose pawn breaks and exchanges that preserve both-color pressure. The defender seeks a secure knight outpost or a closed structure that limits the bishops.",
+    "keyIdeas": [
+      "Keep lines open for both bishops.",
+      "Choose breaks that retain two-wing pressure.",
+      "Defend by closing lines or anchoring a knight."
+    ],
+    "activities": []
+  },
+  {
     "chapterId": "amateurs-imbalances",
     "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
     "author": "Jeremy Silman",
@@ -16922,6 +17109,123 @@
         "playReminders": [
           "Worse: what changes the position?",
           "Better: what is their only active resource?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-multiple-imbalances-priority",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Many Imbalances, One Board, introduction and Alekhine-Euwe comparison; printed 203-207, PDFs 208-212, diagrams 80-81",
+    "title": "Turn several advantages into one workable priority",
+    "tags": [
+      "position-evaluation",
+      "imbalances",
+      "counterplay",
+      "favorable-exchanges",
+      "conversion",
+      "piece-activity"
+    ],
+    "note": "Most positions contain several interacting imbalances, and they do not all point toward the same move. Silman begins by comparing a favorable minor piece, extra space, a passed pawn and open-file access. The practical task is to decide which advantage can become a concrete target while preventing the opponent&#x27;s active resource.\n\nThe Alekhine-Euwe example shows patient conversion. White improves the king and pieces, controls the passed pawn, and keeps a favorable bishop before entering the opponent&#x27;s position. The student replay starts from a similar favorable evaluation but cashes in too early, lets the opponent&#x27;s passer and rook activity grow, and eventually loses the advantage.\n\nBuild a priority order, not a list. First identify the opponent&#x27;s fastest counterplay. Then choose the favorable imbalance that can be improved without releasing it. Exchange only when the resulting pieces, targets and entry lines make the main advantage easier to use.",
+    "keyIdeas": [
+      "Rank imbalances by usability and urgency rather than counting them.",
+      "Neutralize the opponent&#x27;s active resource before converting a long-term edge.",
+      "Improve the position patiently when the advantage will not disappear.",
+      "Judge an exchange by the target and entry route it leaves."
+    ],
+    "activities": [
+      {
+        "id": "study-s01-imbalance-priority-board",
+        "concept": "Position evaluation",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Candidate moves"
+        ],
+        "instructions": "Read PDFs 208-212 and reconstruct diagrams 80-81. Make two columns for both sides&#x27; usable advantages, mark the fastest counter-operation, then compare a patient improving plan with an immediate liquidation or attack.",
+        "successCheck": "Choose the source-consistent priority in both positions and explain why the rejected plan releases counterplay.",
+        "playReminders": [
+          "Which imbalance can I improve now, and what must I neutralize first?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-reassess-interacting-imbalances",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Many Imbalances, One Board, student positions and fresh-eyes comparison; printed 207-221, PDFs 212-226, diagrams 82-87",
+    "title": "Reassess the whole position when imbalances interact",
+    "tags": [
+      "position-evaluation",
+      "reassessment",
+      "minor-pieces",
+      "pawn-structure",
+      "king-safety",
+      "dynamic-compensation"
+    ],
+    "note": "A favorable label can become a trap when the rest of the position changes. In the first student position, the knight is superior to the bishop only while its route and supporting pawn structure remain intact. The student moves it away from its useful square, pushes pawns onto the bishop&#x27;s color and creates holes that make the previously bad bishop active.\n\nThe later comparison exposes rule-driven evaluation. One player treats an isolated pawn as automatically weak and overlooks its dynamic role, piece activity and king attack. Silman repeatedly resets the position: identify the actual files, squares, king safety, pawn breaks and piece routes before applying a familiar rule. A nominal weakness matters only if it can be attacked without conceding something more urgent.\n\nReevaluation should be event-driven. After an exchange, pawn move, new entry line or king exposure, rebuild the imbalance list and ask which earlier conclusion is no longer true. The best plan may reverse because the pieces now have different jobs.",
+    "keyIdeas": [
+      "A good minor piece is good because of its route, targets and supporting structure.",
+      "Do not push pawns onto squares that activate the opponent&#x27;s restricted bishop without a concrete gain.",
+      "A structural weakness matters only when it is practically attackable.",
+      "Rebuild the evaluation after exchanges, pawn moves and changes in king safety."
+    ],
+    "activities": [
+      {
+        "id": "study-s01-fresh-eyes-reassessment",
+        "concept": "Position evaluation",
+        "minutes": 35,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Candidate moves"
+        ],
+        "instructions": "Study PDFs 212-226, diagrams 82-87. For each stopping point, state the old evaluation, the move or event that changed it, and the new piece routes, targets and king-safety facts. Compare the student&#x27;s slogan with the board evidence.",
+        "successCheck": "Identify every moment when the earlier favorable-piece or weak-pawn label stops describing the position.",
+        "playReminders": [
+          "What changed since my last evaluation, and which old conclusion is now false?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "amateurs-whole-board-plan-race",
+    "book": "The Amateur’s Mind: Turning Chess Misconceptions into Chess Mastery",
+    "author": "Jeremy Silman",
+    "ref": "Many Imbalances, One Board, final two-bishop and wing-play example; printed 222-227, PDFs 227-232, diagram 88",
+    "title": "Compare your plan with the opponent&#x27;s plan across the whole board",
+    "tags": [
+      "position-evaluation",
+      "whole-board",
+      "plan-comparison",
+      "wing-play",
+      "bishop-pair",
+      "closed-center"
+    ],
+    "note": "The final example combines a closed center, the bishop pair, pawn structure and opposite-wing plans. The center allows wing play, but it does not grant permission to ignore the other side. White organizes the queenside while Black creates kingside pressure; the plan must include both its own route and the time needed to answer the opponent&#x27;s break.\n\nSilman&#x27;s practical rule is to make the pawn structure support the pieces you intend to keep. With two bishops, avoid fixing all your pawns on one bishop&#x27;s color without compensation. With a closed center, select a wing and mobilize consistently, while tracking the opponent&#x27;s fastest plan on the other wing.\n\nCompare candidate plans as races. For each, name the target, break, pieces that can arrive, number of preparatory moves and the opponent&#x27;s forcing reply. The better plan is the one whose benefits survive the opponent&#x27;s best counter-operation.",
+    "keyIdeas": [
+      "Choose the theater of play from the center and usable imbalances.",
+      "Make the pawn structure support the pieces you intend to keep.",
+      "Opposite-wing plans must be compared by speed and consequence.",
+      "A plan includes an answer to the opponent&#x27;s fastest break."
+    ],
+    "activities": [
+      {
+        "id": "study-s01-two-plan-race",
+        "concept": "Position evaluation",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Position evaluation",
+          "Candidate moves"
+        ],
+        "instructions": "Read PDFs 227-232 and set up diagram 88. Compare two candidate plans against the same position using target, break, route, preparation time, opponent&#x27;s best counterplay and reassessment trigger.",
+        "successCheck": "Select the plan that survives the opponent&#x27;s fastest response and explain the rejected plan&#x27;s timing defect.",
+        "playReminders": [
+          "What is the opponent&#x27;s fastest plan while I carry out mine?"
         ]
       }
     ]
@@ -18955,6 +19259,1640 @@
         "successCheck": "Predict whether the rook king arrives in time before calculating a move sequence.",
         "playReminders": [
           "How many moves does my king need, and how many forcing pawn tempi remain?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-minor-piece-endgame-exceptions",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Minor-piece versus pawn exceptions; PDFs 190-201, diagrams 116-121",
+    "title": "Minor-piece versus pawn exceptions",
+    "tags": [
+      "minor-piece-endings",
+      "rook-pawn-endings",
+      "stalemate"
+    ],
+    "note": "Wrong-colored rook pawns, safe non-rook pawns, knight-plus-rook-pawn exceptions and stalemate all depend on the defending king&#x27;s access to the queening square. Classify the pawn file and bishop color before calculating.",
+    "keyIdeas": [
+      "Check the color of the queening square.",
+      "Place the defending king before racing.",
+      "Include stalemate and knight exceptions."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-opposite-bishops-single-pawn-blockade",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Blockade a single pawn with opposite-colored bishops; PDFs 202-205, diagrams 122-124",
+    "title": "Blockade a single pawn with opposite-colored bishops",
+    "tags": [
+      "minor-piece-endings",
+      "restriction",
+      "fortresses"
+    ],
+    "note": "The defender blocks on the opposite color and shuffles the bishop while the attacker lacks a second entry route. A material edge alone cannot break the color-complex fortress.",
+    "keyIdeas": [
+      "Blockade on the defender&#x27;s bishop color.",
+      "Deny the king a second entry route.",
+      "Recognize the stable single-wing fortress."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-opposite-bishops-two-pawn-distance",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Judge two pawns by their separation; PDFs 311-319, diagrams 196-201",
+    "title": "Judge two pawns by their separation",
+    "tags": [
+      "minor-piece-endings",
+      "passed-pawns",
+      "fortresses"
+    ],
+    "note": "Connected or nearby pawns are often blockaded; winning chances rise as passers separate, subject to wrong-colored rook-pawn exceptions. Measure how many fronts the bishop and king must cover.",
+    "keyIdeas": [
+      "Connected pawns can share one blockade.",
+      "Wide separation can overload the defender.",
+      "Retain rook-pawn color exceptions."
+    ],
+    "activities": [
+      {
+        "id": "study-s50-opposite-bishop-matrix",
+        "concept": "Minor piece endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [],
+        "instructions": "Classify one pawn, connected pawns, nearby split pawns, wide passers and wrong-colored rook-pawn cases.",
+        "successCheck": "Complete every bounded diagram and explain the piece task, fortress boundary and decisive king or pawn geometry.",
+        "playReminders": [
+          "What concrete job can this minor piece perform, and what fortress or route changes the result?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-part-five-minor-piece-wrap",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Part Five minor-piece summary; Summing Up PDFs 320-323 and Final Thoughts PDF 334",
+    "title": "Part Five minor-piece summary",
+    "tags": [
+      "minor-piece-endings",
+      "bishop-pair",
+      "fortresses"
+    ],
+    "note": "The wrap consolidates two-bishop mate and opposite-colored bishop rules. Use it as a checklist for mating geometry, pawn separation, king access and fortress recognition.",
+    "keyIdeas": [
+      "Summarize the two-bishop mating method.",
+      "Classify opposite-bishop pawn geometry.",
+      "Check king access before claiming a win."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-opposite-bishops-connected-passers",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Connected passers in opposite-colored bishop endings; PDFs 385-396, diagrams 244-251",
+    "title": "Connected passers in opposite-colored bishop endings",
+    "tags": [
+      "minor-piece-endings",
+      "passed-pawns",
+      "king-activity"
+    ],
+    "note": "Connected passers do not win automatically. The defender&#x27;s bishop attacks a pawn so the enemy king stays tied to defense; king penetration decides whether the blockade holds.",
+    "keyIdeas": [
+      "Attack a pawn to tie down the king.",
+      "Keep the blockade while denying penetration.",
+      "Do not overrate connected passers."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-same-color-bishop-centurini",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Centurini and same-colored bishop endings; PDFs 474-485, diagrams 308-317",
+    "title": "Centurini and same-colored bishop endings",
+    "tags": [
+      "minor-piece-endings",
+      "good-and-bad-bishops",
+      "zugzwang"
+    ],
+    "note": "Same-colored bishop endings turn on king placement, diagonal length, zugzwang and Centurini&#x27;s rule. Multiple pawns and wrong-colored rook-pawn transitions can change the boundary.",
+    "keyIdeas": [
+      "Count the defender&#x27;s free diagonal squares.",
+      "Use king placement to create zugzwang.",
+      "Recheck rook-pawn transitions."
+    ],
+    "activities": [
+      {
+        "id": "study-s50-centurini-drill",
+        "concept": "Minor piece endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [],
+        "instructions": "Replay diagrams 308-317 and record the defending bishop&#x27;s free diagonal squares before each king advance.",
+        "successCheck": "Complete every bounded diagram and explain the piece task, fortress boundary and decisive king or pawn geometry.",
+        "playReminders": [
+          "What concrete job can this minor piece perform, and what fortress or route changes the result?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-knight-flexibility-and-outposts",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Knight routes, flexibility and outposts; PDFs 603-618, diagrams 403-413",
+    "title": "Knight routes, flexibility and outposts",
+    "tags": [
+      "knight-versus-bishop",
+      "minor-piece-endings",
+      "piece-activity"
+    ],
+    "note": "A knight can reach both color complexes but only through concrete routes. Fixed outposts, tactical reroutes and races decide whether local flexibility outweighs a bishop&#x27;s range.",
+    "keyIdeas": [
+      "Name the ideal knight square and legal route.",
+      "Secure the outpost before beginning the route.",
+      "Compare local flexibility with long-range bishop play."
+    ],
+    "activities": [
+      {
+        "id": "study-s50-knight-route-drill",
+        "concept": "Knight versus bishop",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [],
+        "instructions": "Compare the knight&#x27;s ideal square, legal route and the bishop&#x27;s counterplay in diagrams 403-413.",
+        "successCheck": "Complete every bounded diagram and explain the piece task, fortress boundary and decisive king or pawn geometry.",
+        "playReminders": [
+          "What concrete job can this minor piece perform, and what fortress or route changes the result?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-entombed-dominated-minor-pieces",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Entomb and dominate minor pieces; PDFs 652-667, diagrams 441-454",
+    "title": "Entomb and dominate minor pieces",
+    "tags": [
+      "restriction",
+      "good-and-bad-bishops",
+      "knight-versus-bishop"
+    ],
+    "note": "A bishop can be trapped behind its pawn chain and a knight can lose all useful squares. Build pawn, king and bishop barriers, then test whether the apparently trapped piece has a freeing break.",
+    "keyIdeas": [
+      "Identify every escape square.",
+      "Use pawns and king to preserve the barrier.",
+      "Distinguish true domination from a temporary bind."
+    ],
+    "activities": [
+      {
+        "id": "study-s50-domination-audit",
+        "concept": "Restriction",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [],
+        "instructions": "For diagrams 441-454, state which pawn, king or bishop removes every escape square and test the freeing break.",
+        "successCheck": "Complete every bounded diagram and explain the piece task, fortress boundary and decisive king or pawn geometry.",
+        "playReminders": [
+          "What concrete job can this minor piece perform, and what fortress or route changes the result?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-fischer-bishop-technique",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Fischer&#x27;s bishop-ending technique; PDFs 788-794, diagrams 549-552",
+    "title": "Fischer&#x27;s bishop-ending technique",
+    "tags": [
+      "minor-piece-endings",
+      "bishop-pair",
+      "converting-advantages"
+    ],
+    "note": "Gain tempi, force the king backward, create a passer and preserve diagonal flexibility. The bishop&#x27;s value comes from coordinating these tasks rather than from a static label.",
+    "keyIdeas": [
+      "Use tempi to drive the king back.",
+      "Create a passer while retaining diagonal choice.",
+      "Coordinate bishop and king."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-fischer-bishop-v-knight-domination",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Bishop versus knight domination; PDFs 795-803, diagrams 553-559",
+    "title": "Bishop versus knight domination",
+    "tags": [
+      "knight-versus-bishop",
+      "restriction",
+      "two-weaknesses"
+    ],
+    "note": "Restrict the knight, use bishop checks to improve king placement, create zugzwang and convert on both wings.",
+    "keyIdeas": [
+      "Deny the knight stable squares.",
+      "Improve the king with tempo.",
+      "Create a second wing target and zugzwang."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-fischer-complex-bishop-endings",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Evaluate bishops inside complex endings; PDFs 804-808, diagrams 560-561",
+    "title": "Evaluate bishops inside complex endings",
+    "tags": [
+      "minor-piece-endings",
+      "piece-activity",
+      "favorable-exchanges"
+    ],
+    "note": "In rook-and-bishop endings, judge the bishop through coordination with king, rook and passer. A nominally good bishop may be passive; a restricted bishop can become useful after a structural change.",
+    "keyIdeas": [
+      "Evaluate the bishop&#x27;s concrete tasks.",
+      "Coordinate all remaining pieces and the passer.",
+      "Reassess after exchanges or pawn breaks."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-part-five-minor-piece-tests",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Part Five minor-piece tests and exact answers; tests 4,7,10 on PDFs 327,330,333; answers PDFs 866-867,870-871,874-876",
+    "title": "Part Five minor-piece tests and exact answers",
+    "tags": [
+      "minor-piece-endings",
+      "bishop-pair",
+      "stalemate"
+    ],
+    "note": "Three tests cover separated passers with a wrong-colored rook pawn, avoiding stalemate in two-bishop mate, and two extra pawns in an opposite-colored bishop ending. Solve before opening the exact answer range.",
+    "keyIdeas": [
+      "Apply pawn-separation and color-complex rules.",
+      "Avoid stalemate during two-bishop mate.",
+      "Test fortress resources before claiming conversion."
+    ],
+    "activities": [
+      {
+        "id": "study-s50-part-five-tests",
+        "concept": "Minor piece endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [],
+        "instructions": "Solve Part Five tests 4, 7 and 10 before reading their exact answers.",
+        "successCheck": "Complete every bounded diagram and explain the piece task, fortress boundary and decisive king or pawn geometry.",
+        "playReminders": [
+          "What concrete job can this minor piece perform, and what fortress or route changes the result?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-bishop-v-lone-pawn",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Minor Piece vs. Lone Pawn introduction and Bishop vs. Lone Pawn; PDFs 126-129, diagrams 71-72",
+    "title": "Stop a lone pawn from a distance with the bishop",
+    "tags": [
+      "minor-piece-endings",
+      "bishop-versus-pawn",
+      "promotion-square",
+      "rook-pawn",
+      "stalemate",
+      "side-to-move"
+    ],
+    "note": "A bishop normally draws against a lone pawn because it can control the promotion path from far away; its king often does not need to join the defense. In diagram 71, the bishop reaches the promotion square&#x27;s diagonal before the pawn queens. The exact result depends on the side to move: White draws, while Black to move promotes immediately and wins.\n\nThe rare reversal in diagram 72 is geometric rather than material. A rook-pawn can imprison its own king in the corner, allowing a mating pattern by the bishop and king. The source position is still drawn with accurate defense: Black can choose 1...Ka2, while 1...a2 loses to 2.Bd4 mate. The practical rule is therefore to check whether the pawn king is trapped and whether a forcing checkmate exists; a bishop does not automatically win simply because this exceptional material arrangement is present.\n\nBefore declaring the result, mark the promotion square, the bishop&#x27;s usable diagonal, the pawn king&#x27;s legal moves, and the side to move. Tablebase checks confirm the source&#x27;s win/draw boundary and distinguish a forced result from an avoidable blunder.",
+    "keyIdeas": [
+      "A bishop can stop a lone pawn from long range by controlling its path or promotion square.",
+      "Side to move can decide whether the bishop reaches the diagonal before promotion.",
+      "A rook-pawn whose own king is trapped can permit a rare mating pattern.",
+      "Separate a forced win from a line that wins only after the defender chooses the wrong move."
+    ],
+    "activities": [
+      {
+        "id": "study-s48-bishop-lone-pawn",
+        "concept": "Minor piece endings",
+        "minutes": 18,
+        "difficulty": "introductory",
+        "prerequisites": [],
+        "instructions": "Read PDFs 126-129 and set up diagrams 71-72. On diagram 71, preserve the side to move and calculate whether the bishop reaches the a1-h8 diagonal. On diagram 72, test both legal black king/pawn choices before checking the source line and tablebase result.",
+        "successCheck": "Classify diagram 71 correctly for both sides to move and explain why diagram 72 is a draw with accurate defense even though a mating trap exists.",
+        "playReminders": [
+          "Can the bishop reach the promotion line, and is the pawn&#x27;s king trapped?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-knight-v-lone-pawn",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Knight vs. Lone Pawn; PDFs 130-135, diagrams 73-76",
+    "title": "Blockade a lone pawn with the knight",
+    "tags": [
+      "minor-piece-endings",
+      "knight-versus-pawn",
+      "blockade",
+      "promotion-square",
+      "rook-pawn",
+      "side-to-move"
+    ],
+    "note": "A knight usually draws against a lone pawn when it can keep contact with the square directly in front of the pawn. Unlike a bishop, it must work locally. The saving method is a repeating knight dance: move with tempo, keep or regain control of the blockade square, and be ready to sacrifice for the pawn.\n\nDiagrams 73-76 expose the boundary. Diagram 73 is drawn with either side to move because the knight can orbit the c-pawn&#x27;s front square. In diagram 74, White to move draws with 1.Nb5 and 2.Nc3, while Black to move wins only with the immediate 1...a2; slower king moves let the knight re-establish control. Diagram 75 adds a nearby white king and is drawn. Diagram 76 is also drawn because the knight and king cooperate: after ...a2, checks force the king away and the knight reaches the promotion square.\n\nThe method is not &#x27;knights stop pawns.&#x27; It is a square-control test. Identify the square in front, list every route by which the knight can remain connected to it, and check whether the pawn advances with tempo before the knight can return.",
+    "keyIdeas": [
+      "Keep the knight connected to the square directly in front of the pawn.",
+      "Use checking moves to gain time while preserving the blockade route.",
+      "Rook-pawns are dangerous because the knight has access from only one side of the board.",
+      "A nearby king can convert a fragile knight blockade into a stable draw."
+    ],
+    "activities": [
+      {
+        "id": "study-s48-knight-blockade",
+        "concept": "Minor piece endings",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "Read PDFs 130-135 and solve diagrams 73-76. Mark the square in front of the pawn, draw the knight&#x27;s legal routes to it, and compare diagram 74 with each side to move before revealing the line.",
+        "successCheck": "Give the correct result for all four diagrams and explain every draw through continuing control of the pawn-front square.",
+        "playReminders": [
+          "Which knight route keeps contact with the square in front of the pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-knight-rook-pawn-boundary",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Knight vs. Lone Pawn exception, diagram 77; Lone King vs. Knight and Rook-Pawn on the 6th or 7th, PDFs 197-201, diagrams 120-121; Part Three tests 2 and 7 with answers PDFs 832 and 838-839",
+    "title": "Recognize the knight-and-rook-pawn exception",
+    "tags": [
+      "minor-piece-endings",
+      "knight-endings",
+      "rook-pawn",
+      "fortress",
+      "stalemate",
+      "promotion-square",
+      "division-of-labor"
+    ],
+    "note": "Rook-pawns create two opposite exceptions. In diagram 77, a lone knight can force mate against the pawn because the pawn&#x27;s king is trapped on a1: 1.Nb4! forces ...a2 and 2.Nc2 mate. This is a forced win, unlike the bishop example where the defender can avoid the losing pawn push.\n\nWith knight and pawn against a lone king, the stronger side normally wins. Diagram 120 shows the winning setup with the pawn on h6: the knight should guard the pawn from behind, so capturing the knight would clear the promotion path. The attacking king then takes the queening square while avoiding stalemate. Diagram 121 gives the critical draw: the rook-pawn is already on the seventh rank, the defending king controls h8 and can alternate between h8 and g7, the knight is tied to the pawn, and the attacking king cannot approach without stalemating.\n\nPart Three&#x27;s exact answers reinforce both directions. Test 2 repeats the forced mating geometry. Test 7 shows a practical division of labor: the king runs to the distant a-pawn while the knight alone stops the g-pawn. The decision process is to check pawn rank, corner control, whether the knight guards from behind, and whether the attacking king has a non-stalemating entry route.",
+    "keyIdeas": [
+      "A trapped rook-pawn king can permit a forced knight mate.",
+      "Guard an advanced rook-pawn from behind so capturing the knight permits promotion.",
+      "Knight plus rook-pawn can draw when the pawn is on the seventh rank and the defending king owns the corner.",
+      "Approach squares can fail because touching the pawn or corner produces stalemate.",
+      "A knight can stop one wing while the king handles the other."
+    ],
+    "activities": [
+      {
+        "id": "study-s48-knight-rook-pawn-boundary",
+        "concept": "Minor piece endings",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "Study diagram 77 on PDF 136, diagrams 120-121 on PDFs 197-201, then solve Part Three tests 2 and 7 and check answers on PDFs 832 and 838-839. For every position, record pawn rank, corner owner, knight duty and the king&#x27;s legal approach squares.",
+        "successCheck": "Distinguish the forced mate, the normal knight-and-pawn win, the seventh-rank fortress draw and the two-front defensive split without relying on a material-count slogan.",
+        "playReminders": [
+          "Who controls the corner, and is the knight free or tied to the rook-pawn?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-wrong-bishop-rook-pawn",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Bishop and Wrong Colored Rook-Pawn vs. Lone King; PDFs 191-194, diagrams 116-118",
+    "title": "Apply the three-condition wrong-bishop test",
+    "tags": [
+      "minor-piece-endings",
+      "bishop-endings",
+      "wrong-bishop",
+      "rook-pawn",
+      "fortress",
+      "stalemate"
+    ],
+    "note": "The famous draw needs three conditions together: the extra pawn is an a- or h-pawn, its promotion square has the opposite color from the bishop, and the defending king reaches that corner or an adjacent holding square. Remove any one condition and the stronger side wins.\n\nSilman&#x27;s diagrams form a clean classifier. Diagram 116 uses a non-rook-pawn and wins. Diagram 117 uses an h-pawn whose promotion square matches the bishop&#x27;s color and wins because the bishop can drive the king from h8. Diagram 118 has the h-pawn, the wrong-colored bishop and the defending king in the corner; it is drawn with either side to move. Attempts to push immediately or approach carelessly can stalemate.\n\nThe useful memory aid is geometric: can the bishop control the promotion corner? Do not label a bishop &#x27;wrong&#x27; without naming the pawn and promotion square. Tablebase checks confirm both winning contrasts and the two-sided draw in the exception.",
+    "keyIdeas": [
+      "The draw requires a rook-pawn, a bishop that cannot control the promotion corner, and the defending king reaching that corner.",
+      "A non-rook-pawn wins because the attacking king has room to maneuver around the defender.",
+      "A same-colored bishop wins because it can check the defending king out of the corner.",
+      "The wrong-bishop fortress is drawn with either side to move once the defending king is established."
+    ],
+    "activities": [
+      {
+        "id": "study-s49-wrong-bishop-classifier",
+        "concept": "Minor piece endings",
+        "minutes": 22,
+        "difficulty": "intermediate",
+        "prerequisites": [],
+        "instructions": "Read PDFs 191-194 and compare diagrams 116-118. For each, fill three boxes: rook-pawn?, bishop controls the queening square?, defending king reaches the corner? Predict win or draw before playing the source line.",
+        "successCheck": "Classify all three positions and explain the result by naming the single condition that changes between adjacent diagrams.",
+        "playReminders": [
+          "Is it truly the wrong bishop for this pawn&#x27;s promotion corner?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-wrong-bishop-transition",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Wrong-bishop transition example, PDFs 195-196, diagram 119; Part Four tests 3, 5, 6, 10 and 11 with exact answers PDFs 843-848 and 853-854",
+    "title": "Create or avoid the wrong-bishop fortress before liquidation",
+    "tags": [
+      "minor-piece-endings",
+      "wrong-bishop",
+      "rook-pawn",
+      "fortress",
+      "favorable-exchanges",
+      "liquidation",
+      "intermediate-move"
+    ],
+    "note": "Recognizing the final wrong-bishop draw is only the start. The practical task is to steer toward it when defending and prevent it when converting. In diagram 119, White first improves the king and keeps both pawns. The careless 1.g4? allows ...Bxg4 and liquidation to the drawn wrong-bishop rook-pawn ending. The source&#x27;s winning line preserves the g-pawn, uses the king to gain space and avoids stalemate while forcing promotion.\n\nThe Part Four answers turn this into a transition skill. Test 3 shows that a tempting knight sacrifice can aim for the wrong-bishop draw, but White has an intermediate check that preserves the win. Tests 5 and 6 reinforce rook-pawn corner and liquidation resources. Test 10 saves Black by sacrificing the knight for the g-pawn, leaving exactly bishop plus wrong-colored h-pawn against king. Test 11 distinguishes 1.Nd6+!, which keeps winning support for a rook-pawn, from captures that enter a dead draw.\n\nBefore every simplifying capture, name the exact remaining material, promotion corner and king route. A known fortress is useful only if the transition is actually forced and no intermediate check or alternate recapture avoids it.",
+    "keyIdeas": [
+      "Evaluate the exact ending after every exchange, not the current material count.",
+      "The defender may sacrifice material to remove the non-rook-pawn and reach the wrong-bishop draw.",
+      "The stronger side should preserve the pawn or tempo that prevents the fortress.",
+      "Check intermediate moves before assuming a liquidation is forced.",
+      "Knight support can decide whether capturing into a rook-pawn ending wins or draws."
+    ],
+    "activities": [
+      {
+        "id": "study-s49-wrong-bishop-transition",
+        "concept": "Minor piece endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [],
+        "instructions": "Study diagram 119 on PDFs 195-196. Then solve Part Four tests 3, 5, 6, 10 and 11 and compare with exact answers on PDFs 843-848 and 853-854. For each candidate move, write the complete material remaining after liquidation and whether the defending king reaches the corner.",
+        "successCheck": "Identify every transition that reaches the fortress, every move that preserves the win, and the intermediate move that refutes the superficial draw in test 3.",
+        "playReminders": [
+          "What exact ending remains after the exchange, and can an intermediate move change it?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-bishop-up-fortresses",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Fortresses in Bishop-up Endgames; PDFs 397-402, diagrams 253-258",
+    "title": "Read bishop-up fortresses through color and stalemate geometry",
+    "tags": [
+      "minor-piece-endings",
+      "bishop-endings",
+      "fortress",
+      "color-complex",
+      "rook-pawn",
+      "stalemate",
+      "king-activity"
+    ],
+    "note": "A bishop advantage does not guarantee penetration because the bishop controls only one color. Silman&#x27;s six diagrams show three recurring barriers: the defending king shuffles on squares the bishop cannot take away, the attacking king cannot approach without stalemating, or the wrong-colored rook-pawn leaves the bishop unable to remove the corner blockade.\n\nDiagrams 253 and 254 are queenside draws. In 253, Black holds b8/c8 behind the a-pawns; in 254, the extra b-pawn does not help because exchanging the a-pawn returns to the same barrier and approaching can stalemate. Diagrams 255-257 are kingside draws with h- or g-pawn geometry: an awkward bishop can be worse than an extra pawn, and Black can shuffle between the required squares. Diagram 258 is the contrast. The pawn is an f-pawn, so White wins with 1.Bb6 Kf8 2.Kd7 Kg8 3.Ke7; central and bishop-pawns do not permit the same edge blockade.\n\nTreat these as patterns to test rather than positions to memorize. Mark the defender&#x27;s two-square waiting circuit, the color complex unavailable to the bishop, the attacking king&#x27;s safe entry squares and any stalemate trigger. Tablebase results confirm five draws and the final win.",
+    "keyIdeas": [
+      "A bishop cannot remove a king from an opposite-colored waiting circuit by itself.",
+      "Extra material may fail when every king approach causes stalemate or returns to the same blockade.",
+      "Rook- and some knight-pawn structures allow edge fortresses; bishop-, queen- and king-pawns do not support the same barrier in these examples.",
+      "Identify the defender&#x27;s shuffle squares before calculating pawn pushes.",
+      "Use a near-identical winning contrast to test which square or pawn file breaks the fortress."
+    ],
+    "activities": [
+      {
+        "id": "study-s49-bishop-fortress-geometry",
+        "concept": "Minor piece endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [],
+        "instructions": "Read PDFs 397-402 and solve diagrams 253-258 as one contrast set. On each board, circle the defender&#x27;s waiting squares, shade the color the bishop cannot control, and mark every attacking king move that stalemates or repeats.",
+        "successCheck": "Classify the five draws and one win correctly, and explain diagram 258 by the concrete entry route rather than by material count.",
+        "playReminders": [
+          "What two squares sustain the fortress, and can my bishop or king remove both?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-fox-chicken-coup",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Fox in the Chicken Coup, diagram 66; The Deep Freeze begins PDF 121",
+    "title": "Use a distant passer as a king diversion",
+    "tags": [
+      "pawn-endings",
+      "outside-passer",
+      "diversion",
+      "stalemate"
+    ],
+    "note": "Advance the distant passer until it occupies the defending king, then abandon it and cross to the frozen pawns on the other wing. The passer buys tempi and an entry route; promotion is optional. In the source, forcing the b-pawn too far can stalemate Black, so the king must switch wings before removing every legal move.",
+    "keyIdeas": [
+      "Advance the passer until it fixes the defending king.",
+      "Abandon it when the king can invade the other wing.",
+      "Check for stalemate before a forcing pawn push."
+    ],
+    "activities": [
+      {
+        "id": "study-s46-diversion-and-square",
+        "concept": "Passed pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn endings",
+          "King activity"
+        ],
+        "instructions": "Classify diagrams 66 and 108-115. Apply the square rule, then name the diverted king, target pawn and entry square.",
+        "successCheck": "Distinguish a simple race from a diversion and identify when to abandon the passer.",
+        "playReminders": [
+          "What job is the passer doing after it stops advancing?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-outside-passer-diversion",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Outside Passed Pawns, definition and diagram 111",
+    "title": "Turn an outside passer into an entry route",
+    "tags": [
+      "pawn-endings",
+      "outside-passer",
+      "diversion"
+    ],
+    "note": "An outside passed pawn can promote if ignored, but its deeper use is to pull the defending king away from the main pawn mass. In diagram 111 the d-pawn repeatedly removes useful squares until White reaches the kingside. Name the entry square the passer creates and be ready to sacrifice the pawn when king entry wins more material.",
+    "keyIdeas": [
+      "Draw the king away from the main wing.",
+      "Identify the entry square created by the passer.",
+      "Sacrifice the passer when king entry decides."
+    ],
+    "activities": [
+      {
+        "id": "study-s46-diversion-and-square",
+        "concept": "Passed pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn endings",
+          "King activity"
+        ],
+        "instructions": "Classify diagrams 66 and 108-115. Apply the square rule, then name the diverted king, target pawn and entry square.",
+        "successCheck": "Distinguish a simple race from a diversion and identify when to abandon the passer.",
+        "playReminders": [
+          "What job is the passer doing after it stops advancing?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-outside-passer-king-route",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Outside Passed Pawns, diagrams 112-115 and closing reminder",
+    "title": "Route the king before launching the pawn race",
+    "tags": [
+      "pawn-endings",
+      "outside-passer",
+      "queen-race"
+    ],
+    "note": "With equal material, an outside passer does not win automatically. Silman compares king routes after White creates a c-pawn: Kc4 stays near the passer and Kb5 contests the queening square, while premature king or pawn moves allow a blockade or counter-race. Compare king location, promotion checks and counter-pawns through the first stable endpoint.",
+    "keyIdeas": [
+      "Keep the king near a passer that needs help.",
+      "Insert king moves before pawn pushes when they improve the race.",
+      "Compare promotion-with-check geometry, not only move counts."
+    ],
+    "activities": [
+      {
+        "id": "study-s46-diversion-and-square",
+        "concept": "Passed pawns",
+        "minutes": 30,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn endings",
+          "King activity"
+        ],
+        "instructions": "Classify diagrams 66 and 108-115. Apply the square rule, then name the diverted king, target pawn and entry square.",
+        "successCheck": "Distinguish a simple race from a diversion and identify when to abandon the passer.",
+        "playReminders": [
+          "What job is the passer doing after it stops advancing?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-pawn-breakthrough-majority",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Tactical Bombs, diagram 171",
+    "title": "Break through with a forcing pawn sacrifice",
+    "tags": [
+      "pawn-endings",
+      "breakthrough",
+      "queen-race"
+    ],
+    "note": "A blocked majority can contain a forcing sacrifice. In diagram 171, g5 compels a capture and leaves the f-pawn beyond the remaining pawn’s control. Calculate both capture directions and continue through promotion and the first check; the pattern is concrete to the pawn geometry.",
+    "keyIdeas": [
+      "Look for forcing sacrifices in a blocked majority.",
+      "Calculate captures in both directions.",
+      "Extend the race through promotion and the first check."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-breakthrough-scan",
+        "concept": "Pawn majorities",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn endings",
+          "Forcing moves"
+        ],
+        "instructions": "List forcing pawn pushes and captures in diagrams 171-174 before moving a king.",
+        "successCheck": "Find the winning break and block Black’s counter-break first.",
+        "playReminders": [
+          "What forcing pawn break does my opponent have?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-stop-breakthrough-first",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Tactical Bombs, diagrams 172-174",
+    "title": "Prevent the opponent’s pawn break before switching wings",
+    "tags": [
+      "pawn-endings",
+      "breakthrough",
+      "prophylaxis"
+    ],
+    "note": "White appears ready for a Chicken Coup, but Black’s b3 break destroys the queenside and creates a passer. Silman rewinds the position: White must play b3 first, choose the recapture that prevents a new passer, and only then cross the board. Before executing a long-term plan, scan the opponent’s forcing pawn breaks.",
+    "keyIdeas": [
+      "Check the opponent’s forcing pawn breaks first.",
+      "Block the breakthrough square before switching wings.",
+      "Choose the capture that prevents a new passer."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-breakthrough-scan",
+        "concept": "Pawn majorities",
+        "minutes": 20,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Pawn endings",
+          "Forcing moves"
+        ],
+        "instructions": "List forcing pawn pushes and captures in diagrams 171-174 before moving a king.",
+        "successCheck": "Find the winning break and block Black’s counter-break first.",
+        "playReminders": [
+          "What forcing pawn break does my opponent have?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-triangulation-tempo",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Triangulation, diagrams 175-177",
+    "title": "Triangulate to hand the move to the defender",
+    "tags": [
+      "pawn-endings",
+      "triangulation",
+      "zugzwang"
+    ],
+    "note": "Triangulation returns the king to the useful confrontation after spending an extra move. Kd2 or Kf2 lets White meet ...Ke5 with Ke3 while holding opposition; a later quiet king move avoids a capture that would restore Black’s opposition. Define the target position and required side to move before choosing the triangle.",
+    "keyIdeas": [
+      "Lose a move with a king side-step.",
+      "Define the target confrontation first.",
+      "Do not capture if it restores the defender’s opposition."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-king-geometry",
+        "concept": "King activity",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Opposition",
+          "Tempo"
+        ],
+        "instructions": "Play diagrams 175-180, marking the target turn for triangulation and the target wing for outflanking.",
+        "successCheck": "Execute both routes and explain the direct and early-outflank failures.",
+        "playReminders": [
+          "Am I spending a tempo or gaining a square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-outflanking-entry",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Outflanking, diagrams 178-180",
+    "title": "Give up opposition to gain useful ground",
+    "tags": [
+      "pawn-endings",
+      "outflanking",
+      "king-route"
+    ],
+    "note": "Outflanking moves the king sideways so the defender cannot use direct opposition to block forward progress. Silman’s route first travels to the target wing, then yields opposition when accepting it would let White gain a rank. Outflanking on the wrong wing makes progress without reaching the assigned squares.",
+    "keyIdeas": [
+      "Reach the target wing before outflanking.",
+      "Offer opposition when it buys forward progress.",
+      "Retake opposition after gaining a rank."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-king-geometry",
+        "concept": "King activity",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Opposition",
+          "Tempo"
+        ],
+        "instructions": "Play diagrams 175-180, marking the target turn for triangulation and the target wing for outflanking.",
+        "successCheck": "Execute both routes and explain the direct and early-outflank failures.",
+        "playReminders": [
+          "Am I spending a tempo or gaining a square?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-race-promotion-mate",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Strange Races, diagram 212",
+    "title": "Count pawn mates before counting queens",
+    "tags": [
+      "pawn-endings",
+      "pawn-race",
+      "pawn-mate"
+    ],
+    "note": "Black queens first, but White’s king and connected pawns create mate before the new queen can act. Another branch wins because White promotes with check. A race count must continue beyond promotion: test immediate checks, mates and king escape squares before evaluating material.",
+    "keyIdeas": [
+      "Continue a race beyond the first promotion.",
+      "Check pawn-mate patterns around a boxed king.",
+      "Resolve forcing checks and mates before material."
+    ],
+    "activities": [
+      {
+        "id": "study-s46-strange-race-checklist",
+        "concept": "Calculation",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Passed pawns",
+          "Calculation"
+        ],
+        "instructions": "Solve diagrams 212-218 through promotion, checking mate, checks, stalemate and new-queen geometry.",
+        "successCheck": "Classify all seven and explain the post-promotion geometry or dual-purpose route.",
+        "playReminders": [
+          "After queening, what is the first forcing move?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-race-queen-pawn-exception",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Strange Races, diagrams 213-214",
+    "title": "Recognize when a seventh-rank pawn holds a queen",
+    "tags": [
+      "pawn-endings",
+      "queen-versus-pawn",
+      "stalemate"
+    ],
+    "note": "A queen may fail against a far-advanced rook- or bishop-pawn when its king is distant. The first line reaches a stalemate fortress; the winning correction promotes while preserving an extra pawn that removes the stalemate resource. Track pawn file, king corner and every remaining pawn after promotion.",
+    "keyIdeas": [
+      "Know the queen-versus-seventh-rank pawn exception.",
+      "Track whether queen capture would stalemate.",
+      "Preserve the pawn that removes the fortress."
+    ],
+    "activities": [
+      {
+        "id": "study-s46-strange-race-checklist",
+        "concept": "Calculation",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Passed pawns",
+          "Calculation"
+        ],
+        "instructions": "Solve diagrams 212-218 through promotion, checking mate, checks, stalemate and new-queen geometry.",
+        "successCheck": "Classify all seven and explain the post-promotion geometry or dual-purpose route.",
+        "playReminders": [
+          "After queening, what is the first forcing move?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-rook-pawn-race-geometry",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Strange Races, diagrams 215-216",
+    "title": "Read the diagonal after rook-pawn promotion",
+    "tags": [
+      "pawn-endings",
+      "rook-pawn",
+      "queen-race"
+    ],
+    "note": "Two rook-pawns can promote on squares joined by the long diagonal, letting the first queen capture the second. Moving the king one square changes the checks and draw. Place both queens on the board and test captures, checks and king shelter instead of stopping at equal promotion times.",
+    "keyIdeas": [
+      "Place both promoted queens on the board.",
+      "Check the long-diagonal capture.",
+      "Include king placement in post-promotion geometry."
+    ],
+    "activities": [
+      {
+        "id": "study-s46-strange-race-checklist",
+        "concept": "Calculation",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Passed pawns",
+          "Calculation"
+        ],
+        "instructions": "Solve diagrams 212-218 through promotion, checking mate, checks, stalemate and new-queen geometry.",
+        "successCheck": "Classify all seven and explain the post-promotion geometry or dual-purpose route.",
+        "playReminders": [
+          "After queening, what is the first forcing move?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-reti-dual-purpose-king",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Strange Races, diagrams 217-218",
+    "title": "Use one king route to chase and escort",
+    "tags": [
+      "pawn-endings",
+      "reti-maneuver",
+      "square-rule"
+    ],
+    "note": "The Réti studies use diagonal king moves to approach two goals at once: enter the enemy pawn’s square and support the friendly pawn. Black cannot answer both threats without allowing a draw. State both purposes of each king move and recalculate the square after every pawn push.",
+    "keyIdeas": [
+      "Use diagonal moves toward two objectives.",
+      "Combine chasing with escorting.",
+      "Force replies to incompatible threats."
+    ],
+    "activities": [
+      {
+        "id": "study-s46-strange-race-checklist",
+        "concept": "Calculation",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Passed pawns",
+          "Calculation"
+        ],
+        "instructions": "Solve diagrams 212-218 through promotion, checking mate, checks, stalemate and new-queen geometry.",
+        "successCheck": "Classify all seven and explain the post-promotion geometry or dual-purpose route.",
+        "playReminders": [
+          "After queening, what is the first forcing move?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-two-pawn-opposition-boundary",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "King and Pawn vs. King and Pawn, diagrams 219-220",
+    "title": "Reduce two pawns to the correct basic ending",
+    "tags": [
+      "pawn-endings",
+      "liquidation",
+      "opposition"
+    ],
+    "note": "Both examples end with one pawn being captured. The first draws because the defender takes opposition in the resulting basic ending; the shifted version wins because the board edge prevents the same retreat. Rebuild the final single-pawn position, record the side to move and check the defender’s room.",
+    "keyIdeas": [
+      "Calculate through the pawn capture.",
+      "Record whose move follows liquidation.",
+      "Check whether the defender has room for opposition."
+    ],
+    "activities": [
+      {
+        "id": "study-s46-two-pawn-boundaries",
+        "concept": "Opposition",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Opposition",
+          "King activity"
+        ],
+        "instructions": "Play diagrams 219-222 through the pawn capture and mark the decisive entry or drawing square.",
+        "successCheck": "Give both-turn results for diagram 221 and explain Kh8 in diagram 222.",
+        "playReminders": [
+          "What basic ending remains after the pawn falls?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-fifth-rank-penetration-test",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "King and Pawn vs. King and Pawn, diagram 221",
+    "title": "Test king penetration before conceding a pawn",
+    "tags": [
+      "pawn-endings",
+      "fifth-rank",
+      "penetration"
+    ],
+    "note": "When the defender must give up a pawn, opposition usually holds unless the attacking fifth-rank pawn and king can penetrate. White to move reaches the decisive entry squares; Black to move takes distant opposition and denies them. Mark the entry squares and test both turns before permitting the trade.",
+    "keyIdeas": [
+      "Mark the decisive king-entry squares.",
+      "Use distant opposition to deny penetration.",
+      "Always pair the position with the side to move."
+    ],
+    "activities": [
+      {
+        "id": "study-s46-two-pawn-boundaries",
+        "concept": "Opposition",
+        "minutes": 25,
+        "difficulty": "intermediate",
+        "prerequisites": [
+          "Opposition",
+          "King activity"
+        ],
+        "instructions": "Play diagrams 219-222 through the pawn capture and mark the decisive entry or drawing square.",
+        "successCheck": "Give both-turn results for diagram 221 and explain Kh8 in diagram 222.",
+        "playReminders": [
+          "What basic ending remains after the pawn falls?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-paradoxical-king-route",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "King and Pawn vs. King and Pawn, diagram 222",
+    "title": "Choose the route that improves relative distance",
+    "tags": [
+      "pawn-endings",
+      "king-route",
+      "relative-distance"
+    ],
+    "note": "White needs to reach c2 after Black captures a2. Kf8 lets Black approach while blocking White; Kh8 forces Black farther from its target and lets White arrive diagonally. Compare both kings’ progress to the critical squares rather than trusting visual closeness.",
+    "keyIdeas": [
+      "Compare both kings’ target distances.",
+      "A retreat can force the opponent away.",
+      "Count to the final defensive square."
+    ],
+    "activities": []
+  },
+  {
+    "chapterId": "silman-advanced-pawn-mate-triangulation",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "All King and Pawn Endgames are Confusing!, Shirov-Grischuk, diagrams 376-380",
+    "title": "Build the exact move assignment for a pawn mate",
+    "tags": [
+      "pawn-endings",
+      "triangulation",
+      "pawn-mate"
+    ],
+    "note": "The forced transition reaches an eight-man pawn ending whose win depends on a pawn-mate target with the correct side to move. White’s king triangulates to place Black in zugzwang; direct play reaches the same structure with the wrong move assignment and draws. Work backward from the target diagram and preserve move parity.",
+    "keyIdeas": [
+      "Work backward from the pawn-mate target.",
+      "Track the required side to move.",
+      "Use king triangulation to create zugzwang."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-tempo-ledger",
+        "concept": "Tempo",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Calculation",
+          "Opposition"
+        ],
+        "instructions": "For diagrams 377-383 and 391-393 write reserve moves and the desired side to move at the target.",
+        "successCheck": "Reach the pawn-mate assignment and preserve the last queenside tempo.",
+        "playReminders": [
+          "Which move am I saving for zugzwang?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-advanced-pawn-tempo-map",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "All King and Pawn Endgames are Confusing!, Martz-Benko, diagrams 381-383",
+    "title": "Prefer the clear tempo win over a branch explosion",
+    "tags": [
+      "pawn-endings",
+      "reserve-tempi",
+      "transition"
+    ],
+    "note": "Benko’s first king route produces many narrow races and queen endings. The quiet g6 fixes the move order and gives the king a stable winning path. Inventory reserve pawn moves, capture order and king commitments; prefer the route that removes the opponent’s useful tempo and reduces branch complexity.",
+    "keyIdeas": [
+      "Inventory reserve pawn moves.",
+      "Compare the reliability of winning routes.",
+      "Use a quiet pawn move to fix move order."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-tempo-ledger",
+        "concept": "Tempo",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Calculation",
+          "Opposition"
+        ],
+        "instructions": "For diagrams 377-383 and 391-393 write reserve moves and the desired side to move at the target.",
+        "successCheck": "Reach the pawn-mate assignment and preserve the last queenside tempo.",
+        "playReminders": [
+          "Which move am I saving for zugzwang?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-pawn-transition-safety",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "All King and Pawn Endgames are Confusing!, Aronin-Smyslov, diagrams 384-385",
+    "title": "Keep the favorable pieces when the pawn ending is unclear",
+    "tags": [
+      "pawn-endings",
+      "transition",
+      "risk"
+    ],
+    "note": "White’s active rook and knight dominate passive pieces, so a mass exchange is unnecessary. The chosen exchange reaches a pawn ending where an apparent outside passer cannot make progress and Black constructs a positional draw. Improve the king and pawns first; enter later only when the result is clearer.",
+    "keyIdeas": [
+      "Compare the pawn ending with the current piece advantage.",
+      "Do not equate an outside passer with a win.",
+      "Improve first when the exchange adds risk."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-transition-gate",
+        "concept": "Favorable exchanges",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Calculation"
+        ],
+        "instructions": "For diagrams 384-390 record forced result, hidden counter-break, safe improving move and later exchange condition.",
+        "successCheck": "Reject the premature transitions and justify the forced win to its promotion tempo.",
+        "playReminders": [
+          "Is the pawn ending clearer than what I have?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-forced-transition-count",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "All King and Pawn Endgames are Confusing!, Hughes-Peters, diagram 386",
+    "title": "Calculate a forced transition to the final checking tempo",
+    "tags": [
+      "pawn-endings",
+      "queen-trade",
+      "promotion-with-check"
+    ],
+    "note": "Black’s queen trade is justified by a long forced pawn sequence. The king steps out of the a-pawn’s way, approaches White’s passer and reaches a final promotion with check. Write the post-exchange position first and calculate through the first check, capture or stable blockade.",
+    "keyIdeas": [
+      "Write the post-exchange position.",
+      "Count king routes and pawn tempi.",
+      "Continue to the first promotion check."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-transition-gate",
+        "concept": "Favorable exchanges",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Calculation"
+        ],
+        "instructions": "For diagrams 384-390 record forced result, hidden counter-break, safe improving move and later exchange condition.",
+        "successCheck": "Reject the premature transitions and justify the forced win to its promotion tempo.",
+        "playReminders": [
+          "Is the pawn ending clearer than what I have?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-delay-pawn-exchange",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "All King and Pawn Endgames are Confusing!, Uto-Tran, diagrams 387-390",
+    "title": "Handcuff the defender before entering the pawn ending",
+    "tags": [
+      "pawn-endings",
+      "transition",
+      "handcuff"
+    ],
+    "note": "The immediate knight exchange reaches a pawn ending with hidden pawn fixes, counter-breaks and mutual zugzwang and draws with best defense. White can keep the knight, fix c4, restrict the bishop and advance the kingside before choosing a better exchange. Delay a close transition while safe improvements remain.",
+    "keyIdeas": [
+      "Delay a close pawn ending when improvement is safe.",
+      "Fix the defender’s pawn and restrict its piece.",
+      "Remove counter-breaks before exchanging."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-transition-gate",
+        "concept": "Favorable exchanges",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Position evaluation",
+          "Calculation"
+        ],
+        "instructions": "For diagrams 384-390 record forced result, hidden counter-break, safe improving move and later exchange condition.",
+        "successCheck": "Reject the premature transitions and justify the forced win to its promotion tempo.",
+        "playReminders": [
+          "Is the pawn ending clearer than what I have?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-reserve-tempi-zugzwang",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "All King and Pawn Endgames are Confusing!, Najdorf-Mecking, diagrams 391-393",
+    "title": "Count reserve tempi before creating mutual zugzwang",
+    "tags": [
+      "pawn-endings",
+      "reserve-tempi",
+      "zugzwang"
+    ],
+    "note": "Black’s winning capture leads to a fixed structure where queenside pawns are reserve moves. The immediate check and an early a-pawn push each spend the wrong tempo and draw; the correct king move preserves the move assignment. Keep a ledger of pawn waits and spend them only to create the desired final turn.",
+    "keyIdeas": [
+      "Count waiting moves on both wings.",
+      "Preserve reserve moves for the king confrontation.",
+      "Verify the final side to move before committing."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-tempo-ledger",
+        "concept": "Tempo",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Calculation",
+          "Opposition"
+        ],
+        "instructions": "For diagrams 377-383 and 391-393 write reserve moves and the desired side to move at the target.",
+        "successCheck": "Reach the pawn-mate assignment and preserve the last queenside tempo.",
+        "playReminders": [
+          "Which move am I saving for zugzwang?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-protected-passers-sacrifice",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "All King and Pawn Endgames are Confusing!, Bacrot-Kramnik, diagrams 394-396",
+    "title": "Give up one passer to advance another with tempo",
+    "tags": [
+      "pawn-endings",
+      "protected-passers",
+      "pawn-sacrifice"
+    ],
+    "note": "White’s protected passers restrict the king, then c7 is sacrificed so the e-pawn advances with check. The king enters a favorable queen ending and an enemy pawn can even shield White from checks. Calculate which passer can be given up and whether the survivor promotes with tempo.",
+    "keyIdeas": [
+      "Use protected passers to restrict the king.",
+      "Sacrifice one passer when another advances with tempo.",
+      "Evaluate the resulting queen checks."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-advanced-verdict-audit",
+        "concept": "Calculation",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Candidate moves",
+          "Tempo"
+        ],
+        "instructions": "Replay diagrams 394-402; at every correction record the previous verdict, changing move and stable endpoint.",
+        "successCheck": "Explain the c7 sacrifice and defensive f4 break from concrete endpoints.",
+        "playReminders": [
+          "What endpoint supports my verdict?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-pawn-endgame-defense-audit",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "All King and Pawn Endgames are Confusing!, Milat-Silman, diagrams 397-402",
+    "title": "Audit move order before trusting a pawn-ending verdict",
+    "tags": [
+      "pawn-endings",
+      "analysis-correction",
+      "defense"
+    ],
+    "note": "The final example records repeated verdict changes by titled analysts. Similar king choices, checks, captures and pawn breaks change win to draw or draw to loss. The corrected defense uses accurate capture order, a king route and f4 to remove White’s spare tempo. Replay every forcing line and require a stable opposition or tempo endpoint before accepting a verdict.",
+    "keyIdeas": [
+      "Treat each move-order change as a new position.",
+      "Replay forcing captures before accepting a verdict.",
+      "Use a pawn break to remove a reserve tempo."
+    ],
+    "activities": [
+      {
+        "id": "study-s47-advanced-verdict-audit",
+        "concept": "Calculation",
+        "minutes": 40,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "Candidate moves",
+          "Tempo"
+        ],
+        "instructions": "Replay diagrams 394-402; at every correction record the previous verdict, changing move and stable endpoint.",
+        "successCheck": "Explain the c7 sacrifice and defensive f4 break from concrete endpoints.",
+        "playReminders": [
+          "What endpoint supports my verdict?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-v-minor-piece",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "PDFs 71-79; 4 body diagrams",
+    "title": "Queen versus minor piece: box, forks and stalemate",
+    "tags": [
+      "queen-endings",
+      "restriction",
+      "king-activity",
+      "forks",
+      "stalemate",
+      "mating-patterns"
+    ],
+    "note": "Treat queen versus bishop or knight as the box mate with one extra hazard: stay off the bishop color when useful, keep king and queen coordinated, and continuously scan for knight forks and stalemate.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-queen-minor-box",
+        "concept": "Queen endings",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Box the minor piece safely and solve the exact bishop/knight tests before checking the answers.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-v-minor-piece-tests",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Tests 1-2 PDFs 94-95; answers PDFs 823-825; diagrams 50-51",
+    "title": "Queen versus minor piece: exact tests and answers",
+    "tags": [
+      "queen-endings",
+      "forks",
+      "stalemate",
+      "blunder-checking"
+    ],
+    "note": "Solve the bishop stalemate traps and the knight-fork blunder before reading the exact answers.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-queen-minor-box",
+        "concept": "Queen endings",
+        "minutes": 25,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Box the minor piece safely and solve the exact bishop/knight tests before checking the answers.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-v-pawn-sixth-rank",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "PDFs 226-230; 3 diagrams",
+    "title": "Queen versus a pawn on the sixth rank",
+    "tags": [
+      "queen-endings",
+      "promotion-tactics",
+      "king-activity",
+      "restriction"
+    ],
+    "note": "Stop the pawn on its promotion square or force its king in front, then walk the king closer. Sixth-rank pawns almost always lose; the rook-pawn requires a checking route that prevents h2 and reaches the pickup pattern.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-pawn-file-classifier",
+        "concept": "Queen endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Classify sixth- and seventh-rank pawns by file, king distance and stalemate square.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-v-pawn-seventh-rank",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "PDFs 231-235; 3 diagrams",
+    "title": "Queen versus a pawn on the seventh rank",
+    "tags": [
+      "queen-endings",
+      "promotion-tactics",
+      "stalemate",
+      "king-activity"
+    ],
+    "note": "Force the defending king in front of a center or knight pawn and gain king steps. Bishop and rook pawns can draw with the stronger king far away because the capture square is stalemate or the checking loop never permits king approach.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-pawn-file-classifier",
+        "concept": "Queen endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Classify sixth- and seventh-rank pawns by file, king distance and stalemate square.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-v-seventh-rank-tests",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Part Four Test 12 PDFs 251-252, diagrams 157-159; answer PDFs 855-857",
+    "title": "Classify seventh-rank queen-versus-pawn positions",
+    "tags": [
+      "queen-endings",
+      "stalemate",
+      "position-evaluation"
+    ],
+    "note": "Three side-by-side positions isolate pawn-file geometry: f-pawn draws; e- and b-pawns lose.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-pawn-file-classifier",
+        "concept": "Queen endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Classify sixth- and seventh-rank pawns by file, king distance and stalemate square.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-v-advanced-pawn-trick-win",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "PDFs 403-407, diagrams 259-262; 4 diagrams",
+    "title": "Trick wins against seventh-rank rook and bishop pawns",
+    "tags": [
+      "queen-endings",
+      "mating-patterns",
+      "promotion-tactics",
+      "stalemate",
+      "calculation"
+    ],
+    "note": "A close king can permit the pawn to queen because the new queen cannot stop a back-rank mating net. For bishop pawns, the queen square and move order decide whether the checking net works.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-promotion-mate-exception",
+        "concept": "Queen endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Calculate the promotion-into-mate exception and solve Part Six test 12 before reading its exact answer.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-v-advanced-pawn-test",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "Part Six Test 12 PDF 422, diagram 274; exact answer PDF 890",
+    "title": "Apply the promotion-into-mate exception",
+    "tags": [
+      "queen-endings",
+      "mating-patterns",
+      "promotion-tactics",
+      "calculation"
+    ],
+    "note": "Use enemy pawn tempi to bring the king close, allow both promotions, and finish with the diagram-259 mating net.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-promotion-mate-exception",
+        "concept": "Queen endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Calculate the promotion-into-mate exception and solve Part Six test 12 before reading its exact answer.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-v-rook-pawn-blockade",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "PDFs 486-488; 1 diagram",
+    "title": "Blockade: queen versus rook and pawn",
+    "tags": [
+      "queen-endings",
+      "drawing-tactics",
+      "restriction",
+      "king-activity"
+    ],
+    "note": "A rook and second-rank pawn can form a drawing blockade when the rook denies sixth-rank king entry and retains safe waiting squares. Knight pawns are especially resilient; rook pawns change the safe-post count.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-blockade-map",
+        "concept": "Queen endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Mark rook safe posts, queen entry squares and the attacking king&#x27;s route to the sixth rank.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-pawn-v-rook-pawns-blockade",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "PDFs 489-490; 2 diagrams",
+    "title": "Blockade: queen and pawn versus rook and pawns",
+    "tags": [
+      "queen-endings",
+      "drawing-tactics",
+      "defensive-exchanges",
+      "restriction"
+    ],
+    "note": "The defender shuffles the rook between stable blockade squares; a bishop sacrifice can deliberately reduce to the same fortress. Check placement precisely because one loose rook tempo loses.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-blockade-map",
+        "concept": "Queen endings",
+        "minutes": 30,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Mark rook safe posts, queen entry squares and the attacking king&#x27;s route to the sixth rank.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
+        ]
+      }
+    ]
+  },
+  {
+    "chapterId": "silman-queen-pawn-endgames-passed-pawns",
+    "book": "Silman’s Complete Endgame Course: From Beginner to Master",
+    "author": "Jeremy Silman",
+    "ref": "PDFs 636-650; 15 diagrams",
+    "title": "Queen-and-pawn endings: passed pawns rule",
+    "tags": [
+      "queen-endings",
+      "passed-pawns",
+      "perpetual-check",
+      "king-safety",
+      "counterplay",
+      "doubled-pawns"
+    ],
+    "note": "Judge advanced passer speed before pawn count. Queens break static blockades, so the defender often needs perpetual check; the stronger side answers with a dual-purpose queen or pawn shelter. The Rubinstein-Capablanca example shows pawn sacrifices and quiet king moves creating sufficient counterplay.",
+    "keyIdeas": [
+      "Classify the material and promotion geometry before calculating.",
+      "Coordinate queen and king while preserving checks, fork safety and stalemate awareness.",
+      "Calculate through promotion, blockade or perpetual-check endpoints rather than stopping at material count."
+    ],
+    "activities": [
+      {
+        "id": "study-s55-queen-pawn-races",
+        "concept": "Queen endings",
+        "minutes": 35,
+        "difficulty": "advanced",
+        "prerequisites": [
+          "King activity",
+          "Stalemate"
+        ],
+        "instructions": "Rank passer speed, king shelter, perpetual-check access and material in that order across all 15 diagrams.",
+        "successCheck": "Give the correct result and explain the decisive checking, promotion, blockade or stalemate geometry for every cited position.",
+        "playReminders": [
+          "What exact geometry decides this queen ending after the first forcing sequence?"
         ]
       }
     ]

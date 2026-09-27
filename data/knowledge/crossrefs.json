@@ -14179,6 +14179,1997 @@
         "section": "prompts PDFs 219-221; answers PDFs 222-223; score chart PDF 224",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "bishop-pair--shereshevsky-two-bishops-restrict-knights",
+      "chapterId": "shereshevsky-two-bishops-restrict-knights",
+      "locator": {
+        "pdfPageStart": 129,
+        "pdfPageEnd": 136,
+        "printedPages": "121-128",
+        "section": "Two Bishops against Bishops and Knights, first seven diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--shereshevsky-two-bishops-restrict-knights",
+      "chapterId": "shereshevsky-two-bishops-restrict-knights",
+      "locator": {
+        "pdfPageStart": 129,
+        "pdfPageEnd": 136,
+        "printedPages": "121-128",
+        "section": "Two Bishops against Bishops and Knights, first seven diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--shereshevsky-two-bishops-restrict-knights",
+      "chapterId": "shereshevsky-two-bishops-restrict-knights",
+      "locator": {
+        "pdfPageStart": 129,
+        "pdfPageEnd": 136,
+        "printedPages": "121-128",
+        "section": "Two Bishops against Bishops and Knights, first seven diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--shereshevsky-two-bishops-two-weaknesses",
+      "chapterId": "shereshevsky-two-bishops-two-weaknesses",
+      "locator": {
+        "pdfPageStart": 137,
+        "pdfPageEnd": 143,
+        "printedPages": "129-135",
+        "section": "middle eight diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--shereshevsky-two-bishops-two-weaknesses",
+      "chapterId": "shereshevsky-two-bishops-two-weaknesses",
+      "locator": {
+        "pdfPageStart": 137,
+        "pdfPageEnd": 143,
+        "printedPages": "129-135",
+        "section": "middle eight diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--shereshevsky-two-bishops-conversion",
+      "chapterId": "shereshevsky-two-bishops-conversion",
+      "locator": {
+        "pdfPageStart": 144,
+        "pdfPageEnd": 150,
+        "printedPages": "136-142",
+        "section": "closing six diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--shereshevsky-two-bishops-conversion",
+      "chapterId": "shereshevsky-two-bishops-conversion",
+      "locator": {
+        "pdfPageStart": 144,
+        "pdfPageEnd": 150,
+        "printedPages": "136-142",
+        "section": "closing six diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-breaks--shereshevsky-two-bishops-conversion",
+      "chapterId": "shereshevsky-two-bishops-conversion",
+      "locator": {
+        "pdfPageStart": 144,
+        "pdfPageEnd": 150,
+        "printedPages": "136-142",
+        "section": "closing six diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-minor-piece-endgame-exceptions",
+      "chapterId": "silman-minor-piece-endgame-exceptions",
+      "locator": {
+        "pdfPageStart": 190,
+        "pdfPageEnd": 201,
+        "printedPages": null,
+        "section": "PDFs 190-201, diagrams 116-121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-minor-piece-endgame-exceptions",
+      "chapterId": "silman-minor-piece-endgame-exceptions",
+      "locator": {
+        "pdfPageStart": 190,
+        "pdfPageEnd": 201,
+        "printedPages": null,
+        "section": "PDFs 190-201, diagrams 116-121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-minor-piece-endgame-exceptions",
+      "chapterId": "silman-minor-piece-endgame-exceptions",
+      "locator": {
+        "pdfPageStart": 190,
+        "pdfPageEnd": 201,
+        "printedPages": null,
+        "section": "PDFs 190-201, diagrams 116-121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-opposite-bishops-single-pawn-blockade",
+      "chapterId": "silman-opposite-bishops-single-pawn-blockade",
+      "locator": {
+        "pdfPageStart": 202,
+        "pdfPageEnd": 205,
+        "printedPages": null,
+        "section": "PDFs 202-205, diagrams 122-124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--silman-opposite-bishops-single-pawn-blockade",
+      "chapterId": "silman-opposite-bishops-single-pawn-blockade",
+      "locator": {
+        "pdfPageStart": 202,
+        "pdfPageEnd": 205,
+        "printedPages": null,
+        "section": "PDFs 202-205, diagrams 122-124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-opposite-bishops-two-pawn-distance",
+      "chapterId": "silman-opposite-bishops-two-pawn-distance",
+      "locator": {
+        "pdfPageStart": 311,
+        "pdfPageEnd": 319,
+        "printedPages": null,
+        "section": "PDFs 311-319, diagrams 196-201",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-opposite-bishops-two-pawn-distance",
+      "chapterId": "silman-opposite-bishops-two-pawn-distance",
+      "locator": {
+        "pdfPageStart": 311,
+        "pdfPageEnd": 319,
+        "printedPages": null,
+        "section": "PDFs 311-319, diagrams 196-201",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-part-five-minor-piece-wrap",
+      "chapterId": "silman-part-five-minor-piece-wrap",
+      "locator": {
+        "pdfPageStart": 320,
+        "pdfPageEnd": 334,
+        "printedPages": null,
+        "section": "Summing Up PDFs 320-323 and Final Thoughts PDF 334",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--silman-part-five-minor-piece-wrap",
+      "chapterId": "silman-part-five-minor-piece-wrap",
+      "locator": {
+        "pdfPageStart": 320,
+        "pdfPageEnd": 334,
+        "printedPages": null,
+        "section": "Summing Up PDFs 320-323 and Final Thoughts PDF 334",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-opposite-bishops-connected-passers",
+      "chapterId": "silman-opposite-bishops-connected-passers",
+      "locator": {
+        "pdfPageStart": 385,
+        "pdfPageEnd": 396,
+        "printedPages": null,
+        "section": "PDFs 385-396, diagrams 244-251",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-opposite-bishops-connected-passers",
+      "chapterId": "silman-opposite-bishops-connected-passers",
+      "locator": {
+        "pdfPageStart": 385,
+        "pdfPageEnd": 396,
+        "printedPages": null,
+        "section": "PDFs 385-396, diagrams 244-251",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-opposite-bishops-connected-passers",
+      "chapterId": "silman-opposite-bishops-connected-passers",
+      "locator": {
+        "pdfPageStart": 385,
+        "pdfPageEnd": 396,
+        "printedPages": null,
+        "section": "PDFs 385-396, diagrams 244-251",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-same-color-bishop-centurini",
+      "chapterId": "silman-same-color-bishop-centurini",
+      "locator": {
+        "pdfPageStart": 474,
+        "pdfPageEnd": 485,
+        "printedPages": null,
+        "section": "PDFs 474-485, diagrams 308-317",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--silman-same-color-bishop-centurini",
+      "chapterId": "silman-same-color-bishop-centurini",
+      "locator": {
+        "pdfPageStart": 474,
+        "pdfPageEnd": 485,
+        "printedPages": null,
+        "section": "PDFs 474-485, diagrams 308-317",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--silman-knight-flexibility-and-outposts",
+      "chapterId": "silman-knight-flexibility-and-outposts",
+      "locator": {
+        "pdfPageStart": 603,
+        "pdfPageEnd": 618,
+        "printedPages": null,
+        "section": "PDFs 603-618, diagrams 403-413",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-knight-flexibility-and-outposts",
+      "chapterId": "silman-knight-flexibility-and-outposts",
+      "locator": {
+        "pdfPageStart": 603,
+        "pdfPageEnd": 618,
+        "printedPages": null,
+        "section": "PDFs 603-618, diagrams 403-413",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--silman-knight-flexibility-and-outposts",
+      "chapterId": "silman-knight-flexibility-and-outposts",
+      "locator": {
+        "pdfPageStart": 603,
+        "pdfPageEnd": 618,
+        "printedPages": null,
+        "section": "PDFs 603-618, diagrams 403-413",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--silman-entombed-dominated-minor-pieces",
+      "chapterId": "silman-entombed-dominated-minor-pieces",
+      "locator": {
+        "pdfPageStart": 652,
+        "pdfPageEnd": 667,
+        "printedPages": null,
+        "section": "PDFs 652-667, diagrams 441-454",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "good-and-bad-bishops--silman-entombed-dominated-minor-pieces",
+      "chapterId": "silman-entombed-dominated-minor-pieces",
+      "locator": {
+        "pdfPageStart": 652,
+        "pdfPageEnd": 667,
+        "printedPages": null,
+        "section": "PDFs 652-667, diagrams 441-454",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--silman-entombed-dominated-minor-pieces",
+      "chapterId": "silman-entombed-dominated-minor-pieces",
+      "locator": {
+        "pdfPageStart": 652,
+        "pdfPageEnd": 667,
+        "printedPages": null,
+        "section": "PDFs 652-667, diagrams 441-454",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-fischer-bishop-technique",
+      "chapterId": "silman-fischer-bishop-technique",
+      "locator": {
+        "pdfPageStart": 788,
+        "pdfPageEnd": 794,
+        "printedPages": null,
+        "section": "PDFs 788-794, diagrams 549-552",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--silman-fischer-bishop-technique",
+      "chapterId": "silman-fischer-bishop-technique",
+      "locator": {
+        "pdfPageStart": 788,
+        "pdfPageEnd": 794,
+        "printedPages": null,
+        "section": "PDFs 788-794, diagrams 549-552",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--silman-fischer-bishop-technique",
+      "chapterId": "silman-fischer-bishop-technique",
+      "locator": {
+        "pdfPageStart": 788,
+        "pdfPageEnd": 794,
+        "printedPages": null,
+        "section": "PDFs 788-794, diagrams 549-552",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "knight-versus-bishop--silman-fischer-bishop-v-knight-domination",
+      "chapterId": "silman-fischer-bishop-v-knight-domination",
+      "locator": {
+        "pdfPageStart": 795,
+        "pdfPageEnd": 803,
+        "printedPages": null,
+        "section": "PDFs 795-803, diagrams 553-559",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--silman-fischer-bishop-v-knight-domination",
+      "chapterId": "silman-fischer-bishop-v-knight-domination",
+      "locator": {
+        "pdfPageStart": 795,
+        "pdfPageEnd": 803,
+        "printedPages": null,
+        "section": "PDFs 795-803, diagrams 553-559",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-fischer-complex-bishop-endings",
+      "chapterId": "silman-fischer-complex-bishop-endings",
+      "locator": {
+        "pdfPageStart": 804,
+        "pdfPageEnd": 808,
+        "printedPages": null,
+        "section": "PDFs 804-808, diagrams 560-561",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "piece-activity--silman-fischer-complex-bishop-endings",
+      "chapterId": "silman-fischer-complex-bishop-endings",
+      "locator": {
+        "pdfPageStart": 804,
+        "pdfPageEnd": 808,
+        "printedPages": null,
+        "section": "PDFs 804-808, diagrams 560-561",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--silman-fischer-complex-bishop-endings",
+      "chapterId": "silman-fischer-complex-bishop-endings",
+      "locator": {
+        "pdfPageStart": 804,
+        "pdfPageEnd": 808,
+        "printedPages": null,
+        "section": "PDFs 804-808, diagrams 560-561",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-part-five-minor-piece-tests",
+      "chapterId": "silman-part-five-minor-piece-tests",
+      "locator": {
+        "pdfPageStart": 327,
+        "pdfPageEnd": 876,
+        "printedPages": null,
+        "section": "tests 4,7,10 on PDFs 327,330,333; answers PDFs 866-867,870-871,874-876",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "bishop-pair--silman-part-five-minor-piece-tests",
+      "chapterId": "silman-part-five-minor-piece-tests",
+      "locator": {
+        "pdfPageStart": 327,
+        "pdfPageEnd": 876,
+        "printedPages": null,
+        "section": "tests 4,7,10 on PDFs 327,330,333; answers PDFs 866-867,870-871,874-876",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-part-five-minor-piece-tests",
+      "chapterId": "silman-part-five-minor-piece-tests",
+      "locator": {
+        "pdfPageStart": 327,
+        "pdfPageEnd": 876,
+        "printedPages": null,
+        "section": "tests 4,7,10 on PDFs 327,330,333; answers PDFs 866-867,870-871,874-876",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-bishop-v-lone-pawn",
+      "chapterId": "silman-bishop-v-lone-pawn",
+      "locator": {
+        "pdfPageStart": 126,
+        "pdfPageEnd": 129,
+        "section": "Minor Piece vs. Lone Pawn introduction; Bishop vs. Lone Pawn; diagrams 71-72",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-bishop-v-lone-pawn",
+      "chapterId": "silman-bishop-v-lone-pawn",
+      "locator": {
+        "pdfPageStart": 126,
+        "pdfPageEnd": 129,
+        "section": "Minor Piece vs. Lone Pawn introduction; Bishop vs. Lone Pawn; diagrams 71-72",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-bishop-v-lone-pawn",
+      "chapterId": "silman-bishop-v-lone-pawn",
+      "locator": {
+        "pdfPageStart": 126,
+        "pdfPageEnd": 129,
+        "section": "Minor Piece vs. Lone Pawn introduction; Bishop vs. Lone Pawn; diagrams 71-72",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-knight-v-lone-pawn",
+      "chapterId": "silman-knight-v-lone-pawn",
+      "locator": {
+        "pdfPageStart": 130,
+        "pdfPageEnd": 135,
+        "section": "Knight vs. Lone Pawn; diagrams 73-76",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-knight-v-lone-pawn",
+      "chapterId": "silman-knight-v-lone-pawn",
+      "locator": {
+        "pdfPageStart": 130,
+        "pdfPageEnd": 135,
+        "section": "Knight vs. Lone Pawn; diagrams 73-76",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-knight-rook-pawn-boundary",
+      "chapterId": "silman-knight-rook-pawn-boundary",
+      "locator": {
+        "pdfPageStart": 136,
+        "pdfPageEnd": 839,
+        "section": "Diagram 77; PDFs 197-201 diagrams 120-121; relevant exact answers PDFs 832, 838-839",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-knight-rook-pawn-boundary",
+      "chapterId": "silman-knight-rook-pawn-boundary",
+      "locator": {
+        "pdfPageStart": 136,
+        "pdfPageEnd": 839,
+        "section": "Diagram 77; PDFs 197-201 diagrams 120-121; relevant exact answers PDFs 832, 838-839",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-knight-rook-pawn-boundary",
+      "chapterId": "silman-knight-rook-pawn-boundary",
+      "locator": {
+        "pdfPageStart": 136,
+        "pdfPageEnd": 839,
+        "section": "Diagram 77; PDFs 197-201 diagrams 120-121; relevant exact answers PDFs 832, 838-839",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-wrong-bishop-rook-pawn",
+      "chapterId": "silman-wrong-bishop-rook-pawn",
+      "locator": {
+        "pdfPageStart": 191,
+        "pdfPageEnd": 194,
+        "section": "Bishop and Wrong Colored Rook-Pawn vs. Lone King; diagrams 116-118",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-wrong-bishop-rook-pawn",
+      "chapterId": "silman-wrong-bishop-rook-pawn",
+      "locator": {
+        "pdfPageStart": 191,
+        "pdfPageEnd": 194,
+        "section": "Bishop and Wrong Colored Rook-Pawn vs. Lone King; diagrams 116-118",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-wrong-bishop-rook-pawn",
+      "chapterId": "silman-wrong-bishop-rook-pawn",
+      "locator": {
+        "pdfPageStart": 191,
+        "pdfPageEnd": 194,
+        "section": "Bishop and Wrong Colored Rook-Pawn vs. Lone King; diagrams 116-118",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-wrong-bishop-transition",
+      "chapterId": "silman-wrong-bishop-transition",
+      "locator": {
+        "pdfPageStart": 195,
+        "pdfPageEnd": 854,
+        "section": "Diagram 119; relevant Part Four tests and exact answers: diagrams 148, 150, 151, 155-156",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-wrong-bishop-transition",
+      "chapterId": "silman-wrong-bishop-transition",
+      "locator": {
+        "pdfPageStart": 195,
+        "pdfPageEnd": 854,
+        "section": "Diagram 119; relevant Part Four tests and exact answers: diagrams 148, 150, 151, 155-156",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "minor-piece-endings--silman-bishop-up-fortresses",
+      "chapterId": "silman-bishop-up-fortresses",
+      "locator": {
+        "pdfPageStart": 397,
+        "pdfPageEnd": 402,
+        "section": "Fortresses in Bishop-up Endgames; diagrams 253-258",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "rook-pawn-endings--silman-bishop-up-fortresses",
+      "chapterId": "silman-bishop-up-fortresses",
+      "locator": {
+        "pdfPageStart": 397,
+        "pdfPageEnd": 402,
+        "section": "Fortresses in Bishop-up Endgames; diagrams 253-258",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-bishop-up-fortresses",
+      "chapterId": "silman-bishop-up-fortresses",
+      "locator": {
+        "pdfPageStart": 397,
+        "pdfPageEnd": 402,
+        "section": "Fortresses in Bishop-up Endgames; diagrams 253-258",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-fox-chicken-coup",
+      "chapterId": "silman-fox-chicken-coup",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": null,
+        "section": "Fox in the Chicken Coup, diagram 66; The Deep Freeze begins PDF 121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-fox-chicken-coup",
+      "chapterId": "silman-fox-chicken-coup",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": null,
+        "section": "Fox in the Chicken Coup, diagram 66; The Deep Freeze begins PDF 121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--silman-fox-chicken-coup",
+      "chapterId": "silman-fox-chicken-coup",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": null,
+        "section": "Fox in the Chicken Coup, diagram 66; The Deep Freeze begins PDF 121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--silman-fox-chicken-coup",
+      "chapterId": "silman-fox-chicken-coup",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": null,
+        "section": "Fox in the Chicken Coup, diagram 66; The Deep Freeze begins PDF 121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-outside-passer-diversion",
+      "chapterId": "silman-outside-passer-diversion",
+      "locator": {
+        "pdfPageStart": 183,
+        "pdfPageEnd": 184,
+        "printedPages": null,
+        "section": "Outside Passed Pawns, definition and diagram 111",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-outside-passer-diversion",
+      "chapterId": "silman-outside-passer-diversion",
+      "locator": {
+        "pdfPageStart": 183,
+        "pdfPageEnd": 184,
+        "printedPages": null,
+        "section": "Outside Passed Pawns, definition and diagram 111",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--silman-outside-passer-diversion",
+      "chapterId": "silman-outside-passer-diversion",
+      "locator": {
+        "pdfPageStart": 183,
+        "pdfPageEnd": 184,
+        "printedPages": null,
+        "section": "Outside Passed Pawns, definition and diagram 111",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-outside-passer-king-route",
+      "chapterId": "silman-outside-passer-king-route",
+      "locator": {
+        "pdfPageStart": 185,
+        "pdfPageEnd": 189,
+        "printedPages": null,
+        "section": "Outside Passed Pawns, diagrams 112-115 and closing reminder",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-outside-passer-king-route",
+      "chapterId": "silman-outside-passer-king-route",
+      "locator": {
+        "pdfPageStart": 185,
+        "pdfPageEnd": 189,
+        "printedPages": null,
+        "section": "Outside Passed Pawns, diagrams 112-115 and closing reminder",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-outside-passer-king-route",
+      "chapterId": "silman-outside-passer-king-route",
+      "locator": {
+        "pdfPageStart": 185,
+        "pdfPageEnd": 189,
+        "printedPages": null,
+        "section": "Outside Passed Pawns, diagrams 112-115 and closing reminder",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-outside-passer-king-route",
+      "chapterId": "silman-outside-passer-king-route",
+      "locator": {
+        "pdfPageStart": 185,
+        "pdfPageEnd": 189,
+        "printedPages": null,
+        "section": "Outside Passed Pawns, diagrams 112-115 and closing reminder",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-majorities--silman-pawn-breakthrough-majority",
+      "chapterId": "silman-pawn-breakthrough-majority",
+      "locator": {
+        "pdfPageStart": 271,
+        "pdfPageEnd": 272,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagram 171",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forcing-moves--silman-pawn-breakthrough-majority",
+      "chapterId": "silman-pawn-breakthrough-majority",
+      "locator": {
+        "pdfPageStart": 271,
+        "pdfPageEnd": 272,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagram 171",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-pawn-breakthrough-majority",
+      "chapterId": "silman-pawn-breakthrough-majority",
+      "locator": {
+        "pdfPageStart": 271,
+        "pdfPageEnd": 272,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagram 171",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-pawn-breakthrough-majority",
+      "chapterId": "silman-pawn-breakthrough-majority",
+      "locator": {
+        "pdfPageStart": 271,
+        "pdfPageEnd": 272,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagram 171",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--silman-stop-breakthrough-first",
+      "chapterId": "silman-stop-breakthrough-first",
+      "locator": {
+        "pdfPageStart": 272,
+        "pdfPageEnd": 275,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagrams 172-174",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-majorities--silman-stop-breakthrough-first",
+      "chapterId": "silman-stop-breakthrough-first",
+      "locator": {
+        "pdfPageStart": 272,
+        "pdfPageEnd": 275,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagrams 172-174",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-stop-breakthrough-first",
+      "chapterId": "silman-stop-breakthrough-first",
+      "locator": {
+        "pdfPageStart": 272,
+        "pdfPageEnd": 275,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagrams 172-174",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "candidate-moves--silman-stop-breakthrough-first",
+      "chapterId": "silman-stop-breakthrough-first",
+      "locator": {
+        "pdfPageStart": 272,
+        "pdfPageEnd": 275,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagrams 172-174",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--silman-triangulation-tempo",
+      "chapterId": "silman-triangulation-tempo",
+      "locator": {
+        "pdfPageStart": 276,
+        "pdfPageEnd": 280,
+        "printedPages": null,
+        "section": "Triangulation, diagrams 175-177",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-triangulation-tempo",
+      "chapterId": "silman-triangulation-tempo",
+      "locator": {
+        "pdfPageStart": 276,
+        "pdfPageEnd": 280,
+        "printedPages": null,
+        "section": "Triangulation, diagrams 175-177",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-triangulation-tempo",
+      "chapterId": "silman-triangulation-tempo",
+      "locator": {
+        "pdfPageStart": 276,
+        "pdfPageEnd": 280,
+        "printedPages": null,
+        "section": "Triangulation, diagrams 175-177",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-triangulation-tempo",
+      "chapterId": "silman-triangulation-tempo",
+      "locator": {
+        "pdfPageStart": 276,
+        "pdfPageEnd": 280,
+        "printedPages": null,
+        "section": "Triangulation, diagrams 175-177",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-outflanking-entry",
+      "chapterId": "silman-outflanking-entry",
+      "locator": {
+        "pdfPageStart": 281,
+        "pdfPageEnd": 285,
+        "printedPages": null,
+        "section": "Outflanking, diagrams 178-180",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-outflanking-entry",
+      "chapterId": "silman-outflanking-entry",
+      "locator": {
+        "pdfPageStart": 281,
+        "pdfPageEnd": 285,
+        "printedPages": null,
+        "section": "Outflanking, diagrams 178-180",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--silman-outflanking-entry",
+      "chapterId": "silman-outflanking-entry",
+      "locator": {
+        "pdfPageStart": 281,
+        "pdfPageEnd": 285,
+        "printedPages": null,
+        "section": "Outflanking, diagrams 178-180",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "schematic-thinking--silman-outflanking-entry",
+      "chapterId": "silman-outflanking-entry",
+      "locator": {
+        "pdfPageStart": 281,
+        "pdfPageEnd": 285,
+        "printedPages": null,
+        "section": "Outflanking, diagrams 178-180",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-race-promotion-mate",
+      "chapterId": "silman-race-promotion-mate",
+      "locator": {
+        "pdfPageStart": 337,
+        "pdfPageEnd": 338,
+        "printedPages": null,
+        "section": "Strange Races, diagram 212",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forcing-moves--silman-race-promotion-mate",
+      "chapterId": "silman-race-promotion-mate",
+      "locator": {
+        "pdfPageStart": 337,
+        "pdfPageEnd": 338,
+        "printedPages": null,
+        "section": "Strange Races, diagram 212",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-race-promotion-mate",
+      "chapterId": "silman-race-promotion-mate",
+      "locator": {
+        "pdfPageStart": 337,
+        "pdfPageEnd": 338,
+        "printedPages": null,
+        "section": "Strange Races, diagram 212",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-race-queen-pawn-exception",
+      "chapterId": "silman-race-queen-pawn-exception",
+      "locator": {
+        "pdfPageStart": 338,
+        "pdfPageEnd": 341,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 213-214",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-race-queen-pawn-exception",
+      "chapterId": "silman-race-queen-pawn-exception",
+      "locator": {
+        "pdfPageStart": 338,
+        "pdfPageEnd": 341,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 213-214",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--silman-race-queen-pawn-exception",
+      "chapterId": "silman-race-queen-pawn-exception",
+      "locator": {
+        "pdfPageStart": 338,
+        "pdfPageEnd": 341,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 213-214",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-race-queen-pawn-exception",
+      "chapterId": "silman-race-queen-pawn-exception",
+      "locator": {
+        "pdfPageStart": 338,
+        "pdfPageEnd": 341,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 213-214",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-rook-pawn-race-geometry",
+      "chapterId": "silman-rook-pawn-race-geometry",
+      "locator": {
+        "pdfPageStart": 341,
+        "pdfPageEnd": 342,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 215-216",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-rook-pawn-race-geometry",
+      "chapterId": "silman-rook-pawn-race-geometry",
+      "locator": {
+        "pdfPageStart": 341,
+        "pdfPageEnd": 342,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 215-216",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-rook-pawn-race-geometry",
+      "chapterId": "silman-rook-pawn-race-geometry",
+      "locator": {
+        "pdfPageStart": 341,
+        "pdfPageEnd": 342,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 215-216",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-reti-dual-purpose-king",
+      "chapterId": "silman-reti-dual-purpose-king",
+      "locator": {
+        "pdfPageStart": 342,
+        "pdfPageEnd": 345,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 217-218",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-reti-dual-purpose-king",
+      "chapterId": "silman-reti-dual-purpose-king",
+      "locator": {
+        "pdfPageStart": 342,
+        "pdfPageEnd": 345,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 217-218",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-reti-dual-purpose-king",
+      "chapterId": "silman-reti-dual-purpose-king",
+      "locator": {
+        "pdfPageStart": 342,
+        "pdfPageEnd": 345,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 217-218",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-two-pawn-opposition-boundary",
+      "chapterId": "silman-two-pawn-opposition-boundary",
+      "locator": {
+        "pdfPageStart": 346,
+        "pdfPageEnd": 348,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagrams 219-220",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-two-pawn-opposition-boundary",
+      "chapterId": "silman-two-pawn-opposition-boundary",
+      "locator": {
+        "pdfPageStart": 346,
+        "pdfPageEnd": 348,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagrams 219-220",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--silman-two-pawn-opposition-boundary",
+      "chapterId": "silman-two-pawn-opposition-boundary",
+      "locator": {
+        "pdfPageStart": 346,
+        "pdfPageEnd": 348,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagrams 219-220",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "opposition--silman-fifth-rank-penetration-test",
+      "chapterId": "silman-fifth-rank-penetration-test",
+      "locator": {
+        "pdfPageStart": 348,
+        "pdfPageEnd": 349,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagram 221",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-fifth-rank-penetration-test",
+      "chapterId": "silman-fifth-rank-penetration-test",
+      "locator": {
+        "pdfPageStart": 348,
+        "pdfPageEnd": 349,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagram 221",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-fifth-rank-penetration-test",
+      "chapterId": "silman-fifth-rank-penetration-test",
+      "locator": {
+        "pdfPageStart": 348,
+        "pdfPageEnd": 349,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagram 221",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-paradoxical-king-route",
+      "chapterId": "silman-paradoxical-king-route",
+      "locator": {
+        "pdfPageStart": 350,
+        "pdfPageEnd": 351,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagram 222",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--silman-paradoxical-king-route",
+      "chapterId": "silman-paradoxical-king-route",
+      "locator": {
+        "pdfPageStart": 350,
+        "pdfPageEnd": 351,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagram 222",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-paradoxical-king-route",
+      "chapterId": "silman-paradoxical-king-route",
+      "locator": {
+        "pdfPageStart": 350,
+        "pdfPageEnd": 351,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagram 222",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--silman-advanced-pawn-mate-triangulation",
+      "chapterId": "silman-advanced-pawn-mate-triangulation",
+      "locator": {
+        "pdfPageStart": 567,
+        "pdfPageEnd": 571,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Shirov-Grischuk, diagrams 376-380",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-advanced-pawn-mate-triangulation",
+      "chapterId": "silman-advanced-pawn-mate-triangulation",
+      "locator": {
+        "pdfPageStart": 567,
+        "pdfPageEnd": 571,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Shirov-Grischuk, diagrams 376-380",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-advanced-pawn-mate-triangulation",
+      "chapterId": "silman-advanced-pawn-mate-triangulation",
+      "locator": {
+        "pdfPageStart": 567,
+        "pdfPageEnd": 571,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Shirov-Grischuk, diagrams 376-380",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--silman-advanced-pawn-tempo-map",
+      "chapterId": "silman-advanced-pawn-tempo-map",
+      "locator": {
+        "pdfPageStart": 572,
+        "pdfPageEnd": 575,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Martz-Benko, diagrams 381-383",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-advanced-pawn-tempo-map",
+      "chapterId": "silman-advanced-pawn-tempo-map",
+      "locator": {
+        "pdfPageStart": 572,
+        "pdfPageEnd": 575,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Martz-Benko, diagrams 381-383",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--silman-advanced-pawn-tempo-map",
+      "chapterId": "silman-advanced-pawn-tempo-map",
+      "locator": {
+        "pdfPageStart": 572,
+        "pdfPageEnd": 575,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Martz-Benko, diagrams 381-383",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--silman-pawn-transition-safety",
+      "chapterId": "silman-pawn-transition-safety",
+      "locator": {
+        "pdfPageStart": 575,
+        "pdfPageEnd": 578,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Aronin-Smyslov, diagrams 384-385",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--silman-pawn-transition-safety",
+      "chapterId": "silman-pawn-transition-safety",
+      "locator": {
+        "pdfPageStart": 575,
+        "pdfPageEnd": 578,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Aronin-Smyslov, diagrams 384-385",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-pawn-transition-safety",
+      "chapterId": "silman-pawn-transition-safety",
+      "locator": {
+        "pdfPageStart": 575,
+        "pdfPageEnd": 578,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Aronin-Smyslov, diagrams 384-385",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--silman-forced-transition-count",
+      "chapterId": "silman-forced-transition-count",
+      "locator": {
+        "pdfPageStart": 578,
+        "pdfPageEnd": 579,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Hughes-Peters, diagram 386",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-forced-transition-count",
+      "chapterId": "silman-forced-transition-count",
+      "locator": {
+        "pdfPageStart": 578,
+        "pdfPageEnd": 579,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Hughes-Peters, diagram 386",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-forced-transition-count",
+      "chapterId": "silman-forced-transition-count",
+      "locator": {
+        "pdfPageStart": 578,
+        "pdfPageEnd": 579,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Hughes-Peters, diagram 386",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "favorable-exchanges--silman-delay-pawn-exchange",
+      "chapterId": "silman-delay-pawn-exchange",
+      "locator": {
+        "pdfPageStart": 580,
+        "pdfPageEnd": 585,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Uto-Tran, diagrams 387-390",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--silman-delay-pawn-exchange",
+      "chapterId": "silman-delay-pawn-exchange",
+      "locator": {
+        "pdfPageStart": 580,
+        "pdfPageEnd": 585,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Uto-Tran, diagrams 387-390",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--silman-delay-pawn-exchange",
+      "chapterId": "silman-delay-pawn-exchange",
+      "locator": {
+        "pdfPageStart": 580,
+        "pdfPageEnd": 585,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Uto-Tran, diagrams 387-390",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--silman-reserve-tempi-zugzwang",
+      "chapterId": "silman-reserve-tempi-zugzwang",
+      "locator": {
+        "pdfPageStart": 586,
+        "pdfPageEnd": 589,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Najdorf-Mecking, diagrams 391-393",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "pawn-endings--silman-reserve-tempi-zugzwang",
+      "chapterId": "silman-reserve-tempi-zugzwang",
+      "locator": {
+        "pdfPageStart": 586,
+        "pdfPageEnd": 589,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Najdorf-Mecking, diagrams 391-393",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "prophylaxis--silman-reserve-tempi-zugzwang",
+      "chapterId": "silman-reserve-tempi-zugzwang",
+      "locator": {
+        "pdfPageStart": 586,
+        "pdfPageEnd": 589,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Najdorf-Mecking, diagrams 391-393",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-protected-passers-sacrifice",
+      "chapterId": "silman-protected-passers-sacrifice",
+      "locator": {
+        "pdfPageStart": 590,
+        "pdfPageEnd": 593,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Bacrot-Kramnik, diagrams 394-396",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "converting-advantages--silman-protected-passers-sacrifice",
+      "chapterId": "silman-protected-passers-sacrifice",
+      "locator": {
+        "pdfPageStart": 590,
+        "pdfPageEnd": 593,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Bacrot-Kramnik, diagrams 394-396",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-protected-passers-sacrifice",
+      "chapterId": "silman-protected-passers-sacrifice",
+      "locator": {
+        "pdfPageStart": 590,
+        "pdfPageEnd": 593,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Bacrot-Kramnik, diagrams 394-396",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-pawn-endgame-defense-audit",
+      "chapterId": "silman-pawn-endgame-defense-audit",
+      "locator": {
+        "pdfPageStart": 593,
+        "pdfPageEnd": 602,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Milat-Silman, diagrams 397-402",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "candidate-moves--silman-pawn-endgame-defense-audit",
+      "chapterId": "silman-pawn-endgame-defense-audit",
+      "locator": {
+        "pdfPageStart": 593,
+        "pdfPageEnd": 602,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Milat-Silman, diagrams 397-402",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "tempo--silman-pawn-endgame-defense-audit",
+      "chapterId": "silman-pawn-endgame-defense-audit",
+      "locator": {
+        "pdfPageStart": 593,
+        "pdfPageEnd": 602,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Milat-Silman, diagrams 397-402",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-v-minor-piece",
+      "chapterId": "silman-queen-v-minor-piece",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 79,
+        "printedPages": null,
+        "section": "Queen versus bishop/knight, four body diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--silman-queen-v-minor-piece",
+      "chapterId": "silman-queen-v-minor-piece",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 79,
+        "printedPages": null,
+        "section": "Queen versus bishop/knight, four body diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-queen-v-minor-piece",
+      "chapterId": "silman-queen-v-minor-piece",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 79,
+        "printedPages": null,
+        "section": "Queen versus bishop/knight, four body diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forks--silman-queen-v-minor-piece",
+      "chapterId": "silman-queen-v-minor-piece",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 79,
+        "printedPages": null,
+        "section": "Queen versus bishop/knight, four body diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-queen-v-minor-piece",
+      "chapterId": "silman-queen-v-minor-piece",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 79,
+        "printedPages": null,
+        "section": "Queen versus bishop/knight, four body diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "mating-patterns--silman-queen-v-minor-piece",
+      "chapterId": "silman-queen-v-minor-piece",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 79,
+        "printedPages": null,
+        "section": "Queen versus bishop/knight, four body diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-v-minor-piece-tests",
+      "chapterId": "silman-queen-v-minor-piece-tests",
+      "locator": {
+        "pdfPageStart": 94,
+        "pdfPageEnd": 825,
+        "printedPages": null,
+        "section": "Tests 1-2 PDFs 94-95; exact answers PDFs 823-825; diagrams 50-51",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "forks--silman-queen-v-minor-piece-tests",
+      "chapterId": "silman-queen-v-minor-piece-tests",
+      "locator": {
+        "pdfPageStart": 94,
+        "pdfPageEnd": 825,
+        "printedPages": null,
+        "section": "Tests 1-2 PDFs 94-95; exact answers PDFs 823-825; diagrams 50-51",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-queen-v-minor-piece-tests",
+      "chapterId": "silman-queen-v-minor-piece-tests",
+      "locator": {
+        "pdfPageStart": 94,
+        "pdfPageEnd": 825,
+        "printedPages": null,
+        "section": "Tests 1-2 PDFs 94-95; exact answers PDFs 823-825; diagrams 50-51",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "blunder-checking--silman-queen-v-minor-piece-tests",
+      "chapterId": "silman-queen-v-minor-piece-tests",
+      "locator": {
+        "pdfPageStart": 94,
+        "pdfPageEnd": 825,
+        "printedPages": null,
+        "section": "Tests 1-2 PDFs 94-95; exact answers PDFs 823-825; diagrams 50-51",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-v-pawn-sixth-rank",
+      "chapterId": "silman-queen-v-pawn-sixth-rank",
+      "locator": {
+        "pdfPageStart": 226,
+        "pdfPageEnd": 230,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the sixth rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "promotion-tactics--silman-queen-v-pawn-sixth-rank",
+      "chapterId": "silman-queen-v-pawn-sixth-rank",
+      "locator": {
+        "pdfPageStart": 226,
+        "pdfPageEnd": 230,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the sixth rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-queen-v-pawn-sixth-rank",
+      "chapterId": "silman-queen-v-pawn-sixth-rank",
+      "locator": {
+        "pdfPageStart": 226,
+        "pdfPageEnd": 230,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the sixth rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--silman-queen-v-pawn-sixth-rank",
+      "chapterId": "silman-queen-v-pawn-sixth-rank",
+      "locator": {
+        "pdfPageStart": 226,
+        "pdfPageEnd": 230,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the sixth rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-v-pawn-seventh-rank",
+      "chapterId": "silman-queen-v-pawn-seventh-rank",
+      "locator": {
+        "pdfPageStart": 231,
+        "pdfPageEnd": 235,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the seventh rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "promotion-tactics--silman-queen-v-pawn-seventh-rank",
+      "chapterId": "silman-queen-v-pawn-seventh-rank",
+      "locator": {
+        "pdfPageStart": 231,
+        "pdfPageEnd": 235,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the seventh rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-queen-v-pawn-seventh-rank",
+      "chapterId": "silman-queen-v-pawn-seventh-rank",
+      "locator": {
+        "pdfPageStart": 231,
+        "pdfPageEnd": 235,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the seventh rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-queen-v-pawn-seventh-rank",
+      "chapterId": "silman-queen-v-pawn-seventh-rank",
+      "locator": {
+        "pdfPageStart": 231,
+        "pdfPageEnd": 235,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the seventh rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-v-seventh-rank-tests",
+      "chapterId": "silman-queen-v-seventh-rank-tests",
+      "locator": {
+        "pdfPageStart": 251,
+        "pdfPageEnd": 857,
+        "printedPages": null,
+        "section": "Part Four test 12 PDFs 251-252; exact answers PDFs 855-857; diagrams 157-159",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-queen-v-seventh-rank-tests",
+      "chapterId": "silman-queen-v-seventh-rank-tests",
+      "locator": {
+        "pdfPageStart": 251,
+        "pdfPageEnd": 857,
+        "printedPages": null,
+        "section": "Part Four test 12 PDFs 251-252; exact answers PDFs 855-857; diagrams 157-159",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--silman-queen-v-seventh-rank-tests",
+      "chapterId": "silman-queen-v-seventh-rank-tests",
+      "locator": {
+        "pdfPageStart": 251,
+        "pdfPageEnd": 857,
+        "printedPages": null,
+        "section": "Part Four test 12 PDFs 251-252; exact answers PDFs 855-857; diagrams 157-159",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-v-advanced-pawn-trick-win",
+      "chapterId": "silman-queen-v-advanced-pawn-trick-win",
+      "locator": {
+        "pdfPageStart": 403,
+        "pdfPageEnd": 407,
+        "printedPages": null,
+        "section": "Trick wins against advanced rook and bishop pawns, diagrams 259-262",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "mating-patterns--silman-queen-v-advanced-pawn-trick-win",
+      "chapterId": "silman-queen-v-advanced-pawn-trick-win",
+      "locator": {
+        "pdfPageStart": 403,
+        "pdfPageEnd": 407,
+        "printedPages": null,
+        "section": "Trick wins against advanced rook and bishop pawns, diagrams 259-262",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "promotion-tactics--silman-queen-v-advanced-pawn-trick-win",
+      "chapterId": "silman-queen-v-advanced-pawn-trick-win",
+      "locator": {
+        "pdfPageStart": 403,
+        "pdfPageEnd": 407,
+        "printedPages": null,
+        "section": "Trick wins against advanced rook and bishop pawns, diagrams 259-262",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "stalemate--silman-queen-v-advanced-pawn-trick-win",
+      "chapterId": "silman-queen-v-advanced-pawn-trick-win",
+      "locator": {
+        "pdfPageStart": 403,
+        "pdfPageEnd": 407,
+        "printedPages": null,
+        "section": "Trick wins against advanced rook and bishop pawns, diagrams 259-262",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-queen-v-advanced-pawn-trick-win",
+      "chapterId": "silman-queen-v-advanced-pawn-trick-win",
+      "locator": {
+        "pdfPageStart": 403,
+        "pdfPageEnd": 407,
+        "printedPages": null,
+        "section": "Trick wins against advanced rook and bishop pawns, diagrams 259-262",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-v-advanced-pawn-test",
+      "chapterId": "silman-queen-v-advanced-pawn-test",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 890,
+        "printedPages": null,
+        "section": "Part Six test 12 PDF 422; exact answer PDF 890; diagram 274",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "mating-patterns--silman-queen-v-advanced-pawn-test",
+      "chapterId": "silman-queen-v-advanced-pawn-test",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 890,
+        "printedPages": null,
+        "section": "Part Six test 12 PDF 422; exact answer PDF 890; diagram 274",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "promotion-tactics--silman-queen-v-advanced-pawn-test",
+      "chapterId": "silman-queen-v-advanced-pawn-test",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 890,
+        "printedPages": null,
+        "section": "Part Six test 12 PDF 422; exact answer PDF 890; diagram 274",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--silman-queen-v-advanced-pawn-test",
+      "chapterId": "silman-queen-v-advanced-pawn-test",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 890,
+        "printedPages": null,
+        "section": "Part Six test 12 PDF 422; exact answer PDF 890; diagram 274",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-v-rook-pawn-blockade",
+      "chapterId": "silman-queen-v-rook-pawn-blockade",
+      "locator": {
+        "pdfPageStart": 486,
+        "pdfPageEnd": 488,
+        "printedPages": null,
+        "section": "Blockade: queen versus rook and pawn, one diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "drawing-tactics--silman-queen-v-rook-pawn-blockade",
+      "chapterId": "silman-queen-v-rook-pawn-blockade",
+      "locator": {
+        "pdfPageStart": 486,
+        "pdfPageEnd": 488,
+        "printedPages": null,
+        "section": "Blockade: queen versus rook and pawn, one diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--silman-queen-v-rook-pawn-blockade",
+      "chapterId": "silman-queen-v-rook-pawn-blockade",
+      "locator": {
+        "pdfPageStart": 486,
+        "pdfPageEnd": 488,
+        "printedPages": null,
+        "section": "Blockade: queen versus rook and pawn, one diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-activity--silman-queen-v-rook-pawn-blockade",
+      "chapterId": "silman-queen-v-rook-pawn-blockade",
+      "locator": {
+        "pdfPageStart": 486,
+        "pdfPageEnd": 488,
+        "printedPages": null,
+        "section": "Blockade: queen versus rook and pawn, one diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-pawn-v-rook-pawns-blockade",
+      "chapterId": "silman-queen-pawn-v-rook-pawns-blockade",
+      "locator": {
+        "pdfPageStart": 489,
+        "pdfPageEnd": 490,
+        "printedPages": null,
+        "section": "Blockade: queen and pawn versus rook and two pawns, two diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "drawing-tactics--silman-queen-pawn-v-rook-pawns-blockade",
+      "chapterId": "silman-queen-pawn-v-rook-pawns-blockade",
+      "locator": {
+        "pdfPageStart": 489,
+        "pdfPageEnd": 490,
+        "printedPages": null,
+        "section": "Blockade: queen and pawn versus rook and two pawns, two diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "defensive-exchanges--silman-queen-pawn-v-rook-pawns-blockade",
+      "chapterId": "silman-queen-pawn-v-rook-pawns-blockade",
+      "locator": {
+        "pdfPageStart": 489,
+        "pdfPageEnd": 490,
+        "printedPages": null,
+        "section": "Blockade: queen and pawn versus rook and two pawns, two diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "restriction--silman-queen-pawn-v-rook-pawns-blockade",
+      "chapterId": "silman-queen-pawn-v-rook-pawns-blockade",
+      "locator": {
+        "pdfPageStart": 489,
+        "pdfPageEnd": 490,
+        "printedPages": null,
+        "section": "Blockade: queen and pawn versus rook and two pawns, two diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "queen-endings--silman-queen-pawn-endgames-passed-pawns",
+      "chapterId": "silman-queen-pawn-endgames-passed-pawns",
+      "locator": {
+        "pdfPageStart": 636,
+        "pdfPageEnd": 650,
+        "printedPages": null,
+        "section": "Queen-and-pawn endings and passed pawns, 15 diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "passed-pawns--silman-queen-pawn-endgames-passed-pawns",
+      "chapterId": "silman-queen-pawn-endgames-passed-pawns",
+      "locator": {
+        "pdfPageStart": 636,
+        "pdfPageEnd": 650,
+        "printedPages": null,
+        "section": "Queen-and-pawn endings and passed pawns, 15 diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "perpetual-check--silman-queen-pawn-endgames-passed-pawns",
+      "chapterId": "silman-queen-pawn-endgames-passed-pawns",
+      "locator": {
+        "pdfPageStart": 636,
+        "pdfPageEnd": 650,
+        "printedPages": null,
+        "section": "Queen-and-pawn endings and passed pawns, 15 diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "king-safety--silman-queen-pawn-endgames-passed-pawns",
+      "chapterId": "silman-queen-pawn-endgames-passed-pawns",
+      "locator": {
+        "pdfPageStart": 636,
+        "pdfPageEnd": 650,
+        "printedPages": null,
+        "section": "Queen-and-pawn endings and passed pawns, 15 diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "counterplay--silman-queen-pawn-endgames-passed-pawns",
+      "chapterId": "silman-queen-pawn-endgames-passed-pawns",
+      "locator": {
+        "pdfPageStart": 636,
+        "pdfPageEnd": 650,
+        "printedPages": null,
+        "section": "Queen-and-pawn endings and passed pawns, 15 diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "doubled-pawns--silman-queen-pawn-endgames-passed-pawns",
+      "chapterId": "silman-queen-pawn-endgames-passed-pawns",
+      "locator": {
+        "pdfPageStart": 636,
+        "pdfPageEnd": 650,
+        "printedPages": null,
+        "section": "Queen-and-pawn endings and passed pawns, 15 diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--amateurs-multiple-imbalances-priority",
+      "chapterId": "amateurs-multiple-imbalances-priority",
+      "locator": {
+        "pdfPageStart": 208,
+        "pdfPageEnd": 212,
+        "printedPages": "203-207",
+        "section": "Many Imbalances, One Board, opening and diagrams 80-81",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--amateurs-reassess-interacting-imbalances",
+      "chapterId": "amateurs-reassess-interacting-imbalances",
+      "locator": {
+        "pdfPageStart": 212,
+        "pdfPageEnd": 226,
+        "printedPages": "207-221",
+        "section": "Many Imbalances, One Board, diagrams 82-87",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--amateurs-whole-board-plan-race",
+      "chapterId": "amateurs-whole-board-plan-race",
+      "locator": {
+        "pdfPageStart": 227,
+        "pdfPageEnd": 232,
+        "printedPages": "222-227",
+        "section": "Many Imbalances, One Board, final example and diagram 88",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "candidate-moves--amateurs-whole-board-plan-race",
+      "chapterId": "amateurs-whole-board-plan-race",
+      "locator": {
+        "pdfPageStart": 227,
+        "pdfPageEnd": 232,
+        "printedPages": "222-227",
+        "section": "Many Imbalances, One Board, final example and diagram 88",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--kotov-positional-exercises-13-18-solutions",
+      "chapterId": "kotov-positional-exercises-13-18-solutions",
+      "locator": {
+        "pdfPageStart": 123,
+        "pdfPageEnd": 183,
+        "printedPages": "124-125, 183-184",
+        "section": "Exercises 13-18 and exact solutions 13-18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--kotov-positional-exercises-13-18-solutions",
+      "chapterId": "kotov-positional-exercises-13-18-solutions",
+      "locator": {
+        "pdfPageStart": 123,
+        "pdfPageEnd": 183,
+        "printedPages": "124-125, 183-184",
+        "section": "Exercises 13-18 and exact solutions 13-18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--kotov-dynamic-memory-and-individual-method",
+      "chapterId": "kotov-dynamic-memory-and-individual-method",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 128,
+        "printedPages": "125-129",
+        "section": "An Experiment Continued; Imitate Botvinnik or Najdorf?",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "position-evaluation--kotov-general-formulas-concrete-test",
+      "chapterId": "kotov-general-formulas-concrete-test",
+      "locator": {
+        "pdfPageStart": 128,
+        "pdfPageEnd": 134,
+        "printedPages": "129-135",
+        "section": "What is Concrete and What is General?; Middlegame; General Formulae and Concrete Analysis",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "calculation--kotov-general-formulas-concrete-test",
+      "chapterId": "kotov-general-formulas-concrete-test",
+      "locator": {
+        "pdfPageStart": 128,
+        "pdfPageEnd": 134,
+        "printedPages": "129-135",
+        "section": "What is Concrete and What is General?; Middlegame; General Formulae and Concrete Analysis",
+        "ebookLocation": null
+      }
     }
   ]
 }

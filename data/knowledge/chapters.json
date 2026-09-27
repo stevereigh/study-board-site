@@ -6214,6 +6214,773 @@
         "section": "prompts PDFs 219-221; answers PDFs 222-223; score chart PDF 224",
         "ebookLocation": null
       }
+    },
+    {
+      "id": "shereshevsky-two-bishops-restrict-knights",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Use two bishops to restrict knights; Two Bishops against Bishops and Knights, first seven diagrams",
+      "title": "Use two bishops to restrict knights",
+      "locator": {
+        "pdfPageStart": 129,
+        "pdfPageEnd": 136,
+        "printedPages": "121-128",
+        "section": "Two Bishops against Bishops and Knights, first seven diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-two-bishops-two-weaknesses",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Create a second weakness with the bishop pair; middle eight diagrams",
+      "title": "Create a second weakness with the bishop pair",
+      "locator": {
+        "pdfPageStart": 137,
+        "pdfPageEnd": 143,
+        "printedPages": "129-135",
+        "section": "middle eight diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "shereshevsky-two-bishops-conversion",
+      "bookId": "shereshevsky-endgame-strategy-1985",
+      "ref": "Convert or defend two-bishop advantages; closing six diagrams",
+      "title": "Convert or defend two-bishop advantages",
+      "locator": {
+        "pdfPageStart": 144,
+        "pdfPageEnd": 150,
+        "printedPages": "136-142",
+        "section": "closing six diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-minor-piece-endgame-exceptions",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Minor-piece versus pawn exceptions; PDFs 190-201, diagrams 116-121",
+      "title": "Minor-piece versus pawn exceptions",
+      "locator": {
+        "pdfPageStart": 190,
+        "pdfPageEnd": 201,
+        "printedPages": null,
+        "section": "PDFs 190-201, diagrams 116-121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-opposite-bishops-single-pawn-blockade",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Blockade a single pawn with opposite-colored bishops; PDFs 202-205, diagrams 122-124",
+      "title": "Blockade a single pawn with opposite-colored bishops",
+      "locator": {
+        "pdfPageStart": 202,
+        "pdfPageEnd": 205,
+        "printedPages": null,
+        "section": "PDFs 202-205, diagrams 122-124",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-opposite-bishops-two-pawn-distance",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Judge two pawns by their separation; PDFs 311-319, diagrams 196-201",
+      "title": "Judge two pawns by their separation",
+      "locator": {
+        "pdfPageStart": 311,
+        "pdfPageEnd": 319,
+        "printedPages": null,
+        "section": "PDFs 311-319, diagrams 196-201",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-part-five-minor-piece-wrap",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Five minor-piece summary; Summing Up PDFs 320-323 and Final Thoughts PDF 334",
+      "title": "Part Five minor-piece summary",
+      "locator": {
+        "pdfPageStart": 320,
+        "pdfPageEnd": 334,
+        "printedPages": null,
+        "section": "Summing Up PDFs 320-323 and Final Thoughts PDF 334",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-opposite-bishops-connected-passers",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Connected passers in opposite-colored bishop endings; PDFs 385-396, diagrams 244-251",
+      "title": "Connected passers in opposite-colored bishop endings",
+      "locator": {
+        "pdfPageStart": 385,
+        "pdfPageEnd": 396,
+        "printedPages": null,
+        "section": "PDFs 385-396, diagrams 244-251",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-same-color-bishop-centurini",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Centurini and same-colored bishop endings; PDFs 474-485, diagrams 308-317",
+      "title": "Centurini and same-colored bishop endings",
+      "locator": {
+        "pdfPageStart": 474,
+        "pdfPageEnd": 485,
+        "printedPages": null,
+        "section": "PDFs 474-485, diagrams 308-317",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-knight-flexibility-and-outposts",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Knight routes, flexibility and outposts; PDFs 603-618, diagrams 403-413",
+      "title": "Knight routes, flexibility and outposts",
+      "locator": {
+        "pdfPageStart": 603,
+        "pdfPageEnd": 618,
+        "printedPages": null,
+        "section": "PDFs 603-618, diagrams 403-413",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-entombed-dominated-minor-pieces",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Entomb and dominate minor pieces; PDFs 652-667, diagrams 441-454",
+      "title": "Entomb and dominate minor pieces",
+      "locator": {
+        "pdfPageStart": 652,
+        "pdfPageEnd": 667,
+        "printedPages": null,
+        "section": "PDFs 652-667, diagrams 441-454",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-fischer-bishop-technique",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Fischer's bishop-ending technique; PDFs 788-794, diagrams 549-552",
+      "title": "Fischer's bishop-ending technique",
+      "locator": {
+        "pdfPageStart": 788,
+        "pdfPageEnd": 794,
+        "printedPages": null,
+        "section": "PDFs 788-794, diagrams 549-552",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-fischer-bishop-v-knight-domination",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Bishop versus knight domination; PDFs 795-803, diagrams 553-559",
+      "title": "Bishop versus knight domination",
+      "locator": {
+        "pdfPageStart": 795,
+        "pdfPageEnd": 803,
+        "printedPages": null,
+        "section": "PDFs 795-803, diagrams 553-559",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-fischer-complex-bishop-endings",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Evaluate bishops inside complex endings; PDFs 804-808, diagrams 560-561",
+      "title": "Evaluate bishops inside complex endings",
+      "locator": {
+        "pdfPageStart": 804,
+        "pdfPageEnd": 808,
+        "printedPages": null,
+        "section": "PDFs 804-808, diagrams 560-561",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-part-five-minor-piece-tests",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Five minor-piece tests and exact answers; tests 4,7,10 on PDFs 327,330,333; answers PDFs 866-867,870-871,874-876",
+      "title": "Part Five minor-piece tests and exact answers",
+      "locator": {
+        "pdfPageStart": 327,
+        "pdfPageEnd": 876,
+        "printedPages": null,
+        "section": "tests 4,7,10 on PDFs 327,330,333; answers PDFs 866-867,870-871,874-876",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-bishop-v-lone-pawn",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Minor Piece vs. Lone Pawn introduction and Bishop vs. Lone Pawn; PDFs 126-129, diagrams 71-72",
+      "title": "Stop a lone pawn from a distance with the bishop",
+      "locator": {
+        "pdfPageStart": 126,
+        "pdfPageEnd": 129,
+        "section": "Minor Piece vs. Lone Pawn introduction; Bishop vs. Lone Pawn; diagrams 71-72",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-knight-v-lone-pawn",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Knight vs. Lone Pawn; PDFs 130-135, diagrams 73-76",
+      "title": "Blockade a lone pawn with the knight",
+      "locator": {
+        "pdfPageStart": 130,
+        "pdfPageEnd": 135,
+        "section": "Knight vs. Lone Pawn; diagrams 73-76",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-knight-rook-pawn-boundary",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Knight vs. Lone Pawn exception, diagram 77; Lone King vs. Knight and Rook-Pawn on the 6th or 7th, PDFs 197-201, diagrams 120-121; Part Three tests 2 and 7 with answers PDFs 832 and 838-839",
+      "title": "Recognize the knight-and-rook-pawn exception",
+      "locator": {
+        "pdfPageStart": 136,
+        "pdfPageEnd": 839,
+        "section": "Diagram 77; PDFs 197-201 diagrams 120-121; relevant exact answers PDFs 832, 838-839",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-wrong-bishop-rook-pawn",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Bishop and Wrong Colored Rook-Pawn vs. Lone King; PDFs 191-194, diagrams 116-118",
+      "title": "Apply the three-condition wrong-bishop test",
+      "locator": {
+        "pdfPageStart": 191,
+        "pdfPageEnd": 194,
+        "section": "Bishop and Wrong Colored Rook-Pawn vs. Lone King; diagrams 116-118",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-wrong-bishop-transition",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Wrong-bishop transition example, PDFs 195-196, diagram 119; Part Four tests 3, 5, 6, 10 and 11 with exact answers PDFs 843-848 and 853-854",
+      "title": "Create or avoid the wrong-bishop fortress before liquidation",
+      "locator": {
+        "pdfPageStart": 195,
+        "pdfPageEnd": 854,
+        "section": "Diagram 119; relevant Part Four tests and exact answers: diagrams 148, 150, 151, 155-156",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-bishop-up-fortresses",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Fortresses in Bishop-up Endgames; PDFs 397-402, diagrams 253-258",
+      "title": "Read bishop-up fortresses through color and stalemate geometry",
+      "locator": {
+        "pdfPageStart": 397,
+        "pdfPageEnd": 402,
+        "section": "Fortresses in Bishop-up Endgames; diagrams 253-258",
+        "printedPages": null,
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-fox-chicken-coup",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Fox in the Chicken Coup, diagram 66; The Deep Freeze begins PDF 121",
+      "title": "Use a distant passer as a king diversion",
+      "locator": {
+        "pdfPageStart": 119,
+        "pdfPageEnd": 120,
+        "printedPages": null,
+        "section": "Fox in the Chicken Coup, diagram 66; The Deep Freeze begins PDF 121",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-outside-passer-diversion",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Outside Passed Pawns, definition and diagram 111",
+      "title": "Turn an outside passer into an entry route",
+      "locator": {
+        "pdfPageStart": 183,
+        "pdfPageEnd": 184,
+        "printedPages": null,
+        "section": "Outside Passed Pawns, definition and diagram 111",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-outside-passer-king-route",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Outside Passed Pawns, diagrams 112-115 and closing reminder",
+      "title": "Route the king before launching the pawn race",
+      "locator": {
+        "pdfPageStart": 185,
+        "pdfPageEnd": 189,
+        "printedPages": null,
+        "section": "Outside Passed Pawns, diagrams 112-115 and closing reminder",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-pawn-breakthrough-majority",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Tactical Bombs, diagram 171",
+      "title": "Break through with a forcing pawn sacrifice",
+      "locator": {
+        "pdfPageStart": 271,
+        "pdfPageEnd": 272,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagram 171",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-stop-breakthrough-first",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Tactical Bombs, diagrams 172-174",
+      "title": "Prevent the opponent’s pawn break before switching wings",
+      "locator": {
+        "pdfPageStart": 272,
+        "pdfPageEnd": 275,
+        "printedPages": null,
+        "section": "Tactical Bombs, diagrams 172-174",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-triangulation-tempo",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Triangulation, diagrams 175-177",
+      "title": "Triangulate to hand the move to the defender",
+      "locator": {
+        "pdfPageStart": 276,
+        "pdfPageEnd": 280,
+        "printedPages": null,
+        "section": "Triangulation, diagrams 175-177",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-outflanking-entry",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Outflanking, diagrams 178-180",
+      "title": "Give up opposition to gain useful ground",
+      "locator": {
+        "pdfPageStart": 281,
+        "pdfPageEnd": 285,
+        "printedPages": null,
+        "section": "Outflanking, diagrams 178-180",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-race-promotion-mate",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Strange Races, diagram 212",
+      "title": "Count pawn mates before counting queens",
+      "locator": {
+        "pdfPageStart": 337,
+        "pdfPageEnd": 338,
+        "printedPages": null,
+        "section": "Strange Races, diagram 212",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-race-queen-pawn-exception",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Strange Races, diagrams 213-214",
+      "title": "Recognize when a seventh-rank pawn holds a queen",
+      "locator": {
+        "pdfPageStart": 338,
+        "pdfPageEnd": 341,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 213-214",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-rook-pawn-race-geometry",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Strange Races, diagrams 215-216",
+      "title": "Read the diagonal after rook-pawn promotion",
+      "locator": {
+        "pdfPageStart": 341,
+        "pdfPageEnd": 342,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 215-216",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-reti-dual-purpose-king",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Strange Races, diagrams 217-218",
+      "title": "Use one king route to chase and escort",
+      "locator": {
+        "pdfPageStart": 342,
+        "pdfPageEnd": 345,
+        "printedPages": null,
+        "section": "Strange Races, diagrams 217-218",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-two-pawn-opposition-boundary",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "King and Pawn vs. King and Pawn, diagrams 219-220",
+      "title": "Reduce two pawns to the correct basic ending",
+      "locator": {
+        "pdfPageStart": 346,
+        "pdfPageEnd": 348,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagrams 219-220",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-fifth-rank-penetration-test",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "King and Pawn vs. King and Pawn, diagram 221",
+      "title": "Test king penetration before conceding a pawn",
+      "locator": {
+        "pdfPageStart": 348,
+        "pdfPageEnd": 349,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagram 221",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-paradoxical-king-route",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "King and Pawn vs. King and Pawn, diagram 222",
+      "title": "Choose the route that improves relative distance",
+      "locator": {
+        "pdfPageStart": 350,
+        "pdfPageEnd": 351,
+        "printedPages": null,
+        "section": "King and Pawn vs. King and Pawn, diagram 222",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-advanced-pawn-mate-triangulation",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "All King and Pawn Endgames are Confusing!, Shirov-Grischuk, diagrams 376-380",
+      "title": "Build the exact move assignment for a pawn mate",
+      "locator": {
+        "pdfPageStart": 567,
+        "pdfPageEnd": 571,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Shirov-Grischuk, diagrams 376-380",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-advanced-pawn-tempo-map",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "All King and Pawn Endgames are Confusing!, Martz-Benko, diagrams 381-383",
+      "title": "Prefer the clear tempo win over a branch explosion",
+      "locator": {
+        "pdfPageStart": 572,
+        "pdfPageEnd": 575,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Martz-Benko, diagrams 381-383",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-pawn-transition-safety",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "All King and Pawn Endgames are Confusing!, Aronin-Smyslov, diagrams 384-385",
+      "title": "Keep the favorable pieces when the pawn ending is unclear",
+      "locator": {
+        "pdfPageStart": 575,
+        "pdfPageEnd": 578,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Aronin-Smyslov, diagrams 384-385",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-forced-transition-count",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "All King and Pawn Endgames are Confusing!, Hughes-Peters, diagram 386",
+      "title": "Calculate a forced transition to the final checking tempo",
+      "locator": {
+        "pdfPageStart": 578,
+        "pdfPageEnd": 579,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Hughes-Peters, diagram 386",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-delay-pawn-exchange",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "All King and Pawn Endgames are Confusing!, Uto-Tran, diagrams 387-390",
+      "title": "Handcuff the defender before entering the pawn ending",
+      "locator": {
+        "pdfPageStart": 580,
+        "pdfPageEnd": 585,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Uto-Tran, diagrams 387-390",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-reserve-tempi-zugzwang",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "All King and Pawn Endgames are Confusing!, Najdorf-Mecking, diagrams 391-393",
+      "title": "Count reserve tempi before creating mutual zugzwang",
+      "locator": {
+        "pdfPageStart": 586,
+        "pdfPageEnd": 589,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Najdorf-Mecking, diagrams 391-393",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-protected-passers-sacrifice",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "All King and Pawn Endgames are Confusing!, Bacrot-Kramnik, diagrams 394-396",
+      "title": "Give up one passer to advance another with tempo",
+      "locator": {
+        "pdfPageStart": 590,
+        "pdfPageEnd": 593,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Bacrot-Kramnik, diagrams 394-396",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-pawn-endgame-defense-audit",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "All King and Pawn Endgames are Confusing!, Milat-Silman, diagrams 397-402",
+      "title": "Audit move order before trusting a pawn-ending verdict",
+      "locator": {
+        "pdfPageStart": 593,
+        "pdfPageEnd": 602,
+        "printedPages": null,
+        "section": "All King and Pawn Endgames are Confusing!, Milat-Silman, diagrams 397-402",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-v-minor-piece",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "PDFs 71-79; 4 body diagrams",
+      "title": "Queen versus minor piece: box, forks and stalemate",
+      "locator": {
+        "pdfPageStart": 71,
+        "pdfPageEnd": 79,
+        "printedPages": null,
+        "section": "Queen versus bishop/knight, four body diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-v-minor-piece-tests",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Tests 1-2 PDFs 94-95; answers PDFs 823-825; diagrams 50-51",
+      "title": "Queen versus minor piece: exact tests and answers",
+      "locator": {
+        "pdfPageStart": 94,
+        "pdfPageEnd": 825,
+        "printedPages": null,
+        "section": "Tests 1-2 PDFs 94-95; exact answers PDFs 823-825; diagrams 50-51",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-v-pawn-sixth-rank",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "PDFs 226-230; 3 diagrams",
+      "title": "Queen versus a pawn on the sixth rank",
+      "locator": {
+        "pdfPageStart": 226,
+        "pdfPageEnd": 230,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the sixth rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-v-pawn-seventh-rank",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "PDFs 231-235; 3 diagrams",
+      "title": "Queen versus a pawn on the seventh rank",
+      "locator": {
+        "pdfPageStart": 231,
+        "pdfPageEnd": 235,
+        "printedPages": null,
+        "section": "Queen versus a pawn on the seventh rank, three diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-v-seventh-rank-tests",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Four Test 12 PDFs 251-252, diagrams 157-159; answer PDFs 855-857",
+      "title": "Classify seventh-rank queen-versus-pawn positions",
+      "locator": {
+        "pdfPageStart": 251,
+        "pdfPageEnd": 857,
+        "printedPages": null,
+        "section": "Part Four test 12 PDFs 251-252; exact answers PDFs 855-857; diagrams 157-159",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-v-advanced-pawn-trick-win",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "PDFs 403-407, diagrams 259-262; 4 diagrams",
+      "title": "Trick wins against seventh-rank rook and bishop pawns",
+      "locator": {
+        "pdfPageStart": 403,
+        "pdfPageEnd": 407,
+        "printedPages": null,
+        "section": "Trick wins against advanced rook and bishop pawns, diagrams 259-262",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-v-advanced-pawn-test",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "Part Six Test 12 PDF 422, diagram 274; exact answer PDF 890",
+      "title": "Apply the promotion-into-mate exception",
+      "locator": {
+        "pdfPageStart": 422,
+        "pdfPageEnd": 890,
+        "printedPages": null,
+        "section": "Part Six test 12 PDF 422; exact answer PDF 890; diagram 274",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-v-rook-pawn-blockade",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "PDFs 486-488; 1 diagram",
+      "title": "Blockade: queen versus rook and pawn",
+      "locator": {
+        "pdfPageStart": 486,
+        "pdfPageEnd": 488,
+        "printedPages": null,
+        "section": "Blockade: queen versus rook and pawn, one diagram",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-pawn-v-rook-pawns-blockade",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "PDFs 489-490; 2 diagrams",
+      "title": "Blockade: queen and pawn versus rook and pawns",
+      "locator": {
+        "pdfPageStart": 489,
+        "pdfPageEnd": 490,
+        "printedPages": null,
+        "section": "Blockade: queen and pawn versus rook and two pawns, two diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "silman-queen-pawn-endgames-passed-pawns",
+      "bookId": "silman-complete-endgame-course-2007",
+      "ref": "PDFs 636-650; 15 diagrams",
+      "title": "Queen-and-pawn endings: passed pawns rule",
+      "locator": {
+        "pdfPageStart": 636,
+        "pdfPageEnd": 650,
+        "printedPages": null,
+        "section": "Queen-and-pawn endings and passed pawns, 15 diagrams",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-multiple-imbalances-priority",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Many Imbalances, One Board, introduction and Alekhine-Euwe comparison; printed 203-207, PDFs 208-212, diagrams 80-81",
+      "title": "Turn several advantages into one workable priority",
+      "locator": {
+        "pdfPageStart": 208,
+        "pdfPageEnd": 212,
+        "printedPages": "203-207",
+        "section": "Many Imbalances, One Board, opening and diagrams 80-81",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-reassess-interacting-imbalances",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Many Imbalances, One Board, student positions and fresh-eyes comparison; printed 207-221, PDFs 212-226, diagrams 82-87",
+      "title": "Reassess the whole position when imbalances interact",
+      "locator": {
+        "pdfPageStart": 212,
+        "pdfPageEnd": 226,
+        "printedPages": "207-221",
+        "section": "Many Imbalances, One Board, diagrams 82-87",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "amateurs-whole-board-plan-race",
+      "bookId": "silman-amateurs-mind-1999",
+      "ref": "Many Imbalances, One Board, final two-bishop and wing-play example; printed 222-227, PDFs 227-232, diagram 88",
+      "title": "Compare your plan with the opponent's plan across the whole board",
+      "locator": {
+        "pdfPageStart": 227,
+        "pdfPageEnd": 232,
+        "printedPages": "222-227",
+        "section": "Many Imbalances, One Board, final example and diagram 88",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-positional-exercises-13-18-solutions",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "Positional Judgement exercises 13-18, printed 124-125 / PDFs 123-124; exact solutions printed 183-184 / PDFs 182-183",
+      "title": "Diagnose the decisive positional factor before calculating",
+      "locator": {
+        "pdfPageStart": 123,
+        "pdfPageEnd": 183,
+        "printedPages": "124-125, 183-184",
+        "section": "Exercises 13-18 and exact solutions 13-18",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-dynamic-memory-and-individual-method",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "An Experiment Continued and Imitate Botvinnik or Najdorf?; printed 125-129, PDFs 124-128",
+      "title": "Use experience as a filter, then evaluate the current position",
+      "locator": {
+        "pdfPageStart": 124,
+        "pdfPageEnd": 128,
+        "printedPages": "125-129",
+        "section": "An Experiment Continued; Imitate Botvinnik or Najdorf?",
+        "ebookLocation": null
+      }
+    },
+    {
+      "id": "kotov-general-formulas-concrete-test",
+      "bookId": "kotov-think-grandmaster-algebraic",
+      "ref": "What is Concrete and What is General?, Middlegame, and General Formulae and Concrete Analysis; printed 129-135, PDFs 128-134, nine example boards",
+      "title": "Treat general formulas as questions for concrete analysis",
+      "locator": {
+        "pdfPageStart": 128,
+        "pdfPageEnd": 134,
+        "printedPages": "129-135",
+        "section": "What is Concrete and What is General?; Middlegame; General Formulae and Concrete Analysis",
+        "ebookLocation": null
+      }
     }
   ]
 }
