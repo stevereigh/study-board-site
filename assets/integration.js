@@ -200,8 +200,127 @@ function renderStudyPlan() {
 
 // Files selected here remain in this tab. They are never sent to the server.
 const PRIVATE_BOOKS = new Map();
+const BOOK_LIBRARY_DB = 'study-board-private-library';
+const BOOK_LIBRARY_STORE = 'handles';
+let BOOK_DIRECTORY = null;
+let BOOK_DIRECTORY_NAME = '';
+let BOOK_LIBRARY_STATUS = '';
 let readingDialog;
 let readerVersion = 0;
+
+function normalizeBookWords(value) {
+  const ignored = new Set(['the', 'and', 'from', 'into', 'with', 'that', 'this', 'book', 'chess', 'pdf', 'standard']);
+  return String(value).normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+    .replace(/[^a-z0-9]+/g, ' ').trim().split(/\s+/)
+    .filter(word => word.length >= 3 && !ignored.has(word));
+}
+
+function bookFileScore(book, filename) {
+  const fileWords = new Set(normalizeBookWords(filename.replace(/\.(pdf|txt)$/i, '')));
+  const identity = normalizeBookWords(`${book.title} ${(book.authors || []).join(' ')}`);
+  return [...new Set(identity)].reduce((score, word) => score + (fileWords.has(word) ? word.length : 0), 0);
+}
+
+function openBookDatabase() {
+  return new Promise((resolve, reject) => {
+    if (!('indexedDB' in window)) { reject(new Error('Browser storage is unavailable.')); return; }
+    const request = indexedDB.open(BOOK_LIBRARY_DB, 1);
+    request.onupgradeneeded = () => request.result.createObjectStore(BOOK_LIBRARY_STORE);
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = () => reject(request.error);
+  });
+}
+
+async function storedBookDirectory() {
+  const db = await openBookDatabase();
+  try {
+    return await new Promise((resolve, reject) => {
+      const request = db.transaction(BOOK_LIBRARY_STORE).objectStore(BOOK_LIBRARY_STORE).get('directory');
+      request.onsuccess = () => resolve(request.result || null);
+      request.onerror = () => reject(request.error);
+    });
+  } finally { db.close(); }
+}
+
+async function storeBookDirectory(handle) {
+  const db = await openBookDatabase();
+  try {
+    await new Promise((resolve, reject) => {
+      const request = db.transaction(BOOK_LIBRARY_STORE, 'readwrite').objectStore(BOOK_LIBRARY_STORE).put(handle, 'directory');
+      request.onsuccess = () => resolve();
+      request.onerror = () => reject(request.error);
+    });
+  } finally { db.close(); }
+}
+
+async function directoryFiles(directory, depth = 0) {
+  const files = [];
+  for await (const entry of directory.values()) {
+    if (entry.kind === 'file' && /\.(pdf|txt)$/i.test(entry.name)) files.push(entry);
+    else if (entry.kind === 'directory' && depth < 2) files.push(...await directoryFiles(entry, depth + 1));
+  }
+  return files;
+}
+
+function refreshBookButtons() {
+  document.querySelectorAll('[data-private-book]').forEach(button => {
+    button.textContent = PRIVATE_BOOKS.has(button.dataset.privateBook) ? 'Open exact page' : 'Connect book folder';
+  });
+}
+
+async function indexBookDirectory(directory) {
+  const handles = await directoryFiles(directory);
+  const rows = await Promise.all(handles.map(async handle => ({handle, file: await handle.getFile()})));
+  await indexBookFiles(rows, directory.name);
+  BOOK_DIRECTORY = directory;
+}
+
+async function indexBookFiles(rows, folderName) {
+  for (const [bookId, saved] of PRIVATE_BOOKS) {
+    if (saved.source !== 'folder') continue;
+    if (saved.url) URL.revokeObjectURL(saved.url);
+    PRIVATE_BOOKS.delete(bookId);
+  }
+  for (const book of Object.values(CATALOG.books || {})) {
+    const ranked = rows.map(row => ({...row, score: bookFileScore(book, row.file.name)}))
+      .filter(row => row.score >= 8)
+      .sort((a, b) => b.score - a.score || Number(/\.pdf$/i.test(b.file.name)) - Number(/\.pdf$/i.test(a.file.name)));
+    if (!ranked.length || PRIVATE_BOOKS.get(book.id)?.source === 'picker') continue;
+    const match = ranked[0];
+    PRIVATE_BOOKS.set(book.id, {file: match.file, handle: match.handle,
+      type: /\.pdf$/i.test(match.file.name) ? 'pdf' : 'txt', url: null, source: 'folder'});
+  }
+  BOOK_DIRECTORY_NAME = folderName;
+  BOOK_LIBRARY_STATUS = `${PRIVATE_BOOKS.size} of ${Object.keys(CATALOG.books || {}).length} books connected from “${folderName}”.`;
+  refreshBookButtons();
+}
+
+async function connectBookDirectory(forceChoose = false) {
+  if (!('showDirectoryPicker' in window)) throw new Error('Folder connection requires a Chromium browser such as Edge or Chrome.');
+  let directory = !forceChoose && BOOK_DIRECTORY;
+  if (directory) {
+    const permission = await directory.queryPermission({mode: 'read'});
+    if (permission !== 'granted' && await directory.requestPermission({mode: 'read'}) !== 'granted') directory = null;
+  }
+  if (!directory) directory = await window.showDirectoryPicker({mode: 'read', id: 'study-board-books'});
+  await indexBookDirectory(directory);
+  try { await storeBookDirectory(directory); }
+  catch (_) { BOOK_LIBRARY_STATUS += ' This browser could not remember the folder after reload.'; }
+  return directory;
+}
+
+async function restoreBookDirectory() {
+  try {
+    const directory = await storedBookDirectory();
+    if (!directory) return;
+    BOOK_DIRECTORY = directory;
+    BOOK_DIRECTORY_NAME = directory.name;
+    if (await directory.queryPermission({mode: 'read'}) === 'granted') await indexBookDirectory(directory);
+    else BOOK_LIBRARY_STATUS = `Reconnect “${directory.name}” to open exact pages.`;
+  } catch (_) {
+    // The per-book picker remains available when persistent handles are unsupported.
+  }
+}
 
 function readingCard(chapter, where = {}, showNotes = true) {
   const book = CATALOG.books[chapter.bookId];
@@ -227,8 +346,9 @@ function readingCard(chapter, where = {}, showNotes = true) {
     link.href = '#reading=' + encodeURIComponent(chapter.id);
     actions.append(link);
   }
-  const open = textElement('button', 'Open private copy');
+  const open = textElement('button', PRIVATE_BOOKS.has(chapter.bookId) ? 'Open exact page' : 'Connect book folder');
   open.type = 'button';
+  open.dataset.privateBook = chapter.bookId;
   open.addEventListener('click', () => showPrivateReading(chapter, where));
   actions.append(open);
   card.append(actions);
@@ -271,26 +391,39 @@ function showPrivateReading(chapter, where) {
   const close = textElement('button', 'Close reading');
   close.type = 'button';
   close.addEventListener('click', () => readingDialog.close());
-  const intro = textElement('p', 'Choose your copy of this book from this device. It stays private in this tab and is not uploaded. Choose it again after reloading or on another device.');
+  const intro = textElement('p', 'Connect the folder containing your chess PDFs once and recommendations open at the cited page. Edge and Chrome can remember the folder; other browsers keep it connected until reload. Files stay on this device and are never uploaded.');
   const locationNote = textElement('p', where.section || chapter.title);
   if (where.pdfPageStart) locationNote.append(document.createTextNode(` · PDF viewer page ${where.pdfPageStart}${where.pdfPageEnd > where.pdfPageStart ? '–' + where.pdfPageEnd : ''}${where.printedPages ? ' · printed pages ' + where.printedPages : ''}. Page links use the supplied PDF, including its cover pages.`));
   else if (where.ebookLocation) locationNote.append(document.createTextNode(' · ' + where.ebookLocation));
-  const label = textElement('label', 'Choose or replace book (PDF or TXT): ');
+  const folderActions = textElement('div', '', 'reader-folder-actions');
+  const connect = textElement('button', BOOK_DIRECTORY ? 'Reconnect book folder' : 'Connect book folder');
+  connect.type = 'button';
+  const replace = textElement('button', 'Choose a different folder');
+  replace.type = 'button';
+  replace.hidden = !BOOK_DIRECTORY;
+  folderActions.append(connect, replace);
+  const libraryStatus = textElement('p', BOOK_LIBRARY_STATUS, 'reader-library-status');
+  const label = textElement('label', 'Or choose only this book (PDF or TXT): ');
   const picker = document.createElement('input');
   picker.type = 'file'; picker.accept = '.pdf,.txt';
   label.append(picker);
+  const folderPicker = document.createElement('input');
+  folderPicker.type = 'file'; folderPicker.accept = '.pdf,.txt'; folderPicker.multiple = true; folderPicker.hidden = true;
+  folderPicker.setAttribute('webkitdirectory', '');
+  folderActions.append(folderPicker);
   const status = textElement('p', '', 'reader-status');
   status.setAttribute('role', 'status');
   const content = textElement('div', '', 'reader-content');
-  readingDialog.replaceChildren(close, heading, intro, locationNote, label, status, content);
+  readingDialog.replaceChildren(close, heading, intro, locationNote, folderActions, libraryStatus, label, status, content);
   if (!readingDialog.open) readingDialog.showModal();
 
   async function display(saved) {
     content.replaceChildren();
     status.textContent = `Selected: ${saved.file.name}`;
     if (saved.type === 'pdf') {
+      if (!saved.url) saved.url = URL.createObjectURL(saved.file);
       const url = saved.url + (where.pdfPageStart ? '#page=' + where.pdfPageStart : '');
-      const external = textElement('a', 'Open PDF in a new tab');
+      const external = textElement('a', where.pdfPageStart ? `Open full PDF at page ${where.pdfPageStart}` : 'Open PDF in a new tab');
       external.href = url; external.target = '_blank'; external.rel = 'noopener';
       const help = textElement('p', 'If your PDF viewer does not jump automatically, enter the PDF viewer page shown above.');
       const frame = document.createElement('iframe');
@@ -313,6 +446,41 @@ function showPrivateReading(chapter, where) {
       content.append(pre);
     }
   }
+  async function connectFolder(forceChoose) {
+    if (!('showDirectoryPicker' in window)) {
+      folderPicker.click();
+      return;
+    }
+    libraryStatus.textContent = 'Connecting folder…';
+    try {
+      await connectBookDirectory(forceChoose);
+      libraryStatus.textContent = BOOK_LIBRARY_STATUS;
+      replace.hidden = false;
+      connect.textContent = 'Reconnect book folder';
+      const saved = PRIVATE_BOOKS.get(chapter.bookId);
+      if (saved) await display(saved);
+      else status.textContent = `No confident match for ${book.title}. Choose only this book below, or select a different folder.`;
+    } catch (error) {
+      libraryStatus.textContent = error?.name === 'AbortError' ? 'Folder selection cancelled.' : (error?.message || 'The folder could not be connected.');
+    }
+  }
+  connect.addEventListener('click', () => connectFolder(false));
+  replace.addEventListener('click', () => connectFolder(true));
+  folderPicker.addEventListener('change', async () => {
+    const files = [...folderPicker.files];
+    if (!files.length) return;
+    libraryStatus.textContent = 'Connecting folder…';
+    try {
+      const folderName = files[0].webkitRelativePath?.split('/')[0] || 'selected folder';
+      await indexBookFiles(files.map(file => ({file, handle: null})), folderName);
+      libraryStatus.textContent = BOOK_LIBRARY_STATUS + ' Reconnect after reloading this browser.';
+      const saved = PRIVATE_BOOKS.get(chapter.bookId);
+      if (saved) await display(saved);
+      else status.textContent = `No confident match for ${book.title}. Choose only this book below.`;
+    } catch (error) {
+      libraryStatus.textContent = error?.message || 'The folder could not be connected.';
+    }
+  });
   picker.addEventListener('change', async () => {
     const file = picker.files[0];
     if (!file) return;
@@ -321,8 +489,9 @@ function showPrivateReading(chapter, where) {
     if (where.pdfPageStart && type !== 'pdf') { status.textContent = 'This reading uses PDF page numbers. Choose the PDF copy for the page link.'; return; }
     const previous = PRIVATE_BOOKS.get(chapter.bookId);
     if (previous?.url) URL.revokeObjectURL(previous.url);
-    const saved = {file, type, url: type === 'pdf' ? URL.createObjectURL(new Blob([file], {type: 'application/pdf'})) : null};
+    const saved = {file, type, url: null, source: 'picker'};
     PRIVATE_BOOKS.set(chapter.bookId, saved);
+    refreshBookButtons();
     try { await display(saved); } catch { status.textContent = 'The selected file could not be read. Choose it again.'; }
   });
   const saved = PRIVATE_BOOKS.get(chapter.bookId);
