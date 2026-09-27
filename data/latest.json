@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T17:21:29.131734Z",
+  "generated": "2026-09-27T17:39:24.101188Z",
   "player": "DeputyBob",
   "week": {
     "id": "2026-W39",
@@ -8,7 +8,7 @@
   "assignment": {
     "chapter": "Candidate moves",
     "trigger": "foundational study",
-    "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+    "why": "5 of 5 reviewed games (100%) matched “major evaluation swings.” This exercise is a response to that measured pattern, not a claim about its chess cause.",
     "gist": "Read the introductory candidate-selection prose. At two positions from a completed game, list serious moves for both sides before using analysis. Explain why each move deserves attention. Identify one omitted candidate or justify why the position has few serious choices."
   },
   "ratings": {
@@ -102,6 +102,6 @@
   "activity": {
     "weekId": "2026-W39",
     "from": "2026-09-21T04:00:00Z",
-    "untilExclusive": "2026-09-27T17:21:29.131734Z"
+    "untilExclusive": "2026-09-27T17:39:24.101188Z"
   }
 }

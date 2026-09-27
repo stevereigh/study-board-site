@@ -13,7 +13,7 @@
     --panel:#F6F7F2;
     --ink:#23312B;
     --ink-soft:#5C6B62;
-    --ink-faint:#8E9A90;
+    --ink-faint:#59685F;
     --rule:#C9CFC0;
     --rule-soft:#DDE1D6;
     --oxide:#A6402F;
@@ -128,10 +128,11 @@
 
   /* ---------- chart ---------- */
   .chartwrap{padding:20px 20px 12px}
-  .chart-legend{display:flex;gap:18px;flex-wrap:wrap;margin:14px 0 0;padding:0;list-style:none}
-  .chart-legend li{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--ink-soft)}
+  .chart-legend{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0 0;padding:0}
+  .chart-legend button{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--ink-soft);background:transparent;border:1px solid transparent;border-radius:3px;padding:5px 8px}
+  .chart-legend button:focus-visible{outline:2px solid var(--oxide);outline-offset:2px}
   .chart-legend .swatch{width:14px;height:3px;border-radius:2px}
-  .chart-legend .off{opacity:.4}
+  .chart-legend .off{opacity:.5}
   svg.chart{display:block;width:100%;height:auto}
   .grid-line{stroke:var(--rule-soft);stroke-width:1}
   .axis-text{font-family:var(--mono);font-size:10.5px;fill:var(--ink-faint)}
@@ -224,6 +225,30 @@
   .maptable td.dest .book{display:block;color:var(--ink-faint);font-size:12.5px}
   .maptable td.dest .ch{color:var(--ink)}
 
+  /* ---------- archive and study queue ---------- */
+  .archive-current{display:block;margin:0 0 9px;padding:8px 10px;border:1px solid var(--rule);border-radius:3px;text-decoration:none;color:var(--ink-soft)}
+  .archive-current:hover,.archive-current[aria-current="page"]{background:var(--ink);color:var(--panel)}
+  .archive-year{margin:10px 0}.archive-year>span{display:block;margin:0 0 5px 2px;font:11px var(--mono);color:var(--ink-faint)}
+  .archive-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(46px,48px));gap:6px;max-width:220px}
+  .week-tile{display:flex;align-items:center;justify-content:center;aspect-ratio:1;min-width:44px;min-height:44px;border:1px solid var(--rule);border-radius:4px;text-decoration:none;background:var(--paper);color:var(--ink-soft)}
+  .week-tile span{display:none}.week-tile:hover{border-color:var(--ink);color:var(--ink)}
+  .week-tile[aria-current="page"]{background:var(--ink);border-color:var(--ink);color:var(--panel)}
+  .week-tile:focus-visible,.archive-current:focus-visible{outline:2px solid var(--oxide);outline-offset:2px}
+  .archive-empty{padding:6px 10px;font-size:13px;color:var(--ink-faint)}
+  .plan-topline,.queue-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+  .plan-progress{font:12px var(--mono);color:var(--moss);white-space:nowrap}
+  .weekly-narrative{font:18px/1.55 var(--serif);max-width:72ch;margin:8px 0 18px}
+  .issue-heading,.checklist-heading{font-size:16px!important;margin:22px 0 8px!important}
+  .review-issue{border-top:1px solid var(--rule-soft);padding:9px 0;margin:0!important}
+  .review-issue summary{cursor:pointer;font-weight:600}.issue-links{display:grid;gap:6px;padding:9px 0}.issue-links a{width:max-content;max-width:100%}
+  .study-task{padding:16px 0;margin:0;border-bottom:1px solid var(--rule-soft)}
+  .study-task.done{opacity:.68}.study-task.done .task-check span{text-decoration:line-through}
+  .task-check{display:flex;align-items:flex-start;gap:10px;font:500 20px/1.25 var(--serif);cursor:pointer}
+  .task-check input{width:19px;height:19px;margin-top:2px;accent-color:var(--moss);flex:none}
+  .task-save{display:block;margin:5px 0 0 29px;font-size:12px;color:var(--ink-faint)}.task-save[hidden]{display:none}
+  .queue-head{padding:18px 20px 0}.queue-head h3{margin:0;font:500 22px var(--serif)}.queue-intro{padding:0 20px;color:var(--ink-soft)}
+  .queue-issues{padding:0 20px;margin-bottom:10px}#map-card>.study-task{padding-left:20px;padding-right:20px}.routing-rules{padding:16px 20px}.routing-rules summary{cursor:pointer;font-weight:600}
+
   main{min-width:0}.card:has(> table){overflow-x:auto}
   .reading-card{border-left:3px solid var(--accent, #49634d);background:var(--paper, #f5f6f1);padding:12px 16px;margin:14px 0;overflow-wrap:anywhere}
   .reading-card p{margin:5px 0;font-size:14px;line-height:1.5}.reading-card .reading-edition{font-size:12px;color:var(--ink-soft)}
@@ -287,7 +312,10 @@
 
   @media (max-width:820px){
     .shell{grid-template-columns:1fr}
-    .rail{position:static;height:auto;border-right:0;border-bottom:1px solid var(--rule)}
+    .rail{position:static;height:auto;border-right:0;border-bottom:1px solid var(--rule);padding:16px 0 8px;display:grid;grid-template-columns:1fr 1fr}
+    .brand,.archive-nav,.rail-foot{grid-column:1/-1}.brand{padding-bottom:12px}
+    .time-nav{display:none}.navgroup{margin-bottom:10px}.archive-grid{max-width:none;grid-template-columns:repeat(auto-fill,48px)}
+    .rail-foot{display:none}.stamp{margin-top:4px}
     main{padding:22px 18px 60px}
   }
   @media (prefers-reduced-motion:reduce){*{transition:none !important;animation:none !important}}
@@ -304,12 +332,12 @@
       <a class="who" id="brand-who" href="https://lichess.org/@/DeputyBob" target="_blank" rel="noopener">lichess / DeputyBob</a>
     </div>
 
-    <div class="navgroup">
+    <div class="navgroup week-nav">
       <h2>This week</h2>
       <button class="navitem" data-view="overview" aria-current="true">Overview<span class="navcount" id="c-all">—</span></button>
     </div>
 
-    <div class="navgroup">
+    <div class="navgroup time-nav">
       <h2>By time control</h2>
       <button class="navitem" data-view="classical"><span class="dot" style="background:#4A7856"></span>Classical<span class="navcount" id="c-classical">—</span></button>
       <button class="navitem" data-view="rapid"><span class="dot" style="background:#23312B"></span>Rapid<span class="navcount" id="c-rapid">—</span></button>
@@ -317,19 +345,19 @@
       <button class="navitem" data-view="bullet"><span class="dot" style="background:#8A7B4F"></span>Bullet<span class="navcount" id="c-bullet">—</span></button>
     </div>
 
-    <div class="navgroup">
+    <div class="navgroup archive-nav">
       <h2>Archive</h2>
       <div id="archive-list"></div>
     </div>
 
-    <div class="navgroup">
+    <div class="navgroup reference-nav">
       <h2>Reference</h2>
-      <button class="navitem" data-view="map">Study map<span class="navcount" id="c-map">—</span></button>
+      <button class="navitem" data-view="map">Study queue<span class="navcount" id="c-map">—</span></button>
       <button class="navitem" data-view="library">Study material<span class="navcount" id="c-library">—</span></button>
     </div>
 
     <div class="rail-foot">
-      <label class="toggle">
+      <label class="toggle" id="sample-label">
         <input type="checkbox" id="demo-toggle">
         Show sample data
       </label>
@@ -342,8 +370,8 @@
   <section id="current-ratings" aria-label="Current Lichess ratings"></section>
   <style>
     .rating-row{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px}
-    .rating-item{padding:12px 18px;border:1px solid var(--line);border-radius:8px;font-weight:600}
-    #current-ratings{margin-bottom:24px}.study-focus{padding:18px 0;border-bottom:1px solid var(--line)}
+    .rating-item{padding:12px 18px;border:1px solid var(--rule);border-radius:8px;font-weight:600}
+    #current-ratings{margin-bottom:24px}.study-focus{padding:18px 0;border-bottom:1px solid var(--rule)}
     .study-focus ol{padding-left:22px;line-height:1.6}.source-ref{font-size:13px;color:var(--ink-soft)}
     #assignment details{margin-top:14px}#assignment details p{font-size:13px;line-height:1.5}
   </style>
@@ -361,19 +389,7 @@
       <div class="weeklabel" id="week-label">No week loaded</div>
     </div>
 
-    <p class="hint">Sync recent games opens GitHub. Choose <b>Run workflow → refresh</b>, then reload this page after it finishes publishing.</p>
-
-    <!-- rating chart -->
-    <section>
-      <div class="sechead">
-        <h3>Rating history</h3>
-        <span class="hint" id="chart-hint">Click a legend entry to hide a line</span>
-      </div>
-      <div class="card chartwrap">
-        <svg class="chart" id="chart" viewBox="0 0 760 260" role="img" aria-label="Monthly rating history by time control"></svg>
-        <ul class="chart-legend" id="legend"></ul>
-      </div>
-    </section>
+    <p class="hint" id="sync-hint">Sync recent games opens GitHub. Choose <b>Run workflow → refresh</b>, then reload this page after it finishes publishing.</p>
 
     <!-- confidence gate -->
     <div class="notice hidden" id="gate" style="margin-bottom:34px">
@@ -405,15 +421,26 @@
       <div class="card" id="games-card"></div>
     </section>
 
+    <!-- rating chart -->
+    <section id="rating-history">
+      <div class="sechead">
+        <h3>Rating history</h3>
+        <span class="hint" id="chart-hint">Use the legend buttons to show or hide a line</span>
+      </div>
+      <div class="card chartwrap">
+        <svg class="chart" id="chart" viewBox="0 0 760 260" role="img" aria-label="Monthly rating history by time control"></svg>
+        <div class="chart-legend" id="legend" aria-label="Rating series"></div>
+      </div>
+    </section>
+
   </div><!-- /pane-week -->
 
   <!-- ---------- STUDY MAP PANE ---------- -->
   <div class="pane" id="pane-map">
     <div class="panehead">
-      <h2>Study map</h2>
-      <p>The routing rules. When the Monday job sees a pattern on the left, it sends you to the
-         reading on the right. These are hand-written by you in <span class="needs">data/map.json</span> —
-         nothing infers them, which is why they can be trusted.</p>
+      <h2>Study queue</h2>
+      <p>Your current Monday plan as a checklist. Open each task for the exact reading and exercise,
+         then mark it complete. Progress stays on this browser.</p>
     </div>
     <div class="card" id="map-card"></div>
   </div>
@@ -423,7 +450,7 @@
     <div class="panehead">
       <h2>Study material</h2>
       <p>Reviewed sections from your books, with reading and practice activities. Search by topic,
-         book, or exercise. Each entry identifies its source pages; book coverage is still partial.</p>
+         book, or exercise. Each entry identifies its exact source pages.</p>
     </div>
     <div class="searchrow">
       <input class="search" id="lib-search" type="search" placeholder="Search chapters, tags, notes…" autocomplete="off">
@@ -440,8 +467,8 @@
 /* ============================================================
    Study Board — static dashboard for Lichess study review.
 
-   Reads ./data/latest.json, written each Monday by the
-   GitHub Actions workflow. Falls back to an empty state
+   Reads ./data/latest.json, refreshed by the GitHub Actions
+   workflow. Falls back to an empty state
    when that file is absent, and can render sample data via
    the sidebar toggle.
    ============================================================ */
@@ -467,6 +494,9 @@ let LIBRARY = [];    // data/library.json — chapter notes, one entry per chapt
 let VIEW = "overview";
 let HIDDEN = new Set();
 let LIB_BOOK = "all";
+let ARCHIVE = [];
+let SELECTED_WEEK = null;
+let ARCHIVE_ERROR = false;
 
 /* ---------- sample reference content (toggle only) ---------- */
 function sampleMap() {
@@ -633,21 +663,23 @@ function drawChart(ratings) {
 }
 
 function drawLegend(ratings) {
-  const ul = document.getElementById("legend");
-  ul.innerHTML = "";
+  const legend = document.getElementById("legend");
+  legend.innerHTML = "";
   Object.entries(SERIES).forEach(([k, s]) => {
     const has = Array.isArray(ratings.series?.[k]) && ratings.series[k].some(v => v != null);
-    const li = document.createElement("li");
-    li.className = HIDDEN.has(k) || !has ? "off" : "";
-    li.innerHTML = `<span class="swatch" style="background:${s.color}"></span>${s.label}`;
+    const button = document.createElement("button");
+    button.type = 'button';
+    button.className = HIDDEN.has(k) || !has ? "off" : "";
+    button.disabled = !has;
+    button.setAttribute('aria-pressed', String(has && !HIDDEN.has(k)));
+    button.innerHTML = `<span class="swatch" style="background:${s.color}"></span>${s.label}`;
     if (has) {
-      li.style.cursor = "pointer";
-      li.onclick = () => {
+      button.onclick = () => {
         HIDDEN.has(k) ? HIDDEN.delete(k) : HIDDEN.add(k);
         drawChart(DATA.ratings); drawLegend(DATA.ratings);
       };
     }
-    ul.appendChild(li);
+    legend.appendChild(button);
   });
 }
 
@@ -667,9 +699,15 @@ function renderActionBar() {
   repull.href = CONFIG.workflowUrl;
   repull.target = "_blank";
   repull.rel = "noopener";
+  repull.classList.toggle('hidden', Boolean(SELECTED_WEEK));
+  document.getElementById('sync-hint').classList.toggle('hidden', Boolean(SELECTED_WEEK));
 
-  document.getElementById("week-label").textContent =
-    DATA.activity ? `Games since ${DATA.activity.from.slice(0, 10)}` : DATA.week ? DATA.week.label : "No week loaded";
+  let label = "No week loaded";
+  if (ARCHIVE_ERROR) label = `${SELECTED_WEEK} report unavailable`;
+  else if (SELECTED_WEEK && STUDY) label = `${SELECTED_WEEK} plan · games ${STUDY.gamesFrom.slice(0, 10)} to ${new Date(new Date(STUDY.gamesUntilExclusive).getTime() - 86400000).toISOString().slice(0, 10)}`;
+  else if (DATA.activity) label = `Current activity · since ${DATA.activity.from.slice(0, 10)}`;
+  else if (DATA.week) label = DATA.week.label;
+  document.getElementById("week-label").textContent = label;
 }
 
 function renderGate() {
@@ -681,9 +719,11 @@ function renderGate() {
   if (total >= CONFIG.minGamesForDiagnosis) { gate.classList.add("hidden"); return; }
 
   gate.classList.remove("hidden");
+  const scope = DATA.activity ? " in current activity" : " in this report";
   document.getElementById("gate-text").innerHTML =
-    `<strong>${total} game${total === 1 ? "" : "s"} in this bucket.</strong> ` +
-    `Small sample: use the readings as foundational practice. Game counts alone do not diagnose a weakness.`;
+    `<strong>${total} game${total === 1 ? "" : "s"}${scope}.</strong> ` +
+    `${DATA.activity ? "The Monday review below uses the previous completed week. " : ""}` +
+    `Small samples support review, but do not prove a stable weakness.`;
 }
 
 function renderAssignment() {
@@ -696,7 +736,7 @@ function renderAssignment() {
     el.innerHTML = `
       <div class="empty" style="padding:34px 8px">
         <h4>Nothing pulled yet</h4>
-        <p>The Monday job hasn't written <span class="needs">data/latest.json</span>. Once it has, this is where the week's single reading assignment lands.</p>
+        <p>The sync job hasn't written <span class="needs">data/latest.json</span>. Once it has, this is where the weekly review and checklist appear.</p>
         <div class="steps">
           1 &nbsp;play three games at 15+10<br>
           2 &nbsp;request analysis on each from lichess<br>
@@ -739,7 +779,7 @@ function renderStats() {
 
   const cards = [
     { k:"Games", v:p.games, sub:`${p.w}W · ${p.l}L · ${p.d}D` },
-    { k:"Flagged review move", v:p.collapseMove ?? "—", sub:"median of each game's strongest review cue" },
+    { k:"Strongest review cue", v:p.collapseMove ?? "—", sub:"median move number across games" },
     { k:"Time on review moves", v:p.secsOnBlunder != null ? p.secsOnBlunder.toFixed(1) : "—",
       sub:"median seconds, when clocks are available", warn: false },
     { k:"Analysis", v:DATA.games?.filter(g => g.analysed && (VIEW === "overview" || g.perf === VIEW)).length ?? 0,
@@ -773,8 +813,8 @@ function renderGames() {
   card.innerHTML = `
     <table>
       <thead><tr>
-        <th>Played</th><th>Control</th><th>As</th><th>Opponent</th>
-        <th>Opening</th><th>Review move</th><th>Result</th><th></th>
+        <th scope="col">Played</th><th scope="col">Control</th><th scope="col">As</th><th scope="col">Opponent</th>
+        <th scope="col">Opening</th><th scope="col">Review move</th><th scope="col">Result</th><th scope="col">Game</th>
       </tr></thead>
       <tbody>
         ${rows.map(g => `
@@ -797,26 +837,32 @@ function renderGames() {
 /* ---------- study map ---------- */
 function renderMap() {
   const card = document.getElementById("map-card");
-  if (!MAP.length) {
+  card.replaceChildren();
+  if (STUDY?.focus?.length) {
+    const head = textElement('div', '', 'queue-head');
+    head.append(textElement('h3', 'This week’s checklist'), textElement('span', '', 'plan-progress'));
+    head.lastChild.dataset.studyProgress = '';
+    card.append(head, textElement('p', 'Open a task for its reading, exercise, and game evidence. Check it off when you finish; progress is saved on this browser.', 'queue-intro'));
+    const issues = textElement('section', '', 'queue-issues');
+    appendIssueDetails(issues);
+    if (issues.childElementCount) card.append(issues);
+    for (const task of planTasks()) card.append(buildTask(task));
+    renderProgress();
+  } else {
     card.innerHTML = `<div class="empty">
-      <h4>Foundational study is active</h4>
-      <p>Your weekly plan selects verified readings by prerequisites and study history.
-         Specific weakness rules will appear here when supported by reviewed game patterns.</p>
+      <h4>No study tasks for this week</h4>
+      <p>The next Monday report will add a bounded checklist from verified material.</p>
     </div>`;
-    return;
   }
-  card.innerHTML = `
-    <table class="maptable">
-      <thead><tr><th>When this shows up</th><th>Threshold</th><th>Go read</th></tr></thead>
-      <tbody>
-        ${MAP.map(r => `
-          <tr>
-            <td class="rule">${r.rule}</td>
-            <td class="thresh">${r.threshold || "—"}</td>
-            <td class="dest"><span class="book">${r.book}</span><span class="ch">${r.chapter}</span></td>
-          </tr>`).join("")}
-      </tbody>
-    </table>`;
+  if (MAP.length) {
+    const details = document.createElement('details');
+    details.className = 'routing-rules';
+    details.innerHTML = `<summary>How measured patterns route to readings</summary>
+      <table class="maptable"><thead><tr><th scope="col">Pattern</th><th scope="col">Threshold</th><th scope="col">Reading</th></tr></thead><tbody>
+      ${MAP.map(r => `<tr><td class="rule">${r.rule}</td><td class="thresh">${r.threshold || "—"}</td>
+      <td class="dest"><span class="book">${r.book}</span><span class="ch">${r.chapter}</span></td></tr>`).join("")}</tbody></table>`;
+    card.append(details);
+  }
 }
 
 /* ---------- study material ---------- */
@@ -901,21 +947,36 @@ function renderNavCounts() {
   const set = (id, v) => { const e = document.getElementById(id); if (e) e.textContent = v ?? "—"; };
   set("c-all", DATA.perf?.overview?.games);
   ["classical","rapid","blitz","bullet"].forEach(k => set("c-" + k, DATA.perf?.[k]?.games));
-  set("c-map", MAP.length || null);
+  renderProgress();
   set("c-library", LIBRARY.length || null);
 }
 
 function renderArchive() {
   const box = document.getElementById("archive-list");
-  const weeks = DATA.archive || [];
+  const weeks = ARCHIVE;
   if (!weeks.length) {
-    box.innerHTML = `<div style="padding:6px 10px;font-size:13px;color:var(--ink-faint)">No past weeks</div>`;
+    box.innerHTML = `<div class="archive-empty">No saved reports yet</div>`;
     return;
   }
-  box.innerHTML = '<a class="navitem" href="./">Latest week</a>' + weeks.map((w, i) => `
-    <a class="navitem" href="?week=${encodeURIComponent(w.id)}"${i === 0 ? ' aria-current="false"' : ""}>
-      ${w.label}
-    </a>`).join("");
+  const byYear = Object.groupBy ? Object.groupBy(weeks, w => w.id.slice(0, 4)) : weeks.reduce((out, w) => ((out[w.id.slice(0,4)] ||= []).push(w), out), {});
+  const range = id => {
+    const [year, number] = id.split('-W').map(Number);
+    const jan4 = new Date(Date.UTC(year, 0, 4));
+    const monday = new Date(jan4);
+    monday.setUTCDate(jan4.getUTCDate() - ((jan4.getUTCDay() + 6) % 7) + (number - 1) * 7);
+    const sunday = new Date(monday); sunday.setUTCDate(monday.getUTCDate() + 6);
+    const fmt = d => d.toLocaleDateString(undefined, {month:'short', day:'numeric', timeZone:'UTC'});
+    return `${fmt(monday)}–${fmt(sunday)}`;
+  };
+  const current = `<a class="archive-current" href="./"${SELECTED_WEEK ? '' : ' aria-current="page"'}>Current activity</a>`;
+  box.innerHTML = current + Object.entries(byYear).sort(([a],[b]) => b.localeCompare(a)).map(([year, rows]) => `
+    <div class="archive-year"><span>${year}</span><div class="archive-grid" role="list">
+    ${rows.sort((a,b) => a.id.localeCompare(b.id)).map(w => {
+      const short = `W${Number(w.id.slice(-2))}`;
+      const selected = SELECTED_WEEK === w.id;
+      return `<a role="listitem" class="week-tile" href="?week=${encodeURIComponent(w.id)}" ${selected ? 'aria-current="page"' : ''}
+        title="${w.id} study plan · ${range(w.id)}"><strong>${short}</strong><span>${range(w.id)}</span></a>`;
+    }).join('')}</div></div>`).join('');
 }
 
 function renderStamp() {
@@ -933,6 +994,7 @@ function renderAll() {
   renderNavCounts();
   renderArchive();
   renderActionBar();
+  document.getElementById('rating-history').classList.toggle('hidden', (DATA.ratings?.weeks?.length || 0) < 2);
   drawChart(DATA.ratings);
   drawLegend(DATA.ratings);
   renderGate();
@@ -940,8 +1002,6 @@ function renderAll() {
   renderStats();
   renderGames();
   renderMap();
-  renderLibChips();
-  renderLibrary();
 }
 
 /* Show one pane; the four time-control views all share the week pane. */
@@ -950,7 +1010,11 @@ function showPane(view) {
   document.getElementById("pane-week").classList.toggle("on", !ref);
   document.getElementById("pane-map").classList.toggle("on", view === "map");
   document.getElementById("pane-library").classList.toggle("on", view === "library");
-  if (view === "library") document.getElementById("lib-search").focus({ preventScroll: true });
+  if (view === "library") {
+    renderLibChips();
+    renderLibrary();
+    document.getElementById("lib-search").focus({ preventScroll: true });
+  }
 }
 
 /* ============================================================
@@ -995,18 +1059,25 @@ async function loadJSON(path) {
 }
 
 (async function init() {
+  const params = new URLSearchParams(location.search);
+  const demoAllowed = params.get('demo') === '1';
+  document.getElementById('sample-label').classList.toggle('hidden', !demoAllowed);
   DATA = emptyData();
   renderAll();
 
-  const requestedWeek = new URLSearchParams(location.search).get('week');
+  const requestedWeek = params.get('week');
   const archived = requestedWeek && /^\d{4}-W(0[1-9]|[1-4][0-9]|5[0-3])$/.test(requestedWeek);
-  const [live, map, library] = await Promise.all([
-    loadJSON(archived ? `./data/dashboard/${requestedWeek}.json` : "./data/latest.json"),
+  SELECTED_WEEK = archived ? requestedWeek : null;
+  const [latest, selected, map, library] = await Promise.all([
+    loadJSON("./data/latest.json"),
+    archived ? loadJSON(`./data/dashboard/${requestedWeek}.json`) : Promise.resolve(null),
     loadJSON("./data/map.json"),
     loadJSON("./data/library.json")
   ]);
+  const live = archived ? selected : latest;
+  ARCHIVE = latest?.archive || [];
+  ARCHIVE_ERROR = Boolean(archived && !selected);
   await loadStudyContext(live);
-  if (archived && !live) document.getElementById('week-label').textContent = 'Archived week unavailable';
 
   window.__live = live;
   window.__map = Array.isArray(map) ? map : [];

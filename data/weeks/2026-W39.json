@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "id": "2026-W39",
-  "generatedAt": "2026-09-21T09:30:11.966245Z",
+  "generatedAt": "2026-09-27T17:39:24.101188Z",
   "timezone": "America/New_York",
   "studyStarts": "2026-09-21",
   "studyEndsExclusive": "2026-09-28",
   "gamesFrom": "2026-09-14T04:00:00Z",
   "gamesUntilExclusive": "2026-09-21T04:00:00Z",
-  "status": "maintenance",
+  "status": "insufficient-evidence",
   "generator": {
     "kind": "deterministic",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "model": null
   },
   "sample": {
@@ -20,11 +20,112 @@
       "2026-W38"
     ]
   },
-  "summary": "5 completed games from 2026-09-14 through 2026-09-20. 22 engine review positions. 55 minutes of source-backed foundational study. Previous 1 archived weeks contained 0 games total; activity comparison only.",
+  "summary": "5 completed games from 2026-09-14 through 2026-09-20. 26 engine review positions. 40 minutes of source-backed foundational study. Previous 1 archived weeks contained 0 games total; activity comparison only.",
+  "review": {
+    "mode": "observation",
+    "confidence": "low",
+    "narrative": "Engine review found at least one major evaluation swing in 5 of 5 analyzed games (100%). 2 of 5 timed games (40%) had a strongest cue after a quick decision. Forced-mate swings appeared in 2 of 5 games (40%). The strongest cue occurred in the middlegame in 3 of 5 games (60%). 5 games is a small sample, so treat this as a pattern to inspect, not proof of one weakness. Review the linked positions first, then use the checklist below to practise the decision process those positions call for.",
+    "analyzedGames": 5,
+    "issues": [
+      {
+        "id": "major-review-cues",
+        "label": "Major evaluation swings",
+        "affectedGames": 5,
+        "eligibleGames": 5,
+        "percentage": 100,
+        "gameIds": [
+          "FH9CU38C",
+          "zSppk2Cz",
+          "196u3xen",
+          "1CJvKKlk",
+          "GdJ8ngSf"
+        ],
+        "evidenceIds": [
+          "e-4648394355333843-14",
+          "e-4648394355333843-24",
+          "e-4648394355333843-30",
+          "e-4648394355333843-38",
+          "e-7a5370706b32437a-25",
+          "e-7a5370706b32437a-27",
+          "e-7a5370706b32437a-29",
+          "e-7a5370706b32437a-33",
+          "e-7a5370706b32437a-35",
+          "e-7a5370706b32437a-37",
+          "e-7a5370706b32437a-39",
+          "e-313936753378656e-13",
+          "e-313936753378656e-25",
+          "e-313936753378656e-27",
+          "e-31434a764b4b6c6b-4",
+          "e-31434a764b4b6c6b-8",
+          "e-31434a764b4b6c6b-12",
+          "e-31434a764b4b6c6b-16",
+          "e-31434a764b4b6c6b-20",
+          "e-31434a764b4b6c6b-26",
+          "e-31434a764b4b6c6b-28",
+          "e-47644a386e675366-23",
+          "e-47644a386e675366-43",
+          "e-47644a386e675366-47",
+          "e-47644a386e675366-57",
+          "e-47644a386e675366-61"
+        ],
+        "studyConceptIds": [
+          "candidate-moves",
+          "blunder-checking"
+        ],
+        "recommendationIds": [
+          "study-candidate-moves-list",
+          "study-blunder-checking-reset"
+        ]
+      },
+      {
+        "id": "rushed-critical-decisions",
+        "label": "Rushed critical decisions",
+        "affectedGames": 2,
+        "eligibleGames": 5,
+        "percentage": 40,
+        "gameIds": [
+          "zSppk2Cz",
+          "196u3xen"
+        ],
+        "evidenceIds": [
+          "e-7a5370706b32437a-35",
+          "e-313936753378656e-27"
+        ],
+        "studyConceptIds": [
+          "time-management"
+        ],
+        "recommendationIds": [
+          "study-time-management-clock-review"
+        ]
+      },
+      {
+        "id": "forced-mate-transitions",
+        "label": "Forced-mate swings",
+        "affectedGames": 2,
+        "eligibleGames": 5,
+        "percentage": 40,
+        "gameIds": [
+          "zSppk2Cz",
+          "GdJ8ngSf"
+        ],
+        "evidenceIds": [
+          "e-7a5370706b32437a-35",
+          "e-7a5370706b32437a-37",
+          "e-47644a386e675366-57",
+          "e-47644a386e675366-61"
+        ],
+        "studyConceptIds": [
+          "threat-recognition",
+          "mating-patterns"
+        ],
+        "recommendationIds": []
+      }
+    ]
+  },
   "focus": [
     {
       "conceptId": "candidate-moves",
-      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "reason": "5 of 5 reviewed games (100%) matched “major evaluation swings.” This exercise is a response to that measured pattern, not a claim about its chess cause.",
       "evidenceIds": [],
       "recommendationIds": [
         "study-candidate-moves-list"
@@ -40,36 +141,36 @@
       "minutes": 15
     },
     {
-      "conceptId": "calculation",
-      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "conceptId": "blunder-checking",
+      "reason": "5 of 5 reviewed games (100%) matched “major evaluation swings.” This exercise is a response to that measured pattern, not a claim about its chess cause.",
       "evidenceIds": [],
       "recommendationIds": [
-        "study-calculation-compare"
+        "study-blunder-checking-reset"
       ],
       "reviewGameIds": [],
       "exercises": [
-        "Read the analysis-training section. Cover the continuation of one reviewed annotated position, calculate for eight minutes without moving pieces, then record and compare your conclusions.",
-        "Classify discrepancies as missing candidate, missed reply, visualization error, or mistaken evaluation."
+        "Read Blumenfeld’s rule. Revisit three completed-game decisions: select a move, pause, and check immediate mates and hanging material before revealing the continuation. Use a mental reset.",
+        "Perform the same brief inspection on all three intended moves, including any changed choice."
       ],
       "playReminders": [
-        "What is the opponent’s strongest reply, and what position results?"
+        "After my move, is there an immediate mate or a piece hanging?"
       ],
-      "minutes": 25
+      "minutes": 10
     },
     {
-      "conceptId": "visualization",
-      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "conceptId": "time-management",
+      "reason": "2 of 5 reviewed games (40%) matched “rushed critical decisions.” This exercise is a response to that measured pattern, not a claim about its chess cause.",
       "evidenceIds": [],
       "recommendationIds": [
-        "study-visualization-reconstruct"
+        "study-time-management-clock-review"
       ],
       "reviewGameIds": [],
       "exercises": [
-        "Use a short line from a completed-game review. Keep the pieces still while following three to five plies, describe the resulting board, then replay and check. This short drill adapts Kotov’s longer method.",
-        "Reconstruct two short lines without retaining captured pieces or missing newly opened lines."
+        "Read Time-trouble. Review one rapid game’s longest thinks and two rushed decisions. Record which time use answered a concrete question; practise two familiar positions with a short timer.",
+        "Name one avoidable source of wasted time and one decision that deserved more attention."
       ],
       "playReminders": [
-        "Which pieces and lines changed in the position I am imagining?"
+        "Use my own pace; check what changed before continuing."
       ],
       "minutes": 15
     }

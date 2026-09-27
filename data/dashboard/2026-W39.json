@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T09:30:11.966245Z",
+  "generated": "2026-09-27T17:39:24.101188Z",
   "player": "DeputyBob",
   "week": {
     "id": "2026-W39",
@@ -8,7 +8,7 @@
   "assignment": {
     "chapter": "Candidate moves",
     "trigger": "foundational study",
-    "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+    "why": "5 of 5 reviewed games (100%) matched “major evaluation swings.” This exercise is a response to that measured pattern, not a claim about its chess cause.",
     "gist": "Read the introductory candidate-selection prose. At two positions from a completed game, list serious moves for both sides before using analysis. Explain why each move deserves attention. Identify one omitted candidate or justify why the position has few serious choices."
   },
   "ratings": {
@@ -36,8 +36,8 @@
       "w": 2,
       "l": 3,
       "d": 0,
-      "collapseMove": 18,
-      "secsOnBlunder": 9.24,
+      "collapseMove": 14,
+      "secsOnBlunder": 16.76,
       "phase": null,
       "phasePct": null,
       "confidence": "low"
@@ -58,8 +58,8 @@
       "w": 2,
       "l": 3,
       "d": 0,
-      "collapseMove": 18,
-      "secsOnBlunder": 9.24,
+      "collapseMove": 14,
+      "secsOnBlunder": 16.76,
       "phase": null,
       "phasePct": null,
       "confidence": "low"
@@ -99,8 +99,8 @@
       "oppRating": 1160,
       "result": "w",
       "opening": "Queen&#x27;s Pawn Game: Accelerated London System",
-      "collapseMove": 29,
-      "secs": 6.86,
+      "collapseMove": 12,
+      "secs": 48.28,
       "analysed": true
     },
     {

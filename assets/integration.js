@@ -3,7 +3,9 @@ let STUDY = null;
 let PLAYER = null;
 let SNAPSHOT = null;
 let CATALOG = {};
-let WEEK_GAMES = [];
+let PLAN_GAMES = [];
+let ACTIVITY_GAMES = [];
+const TASK_STORAGE_KEY = 'study-board:tasks:v1';
 
 function textElement(tag, text, className) {
   const element = document.createElement(tag);
@@ -14,7 +16,8 @@ function textElement(tag, text, className) {
 
 async function loadStudyContext(live) {
   STUDY = null;
-  WEEK_GAMES = [];
+  PLAN_GAMES = [];
+  ACTIVITY_GAMES = [];
   const values = await Promise.all([
     loadJSON('./data/player/profile.json'), loadJSON('./data/player/ratings.json'),
     ...['concepts', 'recommendations', 'crossrefs', 'chapters', 'books'].map(name => loadJSON(`./data/knowledge/${name}.json`))
@@ -37,13 +40,119 @@ async function loadStudyContext(live) {
       monday.setUTCDate(first.getUTCDate() - ((first.getUTCDay() + 6) % 7));
       const week = 1 + Math.floor((new Date(previous + 'T12:00:00Z') - monday) / 604800000);
       const games = await loadJSON(`./data/games/${year}-W${String(week).padStart(2, '0')}.json`);
-      WEEK_GAMES = games?.items || [];
+      PLAN_GAMES = games?.items || [];
     }
   }
   if (live?.activity && /^\d{4}-W\d{2}$/.test(live.activity.weekId)) {
     const games = await loadJSON(`./data/games/${live.activity.weekId}.json`);
-    WEEK_GAMES = games?.items || [];
+    ACTIVITY_GAMES = games?.items || [];
   }
+}
+
+function taskState() {
+  try { return JSON.parse(localStorage.getItem(TASK_STORAGE_KEY) || '{}'); }
+  catch (_) { return {}; }
+}
+
+function setTaskState(key, done) {
+  const state = taskState();
+  if (done) state[key] = true; else delete state[key];
+  try { localStorage.setItem(TASK_STORAGE_KEY, JSON.stringify(state)); return true; }
+  catch (_) { return false; }
+}
+
+function planTasks() {
+  if (!STUDY) return [];
+  return STUDY.focus.flatMap((focus, focusIndex) => focus.recommendationIds.map(recommendationId => ({
+    key: `${STUDY.id}:${recommendationId}`, recommendationId, focus, focusIndex,
+    concept: CATALOG.concepts[focus.conceptId]
+  })));
+}
+
+function renderProgress() {
+  const tasks = planTasks();
+  const state = taskState();
+  const done = tasks.filter(task => state[task.key]).length;
+  document.querySelectorAll('[data-study-progress]').forEach(element => {
+    element.textContent = tasks.length ? `${done}/${tasks.length} complete` : 'No tasks';
+  });
+  const count = document.getElementById('c-map');
+  if (count) count.textContent = tasks.length ? `${done}/${tasks.length}` : '—';
+}
+
+function evidenceLink(game, evidence) {
+  const link = textElement('a', `${game.opponent} · move ${Math.ceil(evidence.ply / 2)} · ${evidence.signal.replaceAll('-', ' ')}`);
+  link.href = `https://lichess.org/${encodeURIComponent(game.id)}/${game.color}#${evidence.ply - 1}`;
+  link.target = '_blank'; link.rel = 'noopener';
+  return link;
+}
+
+function appendIssueDetails(box) {
+  if (!STUDY?.review?.issues?.length) return;
+  const evidence = new Map(PLAN_GAMES.flatMap(game => game.evidence.map(item => [item.id, {game, evidence: item}])));
+  const heading = textElement('h4', 'Patterns found in the reviewed games');
+  heading.className = 'issue-heading';
+  box.append(heading);
+  for (const issue of STUDY.review.issues) {
+    const details = document.createElement('details');
+    details.className = 'review-issue';
+    const pct = issue.percentage == null ? '' : ` (${issue.percentage}%)`;
+    details.append(textElement('summary', `${issue.label} · ${issue.affectedGames} of ${issue.eligibleGames} games${pct}`));
+    const links = textElement('div', '', 'issue-links');
+    for (const id of issue.evidenceIds.slice(0, 8)) {
+      const match = evidence.get(id);
+      if (match) links.append(evidenceLink(match.game, match.evidence));
+    }
+    if (links.childElementCount) details.append(links);
+    box.append(details);
+  }
+}
+
+function buildTask(task, compact = false) {
+  const {focus, recommendationId, concept, focusIndex} = task;
+  const recommendation = CATALOG.recommendations[recommendationId];
+  const section = textElement('section', '', 'study-focus study-task');
+  section.dataset.taskKey = task.key;
+  const label = document.createElement('label');
+  label.className = 'task-check';
+  const checkbox = document.createElement('input');
+  checkbox.type = 'checkbox'; checkbox.checked = Boolean(taskState()[task.key]);
+  const title = textElement('span', `${focusIndex + 1}. ${concept?.name || focus.conceptId} · ${focus.minutes} min`);
+  label.append(checkbox, title);
+  section.append(label);
+  const saved = textElement('span', 'Saved on this browser', 'task-save');
+  saved.hidden = true;
+  checkbox.addEventListener('change', () => {
+    const ok = setTaskState(task.key, checkbox.checked);
+    saved.textContent = ok ? 'Saved on this browser' : 'Could not save on this browser';
+    saved.hidden = false;
+    document.querySelectorAll('.study-task').forEach(copy => {
+      if (copy.dataset.taskKey !== task.key) return;
+      copy.classList.toggle('done', checkbox.checked);
+      const copyBox = copy.querySelector('input[type="checkbox"]');
+      if (copyBox) copyBox.checked = checkbox.checked;
+    });
+    renderProgress();
+  });
+  section.classList.toggle('done', checkbox.checked);
+  section.append(saved, textElement('p', focus.reason, 'why'));
+  const seenReadings = new Set();
+  for (const refId of recommendation?.crossrefIds || []) {
+    const ref = CATALOG.crossrefs[refId];
+    const chapter = CATALOG.chapters[ref?.chapterId];
+    const book = CATALOG.books[chapter?.bookId];
+    if (!chapter || !book) continue;
+    const key = chapter.id + JSON.stringify(ref.locator);
+    if (seenReadings.has(key)) continue;
+    seenReadings.add(key);
+    section.append(readingCard(chapter, ref.locator, true));
+  }
+  if (!compact) {
+    const list = document.createElement('ol');
+    focus.exercises.forEach(exercise => list.append(textElement('li', exercise)));
+    section.append(list, textElement('p', 'During play: ' + focus.playReminders.join(' '), 'gist'));
+  }
+  return section;
 }
 
 function renderCurrentRatings() {
@@ -62,41 +171,22 @@ function renderCurrentRatings() {
 function renderStudyPlan() {
   if (!STUDY || document.getElementById('demo-toggle').checked) return false;
   const box = document.getElementById('assignment');
-  box.replaceChildren(textElement('p', 'Monday study plan · based on the previous completed week', 'kicker'),
-                      textElement('p', STUDY.summary.replace('No games this week.', 'No games in that completed week.'), 'why'));
-  for (const [index, focus] of STUDY.focus.entries()) {
-    const section = textElement('section', '', 'study-focus');
-    section.append(textElement('h4', `${index + 1}. ${CATALOG.concepts[focus.conceptId]?.name || focus.conceptId} · ${focus.minutes} min`));
-    const seenReadings = new Set();
-    for (const id of focus.recommendationIds) {
-      const recommendation = CATALOG.recommendations[id];
-      for (const refId of recommendation?.crossrefIds || []) {
-        const ref = CATALOG.crossrefs[refId];
-        const chapter = CATALOG.chapters[ref?.chapterId];
-        const book = CATALOG.books[chapter?.bookId];
-        if (!chapter || !book) continue;
-        const key = chapter.id + JSON.stringify(ref.locator);
-        if (seenReadings.has(key)) continue;
-        seenReadings.add(key);
-        section.append(readingCard(chapter, ref.locator, true));
-      }
-    }
-    section.append(textElement('p', focus.reason, 'why'));
-    const list = document.createElement('ol');
-    focus.exercises.forEach(exercise => list.append(textElement('li', exercise)));
-    section.append(list, textElement('p', 'During play: ' + focus.playReminders.join(' '), 'gist'));
-    box.append(section);
-  }
-  const reviews = WEEK_GAMES.flatMap(game => game.evidence.map(evidence => ({game, evidence}))).slice(0, 8);
+  const top = textElement('div', '', 'plan-topline');
+  top.append(textElement('p', 'Monday review · based on the previous completed week', 'kicker'),
+             textElement('span', '', 'plan-progress'));
+  top.lastChild.dataset.studyProgress = '';
+  const narrative = STUDY.review?.narrative || STUDY.summary.replace('No games this week.', 'No games in that completed week.');
+  box.replaceChildren(top, textElement('p', narrative, 'weekly-narrative'));
+  appendIssueDetails(box);
+  box.append(textElement('h4', 'This week’s checklist', 'checklist-heading'));
+  for (const task of planTasks()) box.append(buildTask(task));
+  const reviews = PLAN_GAMES.flatMap(game => game.evidence.map(evidence => ({game, evidence}))).slice(0, 8);
   if (reviews.length) {
-    box.append(textElement('h4', DATA.activity ? 'Current-week positions to review' : 'Positions to review'));
+    box.append(textElement('h4', 'Positions from the completed week'));
     for (const {game, evidence} of reviews) {
-      const link = textElement('a', `${game.opponent} · move ${Math.ceil(evidence.ply / 2)} · ${evidence.signal.replaceAll('-', ' ')}`);
-      link.href = `https://lichess.org/${encodeURIComponent(game.id)}/${game.color}#${evidence.ply - 1}`;
-      link.target = '_blank'; link.rel = 'noopener';
       const details = document.createElement('details');
       details.append(textElement('summary', 'Engine note (read after reviewing)'), textElement('p', evidence.note));
-      box.append(link, details);
+      box.append(evidenceLink(game, evidence), details);
     }
   }
   box.append(textElement('p', STUDY.generalReminders.join(' '), 'gist'));
@@ -104,6 +194,7 @@ function renderStudyPlan() {
   details.append(textElement('summary', 'Scope and limitations'));
   STUDY.limitations.forEach(note => details.append(textElement('p', note)));
   box.append(details);
+  renderProgress();
   return true;
 }
 
