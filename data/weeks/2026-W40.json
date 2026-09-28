@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-W40",
+  "generatedAt": "2026-09-28T09:34:46.069395Z",
+  "timezone": "America/New_York",
+  "studyStarts": "2026-09-28",
+  "studyEndsExclusive": "2026-10-05",
+  "gamesFrom": "2026-09-21T04:00:00Z",
+  "gamesUntilExclusive": "2026-09-28T04:00:00Z",
+  "status": "no-games",
+  "generator": {
+    "kind": "deterministic",
+    "version": "1.2.0",
+    "model": null
+  },
+  "sample": {
+    "games": 0,
+    "analyzedGames": 0,
+    "priorWeeksCompared": [
+      "2026-W38",
+      "2026-W39"
+    ]
+  },
+  "summary": "0 completed games from 2026-09-21 through 2026-09-27. No games this week. 55 minutes of source-backed foundational study. Previous 2 archived weeks contained 5 games total; activity comparison only.",
+  "review": {
+    "mode": "no-sample",
+    "confidence": "none",
+    "narrative": "No completed games were available for engine review this week, so there is no game-based pattern to summarize. The checklist below keeps your study moving with verified foundational material from your library. After you play and sync new games, the next Monday report will connect measurable review positions to specific readings and exercises.",
+    "analyzedGames": 0,
+    "issues": []
+  },
+  "focus": [
+    {
+      "conceptId": "development",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-development-opening-audit"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read Chapter 1 through section 3. Review the first ten moves of one completed game and label each move’s useful contribution to development or the center.",
+        "Explain two purposeful moves and one delay, including any concrete tactical reason for that delay."
+      ],
+      "playReminders": [
+        "Which piece still needs a useful job, and can I develop it safely?"
+      ],
+      "minutes": 20
+    },
+    {
+      "conceptId": "tempo",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-tempo-follow-up"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Study section 4 and diagram 4. For each exchange, identify the recapturing piece, the useful follow-up, and whether the opponent must respond.",
+        "Explain a real tempo gain and a case where an apparently forcing move fails to gain useful time."
+      ],
+      "playReminders": [
+        "Does this threat improve my position while making the opponent respond?"
+      ],
+      "minutes": 15
+    },
+    {
+      "conceptId": "center-control",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-center-control-two-sides"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read sections 6 and 6a. At diagram 10, write a plan for the side with the central pawn and a plan for the opponent before reading the explanation.",
+        "Identify the pawn advance, the piece squares it affects, and the main restraining or freeing response."
+      ],
+      "playReminders": [
+        "What changes in the center, and which pieces benefit?"
+      ],
+      "minutes": 20
+    }
+  ],
+  "generalReminders": [
+    "Before moving, check both sides’ checks, captures and immediate threats.",
+    "Review flagged positions before looking at the engine candidate.",
+    "After studying, record which recommendations you completed and one lesson from your games."
+  ],
+  "limitations": [
+    "Engine score changes identify review positions, not strategic causes. No automatic weakness diagnosis is made.",
+    "Only the verified portion of the book catalog is available. Assigned reading is not marked completed automatically.",
+    "Using a provisional 60-minute weekly reading budget until you set a preference.",
+    "Only 0 games in the window; below the 30-game diagnostic minimum."
+  ],
+  "nextReview": "2026-10-05"
+}
