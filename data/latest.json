@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T10:32:31.949106Z",
+  "generated": "2026-10-01T10:32:58.179212Z",
   "player": "DeputyBob",
   "week": {
     "id": "2026-W40",
@@ -13,19 +13,24 @@
   },
   "ratings": {
     "weeks": [
-      "2026-09"
+      "2026-09",
+      "2026-10"
     ],
     "series": {
       "classical": [
+        null,
         null
       ],
       "rapid": [
+        1196,
         1196
       ],
       "blitz": [
+        1017,
         1017
       ],
       "bullet": [
+        873,
         873
       ]
     }
@@ -106,6 +111,6 @@
   "activity": {
     "weekId": "2026-W40",
     "from": "2026-09-28T04:00:00Z",
-    "untilExclusive": "2026-09-30T10:32:31.949106Z"
+    "untilExclusive": "2026-10-01T10:32:58.179212Z"
   }
 }
