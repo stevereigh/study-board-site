@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-W42",
+  "generatedAt": "2026-10-12T09:39:51.170690Z",
+  "timezone": "America/New_York",
+  "studyStarts": "2026-10-12",
+  "studyEndsExclusive": "2026-10-19",
+  "gamesFrom": "2026-10-05T04:00:00Z",
+  "gamesUntilExclusive": "2026-10-12T04:00:00Z",
+  "status": "no-games",
+  "generator": {
+    "kind": "deterministic",
+    "version": "1.2.0",
+    "model": null
+  },
+  "sample": {
+    "games": 0,
+    "analyzedGames": 0,
+    "priorWeeksCompared": [
+      "2026-W38",
+      "2026-W39",
+      "2026-W40",
+      "2026-W41"
+    ]
+  },
+  "summary": "0 completed games from 2026-10-05 through 2026-10-11. No games this week. 40 minutes of source-backed foundational study. Previous 4 archived weeks contained 5 games total; activity comparison only.",
+  "review": {
+    "mode": "no-sample",
+    "confidence": "none",
+    "narrative": "No completed games were available for engine review this week, so there is no game-based pattern to summarize. The checklist below keeps your study moving with verified foundational material from your library. After you play and sync new games, the next Monday report will connect measurable review positions to specific readings and exercises.",
+    "analyzedGames": 0,
+    "issues": []
+  },
+  "focus": [
+    {
+      "conceptId": "discovered-attacks",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-discovered-attacks-uncover"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Review Nunn exercise 5 (PDF 10) and its explanation (PDF 25). Identify the queen line uncovered by the knight move and both checking pieces. Contrast it with exercise 24 (PDF 13; solution PDF 26), where moving the knight clears the rook’s file before the final mating move.",
+        "Identify both attackers in the double check and explain why ordinary capture or interposition cannot answer it."
+      ],
+      "playReminders": [
+        "What line opens when this piece moves?"
+      ],
+      "minutes": 15
+    },
+    {
+      "conceptId": "double-check",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-double-check-king-responses"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read the double-check explanation on PDF 120 left. Explain the difference between a discovered attack, a discovered check and double check. Use the selected exercises to name both checkers.",
+        "State why blocking just one line fails and why double check need not be mate."
+      ],
+      "playReminders": [
+        "If both pieces check, where can the king go and what follows?"
+      ],
+      "minutes": 10
+    },
+    {
+      "conceptId": "king-activity",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-king-activity-access-or-opposition"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Revisit diagram 62’s winning line. At each retreat by the black king, compare advancing the king with mechanically taking opposition. At the pawn attack, explain the required change of plan.",
+        "Identify a useful king advance and a moment when pawn support takes priority."
+      ],
+      "playReminders": [
+        "Can my king safely become useful now?"
+      ],
+      "minutes": 15
+    }
+  ],
+  "generalReminders": [
+    "Before moving, check both sides’ checks, captures and immediate threats.",
+    "Review flagged positions before looking at the engine candidate.",
+    "After studying, record which recommendations you completed and one lesson from your games."
+  ],
+  "limitations": [
+    "Engine score changes identify review positions, not strategic causes. No automatic weakness diagnosis is made.",
+    "Only the verified portion of the book catalog is available. Assigned reading is not marked completed automatically.",
+    "Using a provisional 60-minute weekly reading budget until you set a preference.",
+    "Only 0 games in the window; below the 30-game diagnostic minimum."
+  ],
+  "nextReview": "2026-10-19"
+}
