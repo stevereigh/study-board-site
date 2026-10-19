@@ -1,15 +1,15 @@
 {
-  "generated": "2026-10-18T14:02:45.724684Z",
+  "generated": "2026-10-19T16:30:27.735605Z",
   "player": "DeputyBob",
   "week": {
-    "id": "2026-W42",
-    "label": "Study week 2026-10-12"
+    "id": "2026-W43",
+    "label": "Study week 2026-10-19"
   },
   "assignment": {
-    "chapter": "Discovered attacks",
+    "chapter": "Position evaluation",
     "trigger": "foundational study",
     "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
-    "gist": "Review Nunn exercise 5 (PDF 10) and its explanation (PDF 25). Identify the queen line uncovered by the knight move and both checking pieces. Contrast it with exercise 24 (PDF 13; solution PDF 26), where moving the knight clears the rook’s file before the final mating move. Identify both attackers in the double check and explain why ordinary capture or interposition cannot answer it."
+    "gist": "Read The Imbalances. Before diagram 1’s explanation, write the differences for both sides and propose each side’s plan. Compare with the author, then follow the continuation. Explain why e5 gives White space but also becomes Black’s target."
   },
   "ratings": {
     "weeks": [
@@ -96,6 +96,10 @@
   "games": [],
   "archive": [
     {
+      "id": "2026-W43",
+      "label": "2026-W43"
+    },
+    {
       "id": "2026-W42",
       "label": "2026-W42"
     },
@@ -117,8 +121,8 @@
     }
   ],
   "activity": {
-    "weekId": "2026-W42",
-    "from": "2026-10-12T04:00:00Z",
-    "untilExclusive": "2026-10-18T14:02:45.724684Z"
+    "weekId": "2026-W43",
+    "from": "2026-10-19T04:00:00Z",
+    "untilExclusive": "2026-10-19T16:30:27.735605Z"
   }
 }
