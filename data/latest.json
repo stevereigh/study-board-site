@@ -1,15 +1,15 @@
 {
-  "generated": "2026-10-25T14:24:10.003120Z",
+  "generated": "2026-10-26T16:10:09.227425Z",
   "player": "DeputyBob",
   "week": {
-    "id": "2026-W43",
-    "label": "Study week 2026-10-19"
+    "id": "2026-W44",
+    "label": "Study week 2026-10-26"
   },
   "assignment": {
-    "chapter": "Position evaluation",
+    "chapter": "Candidate moves",
     "trigger": "foundational study",
     "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
-    "gist": "Read The Imbalances. Before diagram 1’s explanation, write the differences for both sides and propose each side’s plan. Compare with the author, then follow the continuation. Explain why e5 gives White space but also becomes Black’s target."
+    "gist": "Read the introductory candidate-selection prose. At two positions from a completed game, list serious moves for both sides before using analysis. Explain why each move deserves attention. Identify one omitted candidate or justify why the position has few serious choices."
   },
   "ratings": {
     "weeks": [
@@ -96,6 +96,10 @@
   "games": [],
   "archive": [
     {
+      "id": "2026-W44",
+      "label": "2026-W44"
+    },
+    {
       "id": "2026-W43",
       "label": "2026-W43"
     },
@@ -121,8 +125,8 @@
     }
   ],
   "activity": {
-    "weekId": "2026-W43",
-    "from": "2026-10-19T04:00:00Z",
-    "untilExclusive": "2026-10-25T14:24:10.003120Z"
+    "weekId": "2026-W44",
+    "from": "2026-10-26T04:00:00Z",
+    "untilExclusive": "2026-10-26T16:10:09.227425Z"
   }
 }
