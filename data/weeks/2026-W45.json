@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-W45",
+  "generatedAt": "2026-11-02T20:23:37.048087Z",
+  "timezone": "America/New_York",
+  "studyStarts": "2026-11-02",
+  "studyEndsExclusive": "2026-11-09",
+  "gamesFrom": "2026-10-26T04:00:00Z",
+  "gamesUntilExclusive": "2026-11-02T05:00:00Z",
+  "status": "no-games",
+  "generator": {
+    "kind": "deterministic",
+    "version": "1.2.0",
+    "model": null
+  },
+  "sample": {
+    "games": 0,
+    "analyzedGames": 0,
+    "priorWeeksCompared": [
+      "2026-W41",
+      "2026-W42",
+      "2026-W43",
+      "2026-W44"
+    ]
+  },
+  "summary": "0 completed games from 2026-10-26 through 2026-11-01. No games this week. 45 minutes of source-backed foundational study. Previous 4 archived weeks contained 0 games total; activity comparison only.",
+  "review": {
+    "mode": "no-sample",
+    "confidence": "none",
+    "narrative": "No completed games were available for engine review this week, so there is no game-based pattern to summarize. The checklist below keeps your study moving with verified foundational material from your library. After you play and sync new games, the next Monday report will connect measurable review positions to specific readings and exercises.",
+    "analyzedGames": 0,
+    "issues": []
+  },
+  "focus": [
+    {
+      "conceptId": "blunder-checking",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-blunder-checking-reset"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read Blumenfeld’s rule. Revisit three completed-game decisions: select a move, pause, and check immediate mates and hanging material before revealing the continuation. Use a mental reset.",
+        "Perform the same brief inspection on all three intended moves, including any changed choice."
+      ],
+      "playReminders": [
+        "After my move, is there an immediate mate or a piece hanging?"
+      ],
+      "minutes": 10
+    },
+    {
+      "conceptId": "time-management",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-time-management-clock-review"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read Time-trouble. Review one rapid game’s longest thinks and two rushed decisions. Record which time use answered a concrete question; practise two familiar positions with a short timer.",
+        "Name one avoidable source of wasted time and one decision that deserved more attention."
+      ],
+      "playReminders": [
+        "Use my own pace; check what changed before continuing."
+      ],
+      "minutes": 15
+    },
+    {
+      "conceptId": "development",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-development-opening-audit"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read Chapter 1 through section 3. Review the first ten moves of one completed game and label each move’s useful contribution to development or the center.",
+        "Explain two purposeful moves and one delay, including any concrete tactical reason for that delay."
+      ],
+      "playReminders": [
+        "Which piece still needs a useful job, and can I develop it safely?"
+      ],
+      "minutes": 20
+    }
+  ],
+  "generalReminders": [
+    "Before moving, check both sides’ checks, captures and immediate threats.",
+    "Review flagged positions before looking at the engine candidate.",
+    "After studying, record which recommendations you completed and one lesson from your games."
+  ],
+  "limitations": [
+    "Engine score changes identify review positions, not strategic causes. No automatic weakness diagnosis is made.",
+    "Only the verified portion of the book catalog is available. Assigned reading is not marked completed automatically.",
+    "Using a provisional 60-minute weekly reading budget until you set a preference.",
+    "Only 0 games in the window; below the 30-game diagnostic minimum."
+  ],
+  "nextReview": "2026-11-09"
+}

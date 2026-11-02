@@ -1,15 +1,15 @@
 {
-  "generated": "2026-11-01T17:08:31.969030Z",
+  "generated": "2026-11-02T20:23:37.048087Z",
   "player": "DeputyBob",
   "week": {
-    "id": "2026-W44",
-    "label": "Study week 2026-10-26"
+    "id": "2026-W45",
+    "label": "Study week 2026-11-02"
   },
   "assignment": {
-    "chapter": "Candidate moves",
+    "chapter": "Blunder checking",
     "trigger": "foundational study",
     "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
-    "gist": "Read the introductory candidate-selection prose. At two positions from a completed game, list serious moves for both sides before using analysis. Explain why each move deserves attention. Identify one omitted candidate or justify why the position has few serious choices."
+    "gist": "Read Blumenfeld’s rule. Revisit three completed-game decisions: select a move, pause, and check immediate mates and hanging material before revealing the continuation. Use a mental reset. Perform the same brief inspection on all three intended moves, including any changed choice."
   },
   "ratings": {
     "weeks": [
@@ -101,6 +101,10 @@
   "games": [],
   "archive": [
     {
+      "id": "2026-W45",
+      "label": "2026-W45"
+    },
+    {
       "id": "2026-W44",
       "label": "2026-W44"
     },
@@ -130,8 +134,8 @@
     }
   ],
   "activity": {
-    "weekId": "2026-W44",
-    "from": "2026-10-26T04:00:00Z",
-    "untilExclusive": "2026-11-01T17:08:31.969030Z"
+    "weekId": "2026-W45",
+    "from": "2026-11-02T05:00:00Z",
+    "untilExclusive": "2026-11-02T20:23:37.048087Z"
   }
 }
