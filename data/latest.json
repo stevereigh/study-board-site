@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T20:48:27.001087Z",
+  "generated": "2026-11-09T21:27:20.345273Z",
   "player": "DeputyBob",
   "week": {
     "id": "2026-W46",
@@ -140,6 +140,6 @@
   "activity": {
     "weekId": "2026-W46",
     "from": "2026-11-09T05:00:00Z",
-    "untilExclusive": "2026-11-09T20:48:27.001087Z"
+    "untilExclusive": "2026-11-09T21:27:20.345273Z"
   }
 }
