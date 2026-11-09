@@ -1,15 +1,15 @@
 {
-  "generated": "2026-11-08T17:05:29.404023Z",
+  "generated": "2026-11-09T20:48:27.001087Z",
   "player": "DeputyBob",
   "week": {
-    "id": "2026-W45",
-    "label": "Study week 2026-11-02"
+    "id": "2026-W46",
+    "label": "Study week 2026-11-09"
   },
   "assignment": {
-    "chapter": "Blunder checking",
+    "chapter": "Development",
     "trigger": "foundational study",
     "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
-    "gist": "Read Blumenfeld’s rule. Revisit three completed-game decisions: select a move, pause, and check immediate mates and hanging material before revealing the continuation. Use a mental reset. Perform the same brief inspection on all three intended moves, including any changed choice."
+    "gist": "Read sections 7 and 7a. Review one opening capture from a completed game: compare the pawn gained, the useful moves spent, the center and the safety of the capturing piece. Explain why a central capture and a flank pawn hunt can have different strategic consequences."
   },
   "ratings": {
     "weeks": [
@@ -101,6 +101,10 @@
   "games": [],
   "archive": [
     {
+      "id": "2026-W46",
+      "label": "2026-W46"
+    },
+    {
       "id": "2026-W45",
       "label": "2026-W45"
     },
@@ -134,8 +138,8 @@
     }
   ],
   "activity": {
-    "weekId": "2026-W45",
-    "from": "2026-11-02T05:00:00Z",
-    "untilExclusive": "2026-11-08T17:05:29.404023Z"
+    "weekId": "2026-W46",
+    "from": "2026-11-09T05:00:00Z",
+    "untilExclusive": "2026-11-09T20:48:27.001087Z"
   }
 }

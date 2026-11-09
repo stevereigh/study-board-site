@@ -1,0 +1,140 @@
+{
+  "generated": "2026-11-09T20:48:27.001087Z",
+  "player": "DeputyBob",
+  "week": {
+    "id": "2026-W46",
+    "label": "Study week 2026-11-09"
+  },
+  "assignment": {
+    "chapter": "Development",
+    "trigger": "foundational study",
+    "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+    "gist": "Read sections 7 and 7a. Review one opening capture from a completed game: compare the pawn gained, the useful moves spent, the center and the safety of the capturing piece. Explain why a central capture and a flank pawn hunt can have different strategic consequences."
+  },
+  "ratings": {
+    "weeks": [
+      "2026-09",
+      "2026-10",
+      "2026-11"
+    ],
+    "series": {
+      "classical": [
+        null,
+        null,
+        null
+      ],
+      "rapid": [
+        1196,
+        1196,
+        1196
+      ],
+      "blitz": [
+        1017,
+        1017,
+        1017
+      ],
+      "bullet": [
+        873,
+        873,
+        873
+      ]
+    }
+  },
+  "perf": {
+    "overview": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "classical": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "rapid": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "blitz": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "bullet": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    }
+  },
+  "needsAnalysis": [],
+  "games": [],
+  "archive": [
+    {
+      "id": "2026-W46",
+      "label": "2026-W46"
+    },
+    {
+      "id": "2026-W45",
+      "label": "2026-W45"
+    },
+    {
+      "id": "2026-W44",
+      "label": "2026-W44"
+    },
+    {
+      "id": "2026-W43",
+      "label": "2026-W43"
+    },
+    {
+      "id": "2026-W42",
+      "label": "2026-W42"
+    },
+    {
+      "id": "2026-W41",
+      "label": "2026-W41"
+    },
+    {
+      "id": "2026-W40",
+      "label": "2026-W40"
+    },
+    {
+      "id": "2026-W39",
+      "label": "2026-W39"
+    },
+    {
+      "id": "2026-W38",
+      "label": "2026-W38"
+    }
+  ]
+}
