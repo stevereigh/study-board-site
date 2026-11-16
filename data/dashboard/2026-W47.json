@@ -1,0 +1,144 @@
+{
+  "generated": "2026-11-16T20:31:20.931330Z",
+  "player": "DeputyBob",
+  "week": {
+    "id": "2026-W47",
+    "label": "Study week 2026-11-16"
+  },
+  "assignment": {
+    "chapter": "Mating patterns",
+    "trigger": "foundational study",
+    "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+    "gist": "Read Nunn’s introduction, then solve exercises 1-6 in the private book (PDF 10). For every answer explain why no legal response saves the king, then check the matching entries on PDF 25. Explain all six mating arrangements after correction and record any initially missed mechanism."
+  },
+  "ratings": {
+    "weeks": [
+      "2026-09",
+      "2026-10",
+      "2026-11"
+    ],
+    "series": {
+      "classical": [
+        null,
+        null,
+        null
+      ],
+      "rapid": [
+        1196,
+        1196,
+        1196
+      ],
+      "blitz": [
+        1017,
+        1017,
+        1017
+      ],
+      "bullet": [
+        873,
+        873,
+        873
+      ]
+    }
+  },
+  "perf": {
+    "overview": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "classical": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "rapid": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "blitz": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    },
+    "bullet": {
+      "games": 0,
+      "w": 0,
+      "l": 0,
+      "d": 0,
+      "collapseMove": null,
+      "secsOnBlunder": null,
+      "phase": null,
+      "phasePct": null,
+      "confidence": "low"
+    }
+  },
+  "needsAnalysis": [],
+  "games": [],
+  "archive": [
+    {
+      "id": "2026-W47",
+      "label": "2026-W47"
+    },
+    {
+      "id": "2026-W46",
+      "label": "2026-W46"
+    },
+    {
+      "id": "2026-W45",
+      "label": "2026-W45"
+    },
+    {
+      "id": "2026-W44",
+      "label": "2026-W44"
+    },
+    {
+      "id": "2026-W43",
+      "label": "2026-W43"
+    },
+    {
+      "id": "2026-W42",
+      "label": "2026-W42"
+    },
+    {
+      "id": "2026-W41",
+      "label": "2026-W41"
+    },
+    {
+      "id": "2026-W40",
+      "label": "2026-W40"
+    },
+    {
+      "id": "2026-W39",
+      "label": "2026-W39"
+    },
+    {
+      "id": "2026-W38",
+      "label": "2026-W38"
+    }
+  ]
+}

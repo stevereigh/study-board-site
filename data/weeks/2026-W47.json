@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-W47",
+  "generatedAt": "2026-11-16T20:31:20.931330Z",
+  "timezone": "America/New_York",
+  "studyStarts": "2026-11-16",
+  "studyEndsExclusive": "2026-11-23",
+  "gamesFrom": "2026-11-09T05:00:00Z",
+  "gamesUntilExclusive": "2026-11-16T05:00:00Z",
+  "status": "no-games",
+  "generator": {
+    "kind": "deterministic",
+    "version": "1.2.0",
+    "model": null
+  },
+  "sample": {
+    "games": 0,
+    "analyzedGames": 0,
+    "priorWeeksCompared": [
+      "2026-W43",
+      "2026-W44",
+      "2026-W45",
+      "2026-W46"
+    ]
+  },
+  "summary": "0 completed games from 2026-11-09 through 2026-11-15. No games this week. 40 minutes of source-backed foundational study. Previous 4 archived weeks contained 0 games total; activity comparison only.",
+  "review": {
+    "mode": "no-sample",
+    "confidence": "none",
+    "narrative": "No completed games were available for engine review this week, so there is no game-based pattern to summarize. The checklist below keeps your study moving with verified foundational material from your library. After you play and sync new games, the next Monday report will connect measurable review positions to specific readings and exercises.",
+    "analyzedGames": 0,
+    "issues": []
+  },
+  "focus": [
+    {
+      "conceptId": "mating-patterns",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-mating-patterns-first-six"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Read Nunn’s introduction, then solve exercises 1-6 in the private book (PDF 10). For every answer explain why no legal response saves the king, then check the matching entries on PDF 25.",
+        "Explain all six mating arrangements after correction and record any initially missed mechanism."
+      ],
+      "playReminders": [
+        "What checks or mating threats does this arrangement make possible?"
+      ],
+      "minutes": 15
+    },
+    {
+      "conceptId": "pins",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-pins-defender-test"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Compare Nunn exercises 1 and 17 and their solutions (PDF 10, 12 and 25). Identify the pinning line, pinned defender and king. Explain why the apparent defensive move is unavailable.",
+        "Explain both pins using the board’s legal responses, then say what sort of change could remove the pin."
+      ],
+      "playReminders": [
+        "Can that defender actually move without exposing its king or a critical target?"
+      ],
+      "minutes": 10
+    },
+    {
+      "conceptId": "discovered-attacks",
+      "reason": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
+      "evidenceIds": [],
+      "recommendationIds": [
+        "study-discovered-attacks-uncover"
+      ],
+      "reviewGameIds": [],
+      "exercises": [
+        "Review Nunn exercise 5 (PDF 10) and its explanation (PDF 25). Identify the queen line uncovered by the knight move and both checking pieces. Contrast it with exercise 24 (PDF 13; solution PDF 26), where moving the knight clears the rook’s file before the final mating move.",
+        "Identify both attackers in the double check and explain why ordinary capture or interposition cannot answer it."
+      ],
+      "playReminders": [
+        "What line opens when this piece moves?"
+      ],
+      "minutes": 15
+    }
+  ],
+  "generalReminders": [
+    "Before moving, check both sides’ checks, captures and immediate threats.",
+    "Review flagged positions before looking at the engine candidate.",
+    "After studying, record which recommendations you completed and one lesson from your games."
+  ],
+  "limitations": [
+    "Engine score changes identify review positions, not strategic causes. No automatic weakness diagnosis is made.",
+    "Only the verified portion of the book catalog is available. Assigned reading is not marked completed automatically.",
+    "Using a provisional 60-minute weekly reading budget until you set a preference.",
+    "Only 0 games in the window; below the 30-game diagnostic minimum."
+  ],
+  "nextReview": "2026-11-23"
+}
