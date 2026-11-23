@@ -1,15 +1,15 @@
 {
-  "generated": "2026-11-22T18:32:25.541959Z",
+  "generated": "2026-11-23T22:04:30.624435Z",
   "player": "DeputyBob",
   "week": {
-    "id": "2026-W47",
-    "label": "Study week 2026-11-16"
+    "id": "2026-W48",
+    "label": "Study week 2026-11-23"
   },
   "assignment": {
-    "chapter": "Mating patterns",
+    "chapter": "Position evaluation",
     "trigger": "foundational study",
     "why": "Foundational reading from a verified source, selected by prerequisites and study history; not a diagnosed weakness.",
-    "gist": "Read Nunn’s introduction, then solve exercises 1-6 in the private book (PDF 10). For every answer explain why no legal response saves the king, then check the matching entries on PDF 25. Explain all six mating arrangements after correction and record any initially missed mechanism."
+    "gist": "Read The Imbalances. Before diagram 1’s explanation, write the differences for both sides and propose each side’s plan. Compare with the author, then follow the continuation. Explain why e5 gives White space but also becomes Black’s target."
   },
   "ratings": {
     "weeks": [
@@ -101,6 +101,10 @@
   "games": [],
   "archive": [
     {
+      "id": "2026-W48",
+      "label": "2026-W48"
+    },
+    {
       "id": "2026-W47",
       "label": "2026-W47"
     },
@@ -142,8 +146,8 @@
     }
   ],
   "activity": {
-    "weekId": "2026-W47",
-    "from": "2026-11-16T05:00:00Z",
-    "untilExclusive": "2026-11-22T18:32:25.541959Z"
+    "weekId": "2026-W48",
+    "from": "2026-11-23T05:00:00Z",
+    "untilExclusive": "2026-11-23T22:04:30.624435Z"
   }
 }
